@@ -1,1 +1,1 @@
-"# kabuxiyou" 
+# kabuxiyou
