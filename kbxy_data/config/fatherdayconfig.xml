@@ -1,0 +1,47 @@
+﻿<fatherday>
+	<item right="1">
+		<question>父亲节诞生于哪个国家？</question>
+		<answer1>美国</answer1>
+		<answer2>中国</answer2>
+	</item>
+	<item right="1">
+		<question>大多数国家父亲节日期为_____？</question>
+		<answer1>每年6月的第三个星期天</answer1>
+		<answer2>每年6月17日</answer2>
+	</item>
+	<item right="2">
+		<question>中国最早是什么时期开始宣传父亲节的？</question>
+		<answer1>秦朝</answer1>
+		<answer2>民国时期</answer2>
+	</item>
+	<item right="2">
+		<question>父亲节是中国传统节日吗？</question>
+		<answer1>是</answer1>
+		<answer2>不是</answer2>
+	</item>
+	<item right="2">
+		<question>父亲节始于哪个时期？</question>
+		<answer1>二十一世纪初</answer1>
+		<answer2>二十世纪初</answer2>
+	</item>
+	<item right="1">
+		<question>父亲节的英文名字是？</question>
+		<answer1>Father's Day</answer1>
+		<answer2>Mother's Day</answer2>
+	</item>
+	<item right="1">
+		<question>中国一般用水形容母爱，用什么形容父爱？</question>
+		<answer1>山</answer1>
+		<answer2>土地</answer2>
+	</item>
+	<item right="1">
+		<question>子女一般会在父亲节送哪种花给父亲？</question>
+		<answer1>玫瑰</answer1>
+		<answer2>桃花</answer2>
+	</item>
+	<item right="2">
+		<question>不同国家父亲节的日期是统一的吗？</question>
+		<answer1>是</answer1>
+		<answer2>不是</answer2>
+	</item>
+</fatherday>

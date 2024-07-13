@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<data>
+  <!--
+       家园装扮素材列表，所有的素材列表，在素材中某些制定的参数为： 
+       家具类型：style : 3 ： 房型    1 ： 摆设  2：挂饰
+       
+       类型： explain:
+            1001: 中国风家具
+            1002: 时尚家具
+            1003: 石器时代
+    -->
+      <item id="800019" style="3" name="默认房型" explain="" x="0" y="0" ></item>
+      <!--<item id="800018" style="3" name="默认房型" explain="" x="0" y="0"></item> -->
+      <item id="800001" style = "1" name="红木茶几" explain="1001"  x="400"  y="250" along="36"></item>
+      <item id="800002" style ="1" name="红木八仙桌" explain="1001"  x="400"  y="250" along="45"></item>
+      <item id="800003" style="1" name="红木椅" explain="1001"  x="400"  y="250" along="50"></item>
+      <item id="800004" style="1" name="山水屏风" explain="1001"  x="400"  y="250" along="100"></item>
+      <item id="800005" style="2" name="金漆配剑" explain="1001"  x="400"  y="100" along="0"></item>
+      <item id="800006" style="1" name="玻璃餐桌" explain="1002"  x="400"  y="250" along="50"></item>
+      <item id="800007" style="1" name="粉贝沙发" explain="1002"  x="400"  y="250" along="80"></item>
+      <item id="800008" style="1" name="青帘公主床" explain="1002"  x="400"  y="250" along="100"></item>
+      <item id="800009" style="1" name="冲销抱枕" explain="1002"  x="400"  y="250" along = "10"></item>
+      <item id="800010" style="1" name="大鱼缸" explain="1002"  x="400"  y="250" along="60"></item>
+      <item id="800011" style="1" name="仙人掌盆栽" explain="1002"  x="400"  y="250" along="80"></item>
+     <!--<item id="800012" style="1" name="石沙发" explain="1003"  x="400"  y="250"></item>-->
+      <!--<item id="800013" style="1" name="石桌" explain="1003"  x="400"  y="250"></item>-->
+    <!--<item id="800014" style="2" name="石斧" explain="1003"  x="400"  y="100"></item>-->
+      <!--<item id="800015" style="1" name="恐龙骸骨" explain="1003"  x="400"  y="250"></item>-->
+     <!--<item id="800016" style="1" name="原始电视机" explain="1003" x="400"  y="250"></item>-->
+</data>

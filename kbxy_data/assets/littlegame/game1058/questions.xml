@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<question id="1" content="1.端午节在农历的哪一天？">
+		<answer id="1" content="选项一：五月初五"/>
+		<answer id="2" content="选项二：六月初六"/>
+		<answer id="3" content="选项三：七月初七"/>
+		<answer id="4" content="选项四：八月初八"/>
+	</question>
+	<question id="2" content="2.人们在端午节一般吃什么食品？">
+		<answer id="1" content="选项一：切糕"/>
+		<answer id="2" content="选项二：元宵"/>
+		<answer id="3" content="选项三：粽子"/>
+		<answer id="4" content="选项四：月饼"/>
+	</question>	
+</list>

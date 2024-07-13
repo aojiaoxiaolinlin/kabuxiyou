@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<points>
+	<point id="1">
+		<xCoord>80</xCoord>
+		<yCoord>120</yCoord>
+		<lines>2,4,5</lines>
+	</point>
+	
+	<point id="2">
+		<xCoord>330</xCoord>
+		<yCoord>60</yCoord>
+		<lines>1,3,4,5</lines>
+	</point>
+	
+	<point id="3">
+		<xCoord>410</xCoord>
+		<yCoord>205</yCoord>
+		<lines>2,4</lines>
+	</point>
+	
+	<point id="4">
+		<xCoord>280</xCoord>
+		<yCoord>350</yCoord>
+		<lines>1,2,3,5</lines>
+	</point>
+	
+	<point id="5">
+		<xCoord>80</xCoord>
+		<yCoord>300</yCoord>
+		<lines>1,2,4</lines>
+	</point>
+	
+</points>

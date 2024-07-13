@@ -1,0 +1,84 @@
+﻿<Bungee>
+	<Level id="1">
+		<Layer>
+			<Cloud id="1" x="0"></Cloud></Layer>
+		<Layer>
+			<Cloud id="2" x="-55"></Cloud></Layer>
+		<Layer>
+			<Cloud id="3" x="62.6"></Cloud></Layer>
+		<Layer>
+			<Cloud id="4" x="0"></Cloud>
+			<Cloud id="6" x="307.6"></Cloud></Layer>
+		<Layer>
+			<Cloud id="5" x="128.8"></Cloud></Layer>
+		<Layer>
+			<Cloud id="7" x="117.6"></Cloud></Layer>
+		<Layer>
+			<Cloud id="8" x="0"></Cloud></Layer></Level>
+	<Level id="2">
+		<Layer>
+			<Cloud id="1" x="0"></Cloud></Layer>
+		<Layer>
+			<Cloud id="2" x="251.2"></Cloud>
+		</Layer>
+		<Layer>
+			<Cloud id="3" x="0"></Cloud></Layer>
+		<Layer>
+			<Cloud id="4" x="190.5"></Cloud></Layer>
+		<Layer>
+			<Cloud id="5" x="0"></Cloud></Layer>
+		<Layer>
+			<Cloud id="6" x="132"></Cloud></Layer>
+		<Layer>
+			<Cloud id="7" x="0"></Cloud></Layer>
+		<Layer>
+			<Cloud id="8" x="211.2"></Cloud></Layer></Level>
+	<Level id="3">
+		<Layer>
+			<Cloud id="1" x="0"></Cloud></Layer>
+		<Layer>
+			<Cloud id="2" x="107.1"></Cloud></Layer>
+		<Layer>
+			<Cloud id="3" x="0"></Cloud>
+			<Cloud id="4" x="320"></Cloud></Layer>
+		<Layer>
+			<Cloud id="5" x="98"></Cloud></Layer>
+		<Layer>
+			<Cloud id="6" x="0"></Cloud></Layer>
+		<Layer>
+			<Cloud id="7" x="203.2"></Cloud></Layer>
+		<Layer>
+			<Cloud id="8" x="0"></Cloud></Layer></Level>
+	<Level id="4">
+		<Layer>
+			<Cloud id="1" x="0"></Cloud></Layer>
+		<Layer>
+			<Cloud id="2" x="107.1"></Cloud></Layer>
+		<Layer>
+			<Cloud id="3" x="0"></Cloud>
+			<Cloud id="8" x="270"></Cloud></Layer>
+		<Layer>
+			<Cloud id="4" x="113.2"></Cloud></Layer>
+		<Layer>
+			<Cloud id="5" x="0"></Cloud></Layer>
+		<Layer>
+			<Cloud id="6" x="198.5"></Cloud></Layer>
+		<Layer>
+			<Cloud id="7" x="0"></Cloud></Layer></Level>
+	<Level id="5">
+		<Layer>
+			<Cloud id="1" x="0"></Cloud></Layer>
+		<Layer>
+			<Cloud id="2" x="0"></Cloud>
+			<Cloud id="8" x="265"></Cloud></Layer>
+		<Layer>
+			<Cloud id="3" x="98"></Cloud></Layer>
+		<Layer>
+			<Cloud id="4" x="0"></Cloud></Layer>
+		<Layer>
+			<Cloud id="5" x="79.3"></Cloud></Layer>
+		<Layer>
+			<Cloud id="6" x="0"></Cloud></Layer>
+		<Layer>
+			<Cloud id="7" x="263.8"></Cloud></Layer></Level>
+</Bungee>

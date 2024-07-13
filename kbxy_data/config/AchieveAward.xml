@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<achievementaward>
+	<award id = "1">
+		<awardid>1</awardid>
+		<target>200</target>
+		<desc>洗髓丹*2、白银葫芦*2、铜钱2000</desc>
+	</award>
+	<award id = "2">
+		<awardid>2</awardid>
+		<target>500</target>
+		<desc>历练50万、洗髓丹*5、白银葫芦*5</desc>
+	</award>
+	<award id = "3">
+		<awardid>3</awardid>
+		<target>1000</target>
+		<desc>7天VIP体验卡、铜钱*7000</desc>
+	</award>
+	<award id = "4">
+		<awardid>4</awardid>
+		<target>2000</target>
+		<desc>1级灵玉、洗炼石*2、灵心石*2</desc>
+	</award>
+	<award id = "5">
+		<awardid>5</awardid>
+		<target>5000</target>
+		<desc>7天VIP体验卡、黄金葫芦*5、洗髓丹*5</desc>
+	</award>
+	<award id = "6">
+		<awardid>6</awardid>
+		<target>8000</target>
+		<desc>2级灵玉、洗炼石*4、灵心石*4</desc>
+	</award>
+	<award id = "7">
+		<awardid>7</awardid>
+		<target>10000</target>
+		<desc>造化丹*2、攻击速度洗髓丹*2、法术速度洗髓丹*2</desc>
+	</award>
+	<award id = "8">
+		<awardid>8</awardid>
+		<target>12000</target>
+		<desc>珍宠之魂*3、3级灵玉精华*3</desc>
+	</award>
+	<award id = "9">
+		<awardid>9</awardid>
+		<target>15000</target>
+		<desc>神宠之魂*3、4级灵玉精华*3</desc>
+	</award>
+	<award id = "10">
+		<awardid>10</awardid>
+		<target>18000</target>
+		<desc>珍宠之魂*3、3级灵玉精华*3、麟红神盾</desc>
+	</award>
+	<award id = "11">
+		<awardid>11</awardid>
+		<target>20000</target>
+		<desc>神宠之魂*3、4级灵玉精华*3</desc>
+	</award>
+	<award id = "12">
+		<awardid>12</awardid>
+		<target>22000</target>
+		<desc>珍宠之魂*5、3级灵玉精华*5</desc>
+	</award>
+	<award id = "13">
+		<awardid>13</awardid>
+		<target>25000</target>
+		<desc>神宠之魂*5、4级灵玉精华*5</desc>
+	</award>
+	<award id = "14">
+		<awardid>14</awardid>
+		<target>28000</target>
+		<desc>珍宠之魂*10、3级灵玉精华*10、麟光假面</desc>
+	</award>
+	<award id = "15">
+		<awardid>15</awardid>
+		<target>30000</target>
+		<desc>神宠之魂*10、4级灵玉精华*10</desc>
+	</award>
+	<award id = "16">
+		<awardid>16</awardid>
+		<target>32000</target>
+		<desc>珍宠之魂*10、3级灵玉精华*10</desc>
+	</award>
+	<award id = "17">
+		<awardid>17</awardid>
+		<target>35000</target>
+		<desc>神宠之魂*10、4级灵玉精华*10</desc>
+	</award>
+	<award id = "18">
+		<awardid>18</awardid>
+		<target>38000</target>
+		<desc>珍宠之魂*10、3级灵玉精华*10、天就神剑</desc>
+	</award>
+	<award id = "19">
+		<awardid>19</awardid>
+		<target>40000</target>
+		<desc>神宠之魂*10、4级灵玉精华*10</desc>
+	</award>
+	<award id = "20">
+		<awardid>20</awardid>
+		<target>42000</target>
+		<desc>珍宠之魂*20、3级灵玉精华*20</desc>
+	</award>
+	<award id = "21">
+		<awardid>21</awardid>
+		<target>45000</target>
+		<desc>神宠之魂*20、4级灵玉精华*20</desc>
+	</award>
+	<award id = "22">
+		<awardid>22</awardid>
+		<target>48000</target>
+		<desc>珍宠之魂*20、3级灵玉精华*20、月光蝶</desc>
+	</award>
+	<award id = "23">
+		<awardid>23</awardid>
+		<target>50000</target>
+		<desc>神宠之魂*20、4级灵玉精华*20</desc>
+	</award>
+</achievementaward>

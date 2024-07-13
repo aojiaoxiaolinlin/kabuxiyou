@@ -1,0 +1,146 @@
+﻿<root>
+	<!-- 庄园神兽园日常任务 -->
+	<item id="4037001" type="1">
+		<name>庄园除草</name>
+		<targetScene>1018</targetScene>
+		<content>去你和朋友们的庄园逛逛吧，除掉杂草，做一名勤劳的农庄主！</content>
+		<condition>前往庄园，为自己或者好友除草1次！</condition>
+		<award coin="" exp="4000"></award>
+	</item>
+	<item id="4037002" type="1">
+		<name>摇钱树浇水</name>
+		<targetScene>1018</targetScene>
+		<content>去庄园给自己或者朋友的摇钱树浇水一次！</content>
+		<condition>前往庄园，为自己或者好友的摇钱树浇水1次。</condition>
+		<award coin="" exp="4000"></award>
+	</item>
+	<item id="4037003" type="1">
+		<name>喂食神兽</name>
+		<targetScene>1013</targetScene>
+		<content>为神兽园食物存储器存储1棵神明果。</content>
+		<condition>为神兽园食物存储器存储1棵神明果。</condition>
+		<award coin="" exp="4000"></award>
+	</item>
+	<item id="4037004" type="1">
+		<name>我爱恶作剧</name>
+		<targetScene>1013</targetScene>
+		<content>到好友的神兽园那里放置1个捣蛋妖。</content>
+		<condition>到好友的神兽园那里放置1个捣蛋妖。</condition>
+		<award coin="" exp="4000"></award>
+	</item>
+	<item id="4037005" type="1">
+		<name>种植作物</name>
+		<targetScene>1018</targetScene>
+		<content>多种植不同的植物，让你的庄园更美丽，让这个世界更绿化！</content>
+		<condition>种植1棵作物，种子可以在庄园时空商店购买。</condition>
+		<award coin="" exp="4000"></award>
+	</item>
+	<item id="4037006" type="1">
+		<name>收获植物</name>
+		<targetScene>1018</targetScene>
+		<content>辛苦的种植耕耘有收成了吗？快去庄园看看今天有没有大丰收吧！</content>
+		<condition>收获一棵成熟的植物（你也可以去好友的庄园收获植物哦！）</condition>
+		<award coin="" exp="4000"></award>
+	</item>
+	<!-- 试炼日常任务 -->
+	<item id="4038001" type="2">
+		<name>坐骑大赛</name>
+		<targetScene>6001</targetScene>
+		<content>骑上你心爱的坐骑，去<![CDATA[<font color="#FF65FF">车迟国国都</font>]]>报名参加坐骑大赛吧！</content>
+		<condition>到车迟国国都，找车迟国国王对话，参加一场坐骑大赛并获得前三名！</condition>
+		<award coin="" exp="5500"></award>
+	</item>
+	<item id="4038002" type="2">
+		<name>卡布战场新星</name>
+		<targetScene>1029</targetScene>
+		<content>渴望一战成名吗？想向其他小卡布展示自己的实力吗？赶快到指挥中心报名加入战场吧！</content>
+		<condition>传送到指挥中心，进入任意一个战场获得一场胜利</condition>
+		<award coin="" exp="5500"></award>
+	</item>
+	<item id="4038003" type="2">
+		<name>跳舞大赛</name>
+		<targetScene>1028</targetScene>
+		<content>跳舞大赛</content>
+		<condition>到月光号炫舞厅中，参加一场跳舞大赛</condition>
+		<award coin="" exp="5500"></award>
+	</item>
+	<item id="4038004" type="2">
+		<name>障碍赛跑</name>
+		<targetScene>1010</targetScene>
+		<content>障碍赛跑</content>
+		<condition>到档案室找伊尔，参加一场障碍赛跑。</condition>
+		<award coin="" exp="5500"></award>
+	</item>
+	<item id="4038005" type="2">
+		<name>封神之战</name>
+		<targetScene>16001</targetScene>
+		<content>封神之战</content>
+		<condition>在封神之战中参加1场战斗</condition>
+		<award coin="" exp="5500"></award>
+	</item>
+	<item id="4038006" type="2">
+		<name>妖怪大乱斗</name>
+		<targetScene>20001</targetScene>
+		<content>到演武场参加妖怪大乱斗，体验用随机分配妖怪决斗的乐趣，这也是提升实力的一种方法哦！</content>
+		<condition>到演武场参加一场妖怪大乱斗</condition>
+		<award coin="" exp="5500"></award>
+	</item>
+	<item id="4038007" type="2">
+		<name>单妖怪擂台战</name>
+		<targetScene>20001</targetScene>
+		<content>带上你的妖怪伙伴，站上擂台接受挑战，或者挑战擂主！展示自己的实力吧！</content>
+		<condition>到演武场参加1场单妖怪擂台对决</condition>
+		<award coin="" exp="5500"></award>
+	</item>
+	<item id="4038008" type="2">
+		<name>多妖怪擂台战</name>
+		<targetScene>20001</targetScene>
+		<content>多妖怪擂台战</content>
+		<condition>到演武场参加1场多妖怪擂台对决</condition>
+		<award coin="" exp="5500"></award>
+	</item>
+	<!-- 活动乐园日常任务 -->
+	 <item id="4039001" type="3">
+		<name>活动乐园</name>
+		<targetScene>18001</targetScene>
+		<content>活动乐园</content>
+		<condition>到活动乐园参与任意一场活动即可完成任务</condition>
+		<award coin="" exp="4500"/>
+	</item>
+	<!-- 游戏乐园日常任务 -->
+	<item id="4040001" type="4">
+		<name>你画我猜</name>
+		<targetScene>1012</targetScene>
+		<content>你画我猜~我画你猜~其乐无穷！到游戏乐园玩一下你画我猜吧！</content>
+		<condition>前往游戏乐园参加你画我猜。</condition>
+		<award coin="" exp="5000"/>
+	</item>
+   <item id="4040002" type="4">
+		<name>天马行空</name>
+		<targetScene>1012</targetScene>
+		<content>天马行空</content>
+		<condition>进入敏捷类游戏大厅参加天马行空。</condition>
+		<award coin="" exp="5000"></award>
+  </item>
+  <item id="4040003" type="4">
+		<name>急速蹦极</name>
+		<targetScene>1012</targetScene>
+		<content>急速蹦极</content>
+		<condition>进入体育类游戏大厅参加急速蹦极。</condition>
+		<award coin="" exp="5000"></award>
+  </item>
+  <item id="4040004" type="4">
+		<name>黄金矿工</name>
+		<targetScene>1012</targetScene>
+		<content>比比看谁的反应更快，快邀请你的伙伴来游戏乐园玩一下黄金矿工吧！</content>
+		<condition>进入敏捷类游戏大厅参加黄金矿工</condition>
+		<award coin="" exp="5000"/>
+   </item>
+	<totalAward>
+		<award type="1">大金创药*1，中型法力药剂*1，小历炼丹*1</award>
+		<award type="2">大金创药*1，大型法力药剂*1，小历练丹*1，金莲冲级丹*1</award>
+		<award type="3">大金创药*2，中型法力药剂*2，小历炼丹*2</award>
+		<award type="4">大金创药*2，大型法力药剂*2，大历炼丹*2,金莲冲级丹*2</award>
+	</totalAward>
+
+</root>

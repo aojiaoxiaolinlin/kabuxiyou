@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<warcraft>
+  <Exchange>
+    <heromedal>
+      <item name="洗髓丹" sex="-1" id="1" type="1" iid="100013">35</item>
+      <item name="旋角仙兽蛋" sex="-1" id="5" type="2" iid="600001">50</item>
+      <item name="金小蛛" sex="-1" id="15" type="3" iid="1069">120</item>
+      <item name="藤藤木" sex="-1" id="16" type="3" iid="1072">120</item>
+      <item name="斗齿鲨" sex="-1" id="17" type="3" iid="1075">120</item>
+      <item name="火苗娃" sex="-1" id="18" type="3" iid="1078">120</item>
+      <item name="小石骨" sex="-1" id="19" type="3" iid="1081">120</item>
+      <item name="钢铁战盔" sex="1" id="114" type="1" iid="550622">150</item>
+      <item name="飘逸双马尾" sex="0" id="115" type="1" iid="550627">150</item>
+      <item name="钢铁战靴" sex="1" id="116" type="1" iid="550624">100</item>
+      <item name="粉红战斗靴" sex="0" id="117" type="1" iid="550629">100</item>
+      <item name="驾驶员眼镜" sex="-1" id="118" type="1" iid="550626">180</item>
+      <item name="钢铁战甲" sex="1" id="119" type="1" iid="550623">250</item>
+      <item name="粉红战斗服" sex="0" id="120" type="1" iid="550628">250</item>
+      <item name="战神激光枪" sex="-1" id="121" type="1" iid="550625">180</item>
+      <item name="魔力长枪" sex="-1" id="122" type="1" iid="550630">180</item>
+      <item name="火龙仙兽蛋" sex="-1" id="123" type="2" iid="600077">150</item>
+      <item name="小型防御还灵丹" sex="-1" id="124" type="1" iid="100213">20</item>
+      <item name="军帽外框" sex="-1" id="214" type="1" iid="100310">60</item>
+      <item id="222" type="6" iid="1">300</item>
+      <item name="羊魔魔" sex="-1" id="226" type="3" iid="2680">380</item>
+      <item name="战场宝箱" sex="-1" id="229" type="1" iid="103039">90</item>
+      <item name="无双碎片" sex="-1" id="236" type="1" iid="300044">20</item>
+    </heromedal>
+    <killmedal>
+      <item name="活力豆" sex="-1" id="3" type="1" iid="100033">10</item>
+      <item name="五灵历练丹" sex="-1" id="20" type="1" iid="100078">20</item>
+      <item name="造化丹" sex="-1" id="21" type="1" iid="100036">120</item>
+      <item name="黄金葫芦" sex="-1" id="22" type="1" iid="100004">50</item>
+      <item name="恶魔外框" sex="-1" id="105" type="1" iid="100079">50</item>
+      <item name="蓝色休闲鞋" sex="1" id="125" type="1" iid="550197">100</item>
+      <item name="红色休闲鞋" sex="0" id="126" type="1" iid="550201">100</item>
+      <item name="绅士晚礼服" sex="1" id="127" type="1" iid="550196">250</item>
+      <item name="优雅礼服裙" sex="0" id="128" type="1" iid="550199">250</item>
+      <item name="旋角棕发" sex="1" id="129" type="1" iid="550195">150</item>
+      <item name="旋角棕发" sex="0" id="130" type="1" iid="550198">150</item>
+      <item name="玫瑰手持" sex="-1" id="131" type="1" iid="550200">180</item>
+      <item name="蓝魂仙兽蛋" sex="-1" id="132" type="2" iid="600072">150</item>
+      <item name="小型攻击还灵丹" sex="-1" id="133" type="1" iid="100212">20</item>
+      <item name="潜力石" sex="-1" id="224" type="1" iid="440444">25</item>
+      <item name="【覆海王】精魄" sex="-1" id="232" type="1" iid="102245">300</item>
+      <item name="无双碎片" sex="-1" id="237" type="1" iid="300044">280</item>
+    </killmedal>
+    <longmedal>
+      <item name="雷晶兽" sex="-1" id="39" type="3" iid="1208">120</item>
+      <item name="还灵丹" sex="-1" id="42" type="1" iid="100035">180</item>
+      <item name="落尘果" sex="-1" id="43" type="1" iid="100037">90</item>
+      <item name="白银葫芦" sex="-1" id="88" type="1" iid="100003">35</item>
+      <item name="高级奖励刷新令" sex="-1" id="89" type="1" iid="100222">25</item>
+      <item name="蔚蓝绅士礼帽" sex="1" id="134" type="1" iid="550307">150</item>
+      <item name="粉粉淑女发型" sex="0" id="135" type="1" iid="550310">150</item>
+      <item name="蔚蓝绅士礼服" sex="1" id="136" type="1" iid="550308">250</item>
+      <item name="粉粉淑女长裙" sex="0" id="137" type="1" iid="550311">250</item>
+      <item name="金带绅士皮鞋" sex="1" id="138" type="1" iid="550309">100</item>
+      <item name="粉粉蝴蝶皮鞋" sex="0" id="139" type="1" iid="550312">100</item>
+      <item name="时尚麦克风" sex="-1" id="140" type="1" iid="550313">180</item>
+      <item name="竹叶仙兽蛋" sex="-1" id="141" type="2" iid="600082">150</item>
+      <item name="小型抗性还灵丹" sex="-1" id="142" type="1" iid="100215">20</item>
+      <item id="215" type="6" iid="1">320</item>
+      <item name="封印符" sex="-1" id="216" type="1" iid="100453">240</item>
+      <item name="双倍历练丹" sex="-1" id="217" type="1" iid="100208">100</item>
+      <item name="天地灵气" sex="-1" id="218" type="1" iid="300028">8</item>
+      <item name="" sex="-1" id="219" type="5" iid="888">12</item>
+      <item name="羊魔魔" sex="-1" id="227" type="3" iid="2680">380</item>
+      <item name="战场宝箱" sex="-1" id="230" type="1" iid="103039">80</item>
+      <item name="【覆海王】精魄" sex="-1" id="233" type="1" iid="102245">300</item>
+      <item name="无双碎片" sex="-1" id="238" type="1" iid="300044">20</item>
+    </longmedal>
+    <wangmedal>
+      <item name="天香丸" sex="-1" id="2" type="1" iid="100034">15</item>
+      <item name="烈阳外框" sex="-1" id="51" type="1" iid="100163">60</item>
+      <item name="暗影外框" sex="-1" id="52" type="1" iid="100164">60</item>
+      <item name="大历练丹" sex="-1" id="90" type="1" iid="100023">5</item>
+      <item name="普通魔晶粉" sex="-1" id="91" type="1" iid="100032">25</item>
+      <item name="黑王子短发" sex="1" id="143" type="1" iid="550559">150</item>
+      <item name="青葱长发" sex="0" id="144" type="1" iid="550564">150</item>
+      <item name="黑王子战靴" sex="1" id="145" type="1" iid="550561">100</item>
+      <item name="青葱公主靴" sex="0" id="146" type="1" iid="550566">100</item>
+      <item name="黑王子面具" sex="1" id="147" type="1" iid="550558">180</item>
+      <item name="魅力耳机" sex="0" id="148" type="1" iid="550563">180</item>
+      <item name="黑王子战袍" sex="1" id="149" type="1" iid="550560">250</item>
+      <item name="青葱制服" sex="0" id="150" type="1" iid="550565">250</item>
+      <item name="黑王子手枪" sex="1" id="151" type="1" iid="550562">180</item>
+      <item name="魔法葱" sex="0" id="152" type="1" iid="550567">180</item>
+      <item name="绝地仙兽蛋" sex="-1" id="153" type="2" iid="600112">150</item>
+      <item name="小型法术还灵丹" sex="-1" id="154" type="1" iid="100214">20</item>
+      <item name="无双碎片" sex="-1" id="239" type="1" iid="300044">22</item>
+    </wangmedal>
+    <teammedal>
+      <item name="牙牙魔" sex="-1" id="33" type="3" iid="1118">120</item>
+      <item name="赤月妖" sex="-1" id="34" type="3" iid="1121">120</item>
+      <item name="喵喵仙" sex="-1" id="35" type="3" iid="1124">120</item>
+      <item name="辟风幽" sex="-1" id="36" type="3" iid="1127">120</item>
+      <item name="天幼狼" sex="-1" id="37" type="3" iid="1130">120</item>
+      <item name="巨牙仙兽蛋" sex="-1" id="38" type="2" iid="600019">50</item>
+      <item name="王者头饰" sex="1" id="155" type="1" iid="550463">150</item>
+      <item name="女王头冠" sex="0" id="156" type="1" iid="550466">150</item>
+      <item name="红色圆头鞋" sex="1" id="157" type="1" iid="550465">100</item>
+      <item name="棕色芭蕾鞋" sex="0" id="158" type="1" iid="550468">100</item>
+      <item name="彩纹白礼服" sex="1" id="159" type="1" iid="550464">250</item>
+      <item name="云纹彩绘裙" sex="0" id="160" type="1" iid="550467">250</item>
+      <item name="糖果蛋糕" sex="-1" id="161" type="1" iid="550469">180</item>
+      <item name="金角仙兽蛋" sex="-1" id="162" type="1" iid="600102">150</item>
+      <item name="小型体力还灵丹" sex="-1" id="163" type="1" iid="100210">20</item>
+      <item name="小型速度还灵丹" sex="-1" id="164" type="1" iid="100211">20</item>
+      <item name="高级任务刷新令" sex="-1" id="165" type="1" iid="100223">35</item>
+      <item name="天仙玉露" sex="-1" id="166" type="1" iid="100009">15</item>
+      <item id="220" type="6" iid="1">80</item>
+      <item name="【小钢甲】精魄" sex="-1" id="223" type="1" iid="102217">110</item>
+      <item name="潜力石" sex="-1" id="225" type="1" iid="440444">8</item>
+      <item name="羊魔魔" sex="-1" id="228" type="3" iid="2680">105</item>
+      <item name="战场宝箱" sex="-1" id="231" type="1" iid="103039">25</item>
+      <item name="无双碎片" sex="-1" id="240" type="1" iid="300044">10</item>
+    </teammedal>
+  </Exchange>
+</warcraft>

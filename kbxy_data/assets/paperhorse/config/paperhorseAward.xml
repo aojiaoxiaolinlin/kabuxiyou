@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<paperhorseAward>
+	<award id="1" itemId="103002" name="二级灵玉" />
+	<award id="2" itemId="103001" name="一级灵玉" />
+	<award id="3" itemId="103009" name="洗炼石" />
+	<award id="4" itemId="100036" name="造化丹" />
+	<award id="5" itemId="100151" name="攻击速度洗髓丹" />
+	<award id="6" itemId="100152" name="法术速度洗髓丹" />
+	<award id="7" itemId="100153" name="防御抗性洗髓丹" />
+	<award id="8" itemId="100154" name="体力抗性洗髓丹" />
+	<award id="9" itemId="100155" name="体力防御洗髓丹" />
+	<award id="10" itemId="100207" name="三倍历练丹" />
+	<award id="11" itemId="100004" name="黄金葫芦" />
+	<award id="12" itemId="0" name="100万历练" />
+	<award id="13" itemId="100453" name="封印符" />
+	<award id="14" itemId="440430" name="摇光星石" />
+	<award id="15" itemId="440431" name="开阳星石" />
+	<award id="16" itemId="440432" name="玉衡星石" />
+	<award id="17" itemId="440433" name="天权星石" />
+	<award id="18" itemId="440434" name="天玑星石" />
+	<award id="19" itemId="440435" name="天璇星石" />
+	<award id="20" itemId="440436" name="天枢星石" />
+	<award id="21" itemId="440429" name="灵心石" />
+</paperhorseAward>

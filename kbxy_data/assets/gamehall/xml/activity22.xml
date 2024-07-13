@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 当玩家大餐数量为0时，显示为0。【喂宠物】按钮鼠标 <tips feed
+【名字】送给你【奖励名字】X【数量】作为奖励
+	type:：1代表道具，2代表积分，3代表历练-->
+<activity>
+	<greyTip tip = "没有大餐哦，快去游戏中获得吧~"/>
+	<tips feed = "快去游戏中获得美味大餐吧~"  go = "去获得美味美味大餐" />
+	<awardTip tip1 = "【青焰毒尊】送给你"  tip2 = "【怪藤奇异花】送给你"  tip3 = "作为奖励"  />
+	<awardList item1 = "2106" item2 = ""/>
+	<awardName name1 = "绿魂" name2 = "怪藤奇异花"/>
+	<rewardWest>
+		<item type ="2"  id = "500" num = "1"  name = "500积分" />
+		<item type ="2" id = "1000" num = "1"  name = "1000积分" />
+		<item type ="1" id = "910201" num = "1"  name = "半小时双倍积分卡 " />
+		<item type ="1" id = "100013" num = "1"  name = "洗髓丹" />
+		<item type ="1" id = "920901" num = "1"  name = "天马之翼" />
+		<item type ="1"  id = "920501" num = "1"  name = "加速器" />
+		<item type ="1" id = "920801" num = "1"  name = "指南针" />
+		<item type ="1" id = "920102" num = "1"  name = "加时器" />
+		<item type ="3" id = "10000" num = "1"  name = "10000历练" />
+		<item type ="3" id = "20000" num = "1"  name = "20000历练" />
+		<item type ="3" id = "30000" num = "1"  name = "30000历练" />
+		<item type ="3" id = "50000" num = "1"  name = "50000历练" />
+	</rewardWest>
+	<rewardOz>
+		<item type ="1" id = "900000" num = "1"  name = "200积分" />
+		<item type ="1" id = "210011" num = "5"  name = "初等经验豆X5" />
+		<item type ="1" id = "920201" num = "1"  name = "定身器" />
+		<item type ="1" id = "910501" num = "1"  name = "小瓶体力补充剂" />
+		<item type ="1" id = "900000" num = "1"  name = "500积分" />
+		<item type ="1" id = "920801" num = "1"  name = "指南针" />
+		<item type ="1" id = "210012" num = "2"  name = "中等经验豆X2" />
+		<item type ="1" id = "920501" num = "1"  name = "加速器" />
+		<item type ="1" id = "900000" num = "1"  name = "800积分" />
+		<item type ="1" id = "210012" num = "3"  name = "中等经验豆X3" />
+		<item type ="1" id = "920901" num = "1"  name = "飞龙之翼X2" />
+		<item type ="1" id = "910201" num = "1"  name = "半小时双倍积分卡" />
+		<item type ="1" id = "920701" num = "2"  name = "记忆卡片X2" />
+		<item type ="1" id = "210013" num = "2"  name = "高等经验豆X2" />
+		<item type ="1" id = "900000" num = "1"  name = "1000积分" />
+	</rewardOz>
+	<seeTip item1 = "兑换积分：获得相应值的积分"  item2 = "兑换积分：获得相应值的积分" item3 = "0" item4 = "0" item5 = "0" item6 = "洗髓丹" item7 = "0" item8 = "历练1W" item9 = "历练2W" item10 = "历练3W" item11 = "历练5W"/>
+	<tipId item1 = "兑换积分：获得相应值的积分"  item2 = "兑换积分：获得相应值的积分" item3 = "920102" item4 = "920501" item5 = "910201" item6 = "0" item7 = "920801" item8 = "" item9 = "" item10 = "" item11 = ""/>
+
+</activity>

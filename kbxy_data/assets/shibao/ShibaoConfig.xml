@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+<week>175</week>
+<pageList>
+<part id="1">
+	<page title="北斗七星图" page="5" scene="0" activeId="0" module="assets/system/sevenTreasure/SevenTreasure.swf" link="" taskLimit="" taskName=""/>
+	<page title="炫光商城" page="10" scene="0" activeId="0" module="assets/mall/MallUI.swf" link="" taskLimit="" taskName=""/>
+	<page title="除魔卫道" page="7" scene="0" activeId="0" module="assets/dailyactive/perishevil/perishEvilModuleUI.swf" link="" taskLimit="" taskName=""/>
+	<page title="卡布召集令" page="8" scene="0" activeId="204" module="assets/system/regression/Active20140127Regression.swf" link="" taskLimit="" taskName=""/>
+	<page title="寻宝罗盘" page="3" scene="0" activeId="224" module="assets/module/LookForPresures.swf" link="" taskLimit="" taskName=""/>
+	<page title="式神十二将" page="9" scene="0" activeId="143" module="assets/vip/VIPMonExchange.swf" link="" taskLimit="" taskName=""/>
+	<page title="每月首充" page="6" scene="0" activeId="141" module="assets/system/FirstDeposit/FirstDeposit20131010.swf" link="" taskLimit="" taskName=""/>
+	<page title="天降福瑞" page="4" scene="0" activeId="900" module="assets/system/HeavenFurui/HeavenFurui.swf" link="" taskLimit="" taskName=""/>
+	<page title="VIP闪闪乐翻天" page="1" scene="18001" activeId="0" module="assets/activity/201412/Activity20141204Flash/Activity20141204Flash.swf" link="" taskLimit="" taskName=""/>
+	<page title="每日必做" page="2" scene="0" activeId="0" module="assets/module/DailyCompass2_0.swf" link="" taskLimit="" taskName=""/>
+</part>
+<part id="2">
+	<page title="毒刺掠杀者" page="11" scene="0" activeId="0" module="assets/mall/MallUI.swf" link="" taskLimit="" taskName=""/>
+	<page title="冰晶战狮" page="12" scene="0" activeId="0" module="assets/system/regression/Active20140127Regression.swf" link="" taskLimit="" taskName=""/>
+</part>
+<part id="4">
+	<page title="聊聊卡布家族" page="13" scene="0" activeId="0" module="0" link="http://my.4399.com/forums-thread-tagid-79936-id-41092700.html" taskLimit="" taskName=""/>
+</part>
+</pageList>
+</main>

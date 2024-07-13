@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<paperhorse>
+  <ordinary>
+    <notice id="12" content="异界魔尊率领众多妖魔降临西游各地开始作乱，卡布们快去阻击它们！">
+      <time>
+        <segment start_hour="11" start_minutes="06" end_hour="11" end_minutes="11" beginDate="1415203200" endDate="1540224000"/>
+        <segment start_hour="17" start_minutes="06" end_hour="17" end_minutes="11" beginDate="1415203200" endDate="1540224000"/>
+        <segment start_hour="23" start_minutes="12" end_hour="23" end_minutes="17" beginDate="1415203200" endDate="1540224000"/>
+        <segment start_hour="23" start_minutes="27" end_hour="23" end_minutes="32" beginDate="1415203200" endDate="1540224000"/>
+        <segment start_hour="23" start_minutes="53" end_hour="23" end_minutes="58" beginDate="1415203200" endDate="1540224000"/>
+        <segment start_hour="00" start_minutes="00" end_hour="00" end_minutes="05" beginDate="1415203200" endDate="1540224000"/>
+        <segment start_hour="00" start_minutes="30" end_hour="00" end_minutes="35" beginDate="1415203200" endDate="1540224000"/>
+        <segment start_hour="08" start_minutes="00" end_hour="08" end_minutes="00" beginDate="1415203200" endDate="1540224000"/>
+      </time>
+      <stayTime>60</stayTime>
+    </notice>
+    <notice id="13" content="点击屏幕右上角的【每日指引】可以查看更多内容哦！">
+      <time>
+        <segment start_hour="06" start_minutes="00" end_hour="06" end_minutes="05" beginDate="1413993600" endDate="1508688000"/>
+        <segment start_hour="08" start_minutes="00" end_hour="08" end_minutes="05" beginDate="1413993600" endDate="1508688000"/>
+        <segment start_hour="10" start_minutes="00" end_hour="10" end_minutes="05" beginDate="1413993600" endDate="1508688000"/>
+        <segment start_hour="14" start_minutes="30" end_hour="14" end_minutes="35" beginDate="1413993600" endDate="1508688000"/>
+        <segment start_hour="22" start_minutes="00" end_hour="22" end_minutes="05" beginDate="1413993600" endDate="1508688000"/>
+        <segment start_hour="08" start_minutes="00" end_hour="08" end_minutes="00" beginDate="1413993600" endDate="1508688000"/>
+      </time>
+      <stayTime>30</stayTime>
+    </notice>
+    <notice id="14" content="点击【最新活动】可以查看本周的新活动，丰厚奖励、绝版妖怪等你来拿！">
+      <time>
+        <segment start_hour="07" start_minutes="00" end_hour="07" end_minutes="05" beginDate="1413993600" endDate="1508688000"/>
+        <segment start_hour="09" start_minutes="00" end_hour="09" end_minutes="05" beginDate="1413993600" endDate="1508688000"/>
+        <segment start_hour="15" start_minutes="00" end_hour="15" end_minutes="05" beginDate="1413993600" endDate="1508688000"/>
+        <segment start_hour="21" start_minutes="00" end_hour="21" end_minutes="05" beginDate="1413993600" endDate="1508688000"/>
+        <segment start_hour="08" start_minutes="00" end_hour="08" end_minutes="00" beginDate="1413993600" endDate="1508688000"/>
+      </time>
+      <stayTime>30</stayTime>
+    </notice>
+     <notice id="15" content="点击【最新活动】可以查看本周的新活动，丰厚奖励、绝版妖怪等你来拿！">
+      <time>
+        <segment start_hour="18" start_minutes="00" end_hour="18" end_minutes="05" beginDate="1413993600" endDate="1508688000"/>
+        <segment start_hour="18" start_minutes="05" end_hour="18" end_minutes="15" beginDate="1413993600" endDate="1508688000"/>
+        <segment start_hour="18" start_minutes="15" end_hour="18" end_minutes="25" beginDate="1413993600" endDate="1508688000"/>
+        <segment start_hour="18" start_minutes="25" end_hour="18" end_minutes="35" beginDate="1413993600" endDate="1508688000"/>
+        <segment start_hour="18" start_minutes="35" end_hour="18" end_minutes="45" beginDate="1413993600" endDate="1508688000"/>
+        <segment start_hour="18" start_minutes="45" end_hour="18" end_minutes="55" beginDate="1413993600" endDate="1508688000"/>
+        <segment start_hour="18" start_minutes="55" end_hour="19" end_minutes="00" beginDate="1413993600" endDate="1508688000"/>
+      </time>
+      <stayTime>30</stayTime>
+    </notice>
+     <notice id="16" content="点击屏幕右上角的【每日指引】可以查看更多内容哦！">
+      <time>
+        <segment start_hour="19" start_minutes="00" end_hour="19" end_minutes="05" beginDate="1413993600" endDate="1508688000"/>
+        <segment start_hour="19" start_minutes="05" end_hour="19" end_minutes="15" beginDate="1413993600" endDate="1508688000"/>
+        <segment start_hour="19" start_minutes="15" end_hour="19" end_minutes="25" beginDate="1413993600" endDate="1508688000"/>
+        <segment start_hour="19" start_minutes="25" end_hour="19" end_minutes="35" beginDate="1413993600" endDate="1508688000"/>
+        <segment start_hour="19" start_minutes="35" end_hour="19" end_minutes="45" beginDate="1413993600" endDate="1508688000"/>
+        <segment start_hour="19" start_minutes="45" end_hour="19" end_minutes="55" beginDate="1413993600" endDate="1508688000"/>
+        <segment start_hour="19" start_minutes="55" end_hour="20" end_minutes="00" beginDate="1413993600" endDate="1508688000"/>
+      </time>
+      <stayTime>30</stayTime>
+    </notice>
+     <notice id="17" content="异界魔尊率领众多妖魔降临西游各地开始作乱，卡布们快去阻击它们！">
+      <time>
+        <segment start_hour="20" start_minutes="00" end_hour="20" end_minutes="05" beginDate="1413993600" endDate="1508688000"/>
+        <segment start_hour="20" start_minutes="05" end_hour="20" end_minutes="15" beginDate="1413993600" endDate="1508688000"/>
+        <segment start_hour="20" start_minutes="15" end_hour="20" end_minutes="25" beginDate="1413993600" endDate="1508688000"/>
+        <segment start_hour="20" start_minutes="25" end_hour="20" end_minutes="35" beginDate="1413993600" endDate="1508688000"/>
+        <segment start_hour="20" start_minutes="35" end_hour="20" end_minutes="45" beginDate="1413993600" endDate="1508688000"/>
+        <segment start_hour="20" start_minutes="45" end_hour="20" end_minutes="55" beginDate="1413993600" endDate="1508688000"/>
+        <segment start_hour="20" start_minutes="55" end_hour="21" end_minutes="00" beginDate="1413993600" endDate="1508688000"/>
+      </time>
+      <stayTime>30</stayTime>
+    </notice>
+    <notice id="11" content="天降福瑞活动开启了，大家快去寻找分布在各个国家的宝箱吧！">
+      <time>
+        <segment start_hour="11" start_minutes="00" end_hour="11" end_minutes="04" beginDate="1413993600" endDate="1508688000"/>
+        <segment start_hour="17" start_minutes="00" end_hour="17" end_minutes="04" beginDate="1413993600" endDate="1508688000"/>
+        <segment start_hour="23" start_minutes="07" end_hour="23" end_minutes="11" beginDate="1413993600" endDate="1508688000"/>
+        <segment start_hour="23" start_minutes="20" end_hour="23" end_minutes="25" beginDate="1413993600" endDate="1508688000"/>
+        <segment start_hour="23" start_minutes="45" end_hour="23" end_minutes="50" beginDate="1413993600" endDate="1508688000"/>
+        <segment start_hour="00" start_minutes="10" end_hour="00" end_minutes="15" beginDate="1413993600" endDate="1508688000"/>
+        <segment start_hour="00" start_minutes="20" end_hour="00" end_minutes="25" beginDate="1413993600" endDate="1508688000"/>
+        <segment start_hour="08" start_minutes="00" end_hour="08" end_minutes="00" beginDate="1413993600" endDate="1508688000"/>
+      </time>
+      <stayTime>60</stayTime>
+    </notice>
+  </ordinary>
+  <transfer>
+    <notice id="10" content="疯狂档案室活动开启了，大家赶快前去参加吧！">
+      <time>
+        <segment sceneId="1010" start_hour="12" start_minutes="25" end_hour="12" end_minutes="28" beginDate="1413993600" endDate="1508688000"/>
+        <segment sceneId="1010" start_hour="16" start_minutes="25" end_hour="16" end_minutes="28" beginDate="1413993600" endDate="1508688000"/>
+        <segment sceneId="1010" start_hour="19" start_minutes="25" end_hour="19" end_minutes="28" beginDate="1413993600" endDate="1508688000"/>
+        <segment sceneId="1010" start_hour="08" start_minutes="00" end_hour="08" end_minutes="00" beginDate="1413993600" endDate="1508688000"/>
+      </time>
+      <stayTime>90</stayTime>
+    </notice>
+  </transfer>
+  <question>
+    <notice id="9" content="叮叮博士带着奖励来考验卡布们了，回答正确即可获奖！">
+      <question type="4"/>
+      <time>
+        <segment start_hour="10" start_minutes="15" end_hour="20" end_minutes="15" beginDate="1413907200" endDate="1510070400"/>
+        <segment start_hour="23" start_minutes="05" end_hour="02" end_minutes="35" beginDate="1413907200" endDate="1510070400"/>
+        <segment start_hour="08" start_minutes="00" end_hour="08" end_minutes="00" beginDate="1413907200" endDate="1510070400"/>
+      </time>
+      <stayTime>60</stayTime>
+    </notice>
+  </question>
+</paperhorse>

@@ -1,0 +1,11 @@
+﻿<nodes>
+	<node multiVer="0" awardNum="5" hasEffect="1" prePeriod="1411647000" currentPeriod ="1414677600">
+		<award 	awardid="440439" 	tips="星石礼包" ></award>
+		<award 	awardid="101175" 	tips="喜迎国庆外框" ></award>
+		<award 	awardid="0" 	tips="30万历练" ></award>
+		<award 	awardid="100013" 	tips="洗髓丹" ></award>
+		<!--<award 	awardid="100013" 	tips="洗髓丹" ></award>-->
+		<award 	awardid="100030" 	tips="娱乐币" ></award>
+		<!--<award 	awardid="0" 	tips="金币" ></award>-->
+	</node>
+</nodes>      

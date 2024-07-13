@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <list page="1">
+      <item id="800005" name="金漆配剑" price="1000"></item>
+      <item id="800001" name="红木茶几" price="1000"></item>
+      <item id="800002" name="红木八仙桌" price="1000"></item>
+      <item id="800003" name="红木椅" price="1000"></item>
+      <item id="800004" name="山水屏风" price="1000"></item>
+   </list>
+   <list page="2">
+      <item id="800009" name="冲销抱枕" price="1000"></item>
+      <item id="800010" name="大鱼缸" price="1000"></item>   
+      <item id="800008" name="青帘公主床" price="1000"></item>   
+      <item id="800006" name="玻璃餐桌" price="1000"></item>   
+   </list>
+</data>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<main>
+	<taskList>
+		<item id="1" task="进行公共聊天3次" goto="" totalPoint="6" onePoint="2" sIndex="0" show="true"></item>
+		<item id="2" task=" " goto="" totalPoint="0" onePoint="0" sIndex="1" show="false"></item>
+		<item id="3" task="益智类游戏大厅中游戏2次" goto="3" totalPoint="10" onePoint="5" sIndex="2" show="true"></item> 		
+		<item id="4" task="敏捷类游戏大厅中游戏2次" goto="2" totalPoint="10" onePoint="5" sIndex="3" show="true"></item>
+		<item id="5" task="体育类游戏大厅中游戏2次" goto="4" totalPoint="10" onePoint="5" sIndex="4" show="true"></item>
+		<item id="6" task="消除类游戏大厅中游戏2次" goto="1" totalPoint="10" onePoint="5" sIndex="5" show="true"></item>
+		<item id="7" task=" " goto="" totalPoint="0" onePoint="0" sIndex="6" show="false"></item>
+		<item id="8" task=" " goto="" totalPoint="0" onePoint="0" sIndex="7" show="false"></item>
+		<item id="9" task=" " goto="" totalPoint="0" onePoint="0" sIndex="8" show="false"></item>
+		<item id="10" task=" " goto="" totalPoint="0" onePoint="0" sIndex="9" show="false"></item>
+		<item id="11" task="在游戏乐园中停留15分钟" goto="" totalPoint="15" onePoint="15" sIndex="10" show="true"></item>
+ 		<item id="12" task="使用游戏乐园中道具2次" goto="5" totalPoint="6" onePoint="3" sIndex="11" show="true"></item>
+ 		<item id="13" task="单人乐园中游戏2次" goto="6" totalPoint="8" onePoint="4" sIndex="12" show="true"></item>
+		<item id="14" task="潜能训练1次" goto="7" totalPoint="6" onePoint="6" sIndex="13" show="true"></item>
+		<item id="15" task="参加赛场比赛2次" goto="8" totalPoint="10" onePoint="5" sIndex="14" show="true"></item>
+		<item id="16" task="完成每日推荐" goto="9" totalPoint="10" onePoint="10" sIndex="15" show="true"></item>
+		<item id="17" task="完成米娜的悬赏任务3次" goto="11" totalPoint="9" onePoint="3" sIndex="16" show="true"></item>
+	</taskList>
+</main>

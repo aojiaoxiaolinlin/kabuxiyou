@@ -1,0 +1,41 @@
+<items>
+	<fationsname>
+		<item id="1" itemname="噬灵之夜套装♂" ></item>
+		<item id="2" itemname="护灵之粉套装♀" ></item>
+	</fationsname>
+	<fations><!-- 套装 -->
+		<!--<item id="551971" sex="1" multiid="0" id1="0" id2="0" id3="0" id4="0" id5="0" typesex="这里注释吧，sex：1男 2女 0不分性别"></item>
+		<item id="551972" sex="1" multiid="0" id1="0" id2="0" id3="0" id4="0" id5="0" typeid="multiid多形态的物品程序里面有过滤id==0"></item>
+		<item id="551780" sex="1" multiid="0" id1="0" id2="0" id3="0" id4="0" id5="0" material="素材的整套的套装大图小图都需要自己导，还有家园的大图也要自己导"></item>-->
+		<item id="551695" sex="1" multiid="0" id1="0" id2="0" id3="0" id4="0" id5="0" ></item>
+		<item id="920707" sex="1" multiid="0" id1="0" id2="0" id3="0" id4="0" id5="0" ></item>
+		<item id="551697" sex="1" multiid="0" id1="0" id2="0" id3="0" id4="0" id5="0" ></item>
+		<item id="551699" sex="1" multiid="0" id1="0" id2="0" id3="0" id4="0" id5="0" ></item>
+		<item id="551701" sex="1" multiid="0" id1="0" id2="0" id3="0" id4="0" id5="0" ></item>
+		<item id="551696" sex="2" multiid="0" id1="0" id2="0" id3="0" id4="0" id5="0" ></item>
+		<item id="920709" sex="2" multiid="0" id1="0" id2="0" id3="0" id4="0" id5="0" ></item>
+		<item id="551698" sex="2" multiid="0" id1="0" id2="0" id3="0" id4="0" id5="0" ></item>
+		<item id="551700" sex="2" multiid="0" id1="0" id2="0" id3="0" id4="0" id5="0" ></item>
+		<item id="551702" sex="2" multiid="0" id1="0" id2="0" id3="0" id4="0" id5="0" ></item>
+		<!--<item id="551877" sex="0" multiid="0" id1="0" id2="0" id3="0" id4="0" id5="0" ></item>-->
+	</fations>
+	<horse><!-- 坐骑 -->
+		<!--<item id="600251" sex="0" multiid="1" id1="600249" id2="600250" id3="600252" id4="600253" id5="0"  ></item>
+		<!--<item id="600211" sex="0" multiid="1" id1="600209" id2="600210" id3="600212" id4="600213" id5="0"  ></item>-->
+		<item id="600109" sex="0" multiid="1" id1="600107" id2="600108" id3="600120" id4="600121" id5="0"  ></item>
+	</horse>
+	<monster><!-- 妖怪 -->
+		<item id="2767" sex="0" multiid="1" id1="2768" id2="0" id3="0" id4="0" id5="0" ></item>
+		<item id="2646" sex="0" multiid="1" id1="2647" id2="0" id3="0" id4="0" id5="0" ></item>
+	</monster>
+	<house><!-- 家具 -->
+		<item id="800312" sex="0" multiid="0" id1="0" id2="0" id3="0" id4="0" id5="0" ></item>
+		<item id="800313" sex="0" multiid="0" id1="0" id2="0" id3="0" id4="0" id5="0" ></item>
+		<item id="800314" sex="0" multiid="0" id1="0" id2="0" id3="0" id4="0" id5="0" ></item>
+		<item id="800315" sex="0" multiid="0" id1="0" id2="0" id3="0" id4="0" id5="0" ></item>
+		<item id="800316" sex="0" multiid="0" id1="0" id2="0" id3="0" id4="0" id5="0" ></item>
+		<item id="800317" sex="0" multiid="0" id1="0" id2="0" id3="0" id4="0" id5="0" ></item>
+		<item id="800318" sex="0" multiid="0" id1="0" id2="0" id3="0" id4="0" id5="0" ></item>
+		<item id="800319" sex="0" multiid="0" id1="0" id2="0" id3="0" id4="0" id5="0" ></item>
+	</house>
+</items>

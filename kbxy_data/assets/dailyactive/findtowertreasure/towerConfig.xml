@@ -1,0 +1,171 @@
+<map>
+  <background x_offset="-300" y_offset="420" cols="15" rows="15" cellSize="74"/>
+  <Tiles level="1" startIndex="0" endIndex="29"> 
+   
+   	<tile col="0" row="8" index="2"/> 
+   	<tile col="0" row="7" index="1"/> 
+    <tile col="0" row="6" index="0"/>	
+
+ 	<tile col="1" row="9" index="4"/>
+    <tile col="1" row="8" index="3"/> 
+    
+    <tile col="2" row="10" index="6"/> 
+    <tile col="2" row="9" index="5"/> 
+    
+    <tile col="3" row="11" index="8"/> 
+    <tile col="3" row="10" index="7"/> 
+    
+    <tile col="4" row="12" index="10"/> 
+    <tile col="4" row="11" index="9"/> 
+    
+    <tile col="5" row="13" index="12"/> 
+    <tile col="5" row="12" index="11"/> 
+    
+    
+    <tile col="6" row="13" index="13"/> 
+    <tile col="7" row="13" index="14"/> 
+    <tile col="8" row="13" index="15"/> 
+	<tile col="8" row="6" index="28"/>
+	<tile col="8" row="5" index="29"/>
+    
+    <tile col="9" row="13" index="16"/> 
+    <tile col="9" row="12" index="17"/> 
+    <tile col="9" row="6" index="27"/> 
+    
+    <tile col="10" row="12" index="18"/> 
+    <tile col="10" row="11" index="19"/> 
+    <tile col="10" row="7" index="25"/> 
+    <tile col="10" row="6" index="26"/>
+    
+    <tile col="11" row="11" index="20"/> 
+    <tile col="11" row="10" index="21"/> 
+    <tile col="11" row="9" index="22"/> 
+    <tile col="11" row="8" index="23"/> 
+    <tile col="11" row="7" index="24"/> 
+  </Tiles>
+  <Tiles level="2" startIndex="0" endIndex="29">
+    <tile col="2" row="9" index="11"/>
+	<tile col="2" row="8" index="10"/>
+	<tile col="2" row="7" index="9"/>
+	<tile col="3" row="7" index="8"/>
+	<tile col="3" row="6" index="7"/>
+	<tile col="3" row="5" index="6"/>
+	<tile col="3" row="4" index="5"/>
+	<tile col="4" row="4" index="4"/>
+	<tile col="5" row="4" index="3"/>
+	<tile col="5" row="3" index="2"/>
+	<tile col="5" row="2" index="1"/>
+	<tile col="5" row="1" index="0"/>
+	
+    <tile col="3" row="10" index="13"/>
+	<tile col="3" row="9" index="12"/>
+    
+    <tile col="4" row="11" index="15"/>
+	<tile col="4" row="10" index="14"/>
+    
+    <tile col="5" row="12" index="17"/>
+	<tile col="5" row="11" index="16"/>
+    
+    <tile col="6" row="13" index="19"/>
+	<tile col="6" row="12" index="18"/>
+    
+    <tile col="7" row="13" index="20"/>
+    <tile col="8" row="13" index="21"/>
+    
+    <tile col="9" row="13" index="22"/>
+    <tile col="9" row="12" index="23"/>
+    
+    <tile col="10" row="12" index="24"/>
+    <tile col="10" row="11" index="25"/>
+    
+    <tile col="11" row="11" index="26"/>
+    <tile col="11" row="10" index="27"/>
+    <tile col="11" row="9" index="28"/>
+    <tile col="12" row="9" index="29"/>
+
+  </Tiles> 
+  <Tiles level="3" startIndex="0" endIndex="29">
+	<tile col="2" row="4" index="0"/>
+	<tile col="5" row="12" index="13"/>
+    <tile col="6" row="13" index="15"/>
+    <tile col="6" row="12" index="14"/>
+	
+	<tile col="4" row="11" index="11"/>
+	<tile col="5" row="11" index="12"/>
+	<tile col="3" row="10" index="9"/>
+	<tile col="4" row="10" index="10"/>
+	<tile col="2" row="9" index="7"/>
+	<tile col="3" row="9" index="8"/>
+	
+    <tile col="2" row="8" index="6"/>
+	<tile col="2" row="7" index="5"/>
+	<tile col="3" row="7" index="4"/>
+	<tile col="3" row="6" index="3"/>
+	<tile col="3" row="5" index="2"/>
+	<tile col="3" row="4" index="1"/>
+    
+    <tile col="7" row="13" index="16"/>
+    <tile col="8" row="13" index="17"/>
+    
+    <tile col="9" row="13" index="18"/>
+    <tile col="9" row="12" index="19"/>
+    
+    <tile col="10" row="12" index="20"/>
+    <tile col="10" row="11" index="21"/>
+    
+    <tile col="11" row="11" index="22"/>
+    <tile col="11" row="10" index="23"/>
+    <tile col="11" row="9" index="24"/>
+    <tile col="11" row="8" index="25"/>
+	
+	<tile col="10" row="7" index="27"/>
+	<tile col="10" row="6" index="28"/>
+    <tile col="10" row="5" index="29"/>
+    <tile col="11" row="7" index="26"/>
+  </Tiles>
+  <Tiles level="4" startIndex="0" endIndex="27">
+  
+    <tile col="2" row="4" index="0"/>
+    <tile col="2" row="5" index="1"/>
+    
+    <tile col="3" row="5" index="2"/>
+    <tile col="4" row="5" index="3"/>
+    <tile col="5" row="5" index="4"/>
+    <tile col="6" row="5" index="5"/>
+    <tile col="7" row="5" index="6"/>
+    <tile col="8" row="5" index="7"/>
+    
+   	<tile col="9" row="5" index="8"/>
+   	<tile col="9" row="6" index="9"/>
+   	
+   	<tile col="10" row="6" index="10"/>
+   	<tile col="10" row="7" index="11"/>
+   	<tile col="10" row="8" index="12"/>
+
+	<tile col="11" row="8" index="13"/>
+	
+	<tile col="12" row="8" index="14"/>
+	<tile col="12" row="9" index="15"/>
+	<tile col="12" row="10" index="16"/>
+	
+	<tile col="11" row="10" index="17"/>
+	<tile col="11" row="11" index="18"/>
+	
+	<tile col="10" row="11" index="19"/>
+	<tile col="10" row="12" index="20"/>
+	
+	<tile col="9" row="12" index="21"/>
+	<tile col="9" row="13" index="22"/>
+	
+	<tile col="8" row="13" index="23"/>
+	<tile col="7" row="13" index="24"/>
+	
+	<tile col="6" row="13" index="25"/>
+	<tile col="6" row="12" index="26"/>
+	
+	<tile col="5" row="12" index="27"/>
+  </Tiles>
+  <tips type="1">
+ 
+  </tips>
+</map>

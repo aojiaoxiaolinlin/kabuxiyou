@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<horseManual>
+  <item id="600006">
+    <iddesc>1</iddesc>
+    <name>神风逆刃犬</name>
+    <channel>可在双叉岭拾取</channel>
+    <desc>神风逆刃犬是逆刃犬进化而来的神兽形态，飘逸神骏，可骑乘。</desc>
+  </item>
+  <item id="600003">
+    <iddesc>2</iddesc>
+    <name>五彩旋角牛</name>
+    <channel>在战场用英雄勋章兑换奖励可得</channel>
+    <desc>狰狞的双角，健壮的四肢。愤怒的五彩旋角牛面前，永远有一条平坦的通路。</desc>
+  </item>
+  <item id="600009">
+    <iddesc>3</iddesc>
+    <name>蛮荒怪力熊</name>
+    <channel>有几率出现在黑松林，蜈蚣岭和狮驼岭</channel>
+    <desc>身披铠甲的灰熊，手臂很粗壮，但硕大的身躯好不影响它迅捷的行动。暴躁勇猛，森林里其他动物见到它都敬而远之。</desc>
+  </item>
+  <item id="600012">
+    <iddesc>4</iddesc>
+    <name>火羽彩冠鸡</name>
+    <channel>暂时无法获得</channel>
+    <desc>头上的鸡冠已经化为烈焰，又拥有着火红色的羽毛、凶狠锋利的双爪，毫无疑问，它从来不是受欺负的那一类。</desc>
+  </item>
+  <item id="600015">
+    <iddesc>5</iddesc>
+    <name>汗血疾风马</name>
+    <channel>参加坐骑大赛兑换奖励获得</channel>
+    <desc>来自草原的异种神马，跑动时出汗如血，并以此得名。据传当它全速冲刺时，旁人甚至只能感觉到一阵红风刮过。</desc>
+  </item>
+  <item id="600018">
+    <iddesc>6</iddesc>
+    <name>音速金丝犬</name>
+    <channel>师徒系统兑换奖励可得</channel>
+    <desc>乖巧可爱又温顺聪明的神犬，毛茸茸的身躯下，蕴含着超越音速的恐怖爆发力。</desc>
+  </item>
+  <item id="600021">
+    <iddesc>7</iddesc>
+    <name>尖刺巨牙象</name>
+    <channel>家族战场兑换奖励可得</channel>
+    <desc>锋利的长齿，全身覆盖着华贵的金色铠甲，看见它，你所能想到的只有威猛、雄壮。</desc>
+  </item>
+  <item id="600043">
+    <iddesc>8</iddesc>
+    <name>公输木鸾鸡</name>
+    <channel>参加坐骑大赛兑换奖励获得</channel>
+    <desc>相传为公输班所制，奇异非凡，可骑乘</desc>
+  </item>
+  <item id="600046">
+    <iddesc>9</iddesc>
+    <name>仙翁踏云驴</name>
+    <channel>到【太古神境】挑战天神界副本开启宝箱有几率获得</channel>
+    <desc>原本是凡间的一头普通毛驴，却在其主人得道成仙之时踏云而来，驼仙翁一同升天而去，成为天神界有名的神兽之一。</desc>
+  </item>
+  <item id="600049">
+    <iddesc>10</iddesc>
+    <name>雷暴重压兽</name>
+    <channel>挑战VIP副本帝江之门可获得</channel>
+    <desc>如惊雷般狂暴，凶猛无敌，可骑乘。</desc>
+  </item>
+  <item id="600059">
+    <iddesc>11</iddesc>
+    <name>炫彩魔斑鹿</name>
+    <channel>炫光商城购买可得</channel>
+    <desc>表面上只是一头奇怪的红鼻子小鹿，却可以从它身上的魔斑看出不一般的潜质。神秘美丽的蓝色鹿角发出荧光，全身都充盈着摄魂的魔力。</desc>
+  </item>
+  <item id="600064">
+    <iddesc>12</iddesc>
+    <name>宝石粉粉猪</name>
+    <channel>炫光商城购买可得</channel>
+    <desc>犹如宝石般的碧绿双眼总是闪烁着不凡的光芒，虽然有点胖，但是壮硕魁梧的身材是其与生俱来的优势。</desc>
+  </item>
+  <item id="600069">
+    <iddesc>13</iddesc>
+    <name>迷离卜卜兔</name>
+    <channel>藏宝商店</channel>
+    <desc>爱吃萝卜的粉色兔子，是驾云下凡的月宫宝贝。驾驭着它奔跑如飞，所到之处，总是洒满皓月的光辉。</desc>
+  </item>
+  <item id="600074">
+    <iddesc>14</iddesc>
+    <name>霸气蓝魂狮</name>
+    <channel>藏宝商店</channel>
+    <desc>被水晶护佑的蓝魂狮，浑身充满森林之王的霸气。凡驾驭它的人，无论行到何处，都犹如在茂密森林中自由驰骋。</desc>
+  </item>
+  <item id="600079">
+    <iddesc>15</iddesc>
+    <name>金鳞火甲龙</name>
+    <channel>藏宝商店</channel>
+    <desc>曾居火山山底，上饮岩浆，下食翠玉，身披金鳞碧甲。走动时如火焰跳跃，敏捷如风。等待勇者收服，甘为胯下坐骑，誓死追随。</desc>
+  </item>
+  <item id="610001">
+    <iddesc>16</iddesc>
+    <name>逐风御灵鹤</name>
+    <channel>暂时无法获得</channel>
+    <desc>逐风御灵，驾鹤神游天地间</desc>
+  </item>
+  <item id="610003">
+    <iddesc>17</iddesc>
+    <name>幻影星际碟</name>
+    <channel>VIP商店可购买</channel>
+    <desc>星际探索队在一处神秘的外星遗迹中发现的高科技产品</desc>
+  </item>
+  <item id="610005">
+    <iddesc>18</iddesc>
+    <name>六品青玉莲</name>
+    <channel>VIP商店可购买</channel>
+    <desc>青玉流光，宝莲生辉，实是天地间不可多得的神物</desc>
+  </item>
+  <item id="610006">
+    <iddesc>19</iddesc>
+    <name>玄晶冰玉剑</name>
+    <channel>VIP坐骑</channel>
+    <desc>乘风御剑，飘然天地间</desc>
+  </item>
+  <item id="610007">
+    <iddesc>20</iddesc>
+    <name>祥云</name>
+    <channel>完成任务《逍遥仙境之旅》可得</channel>
+    <desc>叮叮博士耗费苦心研制出的简陋飞行坐骑，只能在逍遥仙境使用</desc>
+  </item>
+  <item id="610008">
+    <iddesc>21</iddesc>
+    <name>劈空飞剑</name>
+    <channel>限时坐骑，暂时无法获得</channel>
+    <desc>乘风劈空，霸气贯穿天地。限时飞行坐骑，使用期限：31天，可续费。</desc>
+  </item>
+  <item id="610009">
+    <iddesc>22</iddesc>
+    <name>卷卷飞絮羊</name>
+    <channel>限时坐骑，暂时无法获得</channel>
+    <desc>踏云而来的卷毛小羊，拥有雪白的身躯和懵懂的表情。乘着它飞过长空，落花满地，飞絮飘扬。使用期限：31天，可续费。</desc>
+  </item>
+  <item id="600084">
+    <iddesc>23</iddesc>
+    <name>胖胖竹叶熊</name>
+    <channel>藏宝商店</channel>
+    <desc>胖胖竹叶熊，体型肥硕似熊，憨态可掬，头圆尾短，非常可爱。骑上它游走西游世界，想多拉风就有多拉风！</desc>
+  </item>
+  <item id="600089">
+    <iddesc>24</iddesc>
+    <name>战天金顶象</name>
+    <channel>坐骑大赛奖励</channel>
+    <desc>尖锐无人能及的金顶，霸气威震天地。驾驭着战天金顶象游走四方，让旁人只能驻足仰望，望尘莫及。</desc>
+  </item>
+  <item id="600094">
+    <iddesc>25</iddesc>
+    <name>清风幻灵鹿</name>
+    <channel>藏宝商店</channel>
+    <desc>拥有独一无二的幻蓝双角和令人艳羡的光滑皮肤。徐徐行走时，优雅如清风拂面；奔跑如飞时，美丽的身姿引人注目。</desc>
+  </item>
+  <item id="600099">
+    <iddesc>26</iddesc>
+    <name>暗黑独角豹</name>
+    <channel>炫光商城限时购买，暂时无法获得</channel>
+    <desc>血红的双目，尖锐的独角，浑黑的身躯让人毛骨悚然，传说能驯服此凶猛神兽者，都非凡人。</desc>
+  </item>
+  <item id="600104">
+    <iddesc>27</iddesc>
+    <name>裂地金角牛</name>
+    <channel>寻宝奖励，暂时无法获得</channel>
+    <desc>无论烈日炎炎的盛夏，还是冰雪袭人的寒冬，裂地金角牛始终坚韧不拔地奔波在雪域高原。</desc>
+  </item>
+  <item id="600109">
+    <iddesc>28</iddesc>
+    <name>幽冥异角狮</name>
+    <channel>寻宝奖励</channel>
+    <desc>传说中的昆仑圣兽，甘愿自毁双目换得噬天之力，据闻能驾驭此兽者，必将百战不殆，闲庭信步间即可将敌人践踏在利爪下。</desc>
+  </item>
+  <item id="600114">
+    <iddesc>29</iddesc>
+    <name>火尾绝地龙</name>
+    <channel>寻宝奖励，暂时无法获得</channel>
+    <desc>永不疲惫的奔跑在绝地沙漠的上古神兽，身上的鳞片坚硬如铁。</desc>
+  </item>
+  <item id="600119">
+    <iddesc>30</iddesc>
+    <name>天玄青光龙</name>
+    <channel>寻宝罗盘第10期奖励</channel>
+    <desc>在极寒的昆仑山最接近天光之处，天玄青光龙正静待有缘人的到来，若能通过它的考验，便可驾驭它羽化登仙，翱翔天地间。</desc>
+  </item>
+  <item id="600124">
+    <iddesc>31</iddesc>
+    <name>怒角雷晶兽</name>
+    <channel>炫光商城购买可得</channel>
+    <desc>雷晶兽进化而来的神兽形态，可骑乘</desc>
+  </item>
+  <item id="600129">
+    <iddesc>32</iddesc>
+    <name>地藏拔山牛</name>
+    <channel>第三届封神之战奖励</channel>
+    <desc>传说中地藏菩萨的坐骑，样貌凶恶却温顺异常，拥有搬山填海之能。它似乎有使用不完的力气，曾跨越五洲四海不知疲倦。</desc>
+  </item>
+  <item id="600134">
+    <iddesc>33</iddesc>
+    <name>雪纹冰牙虎</name>
+    <channel>寻宝罗盘第11期奖励</channel>
+    <desc>雪纹冰牙虎身上的纹路犹如一望无际雪原上的雪浪，尖锐的冰牙可以割开任何猎物的喉咙，制服它，你就是它的主人！</desc>
+  </item>
+  <item id="610010">
+    <iddesc>34</iddesc>
+    <name>飞仙玉扇</name>
+    <channel>商城VIP宝阁购买</channel>
+    <desc>晴岚仙子手中玉扇，大可承天载地，小至细若针尖，驭驾乘风，翱翔天地间。</desc>
+  </item>
+  <item id="600139">
+    <iddesc>35</iddesc>
+    <name>幽煞凤尾龙</name>
+    <channel>寻宝罗盘第12期奖励</channel>
+    <desc>延续了上古神兽的血脉，幽煞凤尾龙平静的外表下流淌着奔腾的血液，龙首凤尾，火红的毛发充满了迸发的力量。</desc>
+  </item>
+  <item id="600144">
+    <iddesc>36</iddesc>
+    <name>掘地毒刺蝎</name>
+    <channel>商城购买</channel>
+    <desc>一身的毒刺，无坚不摧的外壳，蝎子与生俱来的气场总是如此令人胆寒。即使疾行万里，依然不知疲倦。</desc>
+  </item>
+  <item id="600149">
+    <iddesc>37</iddesc>
+    <name>钢甲烈魂马</name>
+    <channel>寻宝罗盘第13期奖励</channel>
+    <desc>生于烈火之中，火焰从来都是它的最佳拍档，踏火奔驰，炽热的灼烧感只会令它愈加兴奋而不知疲惫。</desc>
+  </item>
+  <item id="600154">
+    <iddesc>38</iddesc>
+    <name>噬天赤炼龙</name>
+    <channel>寻宝罗盘第14期奖励</channel>
+    <desc>继承了远古恐龙的珍稀基因，有着硬化了的头部和锐利的大爪子，能驯服它的，必定不是寻常之人！</desc>
+  </item>
+  <item id="600157">
+    <iddesc>39</iddesc>
+    <name>焰影御风兽</name>
+    <channel>商城购买</channel>
+    <desc>可乘风、能御火，奔跑起来犹如飞驰而过的火焰，难以看清其身影。</desc>
+  </item>
+  <item id="600162">
+    <iddesc>40</iddesc>
+    <name>金甲雪极熊</name>
+    <channel>寻宝罗盘第15期奖励</channel>
+    <desc>有着如雪般厚实的皮毛，身躯异常的威武雄壮，披挂着霸气的黄金铠甲，无法不令旁人望而却步！</desc>
+  </item>
+  <item id="600167">
+    <iddesc>41</iddesc>
+    <name>冰翼寒云龙</name>
+    <channel>寻宝罗盘第16期奖励</channel>
+    <desc>生长于苦寒之地，常年与刺骨寒冰为伍，能腾空、可疾驰，有着与生俱来的高傲与霸气。</desc>
+  </item>
+  <item id="600170">
+    <iddesc>42</iddesc>
+    <name>苍冥暗影甲</name>
+    <channel>商城购买</channel>
+    <desc>钢甲外壳，隐藏着莫测之力；风驰电掣，速度超乎想象；勇往直前，无人可挡其去路！</desc>
+  </item>
+  <item id="600175">
+    <iddesc>43</iddesc>
+    <name>震天独角虎</name>
+    <channel>寻宝罗盘第17期奖励</channel>
+    <desc>霸气的独角，锐利的牙齿，是它特有的标志。仰天一啸，地动山摇，奔驰间绝难望清其身影。</desc>
+  </item>
+  <item id="600178">
+    <iddesc>44</iddesc>
+    <name>神威冲锋甲</name>
+    <channel>商城购买</channel>
+    <desc>刚硬而顽强，极速而威武，神威冲锋甲动如脱兔，威猛无敌。</desc>
+  </item>
+  <item id="600183">
+    <iddesc>45</iddesc>
+    <name>凌空啸月狼</name>
+    <channel>寻宝罗盘第18期奖励</channel>
+    <desc>凌空啸月狼獠牙尖锐、身躯强壮，四肢孔武有力，一跃可达千里，驰骋天际，莫有敌手。</desc>
+  </item>
+  <item id="610011">
+    <iddesc>46</iddesc>
+    <name>神风烈焰鸟</name>
+    <channel>商城购买</channel>
+    <desc>双翅强壮、羽翼丰满，点点火光萦绕在尾，锐利的眼神展露其不屈的意志，翱翔天际，谁与争锋。</desc>
+  </item>
+  <item id="600188">
+    <iddesc>47</iddesc>
+    <name>天灵皓蓝马</name>
+    <channel>寻宝罗盘第19期奖励</channel>
+    <desc>继承了龙马的血脉，奔跑起来毛发张扬，蹄下生风，疾行万里也丝毫不影响其闪电般的速度。</desc>
+  </item>
+  <item id="600193">
+    <iddesc>48</iddesc>
+    <name>狂暴赤焰兽</name>
+    <channel>寻宝罗盘第20期奖励</channel>
+    <desc>狂暴赤焰兽，不但继承了狮王的外表，还将狮王狂暴的性格体现得淋漓尽致。毫无疑问，骑上它的你，将会是众人的焦点。</desc>
+  </item>
+  <item id="600201">
+    <iddesc>49</iddesc>
+    <name>圣殿狮王</name>
+    <channel>寻宝罗盘</channel>
+    <desc>战士们梦寐以求的坐骑，拥有出众的速度和强悍的战斗力，能在战场上横扫一切敢于阻挡的力量。</desc>
+  </item>
+  <item id="600196">
+    <iddesc>50</iddesc>
+    <name>巨钳霸王蟹</name>
+    <channel>魅力之星排行榜奖励</channel>
+    <desc>宝石加身、红彩抢眼，巨钳力惊人，霸气莫可敌，只有真正的王者方可驾驭巨钳霸王蟹！</desc>
+  </item>
+  <item id="600206">
+    <iddesc>51</iddesc>
+    <name>御前金猫</name>
+    <channel>寻宝罗盘</channel>
+    <desc>御前金猫，传说曾经是佛陀座前的坐骑，拥有很强大的灵力和敏捷的身手。</desc>
+  </item>
+  <item id="600211">
+    <iddesc>52</iddesc>
+    <name>狂暴野猪</name>
+    <channel>寻宝罗盘</channel>
+    <desc>狂暴野猪，脾气十分暴躁，十分难驾驭，奔跑时拥有强劲的爆发力。</desc>
+  </item>
+  <item id="600216">
+    <iddesc>53</iddesc>
+    <name>犄角金龙兽</name>
+    <channel>寻宝罗盘</channel>
+    <desc>犄角金龙兽，上天入地无所不能，王者的身份象征</desc>
+  </item>
+  <item id="600221">
+    <iddesc>54</iddesc>
+    <name>灵心幻云马</name>
+    <channel>龙腾盛会</channel>
+    <desc>灵心幻云马，只要骑乘者与之心灵相通，即可发挥无穷威力.</desc>
+  </item>
+  <item id="600226">
+    <iddesc>55</iddesc>
+    <name>疾风仙云鹤</name>
+    <channel>寻宝罗盘</channel>
+    <desc>疾风仙云鹤，拥有非凡的速度，被誉为最有仙气的生物。</desc>
+  </item>
+  <item id="600231">
+    <iddesc>56</iddesc>
+    <name>多角牦牛兽</name>
+    <channel>商城购买</channel>
+    <desc>头上长有多个战斗尖角，配上强有力的四肢，一副不服输，随时要与你决斗的态势。</desc>
+  </item>
+  <item id="600236">
+    <iddesc>57</iddesc>
+    <name>烽火麒麟兽</name>
+    <channel>寻宝罗盘</channel>
+    <desc>烽火麒麟兽，驰骋沙场将领们的最爱，经常在危险区域横冲直撞。</desc>
+  </item>
+  <item id="610014">
+    <iddesc>58</iddesc>
+    <name>无尽飞碟</name>
+    <channel>商城购买</channel>
+    <desc>来无影，去无踪，穿梭星际之间，无尽飞碟带你翱翔带你飞。</desc>
+  </item>
+  <item id="600241">
+    <iddesc>59</iddesc>
+    <name>狂暴霸龙</name>
+    <channel>商城购买</channel>
+    <desc>全身坚硬的盔甲丝毫不影响它的敏捷，这使得狂暴霸龙成为战场之中的大杀器！</desc>
+  </item>
+  <item id="600246">
+    <iddesc>60</iddesc>
+    <name>碧水青龙兽</name>
+    <channel>寻宝罗盘</channel>
+    <desc>脖子上挂的听说是青龙一族的传家宝，在宝物的力量下，碧水青龙兽拥有源源不断的力量。</desc>
+  </item>
+  <item id="600251">
+    <iddesc>61</iddesc>
+    <name>碧火幽狼</name>
+    <channel>2014年12月寻宝罗盘</channel>
+    <desc>矫捷的身手，残暴的性格，这只一只难以驯服的幽狼，传说只有真正的勇者卡布才能驾驭它！</desc>
+  </item>
+  <item id="610015">
+    <iddesc>62</iddesc>
+    <name>独角兽豪华马车</name>
+    <channel>2015春节期间商城出售</channel>
+    <desc>奢华尊贵的独角兽豪华马车，拥有这辆马车的卡布想必非常自豪！</desc>
+  </item>
+  <item id="600256">
+    <iddesc>63</iddesc>
+    <name>合金甲壳兽</name>
+    <channel>2015年6月26日起寻宝罗盘有几率获得</channel>
+    <desc>合金甲壳兽拥有刚硬无比的外壳，爪子如同刀子一般锋利，别看它无法飞行，奔跑起来可不是一般的快。</desc>
+  </item>
+  <item id="610018">
+    <iddesc>64</iddesc>
+    <name>海王鲨兽</name>
+    <channel>2015商城海王鲨兽礼包购买</channel>
+    <desc>它被称为“深海喷气机”在水中移动迅速。非常狰狞的性格，进入自己领地的家伙，就算比自己大也要袭击对方</desc>
+  </item>
+</horseManual>

@@ -1,0 +1,14 @@
+﻿<Torch>
+	<item id="1444" name="火星子" cost="2700"></item>
+	<item id="1447" name="水星子" cost="2700"></item>
+	<item id="100036" name="造化丹" cost="3500"></item>
+	<item id="800274" name="流光火炬" cost="1800"></item>
+	<item id="100266" name="霸云星名字框" cost="2500"></item>
+	<item id="100265" name="逆空流名字框" cost="2500"></item>
+	<item id="100037" name="落尘果" cost="1800"></item>
+	<item id="100212" name="小型攻击还灵丹" cost="600"></item>
+	<item id="100214" name="小型法术还灵丹" cost="600"></item>
+	<item id="100210" name="小型体力还灵丹" cost="600"></item>
+	<item id="100024" name="小历练丹" cost="50"></item>
+	<item id="100013" name="洗髓丹" cost="1500"></item>
+</Torch>

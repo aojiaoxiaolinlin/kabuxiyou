@@ -1,0 +1,19 @@
+<data>
+    <list  name="map" path="assets/gamehall/games/ballroc/map/">
+       <map id="0" key="map1" name="1.swf" x="126" y="50" >龙太子</map>
+       <map id="1" key="map2"  name="2.swf" x="23" y="38" >沙僧</map>
+	   <map id="2" key="map3" name="3.swf" x="93" y="40">猪八戒</map>
+	   <map id="3" key="map4" name="4.swf" x="70" y="18">孙悟空</map>
+	   <map id="4" key="map5" name="5.swf" x="100" y="25">唐僧</map>
+	   <map id="5" key="map6" name="6.swf" x="45" y="23">大块咪</map>
+	   <map id="6" key="map7" name="7.swf" x="60" y="17">大岩猴</map>
+	   <map id="7" key="map8" name="8.swf" x="108" y="26">烈焰蛇</map>
+	   <map id="8" key="map9" name="9.swf" x="62" y="14">荆甲螳螂</map>
+	   <map id="9" key="map10" name="11.swf" x="93" y="25">霜水鹤</map>
+	   <map id="10" key="map11" name="12.swf" x="41" y="31">踏云马王</map>
+	   <map id="13" key="map12" name="15.swf" x="97" y="30">傲天</map>
+	   <map id="11" key="map13" name="13.swf" x="63" y="17">三目犬精</map>
+	   <map id="12" key="map14" name="14.swf" x="90" y="30">红煞狼怪</map>
+       <map id="14" key="map15" name="10.swf" x="10" y="80">冲霄</map>
+    </list>
+</data>

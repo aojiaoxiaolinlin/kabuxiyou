@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ToolSynthesis>
+	<danfang df="1" id="100007" name="中金创药" level="1" power="10" type="1" from="0" price="0">
+		<tool need="1">100008</tool>
+		<tool need="1">300026</tool>
+	</danfang>
+	<danfang df="2" id="100010" name="小型法力药剂" level="1" power="10" type="1" from="0" price="0">
+		<tool need="1">300018</tool>
+		<tool need="1">300023</tool>
+		<tool need="1">300025</tool>
+	</danfang>
+	<danfang df="3" id="100006" name="大金创药" level="2" power="20" type="1" from="0" price="0">
+		<tool need="1">100007</tool>
+		<tool need="1">300027</tool>
+		<tool need="1">300026</tool>
+	</danfang>
+	<danfang df="4" id="100011" name="中型法力药剂" level="2" power="20" type="1" from="0" price="0">
+		<tool need="1">100010</tool>
+		<tool need="1">300024</tool>
+		<tool need="1">300025</tool>
+	</danfang>
+	<danfang df="5" id="100012" name="大型法力药剂" level="3" power="50" type="1" from="0" price="0">
+		<tool need="1">100011</tool>
+		<tool need="1">300024</tool>
+		<tool need="1">300025</tool>
+	</danfang>
+	<danfang df="6" id="100024" name="小历练丹" level="3" power="50" type="1" from="0" price="0">
+		<tool need="1">300022</tool>
+		<tool need="1">300016</tool>
+		<tool need="5">300021</tool>
+	</danfang>
+	<danfang df="7" id="100023" name="大历练丹" level="4" power="100" type="1" from="0" price="0">
+		<tool need="3">300020</tool>
+		<tool need="2">300016</tool>
+		<tool need="1">300022</tool>
+		<tool need="2">300019</tool>
+	</danfang>
+	<danfang df="10" id="100013" name="洗髓丹" level="5" power="200" type="1" from="0" price="0">
+		<tool need="6">300028</tool>
+		<tool need="1">300029</tool>
+		<tool need="4">300018</tool>
+		<tool need="5">300024</tool>
+	</danfang>
+	<danfang df="12" id="100025" name="大剑外框" level="3" power="50" type="3" from="0" price="0">
+		<tool need="12">300028</tool>
+		<tool need="10">300019</tool>
+		<tool need="10">300018</tool>
+		<tool need="10">300016</tool>
+	</danfang>
+	<danfang df="13" id="100026" name="闪电外框" level="3" power="50" type="3" from="0" price="0">
+		<tool need="12">300028</tool>
+		<tool need="10">300019</tool>
+		<tool need="10">300018</tool>
+		<tool need="10">300016</tool>
+	</danfang>
+	<danfang df="14" id="100027" name="普通外框" level="3" power="50" type="3" from="0" price="0">
+		<tool need="1">300015</tool>
+		<tool need="1">300019</tool>
+		<tool need="1">300022</tool>
+	</danfang>
+	<danfang df="15" id="100036" name="造化丹" level="5" power="200" type="1" from="0" price="0">
+		<tool need="6">300028</tool>
+		<tool need="3">300029</tool>
+		<tool need="2">300022</tool>
+		<tool need="2">300020</tool>
+	</danfang>
+	<danfang df="16" id="100031" name="活血散" level="4" power="100" type="1" from="1" price="5000">
+		<tool need="1">100006</tool>
+		<tool need="1">300019</tool>
+		<tool need="3">300027</tool>
+		<tool need="2">300026</tool>
+	</danfang>
+	<danfang df="18" id="620002" name="强生果" level="3" power="50" type="1" from="1" price="3000">
+		<tool need="2">620001</tool>
+		<tool need="10">300030</tool>
+		<tool need="2">300022</tool>
+	</danfang>
+	<danfang df="19" id="620004" name="凝神果" level="4" power="100" type="1" from="1" price="5000">
+		<tool need="6">620003</tool>
+		<tool need="10">300030</tool>
+		<tool need="2">300016</tool>
+		<tool need="2">300017</tool>
+	</danfang>
+	<danfang df="20" id="101000" name="金精元" level="1" power="10" type="2" from="0" price="0">
+		<tool need="1">300026</tool>
+		<tool need="1">300027</tool>
+	</danfang>
+	<danfang df="21" id="101001" name="木精元" level="1" power="10" type="2" from="0" price="0">
+		<tool need="1">300025</tool>
+		<tool need="1">300021</tool>
+	</danfang>
+	<danfang df="22" id="101002" name="水精元" level="1" power="10" type="2" from="0" price="0">
+		<tool need="1">300023</tool>
+		<tool need="1">300027</tool>
+	</danfang>
+	<danfang df="23" id="101003" name="火精元" level="1" power="10" type="2" from="0" price="0">
+		<tool need="1">300026</tool>
+		<tool need="1">300025</tool>
+	</danfang>
+	<danfang df="24" id="101004" name="土精元" level="1" power="10" type="2" from="0" price="0">
+		<tool need="1">300021</tool>
+		<tool need="1">300023</tool>
+	</danfang>
+	<danfang df="25" id="101005" name="妖精元" level="2" power="20" type="2" from="1" price="1500">
+		<tool need="1">300024</tool>
+		<tool need="1">300027</tool>
+		<tool need="1">300023</tool>
+	</danfang>
+	<danfang df="26" id="101006" name="魔精元" level="2" power="20" type="2" from="1" price="1500">
+		<tool need="1">300027</tool>
+		<tool need="1">300023</tool>
+		<tool need="1">300025</tool>
+	</danfang>
+	<danfang df="27" id="101007" name="毒精元" level="2" power="20" type="2" from="1" price="1500">
+		<tool need="1">300023</tool>
+		<tool need="1">300025</tool>
+		<tool need="1">300021</tool>
+	</danfang>
+	<danfang df="28" id="101008" name="怪精元" level="2" power="20" type="2" from="1" price="1500">
+		<tool need="1">300025</tool>
+		<tool need="1">300021</tool>
+		<tool need="1">300026</tool>
+	</danfang>
+	<danfang df="29" id="101009" name="翼精元" level="2" power="20" type="2" from="1" price="1500">
+		<tool need="1">300026</tool>
+		<tool need="1">300021</tool>
+		<tool need="1">300024</tool>
+	</danfang>
+	<danfang df="30" id="101010" name="风精元" level="3" power="50" type="2" from="1" price="3000">
+		<tool need="1">300015</tool>
+		<tool need="1">300027</tool>
+		<tool need="1">300023</tool>
+	</danfang>
+	<danfang df="31" id="101011" name="雷精元" level="3" power="50" type="2" from="1" price="3000">
+		<tool need="1">300020</tool>
+		<tool need="1">300026</tool>
+		<tool need="1">300021</tool>
+	</danfang>
+	<danfang df="32" id="100158" name="冰石" level="1" power="10" type="3" from="1" price="0">
+		<tool need="1">300018</tool>
+		<tool need="2">300023</tool>
+	</danfang>
+	<!-- <danfang df="33" id="730008" name="神奇营养化肥" level="2" power="20" type="1" from="0" price="0">
+		<tool need="1">730005</tool>
+		<tool need="1">730006</tool>
+		<tool need="1">730007</tool>
+	</danfang>
+	 -->
+	<danfang df="34" id="101012" name="幻精元" level="3" power="50" type="2" from="1" price="3000">
+		<tool need="1">300015</tool>
+		<tool need="1">300024</tool>
+		<tool need="1">300025</tool>
+	</danfang>
+	<danfang df="35" id="100999" name="冰精元" level="3" power="50" type="2" from="1" price="3000">
+		<tool need="1">300020</tool>
+		<tool need="1">300027</tool>
+		<tool need="1">300023</tool>
+	</danfang>
+	<danfang df="36" id="101014" name="灵精元" level="3" power="50" type="2" from="1" price="3000">
+		<tool need="1">300018</tool>
+		<tool need="1">300024</tool>
+		<tool need="1">300021</tool>
+	</danfang>
+</ToolSynthesis>

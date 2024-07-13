@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<towerMsg>
+	<msg id = "4" name = "霉运当头">
+		<txt id = "1" content = "后退@步"></txt>
+		<txt id = "2" content = "丢失1个普通骰子"></txt>
+		<txt id = "3" content ="丢失2个普通骰子"></txt>
+		<txt id = "4" content = "丢失3个普通骰子"></txt>
+		<txt id = "5" content = "退回当层的起点"></txt>
+	</msg>
+	<msg id = "5" name = "吉祥高照">
+		<txt id = "1" content = "前进@步"></txt>
+		<txt id = "2" content = "同样的点数再走一次"></txt>
+		<txt id = "3" content = "意外获得1个普通骰子"></txt>
+		<txt id = "4" content = "意外获得1个如意骰子"></txt>
+		<txt id = "5" content = "直接进入下一层"></txt>
+	</msg>
+	<msg id = "6" name = "旦夕祸福">
+		<txt id = "1" content = "后退@步"></txt>
+		<txt id = "2" content = "丢失1个普通骰子"></txt>
+		<txt id = "3" content = "丢失2个普通骰子"></txt>
+		<txt id = "4" content = "丢失3个普通骰子"></txt>
+		<txt id = "5" content = "退回当层的起点"></txt>
+		<txt id = "6" content = "前进@步"></txt>
+		<txt id = "7" content ="同样的点数再走一次"></txt>
+		<txt id = "8" content = "意外获得1个普通骰子"></txt>
+		<txt id = "9" content = "意外获得1个如意骰子"></txt>
+		<txt id = "10" content = "直接进入下一层"></txt>
+		<txt id = "11" content = "意外的捡到木宝箱"></txt>
+		<txt id = "12" content = "意外的捡到银宝箱"></txt>
+		<txt id = "13" content = "意外的捡到金宝箱"></txt>
+		<txt id = "14" content = "遇到玄塔护卫的阻拦，准备进入战斗！"></txt>
+		<txt id = "15" content = "遇到玄塔护法的阻拦，准备进入战斗！"></txt>
+	</msg>
+</towerMsg>

@@ -1,0 +1,17 @@
+﻿<rule>
+  <enemy id="15" name="海盗boss" frequencyBody="80" frequencyDown="80" frequencyMove="80" frequencyRemove="80"/>
+  <enemy id="14" name="高级海盗飞碟" frequencyBody="80" frequencyDown="80" frequencyMove="80" frequencyRemove="80"/>
+  <enemy id="13" name="初级海盗飞碟" frequencyBody="80" frequencyDown="80" frequencyMove="80" frequencyRemove="80"/>
+  <enemy id="12" name="超级海盗敢死队" frequencyBody="80" frequencyDown="80" frequencyMove="80" frequencyRemove="80"/>
+  <enemy id="11" name="海盗敢死队" frequencyBody="80" frequencyDown="80" frequencyMove="80" frequencyRemove="80"/>
+  <enemy id="10" name="高级海盗战机" frequencyBody="80" frequencyDown="80" frequencyMove="80" frequencyRemove="80"/>
+  <enemy id="9" name="中级海盗战机" frequencyBody="80" frequencyDown="80" frequencyMove="80" frequencyRemove="80"/>
+  <enemy id="8" name="初级海盗战机" frequencyBody="40" frequencyDown="80" frequencyMove="40" frequencyRemove="80"/>
+  <enemy id="7" name="高级海盗战车" frequencyBody="80" frequencyDown="80" frequencyMove="80" frequencyRemove="80"/>
+  <enemy id="6" name="中级海盗战车" frequencyBody="80" frequencyDown="80" frequencyMove="40" frequencyRemove="80"/>
+  <enemy id="5" name="初级海盗战车" frequencyBody="80" frequencyDown="80" frequencyMove="80" frequencyRemove="80"/>
+  <enemy id="4" name="海盗指挥官" frequencyBody="80" frequencyDown="80" frequencyMove="80" frequencyRemove="80"/>
+  <enemy id="3" name="高级海盗战士" frequencyBody="80" frequencyDown="80" frequencyMove="80" frequencyRemove="80"/>
+  <enemy id="2" name="中级海盗战士" frequencyBody="80" frequencyDown="80" frequencyMove="80" frequencyRemove="80"/>
+  <enemy id="1" name="初级海盗战士" frequencyBody="80" frequencyDown="80" frequencyMove="80" frequencyRemove="80"/>
+</rule>

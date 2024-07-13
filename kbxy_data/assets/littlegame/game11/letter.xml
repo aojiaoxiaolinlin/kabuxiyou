@@ -1,0 +1,12 @@
+<letters interval="1">
+	<level id="1" energy="20" letter="left,right,top"/>
+	<level id="2" energy="30" letter="left,right,top,bottom"/>
+	<level id="3" energy="32" letter="left,right,top,a"/>
+	<level id="4" energy="34" letter="left,right,top,a,d"/>
+	<level id="5" energy="36" letter="left,right,top,s,a,d"/>
+	<level id="6" energy="36" letter="left,right,top,w,s,a,d"/>
+	<level id="7" energy="20" letter="b,e,i,k,t,u,v,y,3"/>
+	<level id="8" energy="30" letter="b,f,g,q,s,t,y,z,1,6,9"/>
+	<level id="9" energy="32" letter="h,j,m,n,p,s,t,v,3,6,9"/>
+	<level id="10" energy="36" letter="b,e,f,g,h,i,j,k,m,n,p,q,s,t,u,v,y,z,1,3,6,9"/>
+</letters>

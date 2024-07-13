@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<question id="1" author="孟浩然" name="春晓" content="春眠不觉晓,处处闻啼鸟.夜来风雨声,__________.">
+		<answer id="1" content="A. 花落知多少"/>
+		<answer id="2" content="B. 复照青苔上"/>
+	</question>
+	<question id="2" author="王维" name="相思" content="红豆生南国,__________.愿君多采撷,此物最相思.">
+		<answer id="1" content="A. 处处闻啼鸟"/>
+		<answer id="2" content="B. 春来发几枝"/>
+	</question>
+	<question id="3" author="李白" name="静夜思" content="床前明月光,疑是地上霜.__________,低头思故乡.">
+		<answer id="1" content="A. 举头望明月"/>
+		<answer id="2" content="B. 驱车登古原"/>
+	</question>
+	<question id="4" author="王之涣" name="登鹳雀楼" content="白日依山尽,__________.欲穷千里目,更上一层楼.">
+		<answer id="1" content="A. 黄河入海流"/>
+		<answer id="2" content="B. 疑是地上霜"/>
+	</question>
+	<question id="5" author="柳宗元" name="江雪" content="千山鸟飞绝,万径人踪灭.孤舟蓑笠翁,__________.">
+		<answer id="1" content="A. 独钓寒江雪"/>
+		<answer id="2" content="B. 静听松风寒"/>
+	</question>
+	<question id="6" author="李商隐" name="登乐游原" content="向晚意不适,驱车登古原.__________,只是近黄昏.">
+		<answer id="1" content="A. 夕阳无限好"/>
+		<answer id="2" content="B. 萋萋满别情"/>
+	</question>
+	<question id="7" author="白居易" name="草" content="离离原上草,一岁一枯荣.野火烧不尽,__________.远芳侵古道,晴翠接荒城.又送王孙去,萋萋满别情.">
+		<answer id="1" content="A. 感时花溅泪"/>
+		<answer id="2" content="B. 春风吹又生"/>
+	</question>
+	<question id="8" author="孟郊" name="游子吟" content="慈母手中线,__________.临行密密缝,意恐迟迟归.谁言寸草心,报得三春晖.">
+		<answer id="1" content="A. 游子身上衣"/>
+		<answer id="2" content="B. 春风吹又生"/>
+	</question>
+	<question id="9" author="张九龄" name="望月怀远" content="海上生明月,__________.情人怨遥夜,竟夕起相思.灭烛怜光满,披衣觉露滋.不堪盈手赠,还寝梦佳期.">
+		<answer id="1" content="A. 天涯共此时"/>
+		<answer id="2" content="B. 老病有孤舟"/>
+	</question>
+	<question id="10" author="王勃" name="送杜少府之任蜀州" content="城阙辅三秦,风烟望五津.与君离别意,同是宦游人.海内存知己,__________.无为在岐路,儿女共沾巾.">
+		<answer id="1" content="A. 城春草木深"/>
+		<answer id="2" content="B. 天涯若比邻"/>
+	</question>
+	<question id="11" author="李白" name="望庐山瀑布" content="日照香炉生紫烟,遥看瀑布挂前川.______________,疑是银河落九天.">
+		<answer id="1" content="A. 飞流直下三千尺"/>
+		<answer id="2" content="B. 烟花三月下扬州"/>
+	</question>
+	<question id="12" author="杜牧" name="清明" content="清明时节雨纷纷,路上行人欲断魂.借问酒家何处有,______________.">
+		<answer id="1" content="A. 牧童遥指杏花村"/>
+		<answer id="2" content="B. 远上寒山石径斜"/>
+	</question>
+	<question id="13" author="孟浩然" name="过故人庄" content="故人具鸡黍,邀我至田家.绿树村边合,青山郭外斜.开轩面场圃,把酒话桑麻.__________,还来就菊花.">
+		<answer id="1" content="A. 待到重阳日"/>
+		<answer id="2" content="B. 欲穷千里目"/>
+	</question>
+	<question id="14" author="杜甫" name="登高" content="风急天高猿啸哀,渚清沙白鸟飞回.无边落木萧萧下,______________.万里悲秋常作客,百年多病独登台.艰难苦恨繁霜鬓,潦倒新停浊酒杯.">
+		<answer id="1" content="A. 路上行人欲断魂"/>
+		<answer id="2" content="B. 不尽长江滚滚来"/>
+	</question>
+	<question id="15" author="王维" name="九月九日忆山东兄弟" content="独在异乡为异客,______________. 遥知兄弟登高处,遍插茱萸少一人.">
+		<answer id="1" content="A. 每逢佳节倍思亲"/>
+		<answer id="2" content="B. 潦倒新停浊酒杯"/>
+	</question>
+</list>

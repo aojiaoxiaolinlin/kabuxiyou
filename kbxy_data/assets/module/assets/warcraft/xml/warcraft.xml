@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<warcraft>
+	<need>
+	  <tool id="100008" name="小金创药">
+		<price>20</price>
+		<special>0</special>
+	  </tool>
+	  <tool id="100007" name="中金创药">
+		<price>50</price>
+		<special>0</special>
+	  </tool>
+	  <tool id="100006" name="大金创药">
+		<price>120</price>
+		<special>0</special>
+	  </tool>
+	  <tool id="100031" name="活血散">
+		<price>350</price>
+		<special>0</special>
+	  </tool>
+	  <tool id="100010" name="小型法力药剂">
+		<price>100</price>
+		<special>0</special>
+	  </tool>
+	  <tool id="100011" name="中型法力药剂">
+		<price>150</price>
+		<special>0</special>
+	  </tool>
+	  <tool id="100012" name="大型法力药剂">
+		<price>200</price>
+		<special>0</special>
+	  </tool>
+	  <tool id="100029" name="聚法灵石">
+		<price>10</price>
+		<special>1</special>
+	  </tool>
+	  <tool id="100028" name="幻法灵石">
+		<price>200</price>
+		<special>1</special>
+	  </tool>
+	 </need>
+	<Exchange>
+	  <monster>
+		<item name="金小蛛" id="15" iid="1069">
+		  <heromedal>120</heromedal>
+		  <teammedal>0</teammedal>
+		  <killmedal>0</killmedal>
+		</item>
+		<item name="藤藤木" id="16" iid="1072">
+		  <heromedal>120</heromedal>
+		  <teammedal>0</teammedal>
+		  <killmedal>0</killmedal>
+		</item>
+		<item name="斗齿鲨" id="17" iid="1075">
+		  <heromedal>120</heromedal>
+		  <teammedal>0</teammedal>
+		  <killmedal>0</killmedal>
+		</item>
+		<item name="火苗娃" id="18" iid="1078">
+		  <heromedal>120</heromedal>
+		  <teammedal>0</teammedal>
+		  <killmedal>0</killmedal>
+		</item>
+		<item name="小石骨" id="19" iid="1081">
+		  <heromedal>120</heromedal>
+		  <teammedal>0</teammedal>
+		  <killmedal>0</killmedal>
+		</item>
+	  </monster>
+	  <tool>
+		<item name="洗髓丹" id="1" iid="100013">
+		  <heromedal>35</heromedal>
+		  <teammedal>0</teammedal>
+		  <killmedal>0</killmedal>
+		</item>
+		<item name="天香丸" id="2" iid="100034">
+		  <heromedal>20</heromedal>
+		  <teammedal>0</teammedal>
+		  <killmedal>0</killmedal>
+		</item>
+		<item name="活力豆" id="3" iid="100033">
+		  <heromedal>10</heromedal>
+		  <teammedal>0</teammedal>
+		  <killmedal>0</killmedal>
+		</item>
+		<item name="小历练丹" id="4" iid="100024">
+		  <heromedal>3</heromedal>
+		  <teammedal>0</teammedal>
+		  <killmedal>0</killmedal>
+		</item>
+		<item name="旋角仙兽蛋" id="5" iid="600001">
+		  <heromedal>50</heromedal>
+		  <teammedal>0</teammedal>
+		  <killmedal>0</killmedal>
+		</item>
+		<item name="五灵历练丹" id="20" iid="100078">
+		  <heromedal>0</heromedal>
+		  <teammedal>0</teammedal>
+		  <killmedal>25</killmedal>
+		</item>
+		<item name="造化丹" id="21" iid="100036">
+		  <heromedal>0</heromedal>
+		  <teammedal>0</teammedal>
+		  <killmedal>150</killmedal>
+		</item>
+		<item name="黄金葫芦" id="22" iid="100004">
+		  <heromedal>0</heromedal>
+		  <teammedal>0</teammedal>
+		  <killmedal>80</killmedal>
+		</item>
+		<item name="恶魔外框" id="23" iid="100079">
+		  <heromedal>0</heromedal>
+		  <teammedal>0</teammedal>
+		  <killmedal>220</killmedal>
+		</item>
+	  </tool>
+	  <equipment>
+		<item name="迷彩鸭舌帽（男）" id="6" iid="500123">
+		  <heromedal>300</heromedal>
+		  <teammedal>0</teammedal>
+		  <killmedal>0</killmedal>
+		</item>
+		<item name="迷彩军服（男）" id="7" iid="500124">
+		  <heromedal>500</heromedal>
+		  <teammedal>0</teammedal>
+		  <killmedal>0</killmedal>
+		</item>
+		<item name="黑色军靴（男）" id="8" iid="500125">
+		  <heromedal>380</heromedal>
+		  <teammedal>0</teammedal>
+		  <killmedal>0</killmedal>
+		</item>
+		<item name="黑色墨镜（男）" id="9" iid="500126">
+		  <heromedal>150</heromedal>
+		  <teammedal>0</teammedal>
+		  <killmedal>0</killmedal>
+		</item>
+		<item name="迷彩头巾（女）" id="10" iid="500127">
+		  <heromedal>300</heromedal>
+		  <teammedal>0</teammedal>
+		  <killmedal>0</killmedal>
+		</item>
+		<item name="迷彩军服（女）" id="11" iid="500128">
+		  <heromedal>500</heromedal>
+		  <teammedal>0</teammedal>
+		  <killmedal>0</killmedal>
+		</item>
+		<item name="黑色军靴（女）" id="12" iid="500129">
+		  <heromedal>380</heromedal>
+		  <teammedal>0</teammedal>
+		  <killmedal>0</killmedal>
+		</item>
+		<item name="黑色墨镜（女）" id="13" iid="500130">
+		  <heromedal>150</heromedal>
+		  <teammedal>0</teammedal>
+		  <killmedal>0</killmedal>
+		</item>
+		<item name="军官教鞭" id="14" iid="500131">
+		  <heromedal>150</heromedal>
+		  <teammedal>0</teammedal>
+		  <killmedal>0</killmedal>
+		</item>
+		<item name="红魔犄角（男）" id="24" iid="500145">
+		  <heromedal>0</heromedal>
+		  <teammedal>0</teammedal>
+		  <killmedal>260</killmedal>
+		</item>
+		<item name="恶魔礼服（男）" id="25" iid="500146">
+		  <heromedal>0</heromedal>
+		  <teammedal>0</teammedal>
+		  <killmedal>300</killmedal>
+		</item>
+		<item name="恶梦之翼（男）" id="26" iid="500147">
+		  <heromedal>0</heromedal>
+		  <teammedal>0</teammedal>
+		  <killmedal>280</killmedal>
+		</item>
+		<item name="黑魔长靴（男）" id="27" iid="500148">
+		  <heromedal>0</heromedal>
+		  <teammedal>0</teammedal>
+		  <killmedal>100</killmedal>
+		</item>
+		<item name="红魔犄角（女）" id="28" iid="500149">
+		  <heromedal>0</heromedal>
+		  <teammedal>0</teammedal>
+		  <killmedal>260</killmedal>
+		</item>
+		<item name="恶魔礼服（女）" id="29" iid="500150">
+		  <heromedal>0</heromedal>
+		  <teammedal>0</teammedal>
+		  <killmedal>300</killmedal>
+		</item>
+		<item name="恶梦之翼（女）" id="30" iid="500151">
+		  <heromedal>0</heromedal>
+		  <teammedal>0</teammedal>
+		  <killmedal>280</killmedal>
+		</item>
+		<item name="黑魔长靴（女）" id="31" iid="500152">
+		  <heromedal>0</heromedal>
+		  <teammedal>0</teammedal>
+		  <killmedal>100</killmedal>
+		</item>
+		<item name="炼狱三叉" id="32" iid="500153">
+		  <heromedal>0</heromedal>
+		  <teammedal>0</teammedal>
+		  <killmedal>180</killmedal>
+		</item>
+	  </equipment>
+	  <tuan>
+	     <item name="巨牙仙兽蛋" id="38" iid="600019">
+		  <heromedal>0</heromedal>
+		  <teammedal>50</teammedal>
+		  <killmedal>0</killmedal>
+		</item>
+		<item name="牙牙魔" id="33" iid="1118">
+		  <heromedal>0</heromedal>
+		  <teammedal>120</teammedal>
+		  <killmedal>0</killmedal>
+		</item>
+		<item name="赤月妖" id="34" iid="1121">
+		  <heromedal>0</heromedal>
+		  <teammedal>120</teammedal>
+		  <killmedal>0</killmedal>
+		</item>
+		<item name="喵喵仙" id="35" iid="1124">
+		  <heromedal>0</heromedal>
+		  <teammedal>120</teammedal>
+		  <killmedal>0</killmedal>
+		</item>
+		<item name="辟风幽" id="36" iid="1127">
+		  <heromedal>0</heromedal>
+		  <teammedal>120</teammedal>
+		  <killmedal>0</killmedal>
+		</item>
+		<item name="天幼狼" id="37" iid="1130">
+		  <heromedal>0</heromedal>
+		  <teammedal>120</teammedal>
+		  <killmedal>0</killmedal>
+		</item>
+	  </tuan>
+	</Exchange>
+</warcraft>

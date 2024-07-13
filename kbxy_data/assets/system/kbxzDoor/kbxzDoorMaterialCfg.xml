@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kbxzdoormaterial>
+	<material id ="300015" name ="幻影石" num ="1"></material>
+	<material id ="300026" name ="朱砂石" num ="1"></material>
+	<material id ="300016" name ="千年红木" num ="1"></material>
+	<material id ="300027" name ="青金石" num ="1"></material>
+	<material id ="300017" name ="远古青松" num ="1"></material>
+	<material id ="300028" name ="天地灵气" num ="2"></material>
+	<material id ="300018" name ="冰霜岩" num ="1"></material>
+	<material id ="300029" name ="女娲石" num ="3"></material>
+	<material id ="300019" name ="火云岩" num ="1"></material>
+	<material id ="300030" name ="神明果" num ="1"></material>
+	<material id ="300020" name ="天罡石" num ="1"></material>
+	<material id ="300031" name ="木板" num ="1"></material>
+	<material id ="300021" name ="精蓝石" num ="1"></material>
+	<material id ="300032" name ="布料" num ="1"></material>
+	<material id ="300022" name ="上清宝玉" num ="2"></material>
+	<material id ="300033" name ="原木" num ="1"></material>
+	<material id ="300023" name ="冰晶砂" num ="1"></material>
+	<material id ="300034" name ="实木" num ="1"></material>
+	<material id ="300024" name ="茅山玉" num ="1"></material>
+	<material id ="300035" name ="染料" num ="1"></material>
+	<material id ="300025" name ="松绿石" num ="1"></material>
+	<material id ="300036" name ="苍羽幻石" num ="4"></material>
+	<material id ="300038" name ="时空碎片" num ="2"></material>
+	<material id ="300037" name ="日月琉璃" num ="3"></material>
+	<material id ="440427" name ="3级灵玉精华" num ="10"></material>
+	<material id ="440444" name ="潜力石" num ="5"></material>
+	<material id ="440428" name ="4级灵玉精华" num ="15"></material>
+	<material id ="440429" name ="灵心石" num ="6"></material>
+</kbxzdoormaterial>

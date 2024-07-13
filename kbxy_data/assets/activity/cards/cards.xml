@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<items id="1" name="西天取经" award="1">
+		<item id="1" name="白龙马" rare="1"/>
+		<item id="2" name="猪八戒" rare="1"/>
+		<item id="3" name="沙僧" rare="1"/>
+		<item id="4" name="唐僧" rare="2"/>
+		<item id="5" name="孙悟空" rare="3"/>
+	</items>
+	<items id="2" name="妖王争霸" award="2">
+		<item id="6" name="金甲" rare="1"/>
+		<item id="7" name="绿刺" rare="1"/>
+		<item id="8" name="九幽" rare="3"/>
+		<item id="9" name="惊雷" rare="3"/>
+		<item id="10" name="幻咒" rare="4"/>
+	</items>
+	<items id="3" name="千年恩怨" award="3">
+		<item id="11" name="红煞雪狼" rare="1"/>
+		<item id="12" name="噬魂" rare="3"/>
+		<item id="13" name="蓝羽" rare="3"/>
+		<item id="14" name="傲天" rare="5"/>
+		<item id="15" name="冲霄" rare="5"/>
+	</items>
+	<items id="4" name="苍炼王者" award="4">
+		<item id="16" name="苍炼狂鲨" rare="1"/>
+		<item id="17" name="苍炼木神" rare="1"/>
+		<item id="18" name="苍炼石骨" rare="2"/>
+		<item id="19" name="苍炼火圣" rare="3"/>
+		<item id="20" name="苍炼金蛛" rare="3"/>
+	</items>
+	<items id="5" name="苍炼尊者" award="5">
+		<item id="21" name="苍炼獠魔" rare="1"/>
+		<item id="22" name="苍炼月妖" rare="2"/>
+		<item id="23" name="苍炼厉猫" rare="2"/>
+		<item id="24" name="苍炼风鹫" rare="3"/>
+		<item id="25" name="苍炼天卓狼" rare="4"/>
+	</items>
+	<items id="6" name="帝江传说" award="6">
+		<item id="26" name="帝江刺客" rare="2"/>
+		<item id="27" name="帝江剑仆" rare="3"/>
+		<item id="28" name="帝江枪将" rare="4"/>
+		<item id="29" name="帝江浪人" rare="4"/>
+		<item id="30" name="帝江魔尊" rare="5"/>
+	</items>
+	<items id="9" name="太古神境" award="7">
+		<item id="31" name="伏龙窟" rare="2"/>
+		<item id="32" name="天神界" rare="2"/>
+		<item id="33" name="敬佛堂" rare="2"/>
+		<item id="34" name="地魂界" rare="2"/>
+		<item id="35" name="锁妖塔" rare="2"/>
+	</items>
+	<items id="8" name="刑天之门" award="8">
+		<item id="36" name="摄魂使者" rare="1"/>
+		<item id="37" name="横钢战牛" rare="1"/>
+		<item id="38" name="钢斧鳄" rare="3"/>
+		<item id="39" name="赤蝎皇" rare="4"/>
+		<item id="40" name="刑天" rare="5"/>
+	</items>
+	<items id="7" name="神仙传说" award="9">
+		<item id="41" name="文殊菩萨" rare="2"/>
+		<item id="42" name="太白金星" rare="4"/>
+		<item id="43" name="太上老君" rare="4"/>
+		<item id="44" name="观音菩萨" rare="4"/>
+		<item id="45" name="九天真王" rare="5"/>
+	</items>
+</data>

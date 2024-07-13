@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+	<!-- itemType   0：背包道具，1：历练，2：修为，3：铜钱，4：灵兽，5：非背包道具 -->
+	<onlineAward>
+		<award id="1" box="1" itemType="5" itemId="0" name="点赞卡"  desc="使用后，每张可令对方获得1个点赞值" num="1"/>
+		<award id="2" box="1" itemType="1" itemId="0" name="历练" desc="" num="5000"/>
+		<award id="3" box="1" itemType="3" itemId="0" name="铜钱" desc="" num="300"/>
+  		<award id="4" box="2" itemType="5" itemId="0" name="点赞卡"  desc="使用后，每张可令对方获得1个点赞值" num="2"/>
+  		<award id="5" box="2" itemType="1" itemId="0" name="历练" desc="" num="10000"/>
+  		<award id="6" box="2" itemType="3" itemId="0" name="铜钱"  desc="" num="800"/>
+  		<award id="7" box="3" itemType="5" itemId="0" name="点赞卡"  desc="使用后，每张可令对方获得1个点赞值" num="3"/>
+  		<award id="8" box="3" itemType="1" itemId="0" name="历练" desc="" num="15000"/>
+  		<award id="9" box="3" itemType="3" itemId="0" name="铜钱"  desc="" num="1000"/>
+  		<award id="10" box="4" itemType="5" itemId="0" name="能量"  desc="能量点数积累一定数量可以获得一定的道具" num="30"/>
+  		<award id="11" box="4" itemType="1" itemId="0" name="历练" desc="" num="20000"/>
+  		<award id="12" box="4" itemType="3" itemId="0" name="铜钱"  desc="" num="1000"/>
+  		<award id="13" box="5" itemType="5" itemId="0" name="能量"  desc="能量点数积累一定数量可以获得一定的道具" num="30"/>
+  		<award id="14" box="5" itemType="1" itemId="0" name="历练" desc="" num="25000"/>
+  		<award id="15" box="5" itemType="3" itemId="0" name="铜钱"  desc="" num="1000"/>
+  		<award id="16" box="6" itemType="5" itemId="0" name="32点赞卡" desc="使用后，每张可令对方获得32个点赞值" num="1"/>
+  		<award id="17" box="6" itemType="1" itemId="0" name="历练" desc="" num="30000"/>
+  		<award id="18" box="6" itemType="3" itemId="0" name="铜钱"  desc="" num="1000"/>
+	</onlineAward>
+	<levelAward>
+		<award id="1" box="1" itemType="0" itemId="100006" name="大金创药" desc="" num="5"/>
+  		<award id="2" box="1" itemType="2" itemId="0" name="抗性修为"  desc="" num="20"/>
+  		<award id="3" box="1" itemType="1" itemId="0" name="历练"  desc="" num="10000"/>
+  		<award id="4" box="2" itemType="0" itemId="100002" name="青铜葫芦" desc="" num="2"/>
+  		<award id="5" box="2" itemType="1" itemId="0" name="历练" desc="" num="10000"/>
+  		<award id="6" box="2" itemType="3" itemId="0" name="铜钱"  desc="" num="200"/>
+  		<award id="7" box="3" itemType="1" itemId="0" name="历练" desc="" num="30000"/>
+  		<award id="8" box="3" itemType="3" itemId="0" name="铜钱" desc="" num="300"/>
+  		<award id="9" box="3" itemType="2" itemId="0" name="体力修为" desc="" num="20"/>
+  		<award id="10" box="4" itemType="0" itemId="100003" name="白银葫芦"  desc="" num="2"/>
+  		<award id="11" box="4"  itemType="1" itemId="0" name="历练" desc="" num="35000"/>
+  		<award id="12" box="4" itemType="2" itemId="0" name="防御修为" desc="" num="40"/>
+  		<award id="13" box="5" itemType="0" itemId="100005" name="蟠桃"  desc="" num="2"/>
+  		<award id="14" box="5" itemType="1" itemId="0" name="历练" desc="" num="45000"/>
+  		<award id="15" box="5" itemType="2" itemId="0" name="法术修为" desc="" num="40"/>
+  		<award id="16" box="6" itemType="0" itemId="100013" name="洗髓丹"  desc="" num="1"/>
+  		<award id="17" box="6" itemType="1" itemId="0" name="历练" desc="" num="45000"/>
+  		<award id="18" box="6" itemType="2" itemId="0" name="速度修为"  desc="" num="60"/>
+  		<award id="19" box="7"  itemType="0" itemId="100004" name="黄金葫芦" desc="" num="1"/>
+  		<award id="20" box="7" itemType="1" itemId="0" name="历练" desc="" num="50000"/>
+  		<award id="21" box="7" itemType="3" itemId="0" name="铜钱"  desc="" num="3500"/>
+  		<award id="22" box="8" itemType="0" itemId="100013" name="洗髓丹" desc="" num="2"/>
+  		<award id="23" box="8" itemType="1" itemId="0" name="历练" desc="" num="55000"/>
+  		<award id="24" box="8" itemType="2" itemId="0" name="攻击修为"  desc="" num="60"/>
+	</levelAward>
+	<powerAward>
+		<award id="1" box="1" itemType="3" itemId="0" name="铜钱"  power="60" num="3000"/>
+		<award id="2" box="2" itemType="0" itemId="103013" name="寻宝罗盘"  power="90" num="1"/>
+  		<award id="3" box="2" itemType="0" itemId="300029" name="女娲石"  power="90" num="1"/>
+  		<award id="4" box="3" itemType="0" itemId="100208" name="双倍历练丹" power="150" num="1"/>
+  		<award id="5" box="3" itemType="0" itemId="100112" name="速度还灵丹"  power="150" num="1"/>
+  		<award id="6" box="4" itemType="4" itemId="2687" name="深渊小子" power="240" num="1"/>
+  		<award id="7" box="4" itemType="0" itemId="100152" name="法术速度洗髓丹" power="240" num="1"/>
+  		<award id="8" box="4" itemType="0" itemId="100004" name="黄金葫芦" power="240" num="1"/>
+  		<award id="9" box="4" itemType="0" itemId="103009" name="洗炼石" power="240" num="1"/>
+	</powerAward>
+	<pet name="深渊小子" id="2687" price="240"></pet>
+</main>

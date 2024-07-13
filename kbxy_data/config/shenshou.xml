@@ -1,0 +1,123 @@
+﻿<shenshous>
+
+<shenshouyuan level = "1">
+	<peiyu>1</peiyu>
+	<cost>1000</cost>
+	<monster>2</monster>
+	<guozi>40</guozi>
+</shenshouyuan>
+<shenshouyuan level = "2">
+	<peiyu>2</peiyu>
+	<cost>1200</cost>
+	<monster>2</monster>
+	<guozi>45</guozi>
+</shenshouyuan>
+<shenshouyuan level = "3">
+	<peiyu>3</peiyu>
+	<cost>1500</cost>
+	<monster>2</monster>
+	<guozi>50</guozi>
+</shenshouyuan>
+<shenshouyuan level = "4">
+	<peiyu>4</peiyu>
+	<cost>1800</cost>
+	<monster>3</monster>
+	<guozi>50</guozi>
+</shenshouyuan>
+<shenshouyuan level = "5">
+	<peiyu>5</peiyu>
+	<cost>2200</cost>
+	<monster>3</monster>
+	<guozi>55</guozi>
+</shenshouyuan>
+<shenshouyuan level = "6">
+	<peiyu>6</peiyu>
+	<cost>2600</cost>
+	<monster>3</monster>
+	<guozi>60</guozi>
+</shenshouyuan>
+<shenshouyuan level = "7">
+	<peiyu>7</peiyu>
+	<cost>3000</cost>
+	<monster>4</monster>
+	<guozi>60</guozi>
+</shenshouyuan>
+<shenshouyuan level = "8">
+	<peiyu>8</peiyu>
+	<cost>3400</cost>
+	<monster>4</monster>
+	<guozi>65</guozi>
+</shenshouyuan>
+<shenshouyuan level = "9">
+	<peiyu>9</peiyu>
+	<cost>3800</cost>
+	<monster>4</monster>
+	<guozi>70</guozi>
+</shenshouyuan>
+<shenshouyuan level = "10">
+	<peiyu>10</peiyu>
+	<cost>4400</cost>
+	<monster>5</monster>
+	<guozi>80</guozi>
+</shenshouyuan>
+<shenshouyuan level = "11">
+	<peiyu>11</peiyu>
+	<cost>4900</cost>
+	<monster>5</monster>
+	<guozi>80</guozi>
+</shenshouyuan>
+<shenshouyuan level = "12">
+	<peiyu>12</peiyu>
+	<cost>5400</cost>
+	<monster>6</monster>
+	<guozi>90</guozi>
+</shenshouyuan>
+<shenshouyuan level = "13">
+	<peiyu>13</peiyu>
+	<cost>5900</cost>
+	<monster>6</monster>
+	<guozi>90</guozi>
+</shenshouyuan>
+<shenshouyuan level = "14">
+	<peiyu>15</peiyu>
+	<cost>6400</cost>
+	<monster>7</monster>
+	<guozi>100</guozi>
+</shenshouyuan>
+<shenshouyuan level = "15">
+	<peiyu>16</peiyu>
+	<cost>6900</cost>
+	<monster>7</monster>
+	<guozi>110</guozi>
+</shenshouyuan>
+<shenshouyuan level = "16">
+	<peiyu>17</peiyu>
+	<cost>7400</cost>
+	<monster>8</monster>
+	<guozi>110</guozi>
+</shenshouyuan>
+<shenshouyuan level = "17">
+	<peiyu>18</peiyu>
+	<cost>7900</cost>
+	<monster>8</monster>
+	<guozi>120</guozi>
+</shenshouyuan>
+<shenshouyuan level ="18">
+	<peiyu>20</peiyu>
+	<cost>8400</cost>
+	<monster>9</monster>
+	<guozi>120</guozi>
+</shenshouyuan>
+<shenshouyuan level = "19">
+	<peiyu>22</peiyu>
+	<cost>8900</cost>
+	<monster>9</monster>
+	<guozi>130</guozi>
+</shenshouyuan>
+<shenshouyuan level = "20">
+	<peiyu>25</peiyu>
+	<cost>10000</cost>
+	<monster>10</monster>
+	<guozi>140</guozi>
+</shenshouyuan>
+</shenshous>

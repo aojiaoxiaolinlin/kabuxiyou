@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Exchange>
+  <monster/>
+  <tool>
+    <item name="祭龙台" id="74" iid="800340">
+      <heromedal>250</heromedal>
+      <teammedal>0</teammedal>
+      <killmedal>0</killmedal>
+      <longpomedal>0</longpomedal>
+      <wangzuomedal>0</wangzuomedal>
+    </item>
+    <item name="皇室祭坛" id="75" iid="800341">
+      <heromedal>250</heromedal>
+      <teammedal>0</teammedal>
+      <killmedal>0</killmedal>
+      <longpomedal>0</longpomedal>
+      <wangzuomedal>0</wangzuomedal>
+    </item>
+    <item name="派对舞池" id="76" iid="800342">
+      <heromedal>250</heromedal>
+      <teammedal>0</teammedal>
+      <killmedal>0</killmedal>
+      <longpomedal>0</longpomedal>
+      <wangzuomedal>0</wangzuomedal>
+    </item>
+    <item name="降龙战鼓" id="77" iid="800343">
+      <heromedal>0</heromedal>
+      <teammedal>0</teammedal>
+      <killmedal>0</killmedal>
+      <longpomedal>0</longpomedal>
+      <wangzuomedal>150</wangzuomedal>
+    </item>
+    <item name="帝王战鼓" id="78" iid="800344">
+      <heromedal>0</heromedal>
+      <teammedal>0</teammedal>
+      <killmedal>0</killmedal>
+      <longpomedal>0</longpomedal>
+      <wangzuomedal>150</wangzuomedal>
+    </item>
+    <item name="摇滚太鼓" id="79" iid="800345">
+      <heromedal>0</heromedal>
+      <teammedal>0</teammedal>
+      <killmedal>0</killmedal>
+      <longpomedal>0</longpomedal>
+      <wangzuomedal>150</wangzuomedal>
+    </item>
+    <item name="御龙圣杯" id="85" iid="800346">
+      <heromedal>0</heromedal>
+      <teammedal>0</teammedal>
+      <killmedal>80</killmedal>
+      <longpomedal>0</longpomedal>
+      <wangzuomedal>0</wangzuomedal>
+    </item>
+    <item name="帝王圣杯" id="86" iid="800347">
+      <heromedal>0</heromedal>
+      <teammedal>0</teammedal>
+      <killmedal>80</killmedal>
+      <longpomedal>0</longpomedal>
+      <wangzuomedal>0</wangzuomedal>
+    </item>
+    <item name="幻彩射灯" id="87" iid="800348">
+      <heromedal>0</heromedal>
+      <teammedal>0</teammedal>
+      <killmedal>80</killmedal>
+      <longpomedal>0</longpomedal>
+      <wangzuomedal>0</wangzuomedal>
+    </item>
+    <item name="斩龙兵器架" id="96" iid="800355">
+      <heromedal>0</heromedal>
+      <teammedal>0</teammedal>
+      <killmedal>0</killmedal>
+      <longpomedal>180</longpomedal>
+      <wangzuomedal>0</wangzuomedal>
+    </item>
+    <item name="天帝神兵架" id="97" iid="800350">
+      <heromedal>0</heromedal>
+      <teammedal>0</teammedal>
+      <killmedal>0</killmedal>
+      <longpomedal>180</longpomedal>
+      <wangzuomedal>0</wangzuomedal>
+    </item>
+    <item name="高级吧台" id="98" iid="800351">
+      <heromedal>0</heromedal>
+      <teammedal>0</teammedal>
+      <killmedal>0</killmedal>
+      <longpomedal>180</longpomedal>
+      <wangzuomedal>0</wangzuomedal>
+    </item>
+    <item name="伏龙座" id="100" iid="800352">
+      <heromedal>0</heromedal>
+      <teammedal>80</teammedal>
+      <killmedal>0</killmedal>
+      <longpomedal>0</longpomedal>
+      <wangzuomedal>0</wangzuomedal>
+    </item>
+    <item name="帝王宝座" id="101" iid="800353">
+      <heromedal>0</heromedal>
+      <teammedal>80</teammedal>
+      <killmedal>0</killmedal>
+      <longpomedal>0</longpomedal>
+      <wangzuomedal>0</wangzuomedal>
+    </item>
+    <item name="豪华沙发" id="102" iid="800354">
+      <heromedal>0</heromedal>
+      <teammedal>80</teammedal>
+      <killmedal>0</killmedal>
+      <longpomedal>0</longpomedal>
+      <wangzuomedal>0</wangzuomedal>
+    </item>
+  </tool>
+  <equipment/>
+</Exchange>

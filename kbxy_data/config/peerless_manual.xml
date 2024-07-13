@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<peerlessmanual>
+	<peerless id = "1">
+		<itemid>100800</itemid>
+		<name>九天无双印记</name>
+		<type>1</type>
+		<monsterid>1825</monsterid>
+		<applicablename>九天战猫</applicablename>
+		<debris>105</debris>
+		<costcoin>5000</costcoin>
+	</peerless>
+	<peerless id = "2">
+		<itemid>100801</itemid>
+		<name>霸刀无双印记</name>
+		<type>1</type>
+		<monsterid>1826</monsterid>
+		<applicablename>霸刀螳螂</applicablename>
+		<debris>105</debris>
+		<costcoin>5000</costcoin>
+	</peerless>
+	<peerless id = "3">
+		<itemid>100802</itemid>
+		<name>太虚无双印记</name>
+		<type>1</type>
+		<monsterid>1827</monsterid>
+		<applicablename>太虚水云鹤</applicablename>
+		<debris>105</debris>
+		<costcoin>5000</costcoin>
+	</peerless>
+	<peerless id = "4">
+		<itemid>100803</itemid>
+		<name>焚天无双印记</name>
+		<type>1</type>
+		<monsterid>1828</monsterid>
+		<applicablename>焚天血蟒</applicablename>
+		<debris>105</debris>
+		<costcoin>5000</costcoin>
+	</peerless>
+	<peerless id = "5">
+		<itemid>100804</itemid>
+		<name>地煞无双印记</name>
+		<type>1</type>
+		<monsterid>1829</monsterid>
+		<applicablename>地煞猴王</applicablename>
+		<debris>105</debris>
+		<costcoin>5000</costcoin>
+	</peerless>
+	<peerless id = "6">
+		<itemid>100805</itemid>
+		<name>圣殿无双印记</name>
+		<type>1</type>
+		<monsterid>2793</monsterid>
+		<applicablename>圣殿炽烈凰</applicablename>
+		<debris>105</debris>
+		<costcoin>5000</costcoin>
+	</peerless>
+	<peerless id = "7">
+		<itemid>100806</itemid>
+		<name>烈焰无双印记</name>
+		<type>1</type>
+		<monsterid>2762</monsterid>
+		<applicablename>烈焰破坏神</applicablename>
+		<debris>105</debris>
+		<costcoin>5000</costcoin>
+	</peerless>
+	<peerless id = "8">
+		<itemid>100807</itemid>
+		<name>紫狱无双印记</name>
+		<type>1</type>
+		<monsterid>2590</monsterid>
+		<applicablename>紫狱龙王</applicablename>
+		<debris>105</debris>
+		<costcoin>5000</costcoin>
+	</peerless>
+	<peerless id = "9">
+		<itemid>100808</itemid>
+		<name>九天无双体验章</name>
+		<type>2</type>
+		<monsterid>1825</monsterid>
+		<applicablename>九天战猫</applicablename>
+		<debris>0</debris>
+		<costcoin>0</costcoin>
+	</peerless>
+	<peerless id = "10">
+		<itemid>100809</itemid>
+		<name>霸刀无双体验章</name>
+		<type>2</type>
+		<monsterid>1826</monsterid>
+		<applicablename>霸刀螳螂</applicablename>
+		<debris>0</debris>
+		<costcoin>0</costcoin>
+	</peerless>
+	<peerless id = "11">
+		<itemid>100810</itemid>
+		<name>太虚无双体验章</name>
+		<type>2</type>
+		<monsterid>1827</monsterid>
+		<applicablename>太虚水云鹤</applicablename>
+		<debris>0</debris>
+		<costcoin>0</costcoin>
+	</peerless>
+	<peerless id = "12">
+		<itemid>100811</itemid>
+		<name>焚天无双体验章</name>
+		<type>2</type>
+		<monsterid>1828</monsterid>
+		<applicablename>焚天血蟒</applicablename>
+		<debris>0</debris>
+		<costcoin>0</costcoin>
+	</peerless>
+	<peerless id = "13">
+		<itemid>100812</itemid>
+		<name>地煞无双体验章</name>
+		<type>2</type>
+		<monsterid>1829</monsterid>
+		<applicablename>地煞猴王</applicablename>
+		<debris>0</debris>
+		<costcoin>0</costcoin>
+	</peerless>
+	<peerless id = "14">
+		<itemid>100813</itemid>
+		<name>圣殿无双体验章</name>
+		<type>2</type>
+		<monsterid>2793</monsterid>
+		<applicablename>圣殿炽烈凰</applicablename>
+		<debris>0</debris>
+		<costcoin>0</costcoin>
+	</peerless>
+	<peerless id = "15">
+		<itemid>100814</itemid>
+		<name>烈焰无双体验章</name>
+		<type>2</type>
+		<monsterid>2762</monsterid>
+		<applicablename>烈焰破坏神</applicablename>
+		<debris>0</debris>
+		<costcoin>0</costcoin>
+	</peerless>
+	<peerless id = "16">
+		<itemid>100815</itemid>
+		<name>紫狱无双体验章</name>
+		<type>2</type>
+		<monsterid>2590</monsterid>
+		<applicablename>紫狱龙王</applicablename>
+		<debris>0</debris>
+		<costcoin>0</costcoin>
+	</peerless>
+</peerlessmanual>

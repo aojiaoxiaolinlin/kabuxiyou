@@ -1,0 +1,74 @@
+﻿<NewHand>
+	<item id="1" name="西瓜">
+		<tips1>2个字</tips1>
+		<tips2>水果</tips2>
+	</item>
+	<item id="2" name="蝴蝶">
+		<tips1>2个字</tips1>
+		<tips2>昆虫</tips2>
+	</item>
+	<item id="3" name="伞">
+		<tips1>1个字</tips1>
+		<tips2>日常用品</tips2>
+	</item>
+	<item id="4" name="花">
+		<tips1>1个字</tips1>
+		<tips2>一种植物</tips2>
+	</item>
+	<item id="5" name="苹果">
+		<tips1>2个字</tips1>
+		<tips2>水果</tips2>
+	</item>
+    <item id="6" name="鱼">
+		<tips1>1个字</tips1>
+		<tips2>一种动物</tips2>
+	</item>
+    <item id="7" name="树">
+		<tips1>1个字</tips1>
+		<tips2>一种植物</tips2>
+	</item>
+    <item id="8" name="树叶">
+		<tips1>2个字</tips1>
+		<tips2>树的一部分</tips2>
+	</item>
+    <item id="9" name="猪">
+		<tips1>1个字</tips1>
+		<tips2>动物</tips2>
+	</item>
+    <item id="10" name="三叶草">
+		<tips1>3个字</tips1>
+		<tips2>有三片叶子的植物</tips2>
+	</item>
+    <item id="11" name="胡萝卜">
+		<tips1>3个字</tips1>
+		<tips2>一种蔬菜</tips2>
+	</item>
+    <item id="12" name="蘑菇">
+		<tips1>2个字</tips1>
+		<tips2>一种蔬菜</tips2>
+	</item>
+    <item id="13" name="蛇">
+		<tips1>1个字</tips1>
+		<tips2>动物</tips2>
+	</item>
+    <item id="14" name="梨">
+		<tips1>1个字</tips1>
+		<tips2>一种水果</tips2>
+	</item>
+    <item id="15" name="香蕉">
+		<tips1>2个字</tips1>
+		<tips2>水果</tips2>
+	</item>
+    <item id="16" name="葡萄">
+		<tips1>2个字</tips1>
+		<tips2>水果</tips2>
+	</item>
+    <item id="17" name="桃子">
+		<tips1>2个字</tips1>
+		<tips2>一种水果</tips2>
+	</item>
+    <item id="18" name="气球">
+		<tips1>2个字</tips1>
+		<tips2>日常生活常见</tips2>
+	</item>
+</NewHand>

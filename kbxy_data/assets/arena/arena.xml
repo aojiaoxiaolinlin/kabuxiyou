@@ -1,0 +1,888 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<defaultlist>
+  <item id="1590">
+    <type>2</type>
+    <sex>0</sex>
+    <name>紫魔狼</name>
+    <cost>500</cost>
+    <desc>神秘而幽暗，魔的天性化作无边的紫色环绕周身，即使再小的身躯，也使人畏惧。</desc>
+    <sort_id>100001</sort_id>
+    <limit>无限制</limit>
+  </item>
+  <item id="1593">
+    <type>2</type>
+    <sex>0</sex>
+    <name>天齿虎</name>
+    <cost>500</cost>
+    <desc>天生利齿，犹如上天的恩赐；林中大王，顾盼之间透着逼人的杀气。</desc>
+    <sort_id>100002</sort_id>
+    <limit>无限制</limit>
+  </item>
+  <item id="1871">
+    <type>2</type>
+    <sex>0</sex>
+    <name>火之子</name>
+    <cost>600</cost>
+    <desc>火之子是从拜火教跳动着的圣火中孕育出来的精灵，它不惧熊熊的烈火，反而只有坐卧在火焰中才能让他感到周身舒适。</desc>
+    <sort_id>100004</sort_id>
+    <limit>无限制</limit>
+  </item>
+  <item id="1876">
+    <type>2</type>
+    <sex>0</sex>
+    <name>闪灵猪</name>
+    <cost>600</cost>
+    <desc>身后的一对刃翅闪闪发光，映衬着闪灵猪那双炯炯有神的大眼睛。如果凝视着它，你会发现自己的灵魂都被整个吸进去了！</desc>
+    <sort_id>100003</sort_id>
+    <limit>无限制</limit>
+  </item>
+  <item id="2148">
+    <type>2</type>
+    <sex>0</sex>
+    <name>小红盔</name>
+    <cost>700</cost>
+    <desc>全身覆盖红色的战甲，手持一柄锐利光刀，任何小看小红盔的对手此时都有说不尽的后悔。它虽小，但勇猛无敌。</desc>
+    <sort_id>100005</sort_id>
+    <limit>无限制</limit>
+  </item>
+  <item id="2150">
+    <type>2</type>
+    <sex>0</sex>
+    <name>萌萌兽</name>
+    <cost>700</cost>
+    <desc>笼罩在水晶般剔透的光芒下显得可爱十足的萌萌兽绝不是供人欣赏的小宠物，它淡定威严的眼神说明了一切。</desc>
+    <sort_id>100006</sort_id>
+    <limit>无限制</limit>
+  </item>
+  <item id="2607">
+    <type>2</type>
+    <sex>0</sex>
+    <name>小松童</name>
+    <cost>700</cost>
+    <desc>碧绿色的小眼睛里看到的都是什么呢？对！是小松果！小松童一天到晚都在四处的找小松果吃。</desc>
+    <sort_id>100007</sort_id>
+    <limit>无限制</limit>
+  </item>
+  <item id="100013">
+    <type>2</type>
+    <sex>0</sex>
+    <name>洗髓丹</name>
+    <cost>200</cost>
+    <desc>服用此丹后，将改变妖怪资质和性格，重置修为，并回归到1级，易筋洗髓，成败在此一举。</desc>
+    <sort_id>5</sort_id>
+    <limit>无限制</limit>
+  </item>
+  <item id="100023">
+    <type>2</type>
+    <sex>0</sex>
+    <name>大历练丹</name>
+    <cost>50</cost>
+    <desc>对妖怪使用后，该妖怪将获得2000历练</desc>
+    <sort_id>4</sort_id>
+    <limit>无限制</limit>
+  </item>
+  <item id="100151">
+    <type>2</type>
+    <sex>0</sex>
+    <name>攻击速度洗髓丹</name>
+    <cost>800</cost>
+    <desc>服用此丹后，改变妖怪攻击和速度资质，重置性格和修为，等级回归到1级。</desc>
+    <sort_id>10</sort_id>
+    <limit>无限制</limit>
+  </item>
+  <item id="100152">
+    <type>2</type>
+    <sex>0</sex>
+    <name>法术速度洗髓丹</name>
+    <cost>800</cost>
+    <desc>服用此丹后，改变妖怪法术和速度资质，重置性格和修为，等级回归到1级。</desc>
+    <sort_id>9</sort_id>
+    <limit>无限制</limit>
+  </item>
+  <item id="100153">
+    <type>2</type>
+    <sex>0</sex>
+    <name>防御抗性洗髓丹</name>
+    <cost>800</cost>
+    <desc>服用此丹后，改变妖怪防御和抗性资质，重置性格和修为，等级回归到1级。</desc>
+    <sort_id>8</sort_id>
+    <limit>无限制</limit>
+  </item>
+  <item id="100154">
+    <type>2</type>
+    <sex>0</sex>
+    <name>体力抗性洗髓丹</name>
+    <cost>800</cost>
+    <desc>服用此丹后，改变妖怪体力和抗性资质，重置性格和修为，等级回归到1级。</desc>
+    <sort_id>7</sort_id>
+    <limit>无限制</limit>
+  </item>
+  <item id="100155">
+    <type>2</type>
+    <sex>0</sex>
+    <name>体力防御洗髓丹</name>
+    <cost>800</cost>
+    <desc>服用此丹后，改变妖怪体力和防御资质，重置性格和修为，等级回归到1级。</desc>
+    <sort_id>6</sort_id>
+    <limit>无限制</limit>
+  </item>
+  <item id="100179">
+    <type>3</type>
+    <sex>0</sex>
+    <name>养心丸</name>
+    <cost>3</cost>
+    <desc>封神之战专用药，可以恢复妖怪150体力。</desc>
+    <sort_id>3</sort_id>
+    <limit>无限制</limit>
+  </item>
+  <item id="100180">
+    <type>3</type>
+    <sex>0</sex>
+    <name>续命丹</name>
+    <cost>10</cost>
+    <desc>封神之战专用药，可以恢复妖怪200体力。</desc>
+    <sort_id>2</sort_id>
+    <limit>无限制</limit>
+  </item>
+  <item id="100181">
+    <type>3</type>
+    <sex>0</sex>
+    <name>蓝华丹</name>
+    <cost>3</cost>
+    <desc>封神之战专用药，可以恢复妖怪招式使用次数5次。</desc>
+    <sort_id>1</sort_id>
+    <limit>无限制</limit>
+  </item>
+  <item id="100182">
+    <type>4</type>
+    <sex>0</sex>
+    <name>天尊外框</name>
+    <cost>0</cost>
+    <desc>使用后，将改变角色的名字外框为天尊外框。</desc>
+    <sort_id>999999</sort_id>
+    <limit>封神之战结束后，单妖怪排行榜第一名的玩家可以获得，该奖励通过系统邮件发送。</limit>
+  </item>
+  <item id="100183">
+    <type>4</type>
+    <sex>0</sex>
+    <name>仙帝外框</name>
+    <cost>0</cost>
+    <desc>使用后，将改变角色的名字外框为仙帝外框。</desc>
+    <sort_id>999998</sort_id>
+    <limit>封神之战结束后，多妖怪排行榜第一名的玩家可以获得，该奖励通过系统邮件发送。</limit>
+  </item>
+  <item id="100184">
+    <type>1</type>
+    <sex>0</sex>
+    <name>玄仙外框</name>
+    <cost>300</cost>
+    <desc>使用后，将改变角色的名字外框为玄仙外框。</desc>
+    <sort_id>114</sort_id>
+    <limit_tips>需达到玄仙称号或以上才可兑换此外框</limit_tips>
+    <limit>称号：玄仙</limit>
+  </item>
+  <item id="100185">
+    <type>1</type>
+    <sex>0</sex>
+    <name>金仙外框</name>
+    <cost>230</cost>
+    <desc>使用后，将改变角色的名字外框为金仙外框。</desc>
+    <sort_id>113</sort_id>
+    <limit_tips>需达到金仙称号或以上才可兑换此外框</limit_tips>
+    <limit>称号：金仙</limit>
+  </item>
+  <item id="100186">
+    <type>1</type>
+    <sex>0</sex>
+    <name>天仙外框</name>
+    <cost>180</cost>
+    <desc>使用后，将改变角色的名字外框为天仙外框。</desc>
+    <sort_id>112</sort_id>
+    <limit_tips>需达到天仙称号或以上才可兑换此外框</limit_tips>
+    <limit>称号：天仙</limit>
+  </item>
+  <item id="100187">
+    <type>1</type>
+    <sex>0</sex>
+    <name>道仙外框</name>
+    <cost>130</cost>
+    <desc>使用后，将改变角色的名字外框为道仙外框。</desc>
+    <sort_id>111</sort_id>
+    <limit_tips>需达到道仙称号或以上才可兑换此外框</limit_tips>
+    <limit>称号：道仙</limit>
+  </item>
+  <item id="100188">
+    <type>1</type>
+    <sex>0</sex>
+    <name>地仙外框</name>
+    <cost>95</cost>
+    <desc>使用后，将改变角色的名字外框为地仙外框。</desc>
+    <sort_id>110</sort_id>
+    <limit_tips>需达到地仙称号或以上才可兑换此外框</limit_tips>
+    <limit>称号：地仙</limit>
+  </item>
+  <item id="100189">
+    <type>1</type>
+    <sex>0</sex>
+    <name>散仙外框</name>
+    <cost>60</cost>
+    <desc>使用后，将改变角色的名字外框为散仙外框。</desc>
+    <sort_id>109</sort_id>
+    <limit_tips>需达到散仙称号或以上才可兑换此外框</limit_tips>
+    <limit>称号：散仙</limit>
+  </item>
+  <item id="100190">
+    <type>1</type>
+    <sex>0</sex>
+    <name>灵仙外框</name>
+    <cost>300</cost>
+    <desc>使用后，将改变角色的名字外框为灵仙外框。</desc>
+    <sort_id>108</sort_id>
+    <limit_tips>需达到灵仙称号或以上才可兑换此外框</limit_tips>
+    <limit>称号：灵仙</limit>
+  </item>
+  <item id="100191">
+    <type>1</type>
+    <sex>0</sex>
+    <name>太仙外框</name>
+    <cost>230</cost>
+    <desc>使用后，将改变角色的名字外框为太仙外框。</desc>
+    <sort_id>107</sort_id>
+    <limit_tips>需达到太仙称号或以上才可兑换此外框</limit_tips>
+    <limit>称号：太仙</limit>
+  </item>
+  <item id="100192">
+    <type>1</type>
+    <sex>0</sex>
+    <name>神仙外框</name>
+    <cost>180</cost>
+    <desc>使用后，将改变角色的名字外框为神仙外框。</desc>
+    <sort_id>106</sort_id>
+    <limit_tips>需达到神仙称号或以上才可兑换此外框</limit_tips>
+    <limit>称号：神仙</limit>
+  </item>
+  <item id="100193">
+    <type>1</type>
+    <sex>0</sex>
+    <name>真仙外框</name>
+    <cost>130</cost>
+    <desc>使用后，将改变角色的名字外框为真仙外框。</desc>
+    <sort_id>105</sort_id>
+    <limit_tips>需达到真仙称号或以上才可兑换此外框</limit_tips>
+    <limit>称号：真仙</limit>
+  </item>
+  <item id="100194">
+    <type>1</type>
+    <sex>0</sex>
+    <name>高仙外框</name>
+    <cost>95</cost>
+    <desc>使用后，将改变角色的名字外框为高仙外框。</desc>
+    <sort_id>104</sort_id>
+    <limit_tips>需达到高仙称号或以上才可兑换此外框</limit_tips>
+    <limit>称号：高仙</limit>
+  </item>
+  <item id="100195">
+    <type>1</type>
+    <sex>0</sex>
+    <name>上仙外框</name>
+    <cost>60</cost>
+    <desc>使用后，将改变角色的名字外框为上仙外框。</desc>
+    <sort_id>103</sort_id>
+    <limit_tips>需达到上仙称号或以上才可兑换此外框</limit_tips>
+    <limit>称号：上仙</limit>
+  </item>
+  <item id="100196">
+    <type>1</type>
+    <sex>0</sex>
+    <name>凡人外框</name>
+    <cost>30</cost>
+    <desc>使用后，将改变角色的名字外框为凡人外框。</desc>
+    <sort_id>102</sort_id>
+    <limit>无限制</limit>
+  </item>
+  <item id="100197">
+    <type>1</type>
+    <sex>0</sex>
+    <name>封神外框</name>
+    <cost>200</cost>
+    <desc>使用后，将改变角色的名字外框为封神外框。</desc>
+    <sort_id>101</sort_id>
+    <limit>无限制</limit>
+  </item>
+  <item id="103001">
+    <type>2</type>
+    <sex>0</sex>
+    <name>1级属性灵玉</name>
+    <cost>350</cost>
+    <desc>装备此灵玉，可以为妖怪提高自身的一项属性。</desc>
+    <sort_id>11</sort_id>
+    <limit>无限制</limit>
+  </item>
+  <item id="103002">
+    <type>2</type>
+    <sex>0</sex>
+    <name>2级属性灵玉</name>
+    <cost>800</cost>
+    <desc>装备此灵玉，可以为妖怪提高自身的二项属性。</desc>
+    <sort_id>12</sort_id>
+    <limit>无限制</limit>
+  </item>
+  <item id="400416">
+    <type>4</type>
+    <sex>0</sex>
+    <name>家族称号装扮（第1名）</name>
+    <cost>0</cost>
+    <desc>0</desc>
+    <sort_id>999997</sort_id>
+    <limit>封神之战结束后，家族战力排行榜第1名的家族可以获得，该家族玩家设置显示家族称号后自动出现。（下届封神之战开启前回收）</limit>
+  </item>
+  <item id="400417">
+    <type>4</type>
+    <sex>0</sex>
+    <name>家族称号装扮（第2名）</name>
+    <cost>0</cost>
+    <desc>0</desc>
+    <sort_id>999996</sort_id>
+    <limit>封神之战结束后，家族战力排行榜第2名的家族可以获得，该家族玩家设置显示家族称号后自动出现。（下届封神之战开启前回收）</limit>
+  </item>
+  <item id="400418">
+    <type>4</type>
+    <sex>0</sex>
+    <name>家族称号装扮（第3名）</name>
+    <cost>0</cost>
+    <desc>0</desc>
+    <sort_id>999995</sort_id>
+    <limit>封神之战结束后，家族战力排行榜第3名的家族可以获得，该家族玩家设置显示家族称号后自动出现。（下届封神之战开启前回收）</limit>
+  </item>
+  <item id="400419">
+    <type>4</type>
+    <sex>0</sex>
+    <name>家族称号装扮（第4~10名）</name>
+    <cost>0</cost>
+    <desc>0</desc>
+    <sort_id>999994</sort_id>
+    <limit>封神之战结束后，家族战力排行榜第4~10名的家族可以获得，该家族玩家设置显示家族称号后自动出现。（下届封神之战开启前回收）</limit>
+  </item>
+  <item id="400420">
+    <type>4</type>
+    <sex>0</sex>
+    <name>家族称号装扮（第11~30名）</name>
+    <cost>0</cost>
+    <desc>0</desc>
+    <sort_id>999993</sort_id>
+    <limit>封神之战结束后，家族战力排行榜第11~30名的家族可以获得，该家族玩家设置显示家族称号后自动出现。（下届封神之战开启前回收）</limit>
+  </item>
+  <item id="400421">
+    <type>4</type>
+    <sex>0</sex>
+    <name>家族称号装扮（第31~100名）</name>
+    <cost>0</cost>
+    <desc>0</desc>
+    <sort_id>999992</sort_id>
+    <limit>封神之战结束后，家族战力排行榜第31~100名的家族可以获得，该家族玩家设置显示家族称号后自动出现。（下届封神之战开启前回收）</limit>
+  </item>
+  <item id="400429">
+    <type>2</type>
+    <sex>0</sex>
+    <name>巨木圣石</name>
+    <cost>2000</cost>
+    <desc>蕴含大自然中各种植物的力量，可于超进化仪为巨木将军开启超进化。</desc>
+    <sort_id>100008</sort_id>
+    <limit>无限制</limit>
+  </item>
+  <item id="400430">
+    <type>2</type>
+    <sex>0</sex>
+    <name>金狮圣石</name>
+    <cost>2000</cost>
+    <desc>具有金属力量的圣石，可于超进化仪为金甲剑狮开启超进化。</desc>
+    <sort_id>100009</sort_id>
+    <limit>无限制</limit>
+  </item>
+  <item id="400431">
+    <type>2</type>
+    <sex>0</sex>
+    <name>炽焰圣石</name>
+    <cost>2000</cost>
+    <desc>具有火焰力量的圣石，可于超进化仪令赤炎鸟开启超进化。</desc>
+    <sort_id>100010</sort_id>
+    <limit>无限制</limit>
+  </item>
+  <item id="540055">
+    <type>1</type>
+    <sex>0</sex>
+    <name>玄天戟</name>
+    <cost>850</cost>
+    <desc>相传这是由战神刑天亲自打造的神兵。</desc>
+    <sort_id>10007</sort_id>
+    <limit>无限制</limit>
+  </item>
+  <item id="540056">
+    <type>1</type>
+    <sex>1</sex>
+    <name>战神头盔（男）</name>
+    <cost>500</cost>
+    <desc>相传这是由战神刑天制作的头盔。</desc>
+    <sort_id>10006</sort_id>
+    <limit>无限制</limit>
+  </item>
+  <item id="540057">
+    <type>1</type>
+    <sex>1</sex>
+    <name>战神盔甲（男）</name>
+    <cost>650</cost>
+    <desc>相传这是由战神刑天制作的盔甲。</desc>
+    <sort_id>10005</sort_id>
+    <limit>无限制</limit>
+  </item>
+  <item id="540058">
+    <type>1</type>
+    <sex>1</sex>
+    <name>战神之靴（男）</name>
+    <cost>300</cost>
+    <desc>相传这是由战神刑天制作的靴子。</desc>
+    <sort_id>10004</sort_id>
+    <limit>无限制</limit>
+  </item>
+  <item id="540059">
+    <type>1</type>
+    <sex>2</sex>
+    <name>战神发带（女）</name>
+    <cost>500</cost>
+    <desc>相传这是由战神刑天制作的头饰。</desc>
+    <sort_id>10003</sort_id>
+    <limit>无限制</limit>
+  </item>
+  <item id="540060">
+    <type>1</type>
+    <sex>2</sex>
+    <name>战神仙袍（女）</name>
+    <cost>650</cost>
+    <desc>相传这是由战神刑天制作的战袍。</desc>
+    <sort_id>10002</sort_id>
+    <limit>无限制</limit>
+  </item>
+  <item id="540061">
+    <type>1</type>
+    <sex>2</sex>
+    <name>战神仙履（女）</name>
+    <cost>300</cost>
+    <desc>相传这是由战神刑天制作的仙履。</desc>
+    <sort_id>10001</sort_id>
+    <limit>无限制</limit>
+  </item>
+  <item id="550355">
+    <type>1</type>
+    <sex>1</sex>
+    <name>勇士头盔</name>
+    <cost>500</cost>
+    <desc>只有传说中的勇士才可以穿戴的头盔！</desc>
+    <sort_id>10013</sort_id>
+    <limit>无限制</limit>
+  </item>
+  <item id="550356">
+    <type>1</type>
+    <sex>1</sex>
+    <name>勇士铠甲</name>
+    <cost>650</cost>
+    <desc>只有传说中的勇士才可以穿戴的铠甲！</desc>
+    <sort_id>10012</sort_id>
+    <limit>无限制</limit>
+  </item>
+  <item id="550357">
+    <type>1</type>
+    <sex>1</sex>
+    <name>勇士战靴</name>
+    <cost>300</cost>
+    <desc>只有传说中的勇士才可以穿戴的战靴！</desc>
+    <sort_id>10011</sort_id>
+    <limit>无限制</limit>
+  </item>
+  <item id="550358">
+    <type>1</type>
+    <sex>2</sex>
+    <name>巾帼头盔</name>
+    <cost>500</cost>
+    <desc>传说中巾帼英雄的专属头盔！</desc>
+    <sort_id>10010</sort_id>
+    <limit>无限制</limit>
+  </item>
+  <item id="550359">
+    <type>1</type>
+    <sex>2</sex>
+    <name>巾帼铠甲</name>
+    <cost>650</cost>
+    <desc>传说中巾帼英雄的专属铠甲！</desc>
+    <sort_id>10009</sort_id>
+    <limit>无限制</limit>
+  </item>
+  <item id="550360">
+    <type>1</type>
+    <sex>2</sex>
+    <name>巾帼战靴</name>
+    <cost>300</cost>
+    <desc>传说中巾帼英雄的专属鞋子！</desc>
+    <sort_id>10008</sort_id>
+    <limit>无限制</limit>
+  </item>
+  <item id="550361">
+    <type>1</type>
+    <sex>0</sex>
+    <name>勇士长枪</name>
+    <cost>800</cost>
+    <desc>深蓝色的枪剑蕴含了大海中无尽的力量！</desc>
+    <sort_id>10014</sort_id>
+    <limit>无限制</limit>
+  </item>
+  <item id="550703">
+    <type>1</type>
+    <sex>1</sex>
+    <name>勇者头盔</name>
+    <cost>650</cost>
+    <desc>勇士战斗时佩戴的头盔，是勇者盔甲套装的部件之一。</desc>
+    <sort_id>10020</sort_id>
+    <limit>无限制</limit>
+  </item>
+  <item id="550704">
+    <type>1</type>
+    <sex>1</sex>
+    <name>勇者盔甲</name>
+    <cost>800</cost>
+    <desc>勇士战斗时穿戴的重盔甲，是勇者盔甲套装的部件之一。</desc>
+    <sort_id>10019</sort_id>
+    <limit>无限制</limit>
+  </item>
+  <item id="550705">
+    <type>1</type>
+    <sex>1</sex>
+    <name>勇者战靴</name>
+    <cost>450</cost>
+    <desc>勇士战斗时穿戴的战靴，是勇者盔甲套装的部件之一。</desc>
+    <sort_id>10018</sort_id>
+    <limit>无限制</limit>
+  </item>
+  <item id="550706">
+    <type>1</type>
+    <sex>2</sex>
+    <name>勇者头盔</name>
+    <cost>650</cost>
+    <desc>勇士战斗时佩戴的头盔，是勇者盔甲套装的部件之一。</desc>
+    <sort_id>10017</sort_id>
+    <limit>无限制</limit>
+  </item>
+  <item id="550707">
+    <type>1</type>
+    <sex>2</sex>
+    <name>勇者盔甲</name>
+    <cost>800</cost>
+    <desc>勇士战斗时穿戴的重盔甲，是勇者盔甲套装的部件之一。</desc>
+    <sort_id>10016</sort_id>
+    <limit>无限制</limit>
+  </item>
+  <item id="550708">
+    <type>1</type>
+    <sex>2</sex>
+    <name>勇者战靴</name>
+    <cost>450</cost>
+    <desc>勇士战斗时穿戴的战靴，是勇者盔甲套装的部件之一。</desc>
+    <sort_id>10015</sort_id>
+    <limit>无限制</limit>
+  </item>
+  <item id="550709">
+    <type>1</type>
+    <sex>0</sex>
+    <name>勇者战刃</name>
+    <cost>950</cost>
+    <desc>勇士战斗时装备的武器，锋利的剑刃足以让所有敌人胆寒。</desc>
+    <sort_id>10021</sort_id>
+    <limit>无限制</limit>
+  </item>
+  <item id="551079">
+    <type>1</type>
+    <sex>1</sex>
+    <name>龙血战盔</name>
+    <cost>700</cost>
+    <desc>附有龙血力量的鲜红战盔。</desc>
+    <sort_id>10027</sort_id>
+    <limit>无限制</limit>
+  </item>
+  <item id="551080">
+    <type>1</type>
+    <sex>1</sex>
+    <name>龙血战甲</name>
+    <cost>850</cost>
+    <desc>附有龙血力量的鲜红战甲。</desc>
+    <sort_id>10026</sort_id>
+    <limit>无限制</limit>
+  </item>
+  <item id="551081">
+    <type>1</type>
+    <sex>1</sex>
+    <name>龙血战靴</name>
+    <cost>500</cost>
+    <desc>附有龙血力量的鲜红战靴。</desc>
+    <sort_id>10025</sort_id>
+    <limit>无限制</limit>
+  </item>
+  <item id="551082">
+    <type>1</type>
+    <sex>2</sex>
+    <name>龙血宝盔</name>
+    <cost>700</cost>
+    <desc>附有龙血力量的鲜红头盔。</desc>
+    <sort_id>10024</sort_id>
+    <limit>无限制</limit>
+  </item>
+  <item id="551083">
+    <type>1</type>
+    <sex>2</sex>
+    <name>龙血宝甲</name>
+    <cost>850</cost>
+    <desc>附有龙血力量的鲜红宝甲。</desc>
+    <sort_id>10023</sort_id>
+    <limit>无限制</limit>
+  </item>
+  <item id="551084">
+    <type>1</type>
+    <sex>2</sex>
+    <name>龙血宝靴</name>
+    <cost>500</cost>
+    <desc>附有龙血力量的鲜红宝靴。</desc>
+    <sort_id>10022</sort_id>
+    <limit>无限制</limit>
+  </item>
+  <item id="551085">
+    <type>1</type>
+    <sex>0</sex>
+    <name>赤炎龙血刃</name>
+    <cost>1000</cost>
+    <desc>剑柄镶有赤炎宝石，宝剑全身附有龙血力量，是不可多得的宝剑！</desc>
+    <sort_id>10028</sort_id>
+    <limit>无限制</limit>
+  </item>
+  <item id="551459">
+    <type>1</type>
+    <sex>1</sex>
+    <name>游侠礼帽</name>
+    <cost>750</cost>
+    <desc>风吹着帽子上红色的翎羽，那灵动的一抹红是侠士精神的象征</desc>
+    <sort_id>10029</sort_id>
+    <limit>无限制</limit>
+  </item>
+  <item id="551460">
+    <type>1</type>
+    <sex>1</sex>
+    <name>游侠披风</name>
+    <cost>950</cost>
+    <desc>迎风飞舞的衣襟，昭示着游侠洒脱不羁的个性</desc>
+    <sort_id>10030</sort_id>
+    <limit>无限制</limit>
+  </item>
+  <item id="551461">
+    <type>1</type>
+    <sex>1</sex>
+    <name>游侠皮靴</name>
+    <cost>600</cost>
+    <desc>穿过江河湖海，越过崇山峻岭，自由之心不可阻挡</desc>
+    <sort_id>10031</sort_id>
+    <limit>无限制</limit>
+  </item>
+  <item id="551462">
+    <type>1</type>
+    <sex>0</sex>
+    <name>正义之剑</name>
+    <cost>1100</cost>
+    <desc>惩恶扬善侠之大者，看我一剑振江湖</desc>
+    <sort_id>10035</sort_id>
+    <limit>无限制</limit>
+  </item>
+  <item id="551463">
+    <type>1</type>
+    <sex>2</sex>
+    <name>红翎礼帽</name>
+    <cost>750</cost>
+    <desc>小巧帅气的帽子，灵动的羽毛装饰，英气与优雅并存</desc>
+    <sort_id>10032</sort_id>
+    <limit>无限制</limit>
+  </item>
+  <item id="551464">
+    <type>1</type>
+    <sex>2</sex>
+    <name>游侠风衣</name>
+    <cost>950</cost>
+    <desc>英气潇洒的服装，闯荡江湖必备良品</desc>
+    <sort_id>10033</sort_id>
+    <limit>无限制</limit>
+  </item>
+  <item id="551465">
+    <type>1</type>
+    <sex>2</sex>
+    <name>游侠女靴</name>
+    <cost>600</cost>
+    <desc>万里江湖路尽在脚下行</desc>
+    <sort_id>10034</sort_id>
+    <limit>无限制</limit>
+  </item>
+  <item id="551788">
+    <type>1</type>
+    <sex>1</sex>
+    <name>金镶短型</name>
+    <cost>800</cost>
+    <desc>金镶暗战套装的男生发型——金镶短型</desc>
+    <sort_id>10036</sort_id>
+    <limit>无限制</limit>
+  </item>
+  <item id="551789">
+    <type>1</type>
+    <sex>1</sex>
+    <name>金镶暗战衣</name>
+    <cost>1000</cost>
+    <desc>金镶暗战套装的男生衣服——金镶暗战衣</desc>
+    <sort_id>10037</sort_id>
+    <limit>无限制</limit>
+  </item>
+  <item id="551790">
+    <type>1</type>
+    <sex>1</sex>
+    <name>金镶暗战靴</name>
+    <cost>500</cost>
+    <desc>金镶暗战套装的男生鞋子——金镶暗战靴</desc>
+    <sort_id>10038</sort_id>
+    <limit>无限制</limit>
+  </item>
+  <item id="551791">
+    <type>1</type>
+    <sex>0</sex>
+    <name>暗战镰刀</name>
+    <cost>900</cost>
+    <desc>金镶暗战套装的武器——暗战镰刀</desc>
+    <sort_id>10039</sort_id>
+    <limit>无限制</limit>
+  </item>
+  <item id="551792">
+    <type>1</type>
+    <sex>0</sex>
+    <name>金镶暗羽</name>
+    <cost>1500</cost>
+    <desc>金镶暗战套装的翅膀——金镶暗羽</desc>
+    <sort_id>10040</sort_id>
+    <limit>无限制</limit>
+  </item>
+  <item id="551793">
+    <type>1</type>
+    <sex>2</sex>
+    <name>金镶长型</name>
+    <cost>800</cost>
+    <desc>金镶暗战套装的女生发型——金镶长型</desc>
+    <sort_id>10041</sort_id>
+    <limit>无限制</limit>
+  </item>
+  <item id="551794">
+    <type>1</type>
+    <sex>2</sex>
+    <name>金镶暗战衣</name>
+    <cost>1000</cost>
+    <desc>金镶暗战套装的女生衣服——金镶暗战衣</desc>
+    <sort_id>10042</sort_id>
+    <limit>无限制</limit>
+  </item>
+  <item id="551795">
+    <type>1</type>
+    <sex>2</sex>
+    <name>金镶暗战靴</name>
+    <cost>500</cost>
+    <desc>金镶暗战套装的女生鞋子——金镶暗战靴</desc>
+    <sort_id>10043</sort_id>
+    <limit>无限制</limit>
+  </item>
+  <item id="551982">
+    <type>1</type>
+    <sex>1</sex>
+    <name>星辰男帽</name>
+    <cost>750</cost>
+    <desc>星辰之子套装的帽子——星辰男帽</desc>
+    <sort_id>10044</sort_id>
+    <limit>无限制</limit>
+  </item>
+  <item id="551983">
+    <type>1</type>
+    <sex>1</sex>
+    <name>星辰男衣</name>
+    <cost>850</cost>
+    <desc>星辰之子套装的衣服——星辰男衣</desc>
+    <sort_id>10045</sort_id>
+    <limit>无限制</limit>
+  </item>
+  <item id="551984">
+    <type>1</type>
+    <sex>0</sex>
+    <name>星辰之鞋</name>
+    <cost>450</cost>
+    <desc>星辰套装的鞋子——星辰之鞋</desc>
+    <sort_id>10046</sort_id>
+    <limit>无限制</limit>
+  </item>
+  <item id="551985">
+    <type>1</type>
+    <sex>0</sex>
+    <name>星辰法杖</name>
+    <cost>1000</cost>
+    <desc>星辰之子套装的右手武器——星辰法杖</desc>
+    <sort_id>10046</sort_id>
+    <limit>无限制</limit>
+  </item>
+  <item id="551987">
+    <type>1</type>
+    <sex>2</sex>
+    <name>星辰女帽</name>
+    <cost>750</cost>
+    <desc>星辰之子套装的帽子——星辰女帽</desc>
+    <sort_id>10047</sort_id>
+    <limit>无限制</limit>
+  </item>
+  <item id="551988">
+    <type>1</type>
+    <sex>2</sex>
+    <name>星辰女衣</name>
+    <cost>950</cost>
+    <desc>星辰之子套装的衣服——星辰女衣</desc>
+    <sort_id>10048</sort_id>
+    <limit>无限制</limit>
+  </item>
+  <item id="551991">
+    <type>1</type>
+    <sex>0</sex>
+    <name>满园追忆背景</name>
+    <cost>3500</cost>
+    <desc>那年刚好阳光很大，散落的阳光挡住了我满园的追忆。</desc>
+    <sort_id>10049</sort_id>
+    <limit>无限制</limit>
+  </item>
+  <item id="600127">
+    <type>5</type>
+    <sex>0</sex>
+    <name>拔山仙兽蛋</name>
+    <cost>1000</cost>
+    <desc>拔山仙兽蛋</desc>
+    <sort_id>1000</sort_id>
+    <limit>无限制</limit>
+  </item>
+  <item id="800358">
+    <type>1</type>
+    <sex>0</sex>
+    <name>封神雕像</name>
+    <cost>600</cost>
+    <desc>封神雕像，可在后花园摆放。</desc>
+    <sort_id>115</sort_id>
+    <limit>无限制</limit>
+  </item>
+  <item id="800359">
+    <type>1</type>
+    <sex>0</sex>
+    <name>莲花池</name>
+    <cost>600</cost>
+    <desc>莲花池，可在后花园摆放。</desc>
+    <sort_id>116</sort_id>
+    <limit>无限制</limit>
+  </item>
+</defaultlist>

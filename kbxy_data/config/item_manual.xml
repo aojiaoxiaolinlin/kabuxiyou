@@ -1,0 +1,7473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<itemManual>
+  <item id="100001">
+    <iddesc>1</iddesc>
+    <name>普通葫芦</name>
+    <source>可在宠物房的补给库购买</source>
+    <desc>吸收妖怪的成功率一般，需要与妖怪战斗直到妖怪的体力很低才能捕捉</desc>
+  </item>
+  <item id="100002">
+    <iddesc>2</iddesc>
+    <name>青铜葫芦</name>
+    <source>可在宠物房的补给库购买</source>
+    <desc>吸收妖怪的成功率较高，需要与妖怪战斗直到妖怪的体力较低才能捕捉</desc>
+  </item>
+  <item id="100003">
+    <iddesc>3</iddesc>
+    <name>白银葫芦</name>
+    <source>商城购买</source>
+    <desc>吸收妖怪的成功率很高</desc>
+  </item>
+  <item id="100004">
+    <iddesc>4</iddesc>
+    <name>黄金葫芦</name>
+    <source>商城购买</source>
+    <desc>吸收妖怪的成功率100%</desc>
+  </item>
+  <item id="100008">
+    <iddesc>5</iddesc>
+    <name>小金创药</name>
+    <source>可在宠物房的补给库购买</source>
+    <desc>恢复妖怪20体力</desc>
+  </item>
+  <item id="100007">
+    <iddesc>6</iddesc>
+    <name>中金创药</name>
+    <source>可在宠物房的补给库购买</source>
+    <desc>恢复妖怪50体力</desc>
+  </item>
+  <item id="100006">
+    <iddesc>7</iddesc>
+    <name>大金创药</name>
+    <source>可在宠物房的补给库购买</source>
+    <desc>恢复妖怪100体力</desc>
+  </item>
+  <item id="100031">
+    <iddesc>8</iddesc>
+    <name>活血散</name>
+    <source>可在宠物房的补给库购买</source>
+    <desc>恢复妖怪150体力</desc>
+  </item>
+  <item id="100034">
+    <iddesc>9</iddesc>
+    <name>天香丸</name>
+    <source>商城购买</source>
+    <desc>恢复妖怪170体力</desc>
+  </item>
+  <item id="100010">
+    <iddesc>10</iddesc>
+    <name>小型法力药剂</name>
+    <source>可在宠物房的补给库购买</source>
+    <desc>恢复妖怪招式使用次数5次</desc>
+  </item>
+  <item id="100011">
+    <iddesc>11</iddesc>
+    <name>中型法力药剂</name>
+    <source>可在宠物房的补给库购买</source>
+    <desc>恢复妖怪招式使用次数10次</desc>
+  </item>
+  <item id="100012">
+    <iddesc>12</iddesc>
+    <name>大型法力药剂</name>
+    <source>可在宠物房的补给库购买</source>
+    <desc>恢复妖怪招式使用次数20次</desc>
+  </item>
+  <item id="100009">
+    <iddesc>13</iddesc>
+    <name>天仙玉露</name>
+    <source>商城购买</source>
+    <desc>恢复妖怪招式所有使用次数</desc>
+  </item>
+  <item id="100013">
+    <iddesc>14</iddesc>
+    <name>洗髓丹</name>
+    <source>商城购买</source>
+    <desc>服用此丹后，将改变妖怪资质和性格，重置修为，并回归到1级，易筋洗髓，成败在此一举。</desc>
+  </item>
+  <item id="100151">
+    <iddesc>15</iddesc>
+    <name>攻击速度洗髓丹</name>
+    <source>商城购买</source>
+    <desc>服用此丹后，改变妖怪攻击和速度资质，重置性格和修为，等级回归到1级。</desc>
+  </item>
+  <item id="100152">
+    <iddesc>16</iddesc>
+    <name>法术速度洗髓丹</name>
+    <source>商城购买</source>
+    <desc>服用此丹后，改变妖怪法术和速度资质，重置性格和修为，等级回归到1级。</desc>
+  </item>
+  <item id="100153">
+    <iddesc>17</iddesc>
+    <name>防御抗性洗髓丹</name>
+    <source>商城购买</source>
+    <desc>服用此丹后，改变妖怪防御和抗性资质，重置性格和修为，等级回归到1级。</desc>
+  </item>
+  <item id="100154">
+    <iddesc>18</iddesc>
+    <name>体力抗性洗髓丹</name>
+    <source>商城购买</source>
+    <desc>服用此丹后，改变妖怪体力和抗性资质，重置性格和修为，等级回归到1级。</desc>
+  </item>
+  <item id="100155">
+    <iddesc>19</iddesc>
+    <name>体力防御洗髓丹</name>
+    <source>商城购买</source>
+    <desc>服用此丹后，改变妖怪体力和防御资质，重置性格和修为，等级回归到1级。</desc>
+  </item>
+  <item id="100036">
+    <iddesc>20</iddesc>
+    <name>造化丹</name>
+    <source>商城购买</source>
+    <desc>能夺天地之造化，改变妖怪的性格</desc>
+  </item>
+  <item id="100037">
+    <iddesc>21</iddesc>
+    <name>落尘果</name>
+    <source>商城购买</source>
+    <desc>妖怪等级降低一级，但不影响妖怪的修为，1级妖怪不可使用。</desc>
+  </item>
+  <item id="100035">
+    <iddesc>22</iddesc>
+    <name>还灵丹</name>
+    <source>商城购买</source>
+    <desc>将当前妖怪的所有修为清零，100级妖怪不可使用。</desc>
+  </item>
+  <item id="100111">
+    <iddesc>23</iddesc>
+    <name>体力还灵丹</name>
+    <source>商城购买</source>
+    <desc>将当前妖怪的体力修为清零，100级妖怪不可使用。</desc>
+  </item>
+  <item id="100112">
+    <iddesc>24</iddesc>
+    <name>速度还灵丹</name>
+    <source>商城购买</source>
+    <desc>将当前妖怪的速度修为清零，100级妖怪不可使用。</desc>
+  </item>
+  <item id="100113">
+    <iddesc>25</iddesc>
+    <name>攻击还灵丹</name>
+    <source>商城购买</source>
+    <desc>将当前妖怪的攻击修为清零，100级妖怪不可使用。</desc>
+  </item>
+  <item id="100114">
+    <iddesc>26</iddesc>
+    <name>防御还灵丹</name>
+    <source>商城购买</source>
+    <desc>将当前妖怪的防御修为清零，100级妖怪不可使用。</desc>
+  </item>
+  <item id="100115">
+    <iddesc>27</iddesc>
+    <name>法术还灵丹</name>
+    <source>商城购买</source>
+    <desc>将当前妖怪的法术修为清零，100级妖怪不可使用。</desc>
+  </item>
+  <item id="100116">
+    <iddesc>28</iddesc>
+    <name>抗性还灵丹</name>
+    <source>商城购买</source>
+    <desc>将当前妖怪的抗性修为清零，100级妖怪不可使用。</desc>
+  </item>
+  <item id="100214">
+    <iddesc>29</iddesc>
+    <name>小型法术还灵丹</name>
+    <source>商城购买</source>
+    <desc>使用后减少5点妖怪的法术修为</desc>
+  </item>
+  <item id="100210">
+    <iddesc>30</iddesc>
+    <name>小型体力还灵丹</name>
+    <source>商城购买</source>
+    <desc>使用后减少5点妖怪的体力修为</desc>
+  </item>
+  <item id="100211">
+    <iddesc>31</iddesc>
+    <name>小型速度还灵丹</name>
+    <source>商城购买</source>
+    <desc>使用后减少5点妖怪的速度修为</desc>
+  </item>
+  <item id="100212">
+    <iddesc>32</iddesc>
+    <name>小型攻击还灵丹</name>
+    <source>商城购买</source>
+    <desc>使用后减少5点妖怪的攻击修为</desc>
+  </item>
+  <item id="100215">
+    <iddesc>33</iddesc>
+    <name>小型抗性还灵丹</name>
+    <source>商城购买</source>
+    <desc>使用后减少5点妖怪的抗性修为</desc>
+  </item>
+  <item id="100213">
+    <iddesc>34</iddesc>
+    <name>小型防御还灵丹</name>
+    <source>商城购买</source>
+    <desc>使用后减少5点妖怪的防御修为</desc>
+  </item>
+  <item id="100208">
+    <iddesc>35</iddesc>
+    <name>双倍历练丹</name>
+    <source>商城购买</source>
+    <desc>使用后50次内战斗获得双倍历练。</desc>
+  </item>
+  <item id="100207">
+    <iddesc>36</iddesc>
+    <name>三倍历练丹</name>
+    <source>商城购买</source>
+    <desc>使用后50次内战斗获得三倍历练。</desc>
+  </item>
+  <item id="100209">
+    <iddesc>37</iddesc>
+    <name>自动战斗加时器</name>
+    <source>商城购买</source>
+    <desc>使用后可以增加30分钟自动战斗时间</desc>
+  </item>
+  <item id="100206">
+    <iddesc>38</iddesc>
+    <name>妖怪修为加速丹</name>
+    <source>商城购买</source>
+    <desc>使用后对战妖怪可以获得双倍修为提升（30次，满510属性妖怪无效）</desc>
+  </item>
+  <item id="100224">
+    <iddesc>39</iddesc>
+    <name>透视液</name>
+    <source>商城购买</source>
+    <desc>在宠物---道具中使用，宠物使用后，可以在一次战斗中查看对手的HP值，仅限玩家之间PK，包括普通PK，擂台，宠物大乱斗。</desc>
+  </item>
+  <item id="100279">
+    <iddesc>40</iddesc>
+    <name>外框复制卡</name>
+    <source>商城购买</source>
+    <desc>可以用来复制当前使用的外框，商城外框除外。</desc>
+  </item>
+  <item id="100025">
+    <iddesc>41</iddesc>
+    <name>大剑外框</name>
+    <source>在炼丹阁合成</source>
+    <desc>使用后，将改变角色名字外框为大剑外框</desc>
+  </item>
+  <item id="100026">
+    <iddesc>42</iddesc>
+    <name>闪电外框</name>
+    <source>在炼丹阁合成</source>
+    <desc>使用后，将改变角色的名字外框为闪电外框</desc>
+  </item>
+  <item id="100027">
+    <iddesc>43</iddesc>
+    <name>普通外框</name>
+    <source>在炼丹阁合成</source>
+    <desc>使用后，将取消当前外框效果，恢复初始外框</desc>
+  </item>
+  <item id="100044">
+    <iddesc>44</iddesc>
+    <name>瞌睡猫外框</name>
+    <source>在拍卖厅有机会获得（已绝版）</source>
+    <desc>使用后，将改变角色名字外框为瞌睡猫外框</desc>
+  </item>
+  <item id="100045">
+    <iddesc>45</iddesc>
+    <name>开心狗外框</name>
+    <source>在拍卖厅有机会获得（已绝版）</source>
+    <desc>使用后，将改变角色名字外框为开心狗外框</desc>
+  </item>
+  <item id="100049">
+    <iddesc>46</iddesc>
+    <name>棒棒糖外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后，将改变角色的名字外框为棒棒糖外框</desc>
+  </item>
+  <item id="100051">
+    <iddesc>48</iddesc>
+    <name>天使之翼外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后，将改变角色的名字外框为天使之翼外框</desc>
+  </item>
+  <item id="100052">
+    <iddesc>49</iddesc>
+    <name>胡萝卜外框</name>
+    <source>双台谷中有机会获得</source>
+    <desc>使用后，将改变角色的名字外框为胡萝卜外框</desc>
+  </item>
+  <item id="100053">
+    <iddesc>50</iddesc>
+    <name>家族外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后，将改变角色名字外框为家族外框。但退出家族后该外框自动删除。</desc>
+  </item>
+  <item id="100074">
+    <iddesc>51</iddesc>
+    <name>双剑外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后，将改变角色名字外框为双剑外框</desc>
+  </item>
+  <item id="100056">
+    <iddesc>52</iddesc>
+    <name>鲜花外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后，将改变角色的名字外框为鲜花外框</desc>
+  </item>
+  <item id="100057">
+    <iddesc>53</iddesc>
+    <name>灯笼外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后，将改变角色的名字外框为灯笼外框</desc>
+  </item>
+  <item id="100067">
+    <iddesc>54</iddesc>
+    <name>乖乖兔外框</name>
+    <source>双台谷积分兑换获得</source>
+    <desc>使用后，将改变角色的名字外框为乖乖兔外框</desc>
+  </item>
+  <item id="100068">
+    <iddesc>55</iddesc>
+    <name>粉红果外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后，将改变角色的名字外框为粉红果外框</desc>
+  </item>
+  <item id="100079">
+    <iddesc>56</iddesc>
+    <name>恶魔外框</name>
+    <source>斩杀勋章兑换</source>
+    <desc>使用后，将改变角色的名字外框为恶魔外框。</desc>
+  </item>
+  <item id="100081">
+    <iddesc>57</iddesc>
+    <name>白云外框</name>
+    <source>在娱乐城的摇奖机处有机会获得</source>
+    <desc>使用后，将改变角色的名字外框为白云外框</desc>
+  </item>
+  <item id="100082">
+    <iddesc>58</iddesc>
+    <name>雪花外框</name>
+    <source>在娱乐城的摇奖机处有机会获得</source>
+    <desc>使用后，将改变角色的名字外框为雪花外框</desc>
+  </item>
+  <item id="100099">
+    <iddesc>59</iddesc>
+    <name>飞鹰外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后，将改变角色名字外框为飞鹰外框</desc>
+  </item>
+  <item id="100100">
+    <iddesc>60</iddesc>
+    <name>官方认证外框</name>
+    <source>暂时无法获得</source>
+    <desc>身份的象征，官方人士专用</desc>
+  </item>
+  <item id="100128">
+    <iddesc>61</iddesc>
+    <name>神龙外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后，将改变角色的名字外框为神龙外框</desc>
+  </item>
+  <item id="100127">
+    <iddesc>62</iddesc>
+    <name>星翼外框</name>
+    <source>VIP首次开通大礼包</source>
+    <desc>使用后，将改变角色的名字外框为星翼外框</desc>
+  </item>
+  <item id="100129">
+    <iddesc>63</iddesc>
+    <name>银枪外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后，改变角色的名字外框为银枪外框</desc>
+  </item>
+  <item id="100130">
+    <iddesc>64</iddesc>
+    <name>战盔外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后，将改变角色的名字外框为战盔外框</desc>
+  </item>
+  <item id="100131">
+    <iddesc>65</iddesc>
+    <name>仙葫外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后，将改变角色的名字外框为仙葫外框</desc>
+  </item>
+  <item id="100156">
+    <iddesc>66</iddesc>
+    <name>周年彩弹外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后，将改变角色名字外框为周年彩弹外框</desc>
+  </item>
+  <item id="100160">
+    <iddesc>67</iddesc>
+    <name>皇冠外框</name>
+    <source>在拍卖厅有机会获得（已绝版）</source>
+    <desc>使用后，将改变角色名字外框为皇冠外框</desc>
+  </item>
+  <item id="100163">
+    <iddesc>68</iddesc>
+    <name>烈阳外框</name>
+    <source>战场兑换</source>
+    <desc>使用后，将改变角色名字外框为烈阳外框。</desc>
+  </item>
+  <item id="100164">
+    <iddesc>69</iddesc>
+    <name>暗影外框</name>
+    <source>战场兑换</source>
+    <desc>使用后，将改变角色的名字外框为暗影外框</desc>
+  </item>
+  <item id="100165">
+    <iddesc>70</iddesc>
+    <name>魔翼外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后，将改变角色名字外框为魔翼外框</desc>
+  </item>
+  <item id="100166">
+    <iddesc>71</iddesc>
+    <name>智慧之星外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后，将改变角色的名字外框为智慧之星外框</desc>
+  </item>
+  <item id="100167">
+    <iddesc>72</iddesc>
+    <name>烈焰外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后，将改变角色的名字外框为烈焰外框</desc>
+  </item>
+  <item id="100173">
+    <iddesc>74</iddesc>
+    <name>粽子外框</name>
+    <source>2017儿童礼包奖励可得</source>
+    <desc>使用后，将改变角色名字外框为粽子外框</desc>
+  </item>
+  <item id="100174">
+    <iddesc>75</iddesc>
+    <name>莲花外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后，将改变角色名字外框为莲花外框</desc>
+  </item>
+  <item id="100176">
+    <iddesc>76</iddesc>
+    <name>泳翼外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后，将改变角色的名字外框为泳翼外框</desc>
+  </item>
+  <item id="100177">
+    <iddesc>77</iddesc>
+    <name>火炬外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后，将改变角色的名字外框为火炬外框。</desc>
+  </item>
+  <item id="100178">
+    <iddesc>78</iddesc>
+    <name>五环外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后，将改变角色的名字外框为五环外框。</desc>
+  </item>
+  <item id="100182">
+    <iddesc>79</iddesc>
+    <name>天尊外框</name>
+    <source>封神之战奖励</source>
+    <desc>使用后，将改变角色的名字外框为天尊外框。</desc>
+  </item>
+  <item id="100183">
+    <iddesc>80</iddesc>
+    <name>仙帝外框</name>
+    <source>封神之战奖励</source>
+    <desc>使用后，将改变角色的名字外框为仙帝外框。</desc>
+  </item>
+  <item id="100184">
+    <iddesc>81</iddesc>
+    <name>玄仙外框</name>
+    <source>封神之战战功兑换</source>
+    <desc>使用后，将改变角色的名字外框为玄仙外框。</desc>
+  </item>
+  <item id="100185">
+    <iddesc>82</iddesc>
+    <name>金仙外框</name>
+    <source>封神之战战功兑换</source>
+    <desc>使用后，将改变角色的名字外框为金仙外框。</desc>
+  </item>
+  <item id="100186">
+    <iddesc>83</iddesc>
+    <name>天仙外框</name>
+    <source>封神之战战功兑换</source>
+    <desc>使用后，将改变角色的名字外框为天仙外框。</desc>
+  </item>
+  <item id="100187">
+    <iddesc>84</iddesc>
+    <name>道仙外框</name>
+    <source>封神之战战功兑换</source>
+    <desc>使用后，将改变角色的名字外框为道仙外框。</desc>
+  </item>
+  <item id="100188">
+    <iddesc>85</iddesc>
+    <name>地仙外框</name>
+    <source>封神之战战功兑换</source>
+    <desc>使用后，将改变角色的名字外框为地仙外框。</desc>
+  </item>
+  <item id="100189">
+    <iddesc>86</iddesc>
+    <name>散仙外框</name>
+    <source>封神之战战功兑换</source>
+    <desc>使用后，将改变角色的名字外框为散仙外框。</desc>
+  </item>
+  <item id="100190">
+    <iddesc>87</iddesc>
+    <name>灵仙外框</name>
+    <source>封神之战战功兑换</source>
+    <desc>使用后，将改变角色的名字外框为灵仙外框。</desc>
+  </item>
+  <item id="100191">
+    <iddesc>88</iddesc>
+    <name>太仙外框</name>
+    <source>封神之战战功兑换</source>
+    <desc>使用后，将改变角色的名字外框为太仙外框。</desc>
+  </item>
+  <item id="100192">
+    <iddesc>89</iddesc>
+    <name>神仙外框</name>
+    <source>封神之战战功兑换</source>
+    <desc>使用后，将改变角色的名字外框为神仙外框。</desc>
+  </item>
+  <item id="100193">
+    <iddesc>90</iddesc>
+    <name>真仙外框</name>
+    <source>封神之战战功兑换</source>
+    <desc>使用后，将改变角色的名字外框为真仙外框。</desc>
+  </item>
+  <item id="100194">
+    <iddesc>91</iddesc>
+    <name>高仙外框</name>
+    <source>封神之战战功兑换</source>
+    <desc>使用后，将改变角色的名字外框为高仙外框。</desc>
+  </item>
+  <item id="100195">
+    <iddesc>92</iddesc>
+    <name>上仙外框</name>
+    <source>封神之战战功兑换</source>
+    <desc>使用后，将改变角色的名字外框为上仙外框。</desc>
+  </item>
+  <item id="100196">
+    <iddesc>93</iddesc>
+    <name>凡人外框</name>
+    <source>封神之战战功兑换</source>
+    <desc>使用后，将改变角色的名字外框为凡人外框。</desc>
+  </item>
+  <item id="100197">
+    <iddesc>94</iddesc>
+    <name>封神外框</name>
+    <source>封神之战战功兑换</source>
+    <desc>使用后，将改变角色的名字外框为封神外框。</desc>
+  </item>
+  <item id="100228">
+    <iddesc>95</iddesc>
+    <name>战斧外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后，将改变角色的名字外框为战斧外框。</desc>
+  </item>
+  <item id="100285">
+    <iddesc>96</iddesc>
+    <name>敏捷之靴外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后，将改变角色的名字外框为象征敏捷的敏捷之靴外框</desc>
+  </item>
+  <item id="100232">
+    <iddesc>97</iddesc>
+    <name>金翼外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后，将改变角色的名字外框为金翼外框。</desc>
+  </item>
+  <item id="100231">
+    <iddesc>98</iddesc>
+    <name>青梅外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后，将改变角色的名字外框为青梅外框。</desc>
+  </item>
+  <item id="100233">
+    <iddesc>99</iddesc>
+    <name>仙云外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后，将改变角色的名字外框为仙云外框。</desc>
+  </item>
+  <item id="100234">
+    <iddesc>100</iddesc>
+    <name>骷髅外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后，将改变角色的名字外框为骷髅外框。</desc>
+  </item>
+  <item id="100235">
+    <iddesc>101</iddesc>
+    <name>花花外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后，将改变角色的名字外框为花花外框。</desc>
+  </item>
+  <item id="100236">
+    <iddesc>102</iddesc>
+    <name>雷电外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后，将改变角色的名字外框为雷电外框。</desc>
+  </item>
+  <item id="100237">
+    <iddesc>103</iddesc>
+    <name>太极外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后，将改变角色的名字外框为太极外框。</desc>
+  </item>
+  <item id="100238">
+    <iddesc>104</iddesc>
+    <name>富贵猫外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后，将改变角色的名字外框为富贵猫外框。</desc>
+  </item>
+  <item id="100239">
+    <iddesc>105</iddesc>
+    <name>夜明珠外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后，将改变角色的名字外框为夜明珠外框。</desc>
+  </item>
+  <item id="100240">
+    <iddesc>106</iddesc>
+    <name>金鱼外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后，将改变角色的名字外框为金鱼外框。</desc>
+  </item>
+  <item id="100241">
+    <iddesc>107</iddesc>
+    <name>风火轮外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后，将改变角色的名字外框为风火轮外框。</desc>
+  </item>
+  <item id="100242">
+    <iddesc>108</iddesc>
+    <name>八卦外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后，将改变角色的名字外框为八卦外框。</desc>
+  </item>
+  <item id="100243">
+    <iddesc>109</iddesc>
+    <name>恶灵外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后，将改变角色的名字外框为恶灵外框。</desc>
+  </item>
+  <item id="100244">
+    <iddesc>110</iddesc>
+    <name>星星外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后，将改变角色的名字外框为星星外框。</desc>
+  </item>
+  <item id="100269">
+    <iddesc>111</iddesc>
+    <name>青龙外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后，将改变角色的名字外框为青龙外框</desc>
+  </item>
+  <item id="100270">
+    <iddesc>112</iddesc>
+    <name>烈焰龙外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后，将改变角色的名字外框为烈焰龙外框</desc>
+  </item>
+  <item id="100247">
+    <iddesc>113</iddesc>
+    <name>露滴马外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后，将改变角色的名字外框为露滴马外框。</desc>
+  </item>
+  <item id="100248">
+    <iddesc>114</iddesc>
+    <name>羊宝贝外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后，将改变角色的名字外框为羊宝贝外框</desc>
+  </item>
+  <item id="100249">
+    <iddesc>115</iddesc>
+    <name>黄金葫芦外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后，将改变角色的名字外框为黄金葫芦外框</desc>
+  </item>
+  <item id="100250">
+    <iddesc>116</iddesc>
+    <name>木角牛外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后，将改变角色的名字外框为木角牛外框</desc>
+  </item>
+  <item id="100251">
+    <iddesc>117</iddesc>
+    <name>兔兔萝卜外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后，将改变角色的名字外框为兔兔萝卜外框</desc>
+  </item>
+  <item id="100252">
+    <iddesc>118</iddesc>
+    <name>消防帽外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后，将改变角色的名字外框为消防帽外框</desc>
+  </item>
+  <item id="100253">
+    <iddesc>119</iddesc>
+    <name>米兔兔外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后，将改变角色的名字外框为米兔兔外框</desc>
+  </item>
+  <item id="100254">
+    <iddesc>120</iddesc>
+    <name>石佛外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后，将改变角色的名字外框为石佛外框</desc>
+  </item>
+  <item id="100255">
+    <iddesc>121</iddesc>
+    <name>斑斑虎外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后，将改变角色的名字外框为斑斑虎外框</desc>
+  </item>
+  <item id="100256">
+    <iddesc>122</iddesc>
+    <name>道玄外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后，将改变角色的名字外框为道玄外框</desc>
+  </item>
+  <item id="100271">
+    <iddesc>123</iddesc>
+    <name>黄金魁将外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后，将改变角色的名字外框为黄金魁将外框</desc>
+  </item>
+  <item id="100266">
+    <iddesc>124</iddesc>
+    <name>霸云星外框</name>
+    <source>狮驼洞后洞的神秘商人处兑换</source>
+    <desc>使用后，将改变角色的名字外框为霸云星外框</desc>
+  </item>
+  <item id="100265">
+    <iddesc>125</iddesc>
+    <name>逆空流外框</name>
+    <source>狮驼洞后洞神秘商人处兑换</source>
+    <desc>使用后，将改变角色的名字外框为逆空流外框</desc>
+  </item>
+  <item id="100273">
+    <iddesc>126</iddesc>
+    <name>金羽外框</name>
+    <source>寻宝罗盘奖励</source>
+    <desc>使用后，将改变角色的名字外框为金羽外框</desc>
+  </item>
+  <item id="100274">
+    <iddesc>127</iddesc>
+    <name>蜘蛛外框</name>
+    <source>寻宝罗盘奖励</source>
+    <desc>使用后，将改变角色的名字外框为蜘蛛外框</desc>
+  </item>
+  <item id="100275">
+    <iddesc>128</iddesc>
+    <name>逆云龙外框</name>
+    <source>寻宝罗盘奖励</source>
+    <desc>使用后，将改变角色的名字外框为逆云龙外框</desc>
+  </item>
+  <item id="100276">
+    <iddesc>129</iddesc>
+    <name>银骷外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后，将改变角色的名字外框为银骷外框</desc>
+  </item>
+  <item id="100277">
+    <iddesc>130</iddesc>
+    <name>绿叶外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后，将改变角色的名字外框为绿叶外框</desc>
+  </item>
+  <item id="100278">
+    <iddesc>131</iddesc>
+    <name>智慧鸽外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后，将改变角色的名字外框为象征智慧的智慧鸽外框</desc>
+  </item>
+  <item id="100280">
+    <iddesc>132</iddesc>
+    <name>冰水晶外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后，将改变角色的名字外框为冰水晶外框</desc>
+  </item>
+  <item id="100281">
+    <iddesc>133</iddesc>
+    <name>冰娃娃外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后，将改变角色的名字外框为冰娃娃外框</desc>
+  </item>
+  <item id="100282">
+    <iddesc>134</iddesc>
+    <name>如意外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后将改变角色名字外框为如意外框。</desc>
+  </item>
+  <item id="100284">
+    <iddesc>135</iddesc>
+    <name>小白狐外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后将改变角色名字外框为小白狐外框。</desc>
+  </item>
+  <item id="100283">
+    <iddesc>136</iddesc>
+    <name>扶桑花外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后将改变角色名字外框为扶桑花外框。</desc>
+  </item>
+  <item id="100286">
+    <iddesc>137</iddesc>
+    <name>玫瑰花外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后将改变角色名字外框为玫瑰花外框。</desc>
+  </item>
+  <item id="100287">
+    <iddesc>138</iddesc>
+    <name>冰之能量外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后将改变角色名字外框为冰之能量外框。</desc>
+  </item>
+  <item id="100288">
+    <iddesc>139</iddesc>
+    <name>宝相花外框</name>
+    <source>寻宝罗盘奖励</source>
+    <desc>使用后将改变角色名字外框为宝相花外框。</desc>
+  </item>
+  <item id="100289">
+    <iddesc>140</iddesc>
+    <name>碧玉蕙兰外框</name>
+    <source>寻宝罗盘奖励</source>
+    <desc>使用后将改变角色名字外框为碧玉蕙兰外框。</desc>
+  </item>
+  <item id="100290">
+    <iddesc>141</iddesc>
+    <name>大黄菊外框</name>
+    <source>寻宝罗盘奖励</source>
+    <desc>使用后将改变角色名字外框为大黄菊外框。</desc>
+  </item>
+  <item id="100291">
+    <iddesc>142</iddesc>
+    <name>蓝精灵外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后将改变角色名字外框为蓝精灵外框。</desc>
+  </item>
+  <item id="100292">
+    <iddesc>143</iddesc>
+    <name>潮流相机外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后将改变角色名字外框为潮流相机外框。</desc>
+  </item>
+  <item id="100295">
+    <iddesc>144</iddesc>
+    <name>玉兔名字外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后将改变角色名字外框为玉兔外框。</desc>
+  </item>
+  <item id="100296">
+    <iddesc>145</iddesc>
+    <name>碧玉灯笼外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后将改变角色名字外框为碧玉灯笼外框。</desc>
+  </item>
+  <item id="100299">
+    <iddesc>146</iddesc>
+    <name>南瓜宝宝外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后将改变角色名字外框为南瓜宝宝外框。</desc>
+  </item>
+  <item id="100300">
+    <iddesc>147</iddesc>
+    <name>锯齿棒外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后将改变角色名字外框为锯齿棒外框。</desc>
+  </item>
+  <item id="100303">
+    <iddesc>148</iddesc>
+    <name>力量之剑外框</name>
+    <source>游戏乐园活动</source>
+    <desc>使用后将改变角色名字外框为代表力量的力量之剑外框。</desc>
+  </item>
+  <item id="100301">
+    <iddesc>149</iddesc>
+    <name>夜莺外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后将改变角色名字外框为夜莺外框。</desc>
+  </item>
+  <item id="100302">
+    <iddesc>150</iddesc>
+    <name>石锤外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后将改变角色名字外框为石锤外框。</desc>
+  </item>
+  <item id="100304">
+    <iddesc>151</iddesc>
+    <name>狸猫外框</name>
+    <source>寻宝罗盘奖励</source>
+    <desc>使用后将改变角色名字外框为狸猫外框。</desc>
+  </item>
+  <item id="100305">
+    <iddesc>152</iddesc>
+    <name>箭筒外框</name>
+    <source>寻宝罗盘奖励</source>
+    <desc>使用后将改变角色名字外框为箭筒外框。</desc>
+  </item>
+  <item id="100306">
+    <iddesc>153</iddesc>
+    <name>银铃外框</name>
+    <source>寻宝罗盘奖励</source>
+    <desc>使用后将改变角色名字外框为银铃外框。</desc>
+  </item>
+  <item id="100308">
+    <iddesc>154</iddesc>
+    <name>彩条领结外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后将改变角色名字外框为彩条领结外框。</desc>
+  </item>
+  <item id="100309">
+    <iddesc>155</iddesc>
+    <name>蓝羽外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后将改变角色名字外框为蓝羽外框。</desc>
+  </item>
+  <item id="100223">
+    <iddesc>162</iddesc>
+    <name>高级任务刷新令</name>
+    <source>商城购买</source>
+    <desc>使用后皇榜任务难度直接刷新为1.奖励度刷新为10。在皇榜任务，提升奖励回报或降低任务难度时使用。</desc>
+  </item>
+  <item id="100222">
+    <iddesc>163</iddesc>
+    <name>高级奖励刷新令</name>
+    <source>商城购买</source>
+    <desc>使用后皇榜任务奖励丰厚度直接刷新为10.难度不变。在皇榜任务提升奖励回报时使用。</desc>
+  </item>
+  <item id="101015">
+    <iddesc>164</iddesc>
+    <name>五行精元</name>
+    <source>商城购买</source>
+    <desc>在妖怪化形仪中使用可以加速金、木、水、火、土五种属性精魄化形。</desc>
+  </item>
+  <item id="510005">
+    <iddesc>165</iddesc>
+    <name>玄木钓竿</name>
+    <source>碧水洞天的小猴子处获得</source>
+    <desc>神奇的钓竿，貌似可以钓各种动物……</desc>
+  </item>
+  <item id="510007">
+    <iddesc>166</iddesc>
+    <name>五行玄木钓竿</name>
+    <source>商城购买</source>
+    <desc>装备后可以在碧水洞天随机钓出金、木、水、火、土五种系别妖怪。</desc>
+  </item>
+  <item id="510008">
+    <iddesc>167</iddesc>
+    <name>五邪玄木钓竿</name>
+    <source>商城购买</source>
+    <desc>装备后可以在碧水洞天随机钓出妖、魔、毒、怪、翼五种系别妖怪。</desc>
+  </item>
+  <item id="102101">
+    <iddesc>168</iddesc>
+    <name>【天蝎子】精魄</name>
+    <source>2012.12.06商城出售</source>
+    <desc>合天地之造化，蕴无上灵力之精魄。在妖怪培育舱中使用妖怪化形仪可以化形出天蝎子。</desc>
+  </item>
+  <item id="102100">
+    <iddesc>169</iddesc>
+    <name>【闪电童子】精魄</name>
+    <source>2012.12.06商城出售</source>
+    <desc>合天地之造化，蕴无上灵力之精魄。在妖怪培育舱中使用妖怪化形仪可以化形出闪电童子。</desc>
+  </item>
+  <item id="102102">
+    <iddesc>170</iddesc>
+    <name>【刀小狼】精魄</name>
+    <source>2012.12.06商城出售</source>
+    <desc>合天地之造化，蕴无上灵力之精魄。在妖怪培育舱中使用妖怪化形仪可以化形出刀小狼。</desc>
+  </item>
+  <item id="102103">
+    <iddesc>171</iddesc>
+    <name>【紫蛛儿】精魄</name>
+    <source>2012.12.06商城出售</source>
+    <desc>合天地之造化，蕴无上灵力之精魄。在妖怪培育舱中使用妖怪化形仪可以化形出紫蛛儿。</desc>
+  </item>
+  <item id="102104">
+    <iddesc>172</iddesc>
+    <name>【冰晶蛇】精魄</name>
+    <source>2012.12.27商城出售</source>
+    <desc>合天地之造化，蕴无上灵力之精魄。在妖怪培育舱中使用妖怪化形仪可以化形出冰晶蛇。</desc>
+  </item>
+  <item id="102105">
+    <iddesc>173</iddesc>
+    <name>【红目狐】精魄</name>
+    <source>2012.12.27商城出售</source>
+    <desc>合天地之造化，蕴无上灵力之精魄。在妖怪培育舱中使用妖怪化形仪可以化形出红目狐。</desc>
+  </item>
+  <item id="300030">
+    <iddesc>174</iddesc>
+    <name>神明果</name>
+    <source>可在傲来海岸、双叉岭、金兜山采集</source>
+    <desc>神明果</desc>
+  </item>
+  <item id="620004">
+    <iddesc>175</iddesc>
+    <name>凝神果</name>
+    <source>商城购买</source>
+    <desc>提高仙兽的神兽化几率20%。每只仙兽只能使用一次。</desc>
+  </item>
+  <item id="730018">
+    <iddesc>176</iddesc>
+    <name>一键收获卡</name>
+    <source>商城购买</source>
+    <desc>使用后获得31天一键收获功能，庄园道具栏中使用。</desc>
+  </item>
+  <item id="400037">
+    <iddesc>177</iddesc>
+    <name>魔晶石</name>
+    <source>主线任务</source>
+    <desc>蕴含奇异能量的神秘晶石</desc>
+  </item>
+  <item id="100032">
+    <iddesc>178</iddesc>
+    <name>普通魔晶粉</name>
+    <source>神兽园捣蛋妖掉落</source>
+    <desc>可用于神兽转化，消灭捣蛋妖有可能获得。</desc>
+  </item>
+  <item id="103013">
+    <iddesc>179</iddesc>
+    <name>寻宝罗盘</name>
+    <source>商城购买、任务赠送</source>
+    <desc>使用后获得3个“已开启的罗盘”，寻宝将有机会获得商城道具、绝版妖怪、精美服装等道具。</desc>
+  </item>
+  <item id="510001">
+    <iddesc>180</iddesc>
+    <name>矿石采集器</name>
+    <source>胖墩博士处可以领取</source>
+    <desc>采集装置，装备后可以采集普通资源。</desc>
+  </item>
+  <item id="510002">
+    <iddesc>181</iddesc>
+    <name>气体吸收机</name>
+    <source>在资源舱可购买</source>
+    <desc>采集装置，装备后可采集天地灵气。</desc>
+  </item>
+  <item id="510003">
+    <iddesc>182</iddesc>
+    <name>聚能火钻</name>
+    <source>在资源舱可购买</source>
+    <desc>采集装置，装备后可采集茅山玉、天罡石、上清宝玉。</desc>
+  </item>
+  <item id="100024">
+    <iddesc>183</iddesc>
+    <name>小历练丹</name>
+    <source>商城购买</source>
+    <desc>对妖怪使用后，该妖怪将获得1000历练</desc>
+  </item>
+  <item id="100023">
+    <iddesc>184</iddesc>
+    <name>大历练丹</name>
+    <source>商城购买</source>
+    <desc>对妖怪使用后，该妖怪将获得2000历练</desc>
+  </item>
+  <item id="100078">
+    <iddesc>185</iddesc>
+    <name>五灵历练丹</name>
+    <source>斩杀勋章兑换</source>
+    <desc>对妖怪使用后，该妖怪将获得5000历练。</desc>
+  </item>
+  <item id="800340">
+    <iddesc>186</iddesc>
+    <name>祭龙台</name>
+    <source>战场兑换</source>
+    <desc>蕴藏着强大而深邃的力量，是强者们梦寐以求的物品</desc>
+  </item>
+  <item id="800341">
+    <iddesc>187</iddesc>
+    <name>皇室祭坛</name>
+    <source>战场兑换</source>
+    <desc>极尽奢华，造工精致，象征无上的荣耀</desc>
+  </item>
+  <item id="800342">
+    <iddesc>188</iddesc>
+    <name>派对舞池</name>
+    <source>战场兑换</source>
+    <desc>时尚的代名词，拥有它你就可以引领潮流</desc>
+  </item>
+  <item id="800343">
+    <iddesc>190</iddesc>
+    <name>降龙战鼓</name>
+    <source>战场兑换</source>
+    <desc>古朴典雅的造型，拥有沉稳的音色</desc>
+  </item>
+  <item id="800344">
+    <iddesc>191</iddesc>
+    <name>帝王战鼓</name>
+    <source>战场兑换</source>
+    <desc>他的鼓声可以振奋全军士气，令军士们奋勇作战</desc>
+  </item>
+  <item id="800345">
+    <iddesc>192</iddesc>
+    <name>摇滚太鼓</name>
+    <source>战场兑换</source>
+    <desc>派对上必不可少的装备，时尚达人的标志</desc>
+  </item>
+  <item id="800346">
+    <iddesc>193</iddesc>
+    <name>御龙圣杯</name>
+    <source>战场兑换</source>
+    <desc>传说巨龙的眼泪就放在此杯中</desc>
+  </item>
+  <item id="800347">
+    <iddesc>194</iddesc>
+    <name>帝王圣杯</name>
+    <source>战场兑换</source>
+    <desc>古代的君王用它来奖励军功显赫的将军</desc>
+  </item>
+  <item id="800348">
+    <iddesc>195</iddesc>
+    <name>幻彩射灯</name>
+    <source>战场兑换</source>
+    <desc>闪闪生辉的射灯，派对上必不可少的物品</desc>
+  </item>
+  <item id="800350">
+    <iddesc>196</iddesc>
+    <name>天帝神兵架</name>
+    <source>战场兑换</source>
+    <desc>上古的帝王将收集到的神兵利器都置于此架上</desc>
+  </item>
+  <item id="800351">
+    <iddesc>197</iddesc>
+    <name>高级吧台</name>
+    <source>战场兑换</source>
+    <desc>在派对中供人休息的地方</desc>
+  </item>
+  <item id="800352">
+    <iddesc>198</iddesc>
+    <name>伏龙座</name>
+    <source>战场兑换</source>
+    <desc>只有降伏巨龙的人，才有资格坐在这宝座上面</desc>
+  </item>
+  <item id="800353">
+    <iddesc>199</iddesc>
+    <name>帝王宝座</name>
+    <source>战场兑换</source>
+    <desc>坐在上面代表这无上的权力</desc>
+  </item>
+  <item id="800354">
+    <iddesc>200</iddesc>
+    <name>豪华沙发</name>
+    <source>战场兑换</source>
+    <desc>柔软舒适，潮流人士的选择</desc>
+  </item>
+  <item id="800355">
+    <iddesc>201</iddesc>
+    <name>斩龙兵器架</name>
+    <source>战场兑换</source>
+    <desc>传说中驱逐邪龙的武器就放在此架上</desc>
+  </item>
+  <item id="103001">
+    <iddesc>202</iddesc>
+    <name>1级属性灵玉</name>
+    <source>完成洛特的考验、打败千回长者的妖怪、参加封神之战有机会获得</source>
+    <desc>装备此灵玉，可以为妖怪提高自身的一项属性。</desc>
+  </item>
+  <item id="103002">
+    <iddesc>203</iddesc>
+    <name>2级属性灵玉</name>
+    <source>完成洛特的考验、打败千回长者的妖怪、参加封神之战有机会获得</source>
+    <desc>装备此灵玉，可以为妖怪提高自身的二项属性。</desc>
+  </item>
+  <item id="800001">
+    <iddesc>204</iddesc>
+    <name>红木茶几</name>
+    <source>家具城购买</source>
+    <desc>红木茶几，可以在后花园或家园小屋里摆放。</desc>
+  </item>
+  <item id="800002">
+    <iddesc>205</iddesc>
+    <name>红木八仙桌</name>
+    <source>家具城购买</source>
+    <desc>红木八仙桌，可以在后花园或家园小屋里摆放。</desc>
+  </item>
+  <item id="800003">
+    <iddesc>206</iddesc>
+    <name>红木椅</name>
+    <source>家具城购买</source>
+    <desc>红木椅，可以在后花园或家园小屋里摆放。</desc>
+  </item>
+  <item id="800004">
+    <iddesc>207</iddesc>
+    <name>山水屏风</name>
+    <source>家具城购买</source>
+    <desc>山水屏风，可以在后花园或家园小屋里摆放。</desc>
+  </item>
+  <item id="800005">
+    <iddesc>208</iddesc>
+    <name>金漆佩剑</name>
+    <source>家具城购买</source>
+    <desc>金漆配剑，可以挂在家园小屋的墙壁上。</desc>
+  </item>
+  <item id="800006">
+    <iddesc>209</iddesc>
+    <name>玻璃餐桌</name>
+    <source>家具城购买</source>
+    <desc>玻璃餐桌，可以在后花园或家园小屋里摆放。</desc>
+  </item>
+  <item id="800007">
+    <iddesc>210</iddesc>
+    <name>粉贝沙发</name>
+    <source>家具城购买</source>
+    <desc>粉贝沙发，可以在后花园或家园小屋里摆放。</desc>
+  </item>
+  <item id="800008">
+    <iddesc>211</iddesc>
+    <name>青帘公主床</name>
+    <source>家具城购买</source>
+    <desc>青帘公主床，可以在后花园或家园小屋里摆放。</desc>
+  </item>
+  <item id="800009">
+    <iddesc>212</iddesc>
+    <name>冲霄抱枕</name>
+    <source>家具城购买</source>
+    <desc>冲霄抱枕，可以在后花园或家园小屋里摆放。</desc>
+  </item>
+  <item id="800010">
+    <iddesc>213</iddesc>
+    <name>大鱼缸</name>
+    <source>家具城购买</source>
+    <desc>大鱼缸，可以在后花园或家园小屋里摆放。</desc>
+  </item>
+  <item id="800011">
+    <iddesc>214</iddesc>
+    <name>仙人掌盆栽</name>
+    <source>家具城购买</source>
+    <desc>仙人掌盆栽，可以在后花园或家园小屋里摆放。</desc>
+  </item>
+  <item id="800012">
+    <iddesc>215</iddesc>
+    <name>石凳</name>
+    <source>VIP商店</source>
+    <desc>石沙发，可以在后花园或家园小屋里摆放。</desc>
+  </item>
+  <item id="800013">
+    <iddesc>216</iddesc>
+    <name>石桌</name>
+    <source>VIP商店</source>
+    <desc>石桌，可以在后花园或家园小屋里摆放。</desc>
+  </item>
+  <item id="800014">
+    <iddesc>217</iddesc>
+    <name>石斧</name>
+    <source>家具城购买</source>
+    <desc>石斧，可以挂在家园小屋的墙壁上。</desc>
+  </item>
+  <item id="800015">
+    <iddesc>218</iddesc>
+    <name>恐龙骸骨</name>
+    <source>VIP商店</source>
+    <desc>恐龙骸骨，可以在后花园或家园小屋里摆放。</desc>
+  </item>
+  <item id="800017">
+    <iddesc>219</iddesc>
+    <name>饰品台</name>
+    <source>活动</source>
+    <desc>饰品台，可以放置在家园小屋里的墙壁上。</desc>
+  </item>
+  <item id="800016">
+    <iddesc>220</iddesc>
+    <name>原始电视机</name>
+    <source>VIP商店</source>
+    <desc>原始电视机，可以在后花园或家园小屋里摆放。</desc>
+  </item>
+  <item id="800020">
+    <iddesc>221</iddesc>
+    <name>现代家居屋型</name>
+    <source>VIP商店购买</source>
+    <desc>使用后小屋的外形和屋内将替换成现代家居屋型。</desc>
+  </item>
+  <item id="800021">
+    <iddesc>222</iddesc>
+    <name>中国风屋型</name>
+    <source>拍卖</source>
+    <desc>使用后小屋的外形和屋内将替换成中国风屋型。</desc>
+  </item>
+  <item id="800023">
+    <iddesc>223</iddesc>
+    <name>蘑菇秋千</name>
+    <source>商城购买</source>
+    <desc>蘑菇秋千，可以在后花园或家园小屋里摆放。</desc>
+  </item>
+  <item id="800024">
+    <iddesc>224</iddesc>
+    <name>木栅栏</name>
+    <source>商城购买</source>
+    <desc>木栅栏，可以在后花园或家园小屋里摆放。</desc>
+  </item>
+  <item id="800025">
+    <iddesc>225</iddesc>
+    <name>大耳小猪</name>
+    <source>商城购买</source>
+    <desc>大耳小猪，可以在后花园或家园小屋里摆放。</desc>
+  </item>
+  <item id="800026">
+    <iddesc>226</iddesc>
+    <name>藤藤草</name>
+    <source>商城购买</source>
+    <desc>藤藤草，可以在后花园或家园小屋里摆放。</desc>
+  </item>
+  <item id="800027">
+    <iddesc>227</iddesc>
+    <name>红蘑菇</name>
+    <source>商城购买</source>
+    <desc>红蘑菇，可以在后花园或家园小屋里摆放。</desc>
+  </item>
+  <item id="800028">
+    <iddesc>228</iddesc>
+    <name>牧草堆</name>
+    <source>商城购买</source>
+    <desc>牧草堆，可以在后花园或家园小屋里摆放。</desc>
+  </item>
+  <item id="800029">
+    <iddesc>229</iddesc>
+    <name>架子鼓</name>
+    <source>VIP商店</source>
+    <desc>蓝帝爵士鼓，可以在后花园或家园小屋里摆放。</desc>
+  </item>
+  <item id="800030">
+    <iddesc>230</iddesc>
+    <name>钢琴</name>
+    <source>VIP商店</source>
+    <desc>钢琴，可以在后花园或家园小屋里摆放。</desc>
+  </item>
+  <item id="800031">
+    <iddesc>231</iddesc>
+    <name>天文望远镜</name>
+    <source>VIP商店</source>
+    <desc>天文望远镜，可以在后花园或家园小屋里摆放。</desc>
+  </item>
+  <item id="800032">
+    <iddesc>232</iddesc>
+    <name>海蓝长沙发</name>
+    <source>VIP商店</source>
+    <desc>海蓝长沙发，可以在后花园或家园小屋里摆放。</desc>
+  </item>
+  <item id="800033">
+    <iddesc>233</iddesc>
+    <name>香草长沙发</name>
+    <source>VIP商店</source>
+    <desc>香草长沙发。可以在后花园或家园小屋里摆放。</desc>
+  </item>
+  <item id="800034">
+    <iddesc>234</iddesc>
+    <name>遮阳伞餐桌</name>
+    <source>商城购买</source>
+    <desc>遮阳伞餐桌，可以在后花园或家园小屋里摆放。</desc>
+  </item>
+  <item id="800035">
+    <iddesc>235</iddesc>
+    <name>水心喷泉</name>
+    <source>商城购买</source>
+    <desc>水心水池，可以在后花园或家园小屋里摆放。</desc>
+  </item>
+  <item id="800036">
+    <iddesc>236</iddesc>
+    <name>木秋千</name>
+    <source>商城购买</source>
+    <desc>木秋千，可以在后花园或家园小屋里摆放。</desc>
+  </item>
+  <item id="800037">
+    <iddesc>237</iddesc>
+    <name>小榕树</name>
+    <source>商城购买</source>
+    <desc>小榕树，可以在后花园或家园小屋里摆放。</desc>
+  </item>
+  <item id="800038">
+    <iddesc>238</iddesc>
+    <name>小型花卉</name>
+    <source>商城购买</source>
+    <desc>小型花卉，可以在后花园或家园小屋里摆放。</desc>
+  </item>
+  <item id="800039">
+    <iddesc>239</iddesc>
+    <name>大石块</name>
+    <source>商城购买</source>
+    <desc>大石块，可以在后花园或家园小屋里摆放。</desc>
+  </item>
+  <item id="800040">
+    <iddesc>240</iddesc>
+    <name>蘑菇邮箱</name>
+    <source>商城购买</source>
+    <desc>蘑菇邮箱，可以在后花园或家园小屋里摆放。</desc>
+  </item>
+  <item id="800041">
+    <iddesc>241</iddesc>
+    <name>向日葵盆栽</name>
+    <source>商城购买</source>
+    <desc>向日葵盆栽，可以在后花园或家园小屋里摆放。</desc>
+  </item>
+  <item id="800042">
+    <iddesc>242</iddesc>
+    <name>小粉菇</name>
+    <source>商城购买</source>
+    <desc>小粉菇，可以在后花园或家园小屋里摆放。</desc>
+  </item>
+  <item id="800043">
+    <iddesc>243</iddesc>
+    <name>蘑菇公告牌</name>
+    <source>商城购买</source>
+    <desc>蘑菇公告牌，可以在后花园或家园小屋里摆放。</desc>
+  </item>
+  <item id="800044">
+    <iddesc>244</iddesc>
+    <name>腾腾草幼苗</name>
+    <source>商城购买</source>
+    <desc>藤藤草幼苗，可以在后花园或家园小屋里摆放。</desc>
+  </item>
+  <item id="800045">
+    <iddesc>245</iddesc>
+    <name>蘑菇路灯</name>
+    <source>商城购买</source>
+    <desc>蘑菇路灯，可以在后花园或家园小屋里摆放。</desc>
+  </item>
+  <item id="800046">
+    <iddesc>246</iddesc>
+    <name>木材堆</name>
+    <source>藏宝箱奖励</source>
+    <desc>木材堆，可以在后花园或家园小屋里摆放。</desc>
+  </item>
+  <item id="800047">
+    <iddesc>247</iddesc>
+    <name>小草丛</name>
+    <source>赠送</source>
+    <desc>小草丛，可以在后花园或家园小屋里摆放。</desc>
+  </item>
+  <item id="800048">
+    <iddesc>248</iddesc>
+    <name>钓竿</name>
+    <source>赠送</source>
+    <desc>钓竿，可以在后花园或家园小屋里摆放。</desc>
+  </item>
+  <item id="800049">
+    <iddesc>249</iddesc>
+    <name>碎石堆</name>
+    <source>赠送</source>
+    <desc>碎石堆，可以在后花园或家园小屋里摆放。</desc>
+  </item>
+  <item id="800050">
+    <iddesc>250</iddesc>
+    <name>石器时代屋型</name>
+    <source>VIP商店</source>
+    <desc>使用后小屋的外形和屋内将替换成石器时代屋型</desc>
+  </item>
+  <item id="800051">
+    <iddesc>251</iddesc>
+    <name>小石墩</name>
+    <source>赠送</source>
+    <desc>小石墩，可以在后花园或家园小屋里摆放。</desc>
+  </item>
+  <item id="800052">
+    <iddesc>252</iddesc>
+    <name>小酒坛</name>
+    <source>赠送</source>
+    <desc>小酒坛，可以在后花园或家园小屋里摆放。</desc>
+  </item>
+  <item id="800053">
+    <iddesc>253</iddesc>
+    <name>小鸡</name>
+    <source>活动赠送</source>
+    <desc>小鸡，可以在后花园或家园小屋里摆放。</desc>
+  </item>
+  <item id="800054">
+    <iddesc>254</iddesc>
+    <name>吊吊椅</name>
+    <source>赠送</source>
+    <desc>吊吊椅，可以在后花园或家园小屋里摆放。</desc>
+  </item>
+  <item id="800055">
+    <iddesc>255</iddesc>
+    <name>树桩凳</name>
+    <source>赠送</source>
+    <desc>树桩凳，可以在后花园或家园小屋里摆放。</desc>
+  </item>
+  <item id="800056">
+    <iddesc>256</iddesc>
+    <name>红果藤藤草</name>
+    <source>赠送</source>
+    <desc>红果藤藤草，可以在后花园或家园小屋里摆放。</desc>
+  </item>
+  <item id="800057">
+    <iddesc>257</iddesc>
+    <name>石拱门</name>
+    <source>赠送</source>
+    <desc>石拱门，可以在后花园或家园小屋里摆放。</desc>
+  </item>
+  <item id="800058">
+    <iddesc>258</iddesc>
+    <name>猪国王壁挂</name>
+    <source>赠送</source>
+    <desc>猪国王壁挂，可以放置在家园小屋里的墙壁上。</desc>
+  </item>
+  <item id="800059">
+    <iddesc>259</iddesc>
+    <name>棕毛羊驼</name>
+    <source>赠送</source>
+    <desc>棕毛羊驼，可以在后花园或家园小屋里摆放。</desc>
+  </item>
+  <item id="800060">
+    <iddesc>260</iddesc>
+    <name>红嘟嘟热气球</name>
+    <source>赠送</source>
+    <desc>红嘟嘟氢气球，可以在后花园或家园小屋里摆放。</desc>
+  </item>
+  <item id="800061">
+    <iddesc>261</iddesc>
+    <name>呆鸟</name>
+    <source>赠送</source>
+    <desc>呆鸟，可以在后花园或家园小屋里摆放。</desc>
+  </item>
+  <item id="800062">
+    <iddesc>262</iddesc>
+    <name>铜艺秋千</name>
+    <source>赠送</source>
+    <desc>铜艺秋千，可以在后花园或家园小屋里摆放。</desc>
+  </item>
+  <item id="800063">
+    <iddesc>263</iddesc>
+    <name>泥泞木栅栏</name>
+    <source>赠送</source>
+    <desc>泥泞木栅栏，可以在后花园或家园小屋里摆放。</desc>
+  </item>
+  <item id="800064">
+    <iddesc>264</iddesc>
+    <name>青苔大石块</name>
+    <source>赠送</source>
+    <desc>青苔大石块，可以在后花园或家园小屋里摆放。</desc>
+  </item>
+  <item id="800065">
+    <iddesc>265</iddesc>
+    <name>绿洋遮阴棚</name>
+    <source>赠送</source>
+    <desc>绿洋遮阴棚，可以在后花园或家园小屋里摆放。</desc>
+  </item>
+  <item id="800066">
+    <iddesc>266</iddesc>
+    <name>簸箕架子</name>
+    <source>赠送</source>
+    <desc>簸箕架子，可以在后花园或家园小屋里摆放。</desc>
+  </item>
+  <item id="800067">
+    <iddesc>267</iddesc>
+    <name>水槽</name>
+    <source>赠送</source>
+    <desc>水槽，可以在后花园或家园小屋里摆放。</desc>
+  </item>
+  <item id="800068">
+    <iddesc>268</iddesc>
+    <name>神符栅栏</name>
+    <source>赠送</source>
+    <desc>神符栅栏，可以在后花园或家园小屋里摆放。</desc>
+  </item>
+  <item id="800069">
+    <iddesc>269</iddesc>
+    <name>红顶凉亭</name>
+    <source>赠送</source>
+    <desc>红顶凉亭，可以在后花园或家园小屋里摆放。</desc>
+  </item>
+  <item id="800070">
+    <iddesc>270</iddesc>
+    <name>翠绿小树</name>
+    <source>赠送</source>
+    <desc>翠绿小树，可以在后花园或家园小屋里摆放。</desc>
+  </item>
+  <item id="800071">
+    <iddesc>271</iddesc>
+    <name>巨象坦克</name>
+    <source>暂时无法获得</source>
+    <desc>巨象坦克，可以在后花园或家园小屋里摆放。</desc>
+  </item>
+  <item id="800072">
+    <iddesc>272</iddesc>
+    <name>飓风战机</name>
+    <source>暂时无法获得</source>
+    <desc>飓风战机，可以在后花园或家园小屋里摆放。</desc>
+  </item>
+  <item id="800073">
+    <iddesc>273</iddesc>
+    <name>V-II防空炮</name>
+    <source>暂时无法获得</source>
+    <desc>V-II防空炮，可以在后花园或家园小屋里摆放。</desc>
+  </item>
+  <item id="800074">
+    <iddesc>274</iddesc>
+    <name>反隐形雷达</name>
+    <source>暂时无法获得</source>
+    <desc>反隐形雷达，可以在后花园或家园小屋里摆放。</desc>
+  </item>
+  <item id="800075">
+    <iddesc>275</iddesc>
+    <name>四齿钉耙</name>
+    <source>赠送</source>
+    <desc>四齿钉耙，可以在后花园或家园小屋里摆放。</desc>
+  </item>
+  <item id="800076">
+    <iddesc>276</iddesc>
+    <name>尖头铁铲</name>
+    <source>赠送</source>
+    <desc>尖头铁铲，可以在后花园或家园小屋里摆放。</desc>
+  </item>
+  <item id="800077">
+    <iddesc>277</iddesc>
+    <name>石炉锅</name>
+    <source>活动获得</source>
+    <desc>石炉锅家具，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="800078">
+    <iddesc>278</iddesc>
+    <name>百花树盆栽</name>
+    <source>暂时无法获得</source>
+    <desc>百花树盆栽家具，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="800079">
+    <iddesc>279</iddesc>
+    <name>青草花香拱门</name>
+    <source>vip回馈活动赠送</source>
+    <desc>青草花香拱门家具，可在后花园摆放</desc>
+  </item>
+  <item id="800080">
+    <iddesc>280</iddesc>
+    <name>粉猪许愿灯</name>
+    <source>vip回馈活动</source>
+    <desc>粉猪许愿灯家具，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="800081">
+    <iddesc>281</iddesc>
+    <name>精致小铃蜂摆件</name>
+    <source>vip回馈活动</source>
+    <desc>精致小铃蜂摆件家具，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="800082">
+    <iddesc>282</iddesc>
+    <name>樱桃小护栏（右）</name>
+    <source>活动</source>
+    <desc>樱桃小护栏（右）家具，可在后花园摆放</desc>
+  </item>
+  <item id="800083">
+    <iddesc>283</iddesc>
+    <name>樱桃小护栏（左）</name>
+    <source>活动</source>
+    <desc>樱桃小护栏（左）家具，可在后花园摆放</desc>
+  </item>
+  <item id="800084">
+    <iddesc>284</iddesc>
+    <name>彩色珊瑚</name>
+    <source>活动</source>
+    <desc>彩色珊瑚家具，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="800085">
+    <iddesc>285</iddesc>
+    <name>斑斓海草</name>
+    <source>活动</source>
+    <desc>斑斓海草家具，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="800086">
+    <iddesc>286</iddesc>
+    <name>冰贝家具组合</name>
+    <source>巧手达人活动</source>
+    <desc>冰贝家具组合家具，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="800087">
+    <iddesc>287</iddesc>
+    <name>小海马</name>
+    <source>五一喷水打扫活动</source>
+    <desc>小海马家具，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="800088">
+    <iddesc>288</iddesc>
+    <name>烈阳界碑</name>
+    <source>暂时无法获得</source>
+    <desc>烈阳界碑，可以在后花园摆放</desc>
+  </item>
+  <item id="800089">
+    <iddesc>289</iddesc>
+    <name>暗影界碑</name>
+    <source>暂时无法获得</source>
+    <desc>暗影界碑，可以在后花园里摆放。</desc>
+  </item>
+  <item id="800090">
+    <iddesc>290</iddesc>
+    <name>王座烛台</name>
+    <source>暂时无法获得</source>
+    <desc>王座烛台，在漆黑的夜晚里可以带来光明</desc>
+  </item>
+  <item id="800091">
+    <iddesc>291</iddesc>
+    <name>烈阳王座</name>
+    <source>暂时无法获得</source>
+    <desc>烈阳王座，王座战争中烈阳军的宝物</desc>
+  </item>
+  <item id="800092">
+    <iddesc>292</iddesc>
+    <name>暗影王座</name>
+    <source>暂时无法获得</source>
+    <desc>暗影王座，王座战争中暗影军的宝物</desc>
+  </item>
+  <item id="800093">
+    <iddesc>293</iddesc>
+    <name>樱桃雪糕电视</name>
+    <source>捕鼠大行动任务</source>
+    <desc>有着樱桃雪糕的可爱外形的电视机，可以在后花园或家园小屋里摆放。</desc>
+  </item>
+  <item id="800094">
+    <iddesc>294</iddesc>
+    <name>樱桃雪糕闹钟</name>
+    <source>捕鼠大行动任务</source>
+    <desc>有着樱桃雪糕的可爱外形的闹钟，可以在后花园或家园小屋里摆放。</desc>
+  </item>
+  <item id="800095">
+    <iddesc>295</iddesc>
+    <name>深海窗帘</name>
+    <source>六月主题活动奖励</source>
+    <desc>透过窗外看到的是海底的景象，这是一种多么美妙的享受啊！可以在家园小屋里摆放。</desc>
+  </item>
+  <item id="800096">
+    <iddesc>296</iddesc>
+    <name>海螺展柜</name>
+    <source>六月主题活动奖励</source>
+    <desc>将海螺天然的造型，打造成展柜，设计师真是独具匠心！可以在后花园或家园小屋里摆放。</desc>
+  </item>
+  <item id="800097">
+    <iddesc>297</iddesc>
+    <name>珊瑚吧台</name>
+    <source>六月主题活动奖励</source>
+    <desc>独特的造型，明朗的色彩，这样的吧台时尚感十足！可以在后花园或家园小屋里摆放。</desc>
+  </item>
+  <item id="800098">
+    <iddesc>298</iddesc>
+    <name>夜明珠盆景</name>
+    <source>六月主题活动奖励</source>
+    <desc>用千年珍珠打造的夜明珠盆栽，既精致又华丽至极！可以在后花园或家园小屋里摆放。</desc>
+  </item>
+  <item id="800099">
+    <iddesc>299</iddesc>
+    <name>多塔蛋糕树</name>
+    <source>活动：唐太宗的苦恼</source>
+    <desc>多塔蛋糕树，可以在后花园或家园小屋里摆放。</desc>
+  </item>
+  <item id="800100">
+    <iddesc>300</iddesc>
+    <name>典雅花瓶</name>
+    <source>端午活动奖励</source>
+    <desc>典雅花瓶，可以在后花园或家园小屋里摆放。</desc>
+  </item>
+  <item id="800101">
+    <iddesc>301</iddesc>
+    <name>雪糕球闪烁吊灯</name>
+    <source>活动</source>
+    <desc>华丽的雪糕球型闪闪发光的吊灯，可以在后花园或家园小屋里摆放。</desc>
+  </item>
+  <item id="800102">
+    <iddesc>302</iddesc>
+    <name>火炬台</name>
+    <source>圣火传递活动</source>
+    <desc>火炬台，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="800201">
+    <iddesc>303</iddesc>
+    <name>欢乐椰树</name>
+    <source>商城销售</source>
+    <desc>热带的椰树摆设，可以在后花园或家园小屋摆放</desc>
+  </item>
+  <item id="800202">
+    <iddesc>304</iddesc>
+    <name>喵喵沙滩组合</name>
+    <source>商城销售</source>
+    <desc>喵喵沙滩组合套件，在沙滩上晒太阳时使用。可以在后花园或家园小屋摆放</desc>
+  </item>
+  <item id="800203">
+    <iddesc>305</iddesc>
+    <name>欢乐泳池</name>
+    <source>商城购买</source>
+    <desc>欢乐泳池，可以在后花园或家园小屋摆放</desc>
+  </item>
+  <item id="800204">
+    <iddesc>306</iddesc>
+    <name>喵喵欢乐桌</name>
+    <source>商城购买</source>
+    <desc>喵喵欢乐桌，可爱的桌椅套件。可以在后花园或家园小屋摆放</desc>
+  </item>
+  <item id="800205">
+    <iddesc>307</iddesc>
+    <name>木质宠物窝</name>
+    <source>商城购买</source>
+    <desc>木质宠物窝，可以在后花园或家园小屋摆放</desc>
+  </item>
+  <item id="800206">
+    <iddesc>308</iddesc>
+    <name>欢乐烧烤架</name>
+    <source>商城购买</source>
+    <desc>欢乐烧烤架，可以在后花园或家园小屋摆放</desc>
+  </item>
+  <item id="800207">
+    <iddesc>309</iddesc>
+    <name>鱼骨地灯</name>
+    <source>商城购买</source>
+    <desc>鱼骨型的地灯，发出幽幽蓝光，非常漂亮。可以在后花园或家园小屋摆放</desc>
+  </item>
+  <item id="800208">
+    <iddesc>310</iddesc>
+    <name>喵喵软床</name>
+    <source>商城购买</source>
+    <desc>柔软的小床，可爱的喵喵外形。可以在后花园或家园小屋摆放</desc>
+  </item>
+  <item id="800209">
+    <iddesc>311</iddesc>
+    <name>喵喵珠帘</name>
+    <source>商城购买</source>
+    <desc>喵喵珠帘家具，可在家园小屋摆放</desc>
+  </item>
+  <item id="800210">
+    <iddesc>312</iddesc>
+    <name>喵喵小夜灯</name>
+    <source>商城购买</source>
+    <desc>木头上的喵喵夜灯，可以在后花园或家园小屋摆放</desc>
+  </item>
+  <item id="800211">
+    <iddesc>313</iddesc>
+    <name>欢乐喵喵屋</name>
+    <source>商城购买</source>
+    <desc>可爱的欢乐喵喵屋房型</desc>
+  </item>
+  <item id="800212">
+    <iddesc>314</iddesc>
+    <name>梦幻天竺宫殿</name>
+    <source>商城购买</source>
+    <desc>神秘的梦幻天竺城堡房型</desc>
+  </item>
+  <item id="800213">
+    <iddesc>315</iddesc>
+    <name>梦幻公主床</name>
+    <source>商城购买</source>
+    <desc>梦幻的紫罗兰色公主床，可以在后花园或家园小屋摆放</desc>
+  </item>
+  <item id="800214">
+    <iddesc>316</iddesc>
+    <name>梦幻地毯</name>
+    <source>商城购买</source>
+    <desc>梦幻地毯，可以在后花园或家园小屋摆放</desc>
+  </item>
+  <item id="800215">
+    <iddesc>317</iddesc>
+    <name>梦幻地垫</name>
+    <source>商城购买</source>
+    <desc>梦幻地垫，可以在后花园或家园小屋摆放</desc>
+  </item>
+  <item id="800216">
+    <iddesc>318</iddesc>
+    <name>梦幻宫廷椅</name>
+    <source>商城购买</source>
+    <desc>梦幻宫廷椅，可以在后花园或家园小屋摆放</desc>
+  </item>
+  <item id="800217">
+    <iddesc>319</iddesc>
+    <name>梦幻隔栏（左）</name>
+    <source>商城购买</source>
+    <desc>梦幻隔栏（左），可以在后花园或家园小屋摆放</desc>
+  </item>
+  <item id="800218">
+    <iddesc>320</iddesc>
+    <name>梦幻隔栏（右）</name>
+    <source>商城购买</source>
+    <desc>梦幻隔栏（右），可以在后花园或家园小屋摆放</desc>
+  </item>
+  <item id="800219">
+    <iddesc>321</iddesc>
+    <name>梦幻喷泉</name>
+    <source>商城购买</source>
+    <desc>梦幻喷泉，可以在后花园或家园小屋摆放</desc>
+  </item>
+  <item id="800220">
+    <iddesc>322</iddesc>
+    <name>碎花草垫</name>
+    <source>商城购买</source>
+    <desc>碎花草垫，可以在后花园或家园小屋摆放</desc>
+  </item>
+  <item id="800221">
+    <iddesc>323</iddesc>
+    <name>仙境城堡</name>
+    <source>商城购买</source>
+    <desc>爱丽丝仙境城堡房型</desc>
+  </item>
+  <item id="800222">
+    <iddesc>324</iddesc>
+    <name>仙境兰草</name>
+    <source>商城购买</source>
+    <desc>仙境兰草，可以在后花园或家园小屋摆放</desc>
+  </item>
+  <item id="800223">
+    <iddesc>325</iddesc>
+    <name>神奇古树秋千</name>
+    <source>商城购买</source>
+    <desc>神奇古树秋千，可以在后花园或家园小屋摆放</desc>
+  </item>
+  <item id="800224">
+    <iddesc>326</iddesc>
+    <name>神奇古树茶具</name>
+    <source>商城购买</source>
+    <desc>神奇古树茶具，可以在后花园或家园小屋摆放</desc>
+  </item>
+  <item id="800225">
+    <iddesc>327</iddesc>
+    <name>仙境之门</name>
+    <source>商城购买</source>
+    <desc>仙境之门，可以在后花园或家园小屋摆放</desc>
+  </item>
+  <item id="800226">
+    <iddesc>328</iddesc>
+    <name>仙境蘑菇亭</name>
+    <source>商城购买</source>
+    <desc>仙境蘑菇亭，可以在后花园或家园小屋摆放</desc>
+  </item>
+  <item id="800227">
+    <iddesc>329</iddesc>
+    <name>扑克围栏（左）</name>
+    <source>商城购买</source>
+    <desc>扑克围栏（左），可以在后花园或家园小屋摆放</desc>
+  </item>
+  <item id="800228">
+    <iddesc>330</iddesc>
+    <name>扑克围栏（右）</name>
+    <source>商城购买</source>
+    <desc>扑克围栏（右），可以在后花园或家园小屋摆放</desc>
+  </item>
+  <item id="800229">
+    <iddesc>331</iddesc>
+    <name>仙境蔷薇花</name>
+    <source>商城购买</source>
+    <desc>仙境蔷薇花，可以在后花园或家园小屋摆放</desc>
+  </item>
+  <item id="800230">
+    <iddesc>332</iddesc>
+    <name>仙境餐桌</name>
+    <source>商城购买</source>
+    <desc>仙境餐桌，可以在后花园或家园小屋摆放</desc>
+  </item>
+  <item id="800231">
+    <iddesc>333</iddesc>
+    <name>仙境藤椅</name>
+    <source>商城购买</source>
+    <desc>仙境藤椅，可以在后花园或家园小屋摆放</desc>
+  </item>
+  <item id="800232">
+    <iddesc>334</iddesc>
+    <name>仙境路牌</name>
+    <source>商城购买</source>
+    <desc>仙境路牌，可以在后花园或家园小屋摆放</desc>
+  </item>
+  <item id="800233">
+    <iddesc>335</iddesc>
+    <name>仙境守卫</name>
+    <source>商城购买</source>
+    <desc>仙境守卫，可以在后花园或家园小屋摆放</desc>
+  </item>
+  <item id="800236">
+    <iddesc>336</iddesc>
+    <name>仙境蔷薇丛</name>
+    <source>商城购买</source>
+    <desc>仙境蔷薇丛，可以在后花园或家园小屋摆放</desc>
+  </item>
+  <item id="800234">
+    <iddesc>337</iddesc>
+    <name>仙境小草垛</name>
+    <source>商城购买</source>
+    <desc>仙境小草垛，可以在后花园或家园小屋摆放</desc>
+  </item>
+  <item id="800235">
+    <iddesc>338</iddesc>
+    <name>仙境兰草丛</name>
+    <source>商城购买</source>
+    <desc>仙境兰草丛，可以在后花园或家园小屋摆放</desc>
+  </item>
+  <item id="800237">
+    <iddesc>339</iddesc>
+    <name>猫妖沙发组合</name>
+    <source>商城购买</source>
+    <desc>猫妖沙发组合，可以在后花园或家园小屋摆放</desc>
+  </item>
+  <item id="800238">
+    <iddesc>340</iddesc>
+    <name>茶杯休闲沙发</name>
+    <source>商城购买</source>
+    <desc>茶杯休闲沙发，可以在后花园或家园小屋摆放</desc>
+  </item>
+  <item id="800239">
+    <iddesc>341</iddesc>
+    <name>蓝勺休闲椅</name>
+    <source>商城购买</source>
+    <desc>蓝勺休闲椅，可以在后花园或家园小屋摆放</desc>
+  </item>
+  <item id="800240">
+    <iddesc>342</iddesc>
+    <name>棋盘衣橱</name>
+    <source>商城购买</source>
+    <desc>棋盘衣橱，可以在后花园或家园小屋摆放</desc>
+  </item>
+  <item id="800241">
+    <iddesc>343</iddesc>
+    <name>蘑菇棋桌</name>
+    <source>商城购买</source>
+    <desc>蘑菇棋桌，可以在后花园或家园小屋摆放</desc>
+  </item>
+  <item id="800242">
+    <iddesc>344</iddesc>
+    <name>梅花水晶吊灯</name>
+    <source>商城购买</source>
+    <desc>梅花水晶吊灯，可以在家园小屋摆放</desc>
+  </item>
+  <item id="800243">
+    <iddesc>345</iddesc>
+    <name>藤蔓烛台</name>
+    <source>商城购买</source>
+    <desc>藤蔓烛台，可以在后花园或家园小屋摆放</desc>
+  </item>
+  <item id="800244">
+    <iddesc>346</iddesc>
+    <name>神灯烛台</name>
+    <source>商城购买</source>
+    <desc>神灯烛台，可以在后花园或家园小屋摆放</desc>
+  </item>
+  <item id="800245">
+    <iddesc>347</iddesc>
+    <name>皇冠挂钟</name>
+    <source>暂时无法获得</source>
+    <desc>皇冠挂钟，可以在家园小屋摆放</desc>
+  </item>
+  <item id="800246">
+    <iddesc>348</iddesc>
+    <name>花木飘窗</name>
+    <source>商城购买</source>
+    <desc>透过窗外可以看到美妙的风景！可以在家园小屋里摆放。</desc>
+  </item>
+  <item id="800247">
+    <iddesc>349</iddesc>
+    <name>原木花床</name>
+    <source>商城购买</source>
+    <desc>舒适的原木花床，可以在后花园或家园小屋内摆放</desc>
+  </item>
+  <item id="800248">
+    <iddesc>350</iddesc>
+    <name>花藤吊灯</name>
+    <source>商城购买</source>
+    <desc>花藤吊灯家具，可在家园小屋摆放</desc>
+  </item>
+  <item id="800249">
+    <iddesc>351</iddesc>
+    <name>幽兰花灯</name>
+    <source>商城购买</source>
+    <desc>美丽的幽兰花灯，可以在家园小屋内摆放</desc>
+  </item>
+  <item id="800252">
+    <iddesc>352</iddesc>
+    <name>青藤花木屋</name>
+    <source>商城购买</source>
+    <desc>青藤花木屋房型</desc>
+  </item>
+  <item id="800250">
+    <iddesc>353</iddesc>
+    <name>原木水井</name>
+    <source>商城购买</source>
+    <desc>原木水井，可以在后花园摆放</desc>
+  </item>
+  <item id="800251">
+    <iddesc>354</iddesc>
+    <name>藤木栏杆</name>
+    <source>商城购买</source>
+    <desc>藤木栏杆，可以在后花园摆放</desc>
+  </item>
+  <item id="800253">
+    <iddesc>355</iddesc>
+    <name>花木跷跷板</name>
+    <source>商城购买</source>
+    <desc>有趣的花木跷跷板，可以在后花园摆放</desc>
+  </item>
+  <item id="800254">
+    <iddesc>356</iddesc>
+    <name>花木秋千</name>
+    <source>商城购买</source>
+    <desc>花木秋千，可以在后花园摆放</desc>
+  </item>
+  <item id="800255">
+    <iddesc>357</iddesc>
+    <name>花木书架</name>
+    <source>商城购买</source>
+    <desc>花木书架，可以在后花园或家园小屋内摆放</desc>
+  </item>
+  <item id="800256">
+    <iddesc>358</iddesc>
+    <name>花木书桌</name>
+    <source>商城购买</source>
+    <desc>花木书桌，可以在后花园或家园小屋内摆放</desc>
+  </item>
+  <item id="800257">
+    <iddesc>359</iddesc>
+    <name>青藤玉树</name>
+    <source>商城购买</source>
+    <desc>青藤玉树，可以在后花园摆放</desc>
+  </item>
+  <item id="800258">
+    <iddesc>360</iddesc>
+    <name>花藤树灯</name>
+    <source>商城购买</source>
+    <desc>花藤树灯，可以在后花园摆放</desc>
+  </item>
+  <item id="800259">
+    <iddesc>361</iddesc>
+    <name>花藤信箱</name>
+    <source>商城购买</source>
+    <desc>花藤信箱，可以在后花园摆放</desc>
+  </item>
+  <item id="800260">
+    <iddesc>362</iddesc>
+    <name>原木靠椅</name>
+    <source>商城购买</source>
+    <desc>原木靠椅，可以在后花园或家园小屋内摆放</desc>
+  </item>
+  <item id="800261">
+    <iddesc>363</iddesc>
+    <name>藤木桌椅</name>
+    <source>商城购买</source>
+    <desc>藤木桌椅，可以在后花园摆放</desc>
+  </item>
+  <item id="800262">
+    <iddesc>364</iddesc>
+    <name>藤木圆桌组合</name>
+    <source>商城购买</source>
+    <desc>藤木圆桌组合，可以在后花园摆放</desc>
+  </item>
+  <item id="800263">
+    <iddesc>365</iddesc>
+    <name>紫石落地灯</name>
+    <source>后花园装扮活动</source>
+    <desc>紫石落地灯家具，可在后花园摆放</desc>
+  </item>
+  <item id="800264">
+    <iddesc>366</iddesc>
+    <name>海马戏珠案台</name>
+    <source>家园装扮活动</source>
+    <desc>海马戏珠案台家具，可在后花园摆放</desc>
+  </item>
+  <item id="800265">
+    <iddesc>367</iddesc>
+    <name>珊瑚墩</name>
+    <source>后花园装扮活动</source>
+    <desc>珊瑚墩家具，可在后花园摆放</desc>
+  </item>
+  <item id="800266">
+    <iddesc>368</iddesc>
+    <name>海底宫殿</name>
+    <source>寻宝活动奖励</source>
+    <desc>海底宫殿，家园房型</desc>
+  </item>
+  <item id="800267">
+    <iddesc>369</iddesc>
+    <name>飞鱼落地灯</name>
+    <source>寻宝活动奖励</source>
+    <desc>飞鱼落地灯，可在家园和后花园摆放</desc>
+  </item>
+  <item id="800268">
+    <iddesc>370</iddesc>
+    <name>黄金沙地毯</name>
+    <source>寻宝活动奖励</source>
+    <desc>黄金沙地毯，可在家园和后花园摆放</desc>
+  </item>
+  <item id="800269">
+    <iddesc>371</iddesc>
+    <name>海底奇石</name>
+    <source>寻宝活动奖励</source>
+    <desc>海底奇石，可在家园和后花园摆放</desc>
+  </item>
+  <item id="800270">
+    <iddesc>372</iddesc>
+    <name>炫彩珊瑚</name>
+    <source>暂时无法获得</source>
+    <desc>炫彩珊瑚，可在家园和后花园摆放</desc>
+  </item>
+  <item id="800271">
+    <iddesc>373</iddesc>
+    <name>海螺摆件</name>
+    <source>寻宝活动奖励</source>
+    <desc>海螺摆件，可在家园和后花园摆放</desc>
+  </item>
+  <item id="800272">
+    <iddesc>374</iddesc>
+    <name>珊瑚泳池</name>
+    <source>寻宝活动奖励</source>
+    <desc>珊瑚泳池，可在后花园摆放</desc>
+  </item>
+  <item id="800273">
+    <iddesc>375</iddesc>
+    <name>珊瑚凉亭</name>
+    <source>寻宝活动奖励</source>
+    <desc>珊瑚凉亭，可在后花园摆放</desc>
+  </item>
+  <item id="800274">
+    <iddesc>376</iddesc>
+    <name>流光火炬</name>
+    <source>神秘商人处兑换</source>
+    <desc>流光火炬，可在后花园摆放</desc>
+  </item>
+  <item id="800275">
+    <iddesc>377</iddesc>
+    <name>粉粉草莓屋</name>
+    <source>商城购买</source>
+    <desc>粉粉草莓屋,家园房型</desc>
+  </item>
+  <item id="800276">
+    <iddesc>378</iddesc>
+    <name>草莓留言板</name>
+    <source>商城购买</source>
+    <desc>草莓留言板，可在后花园或家园小屋使用</desc>
+  </item>
+  <item id="800277">
+    <iddesc>379</iddesc>
+    <name>草莓泳池</name>
+    <source>商城购买</source>
+    <desc>草莓泳池，可在后花园使用</desc>
+  </item>
+  <item id="800278">
+    <iddesc>380</iddesc>
+    <name>草莓桌椅套装</name>
+    <source>商城购买</source>
+    <desc>草莓桌椅套装，可在后花园或家园小屋使用</desc>
+  </item>
+  <item id="800279">
+    <iddesc>381</iddesc>
+    <name>草莓青藤院门</name>
+    <source>商城购买</source>
+    <desc>草莓青藤院门，可在后花园使用</desc>
+  </item>
+  <item id="800280">
+    <iddesc>382</iddesc>
+    <name>草莓电视柜</name>
+    <source>商城购买</source>
+    <desc>草莓电视柜，可在后花园或家园小屋使用</desc>
+  </item>
+  <item id="800281">
+    <iddesc>383</iddesc>
+    <name>草莓吊灯</name>
+    <source>暂时无法获得</source>
+    <desc>草莓吊灯，可在家园小屋使用</desc>
+  </item>
+  <item id="800282">
+    <iddesc>384</iddesc>
+    <name>明黄墙架</name>
+    <source>商城购买</source>
+    <desc>明黄墙架，可在家园小屋使用</desc>
+  </item>
+  <item id="800283">
+    <iddesc>385</iddesc>
+    <name>草莓躺椅</name>
+    <source>商城购买</source>
+    <desc>草莓躺椅，可在后花园或家园小屋使用</desc>
+  </item>
+  <item id="800284">
+    <iddesc>386</iddesc>
+    <name>草莓茶座</name>
+    <source>商城购买</source>
+    <desc>草莓茶座，可在后花园或家园小屋使用</desc>
+  </item>
+  <item id="800285">
+    <iddesc>387</iddesc>
+    <name>幽静森林背景</name>
+    <source>商城购买</source>
+    <desc>幽静森林背景家具，可在后花园摆放</desc>
+  </item>
+  <item id="800286">
+    <iddesc>388</iddesc>
+    <name>菊花盆栽</name>
+    <source>重阳节活动奖励</source>
+    <desc>菊花盆栽家具，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="800287">
+    <iddesc>389</iddesc>
+    <name>阳光沙滩背景</name>
+    <source>商城购买</source>
+    <desc>阳光沙滩背景家具，可在后花园摆放</desc>
+  </item>
+  <item id="800288">
+    <iddesc>390</iddesc>
+    <name>小木凳</name>
+    <source>家具打造</source>
+    <desc>小木凳家具，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="800289">
+    <iddesc>391</iddesc>
+    <name>粗布窗帘</name>
+    <source>家具打造</source>
+    <desc>粗布窗帘家具，可在家园小屋摆放</desc>
+  </item>
+  <item id="800290">
+    <iddesc>392</iddesc>
+    <name>文竹盆景</name>
+    <source>家具打造</source>
+    <desc>文竹盆景家具，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="800291">
+    <iddesc>393</iddesc>
+    <name>君子兰盆景</name>
+    <source>家具打造</source>
+    <desc>君子兰盆景家具，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="800292">
+    <iddesc>394</iddesc>
+    <name>蝴蝶兰盆景</name>
+    <source>家具打造</source>
+    <desc>蝴蝶兰盆景家具，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="800293">
+    <iddesc>395</iddesc>
+    <name>桦木衣柜</name>
+    <source>家具打造</source>
+    <desc>桦木衣柜家具，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="800294">
+    <iddesc>396</iddesc>
+    <name>水仙盆景</name>
+    <source>家具打造</source>
+    <desc>水仙盆景家具，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="800295">
+    <iddesc>397</iddesc>
+    <name>蓝玉烛台</name>
+    <source>家具打造</source>
+    <desc>蓝玉烛台家具，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="800296">
+    <iddesc>398</iddesc>
+    <name>桦木圆桌</name>
+    <source>家具打造</source>
+    <desc>桦木圆桌家具，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="800297">
+    <iddesc>399</iddesc>
+    <name>绸缎绣花窗帘</name>
+    <source>家具打造</source>
+    <desc>绸缎绣花窗帘家具，可在家园小屋摆放</desc>
+  </item>
+  <item id="800298">
+    <iddesc>400</iddesc>
+    <name>桦木小床</name>
+    <source>家具打造</source>
+    <desc>桦木小床家具，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="800299">
+    <iddesc>401</iddesc>
+    <name>藤草地毯</name>
+    <source>家具打造</source>
+    <desc>藤草地毯家具，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="800300">
+    <iddesc>402</iddesc>
+    <name>仙人掌盆景</name>
+    <source>家具打造</source>
+    <desc>仙人掌盆景家具，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="800301">
+    <iddesc>403</iddesc>
+    <name>实木圆桌</name>
+    <source>家具打造</source>
+    <desc>实木圆桌家具，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="800302">
+    <iddesc>404</iddesc>
+    <name>青花瓷</name>
+    <source>家具打造</source>
+    <desc>青花瓷家具，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="800303">
+    <iddesc>405</iddesc>
+    <name>实木靠背椅</name>
+    <source>家具打造</source>
+    <desc>实木靠背椅家具，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="800304">
+    <iddesc>406</iddesc>
+    <name>娃娃抱枕</name>
+    <source>家具打造</source>
+    <desc>娃娃抱枕家具，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="800305">
+    <iddesc>407</iddesc>
+    <name>粉红沙发</name>
+    <source>家具打造</source>
+    <desc>粉红沙发家具，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="800306">
+    <iddesc>408</iddesc>
+    <name>亚麻地毯</name>
+    <source>家具打造</source>
+    <desc>亚麻地毯家具，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="800307">
+    <iddesc>409</iddesc>
+    <name>红木屏风</name>
+    <source>家具打造</source>
+    <desc>红木屏风家具，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="800308">
+    <iddesc>410</iddesc>
+    <name>原木茶几</name>
+    <source>家具打造</source>
+    <desc>原木茶几家具，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="800309">
+    <iddesc>411</iddesc>
+    <name>彩绘屏风</name>
+    <source>家具打造</source>
+    <desc>彩绘屏风家具，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="800310">
+    <iddesc>412</iddesc>
+    <name>实木彩柜</name>
+    <source>家具打造</source>
+    <desc>实木彩柜家具，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="800311">
+    <iddesc>413</iddesc>
+    <name>原木书架</name>
+    <source>家具打造</source>
+    <desc>原木书架家具，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="800312">
+    <iddesc>414</iddesc>
+    <name>星藤紫木井</name>
+    <source>寻宝活动奖励</source>
+    <desc>星藤紫木井家具，可在后花园摆放</desc>
+  </item>
+  <item id="800313">
+    <iddesc>415</iddesc>
+    <name>星藤古木屏风</name>
+    <source>寻宝奖励</source>
+    <desc>星藤古木屏风家具，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="800314">
+    <iddesc>416</iddesc>
+    <name>星藤锦缎桌椅</name>
+    <source>寻宝奖励</source>
+    <desc>星藤锦缎桌椅家具，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="800315">
+    <iddesc>417</iddesc>
+    <name>黄竹粉莲盆景</name>
+    <source>寻宝奖励</source>
+    <desc>黄竹粉莲盆景家具，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="800316">
+    <iddesc>418</iddesc>
+    <name>翠玉青竹（大）</name>
+    <source>寻宝奖励</source>
+    <desc>翠玉青竹（大）家具，可在后花园摆放</desc>
+  </item>
+  <item id="800317">
+    <iddesc>419</iddesc>
+    <name>翠玉青竹（小）</name>
+    <source>寻宝奖励</source>
+    <desc>翠玉青竹（小）家具，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="800318">
+    <iddesc>420</iddesc>
+    <name>星藤绕月灯</name>
+    <source>寻宝奖励</source>
+    <desc>星藤绕月灯家具，可在后花园摆放</desc>
+  </item>
+  <item id="800319">
+    <iddesc>421</iddesc>
+    <name>圆月紫竹房型</name>
+    <source>寻宝奖励</source>
+    <desc>圆月紫竹房型家具</desc>
+  </item>
+  <item id="800320">
+    <iddesc>422</iddesc>
+    <name>树木晾衣架</name>
+    <source>商城积分兑换</source>
+    <desc>树木晾衣架家具，可在后花园摆放</desc>
+  </item>
+  <item id="800321">
+    <iddesc>423</iddesc>
+    <name>树条方桌</name>
+    <source>商城积分兑换</source>
+    <desc>树条方桌家具，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="800322">
+    <iddesc>424</iddesc>
+    <name>树条长椅</name>
+    <source>商城积分兑换</source>
+    <desc>树条长椅家具，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="800323">
+    <iddesc>425</iddesc>
+    <name>野营帐篷</name>
+    <source>商城积分兑换</source>
+    <desc>野营帐篷家具，可在后花园摆放</desc>
+  </item>
+  <item id="800324">
+    <iddesc>426</iddesc>
+    <name>灯笼</name>
+    <source>2012.12.27活动元旦节--元气收集</source>
+    <desc>灯笼家具，可在家园小屋摆放</desc>
+  </item>
+  <item id="800325">
+    <iddesc>427</iddesc>
+    <name>棋桌</name>
+    <source>2013.01.03活动卡布宝物迷阵</source>
+    <desc>棋桌家具，可在家园小屋摆放</desc>
+  </item>
+  <item id="800326">
+    <iddesc>428</iddesc>
+    <name>圣诞壁炉</name>
+    <source>商城购买</source>
+    <desc>圣诞壁炉家具，可在家园小屋摆放</desc>
+  </item>
+  <item id="800327">
+    <iddesc>429</iddesc>
+    <name>圣诞温馨挂饰</name>
+    <source>商城购买</source>
+    <desc>圣诞温馨挂饰家具，可在家园小屋摆放</desc>
+  </item>
+  <item id="800328">
+    <iddesc>430</iddesc>
+    <name>圣诞铃铛花环</name>
+    <source>商城购买</source>
+    <desc>圣诞铃铛花环家具，可在家园小屋摆放</desc>
+  </item>
+  <item id="800329">
+    <iddesc>431</iddesc>
+    <name>圣诞靠垫圆椅</name>
+    <source>商城购买</source>
+    <desc>圣诞靠垫圆椅家具，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="800330">
+    <iddesc>432</iddesc>
+    <name>多彩圣诞树</name>
+    <source>商城购买</source>
+    <desc>多彩圣诞树家具，可在后花园摆放</desc>
+  </item>
+  <item id="800331">
+    <iddesc>433</iddesc>
+    <name>礼帽雪人</name>
+    <source>商城购买</source>
+    <desc>礼帽雪人家具，可在后花园摆放</desc>
+  </item>
+  <item id="800332">
+    <iddesc>434</iddesc>
+    <name>蛋形小窗</name>
+    <source>寻宝奖励</source>
+    <desc>蛋形小窗家具，可在家园小屋摆放</desc>
+  </item>
+  <item id="800333">
+    <iddesc>435</iddesc>
+    <name>双蛋软床</name>
+    <source>寻宝奖励</source>
+    <desc>双蛋软床家具，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="800334">
+    <iddesc>436</iddesc>
+    <name>青藤蛋壳吊灯</name>
+    <source>寻宝奖励</source>
+    <desc>青藤蛋壳吊灯家具，可在家园小屋摆放</desc>
+  </item>
+  <item id="800335">
+    <iddesc>437</iddesc>
+    <name>蛋蛋高脚灯</name>
+    <source>寻宝奖励</source>
+    <desc>蛋蛋高脚灯家具，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="800336">
+    <iddesc>438</iddesc>
+    <name>蔚蓝祈福树</name>
+    <source>寻宝奖励</source>
+    <desc>蔚蓝祈福树家具，可在后花园摆放</desc>
+  </item>
+  <item id="800337">
+    <iddesc>439</iddesc>
+    <name>蛋蛋小水池</name>
+    <source>寻宝奖励</source>
+    <desc>蛋蛋小水池家具，可在后花园摆放</desc>
+  </item>
+  <item id="800338">
+    <iddesc>440</iddesc>
+    <name>蛋蛋路牌</name>
+    <source>寻宝奖励</source>
+    <desc>蛋蛋路牌家具，可在后花园摆放</desc>
+  </item>
+  <item id="800339">
+    <iddesc>441</iddesc>
+    <name>圆圆蛋壳屋</name>
+    <source>寻宝奖励</source>
+    <desc>圆圆蛋壳屋家具，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="300015">
+    <iddesc>442</iddesc>
+    <name>幻影石</name>
+    <source>采集</source>
+    <desc>一种常见的紫色矿石，有时在石头上可以看到不明幻影。</desc>
+  </item>
+  <item id="300016">
+    <iddesc>443</iddesc>
+    <name>千年红木</name>
+    <source>采集</source>
+    <desc>千年的红木，会飘散出一股香气。</desc>
+  </item>
+  <item id="300017">
+    <iddesc>444</iddesc>
+    <name>远古青松</name>
+    <source>采集</source>
+    <desc>远古时代存活下来的松树，其木材非常沉重。</desc>
+  </item>
+  <item id="300018">
+    <iddesc>445</iddesc>
+    <name>冰霜岩</name>
+    <source>采集</source>
+    <desc>长年冰霜之下凝聚而成的岩石，寒气逼人。</desc>
+  </item>
+  <item id="300019">
+    <iddesc>446</iddesc>
+    <name>火云岩</name>
+    <source>采集</source>
+    <desc>生长在炎热地方的奇异植物，热气滚滚。</desc>
+  </item>
+  <item id="300020">
+    <iddesc>447</iddesc>
+    <name>天罡石</name>
+    <source>采集</source>
+    <desc>从北斗七星飘落的奇异石块，神秘难得。</desc>
+  </item>
+  <item id="300021">
+    <iddesc>448</iddesc>
+    <name>精蓝石</name>
+    <source>采集</source>
+    <desc>精蓝石。蓝色不透明的矿石，夜里会发出淡淡蓝色光芒。</desc>
+  </item>
+  <item id="300022">
+    <iddesc>449</iddesc>
+    <name>上清宝玉</name>
+    <source>采集</source>
+    <desc>蕴含仙气的玉石，异常珍贵。</desc>
+  </item>
+  <item id="300023">
+    <iddesc>450</iddesc>
+    <name>冰晶砂</name>
+    <source>采集</source>
+    <desc>冰晶砂。冰寒晶砂，所在之地寒冷刺骨。</desc>
+  </item>
+  <item id="300024">
+    <iddesc>451</iddesc>
+    <name>茅山玉</name>
+    <source>采集</source>
+    <desc>据说因附有茅山道教的神奇法术，可以驱魔辟邪。</desc>
+  </item>
+  <item id="300025">
+    <iddesc>452</iddesc>
+    <name>松绿石</name>
+    <source>采集</source>
+    <desc>松绿石。深绿色的玉石，质朴典雅，色泽俱佳。</desc>
+  </item>
+  <item id="300026">
+    <iddesc>453</iddesc>
+    <name>朱砂石</name>
+    <source>采集</source>
+    <desc>朱砂石。一种红色晶石，从中可以得到最好的朱砂。</desc>
+  </item>
+  <item id="300027">
+    <iddesc>454</iddesc>
+    <name>青金石</name>
+    <source>采集</source>
+    <desc>青金石。青色矿石，看似棱角分明，却和金子一样柔软。</desc>
+  </item>
+  <item id="300028">
+    <iddesc>455</iddesc>
+    <name>天地灵气</name>
+    <source>采集</source>
+    <desc>存在于天地间的一种神奇能量。</desc>
+  </item>
+  <item id="300029">
+    <iddesc>456</iddesc>
+    <name>女娲石</name>
+    <source>采集</source>
+    <desc>相传为女娲补天时所用的五彩石，内里蕴含巨大的能量。</desc>
+  </item>
+  <item id="300031">
+    <iddesc>457</iddesc>
+    <name>木板</name>
+    <source>种植产出</source>
+    <desc>可以用来打造家具的木板</desc>
+  </item>
+  <item id="300032">
+    <iddesc>458</iddesc>
+    <name>布料</name>
+    <source>神奇家具,各国都内随机产出（每天第一次进入国都5%几率出现）</source>
+    <desc>可以用来打造家具的布料</desc>
+  </item>
+  <item id="300033">
+    <iddesc>459</iddesc>
+    <name>原木</name>
+    <source>庄园种植</source>
+    <desc>原木，可用来打造家具</desc>
+  </item>
+  <item id="300034">
+    <iddesc>460</iddesc>
+    <name>实木</name>
+    <source>庄园种植</source>
+    <desc>实木，可用于家具打造</desc>
+  </item>
+  <item id="300035">
+    <iddesc>461</iddesc>
+    <name>染料</name>
+    <source>神奇家具,各国都内随机产出</source>
+    <desc>染料，可用于家具打造</desc>
+  </item>
+  <item id="101019">
+    <iddesc>471</iddesc>
+    <name>男表情-坚定</name>
+    <source>商城购买</source>
+    <desc>使用后可改变表情为坚定表情</desc>
+  </item>
+  <item id="101020">
+    <iddesc>472</iddesc>
+    <name>男表情-认真</name>
+    <source>商城购买</source>
+    <desc>使用后改变表情为认真表情</desc>
+  </item>
+  <item id="101021">
+    <iddesc>473</iddesc>
+    <name>女表情-坚定</name>
+    <source>商城购买</source>
+    <desc>使用后表情改变为坚定表情</desc>
+  </item>
+  <item id="101022">
+    <iddesc>474</iddesc>
+    <name>女表情-认真</name>
+    <source>商城购买</source>
+    <desc>使用后改变表情为认真表情</desc>
+  </item>
+  <item id="101023">
+    <iddesc>475</iddesc>
+    <name>男表情-无奈</name>
+    <source>商城购买</source>
+    <desc>使用后可改变表情为无奈表情</desc>
+  </item>
+  <item id="101024">
+    <iddesc>476</iddesc>
+    <name>女表情-无奈</name>
+    <source>商城购买</source>
+    <desc>使用后可改变表情为无奈表情</desc>
+  </item>
+  <item id="101025">
+    <iddesc>477</iddesc>
+    <name>男表情-奋斗</name>
+    <source>商城购买</source>
+    <desc>使用后可改变表情为奋斗表情</desc>
+  </item>
+  <item id="101026">
+    <iddesc>478</iddesc>
+    <name>女表情-奋斗</name>
+    <source>商城购买</source>
+    <desc>使用后可改变表情为奋斗表情</desc>
+  </item>
+  <item id="101027">
+    <iddesc>479</iddesc>
+    <name>男表情-迷恋</name>
+    <source>商城购买</source>
+    <desc>使用后可改变表情为迷恋表情</desc>
+  </item>
+  <item id="101028">
+    <iddesc>480</iddesc>
+    <name>女表情-迷恋</name>
+    <source>商城购买</source>
+    <desc>使用后可改变表情为迷恋表情</desc>
+  </item>
+  <item id="101029">
+    <iddesc>481</iddesc>
+    <name>男表情-调皮</name>
+    <source>商城购买</source>
+    <desc>使用后可改变表情为调皮表情</desc>
+  </item>
+  <item id="101030">
+    <iddesc>482</iddesc>
+    <name>女表情-调皮</name>
+    <source>商城购买</source>
+    <desc>使用后表情将变为调皮表情</desc>
+  </item>
+  <item id="101031">
+    <iddesc>483</iddesc>
+    <name>男表情-偷笑</name>
+    <source>商城购买</source>
+    <desc>使用后可改变表情为偷笑表情</desc>
+  </item>
+  <item id="101032">
+    <iddesc>484</iddesc>
+    <name>女表情-偷笑</name>
+    <source>商城购买</source>
+    <desc>使用后可改变表情为偷笑表情</desc>
+  </item>
+  <item id="101033">
+    <iddesc>485</iddesc>
+    <name>男表情-怒气</name>
+    <source>商城购买</source>
+    <desc>使用后可改变表情为怒气表情</desc>
+  </item>
+  <item id="101034">
+    <iddesc>486</iddesc>
+    <name>女表情-怒气</name>
+    <source>商城购买</source>
+    <desc>使用后可改变表情为怒气表情</desc>
+  </item>
+  <item id="101035">
+    <iddesc>487</iddesc>
+    <name>男表情-蔑视</name>
+    <source>寻宝奖励</source>
+    <desc>使用后可改变表情为蔑视表情</desc>
+  </item>
+  <item id="101036">
+    <iddesc>488</iddesc>
+    <name>女表情-蔑视</name>
+    <source>寻宝奖励</source>
+    <desc>使用后可改变表情为蔑视表情</desc>
+  </item>
+  <item id="101037">
+    <iddesc>489</iddesc>
+    <name>男表情-淡然</name>
+    <source>寻宝奖励</source>
+    <desc>使用后可改变表情为淡然表情</desc>
+  </item>
+  <item id="101038">
+    <iddesc>490</iddesc>
+    <name>女表情-淡然</name>
+    <source>寻宝奖励</source>
+    <desc>使用后可改变表情为淡然表情</desc>
+  </item>
+  <item id="101039">
+    <iddesc>491</iddesc>
+    <name>男表情-坏坏</name>
+    <source>商城购买</source>
+    <desc>使用后可改变表情为坏坏表情</desc>
+  </item>
+  <item id="101040">
+    <iddesc>492</iddesc>
+    <name>女表情-坏坏</name>
+    <source>商城购买</source>
+    <desc>使用后可改变表情为坏坏表情</desc>
+  </item>
+  <item id="101041">
+    <iddesc>493</iddesc>
+    <name>男表情-紫眸</name>
+    <source>商城购买</source>
+    <desc>使用后可改变表情为紫眸表情。</desc>
+  </item>
+  <item id="101042">
+    <iddesc>494</iddesc>
+    <name>女表情-紫眸</name>
+    <source>商城购买</source>
+    <desc>使用后可改变表情为紫眸表情。</desc>
+  </item>
+  <item id="101043">
+    <iddesc>495</iddesc>
+    <name>男表情-绿眸</name>
+    <source>寻宝奖励</source>
+    <desc>使用后可改变表情为绿眸表情。</desc>
+  </item>
+  <item id="101044">
+    <iddesc>496</iddesc>
+    <name>女表情-绿眸</name>
+    <source>寻宝奖励</source>
+    <desc>使用后可改变表情为绿眸表情。</desc>
+  </item>
+  <item id="101045">
+    <iddesc>497</iddesc>
+    <name>男表情-羞涩</name>
+    <source>寻宝活动奖励</source>
+    <desc>使用后可改变表情为羞涩表情。</desc>
+  </item>
+  <item id="101046">
+    <iddesc>501</iddesc>
+    <name>女表情-羞涩</name>
+    <source>寻宝活动奖励</source>
+    <desc>使用后可改变表情为羞涩表情。</desc>
+  </item>
+  <item id="101047">
+    <iddesc>502</iddesc>
+    <name>男表情-呆呆</name>
+    <source>商城购买</source>
+    <desc>使用后可改变表情为呆呆表情。</desc>
+  </item>
+  <item id="101048">
+    <iddesc>503</iddesc>
+    <name>女表情-呆呆</name>
+    <source>商城购买</source>
+    <desc>使用后可改变表情为呆呆表情。</desc>
+  </item>
+  <item id="101049">
+    <iddesc>504</iddesc>
+    <name>男表情-沮丧</name>
+    <source>商城购买</source>
+    <desc>使用后表情将变为沮丧表情</desc>
+  </item>
+  <item id="101050">
+    <iddesc>505</iddesc>
+    <name>女表情-沮丧</name>
+    <source>商城购买</source>
+    <desc>使用后表情将变为沮丧表情</desc>
+  </item>
+  <item id="101051">
+    <iddesc>506</iddesc>
+    <name>男表情-亮橙</name>
+    <source>寻宝奖励</source>
+    <desc>使用后表情将变为亮橙表情</desc>
+  </item>
+  <item id="101052">
+    <iddesc>507</iddesc>
+    <name>女表情-亮橙</name>
+    <source>寻宝奖励</source>
+    <desc>使用后表情将变为亮橙表情</desc>
+  </item>
+  <item id="101053">
+    <iddesc>508</iddesc>
+    <name>男表情-酒红</name>
+    <source>寻宝奖励</source>
+    <desc>使用后表情将变为酒红表情</desc>
+  </item>
+  <item id="101054">
+    <iddesc>509</iddesc>
+    <name>女表情-酒红</name>
+    <source>寻宝奖励</source>
+    <desc>使用后表情将变为酒红表情</desc>
+  </item>
+  <item id="800356">
+    <iddesc>510</iddesc>
+    <name>火甲龙雕像</name>
+    <source>坐骑大赛兑换</source>
+    <desc>火甲龙雕像，可在后花园摆放。</desc>
+  </item>
+  <item id="800357">
+    <iddesc>511</iddesc>
+    <name>兔兔雕像</name>
+    <source>坐骑大赛兑换</source>
+    <desc>兔兔雕像，可在后花园摆放。</desc>
+  </item>
+  <item id="800358">
+    <iddesc>512</iddesc>
+    <name>封神雕像</name>
+    <source>封神之战每日抽奖</source>
+    <desc>封神雕像，可在后花园摆放。</desc>
+  </item>
+  <item id="800359">
+    <iddesc>513</iddesc>
+    <name>莲花池</name>
+    <source>封神之战每日抽奖</source>
+    <desc>莲花池，可在后花园摆放。</desc>
+  </item>
+  <item id="100311">
+    <iddesc>514</iddesc>
+    <name>乔巴外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后将改变角色名字外框为乔巴外框。</desc>
+  </item>
+  <item id="100312">
+    <iddesc>515</iddesc>
+    <name>五瓣花外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后将改变角色名字外框为五瓣花外框。</desc>
+  </item>
+  <item id="800360">
+    <iddesc>516</iddesc>
+    <name>爱心沙发</name>
+    <source>后花园装扮大赛第二期</source>
+    <desc>爱心沙发家具，可在家园小屋摆放</desc>
+  </item>
+  <item id="800361">
+    <iddesc>517</iddesc>
+    <name>兰格餐桌</name>
+    <source>后花园装扮大赛第二期</source>
+    <desc>兰格餐桌家具，可在家园小屋摆放</desc>
+  </item>
+  <item id="800362">
+    <iddesc>518</iddesc>
+    <name>翠花立柜</name>
+    <source>后花园装扮大赛第二期</source>
+    <desc>翠花立柜家具，可在家园小屋摆放</desc>
+  </item>
+  <item id="100317">
+    <iddesc>519</iddesc>
+    <name>金铃外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后将改变角色名字外框为金铃外框。</desc>
+  </item>
+  <item id="100318">
+    <iddesc>520</iddesc>
+    <name>星星花外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后将改变角色名字外框为星星花外框。</desc>
+  </item>
+  <item id="100179">
+    <iddesc>521</iddesc>
+    <name>养心丸</name>
+    <source>封神之战战功兑换</source>
+    <desc>封神之战专用药，可以恢复妖怪150体力。</desc>
+  </item>
+  <item id="100180">
+    <iddesc>522</iddesc>
+    <name>续命丹</name>
+    <source>封神之战战功兑换</source>
+    <desc>封神之战专用药，可以恢复妖怪200体力。</desc>
+  </item>
+  <item id="100181">
+    <iddesc>523</iddesc>
+    <name>蓝华丹</name>
+    <source>封神之战战功兑换</source>
+    <desc>封神之战专用药，可以恢复妖怪招式使用次数5次。</desc>
+  </item>
+  <item id="100323">
+    <iddesc>524</iddesc>
+    <name>长嘴鸭外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后将改变角色名字外框为长嘴鸭外框。</desc>
+  </item>
+  <item id="100324">
+    <iddesc>525</iddesc>
+    <name>火鸡外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后将改变角色名字外框为火鸡外框。</desc>
+  </item>
+  <item id="100328">
+    <iddesc>526</iddesc>
+    <name>双响炮外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后改变角色名字外框为双响炮外框。</desc>
+  </item>
+  <item id="100329">
+    <iddesc>527</iddesc>
+    <name>水瓶外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后改变角色名字外框为水瓶外框。</desc>
+  </item>
+  <item id="100325">
+    <iddesc>528</iddesc>
+    <name>糖果外框</name>
+    <source>2013年1月30日豆娃顶红包活动用的道具奖励</source>
+    <desc>使用后改变角色名字外框为糖果外框。</desc>
+  </item>
+  <item id="550383">
+    <iddesc>529</iddesc>
+    <name>斩影锋刀</name>
+    <source>2013年1月30日豆娃顶红包活动用的道具奖励</source>
+    <desc>刀刃锋利，虚影能断。</desc>
+  </item>
+  <item id="550384">
+    <iddesc>530</iddesc>
+    <name>冰龙神之翼</name>
+    <source>2013.01.30VIP新春好礼大放送活动赠送</source>
+    <desc>根据冰龙神外形设计的翅膀。</desc>
+  </item>
+  <item id="100327">
+    <iddesc>531</iddesc>
+    <name>福鞭炮外框</name>
+    <source>2013.01.30VIP新春好礼大放送活动赠送</source>
+    <desc>使用后改变角色名字外框为福鞭炮外框。</desc>
+  </item>
+  <item id="100330">
+    <iddesc>532</iddesc>
+    <name>荣归外框</name>
+    <source>2013.01.30‘友情呼唤，卡布回归’ 活动回归大礼包赠送</source>
+    <desc>使用后改变角色名字外框为荣归外框。</desc>
+  </item>
+  <item id="100346">
+    <iddesc>533</iddesc>
+    <name>心语心愿外框</name>
+    <source>寻宝罗盘第五期奖励</source>
+    <desc>使用后改变角色名字外框为心语心愿外框。</desc>
+  </item>
+  <item id="100347">
+    <iddesc>534</iddesc>
+    <name>笼饺外框</name>
+    <source>寻宝罗盘第五期奖励</source>
+    <desc>使用后改变角色名字外框为笼饺外框。</desc>
+  </item>
+  <item id="100348">
+    <iddesc>535</iddesc>
+    <name>冲天炮外框</name>
+    <source>寻宝罗盘第五期奖励</source>
+    <desc>使用后改变角色名字外框为冲天炮外框。</desc>
+  </item>
+  <item id="800363">
+    <iddesc>536</iddesc>
+    <name>火红鞭炮</name>
+    <source>寻宝罗盘第五期奖励</source>
+    <desc>火红鞭炮家具，可在家园小屋摆放</desc>
+  </item>
+  <item id="800364">
+    <iddesc>537</iddesc>
+    <name>如意金桔盆景</name>
+    <source>寻宝罗盘第五期奖励</source>
+    <desc>如意金桔盆景家具，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="800365">
+    <iddesc>538</iddesc>
+    <name>缤纷烟火</name>
+    <source>寻宝罗盘第五期奖励</source>
+    <desc>缤纷烟火家具，可在后花园摆放</desc>
+  </item>
+  <item id="800366">
+    <iddesc>539</iddesc>
+    <name>招财进宝树</name>
+    <source>寻宝罗盘第五期奖励</source>
+    <desc>招财进宝树家具，可在后花园摆放</desc>
+  </item>
+  <item id="800367">
+    <iddesc>540</iddesc>
+    <name>吉庆路灯</name>
+    <source>寻宝罗盘第五期奖励</source>
+    <desc>吉庆路灯家具，可在后花园摆放</desc>
+  </item>
+  <item id="800368">
+    <iddesc>541</iddesc>
+    <name>吉庆新春房型</name>
+    <source>寻宝罗盘第五期奖励</source>
+    <desc>吉庆新春房型家具，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="800369">
+    <iddesc>542</iddesc>
+    <name>福财双进桌</name>
+    <source>寻宝罗盘第五期奖励</source>
+    <desc>福财双进桌家具，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="800370">
+    <iddesc>543</iddesc>
+    <name>福娃送喜摆设</name>
+    <source>寻宝罗盘第五期奖励</source>
+    <desc>福娃送喜摆设家具，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="100350">
+    <iddesc>544</iddesc>
+    <name>男表情-羞羞</name>
+    <source>寻宝罗盘第五期奖励</source>
+    <desc>使用后可改变表情为羞羞表情</desc>
+  </item>
+  <item id="100351">
+    <iddesc>545</iddesc>
+    <name>女表情-羞羞</name>
+    <source>寻宝罗盘第五期奖励</source>
+    <desc>使用后可改变表情为羞羞表情</desc>
+  </item>
+  <item id="100352">
+    <iddesc>546</iddesc>
+    <name>男表情-俏皮</name>
+    <source>寻宝罗盘第五期奖励</source>
+    <desc>使用后可改变表情为俏皮表情</desc>
+  </item>
+  <item id="100353">
+    <iddesc>547</iddesc>
+    <name>女表情-俏皮</name>
+    <source>寻宝罗盘第五期奖励</source>
+    <desc>使用后可改变表情为俏皮表情</desc>
+  </item>
+  <item id="100349">
+    <iddesc>548</iddesc>
+    <name>金蛇狂舞烟花</name>
+    <source>寻宝罗盘第五期奖励</source>
+    <desc>可以释放金蛇狂舞烟花法术</desc>
+  </item>
+  <item id="102106">
+    <iddesc>549</iddesc>
+    <name>【火龙】精魄</name>
+    <source>2013.02.07商城出售妖怪精魄</source>
+    <desc>合天地之造化，蕴无上灵力之精魄。在妖怪培育舱中使用妖怪化形仪可以化形出火龙。</desc>
+  </item>
+  <item id="102107">
+    <iddesc>550</iddesc>
+    <name>【水滴蛇】精魄</name>
+    <source>2013.02.07商城出售妖怪精魄</source>
+    <desc>合天地之造化，蕴无上灵力之精魄。在妖怪培育舱中使用妖怪化形仪可以化形出水滴蛇。</desc>
+  </item>
+  <item id="100358">
+    <iddesc>551</iddesc>
+    <name>紫雨蛇外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后改变角色名字外框为紫雨蛇外框。</desc>
+  </item>
+  <item id="100359">
+    <iddesc>552</iddesc>
+    <name>糖饺外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后改变角色名字外框为糖饺外框。</desc>
+  </item>
+  <item id="910201">
+    <iddesc>553</iddesc>
+    <name>半小时双倍积分卡</name>
+    <source>商城购买</source>
+    <desc>使用后，半小时内玩小游戏结算时获得的积分翻倍（离开游戏乐园的时间也会计入哦）</desc>
+  </item>
+  <item id="910202">
+    <iddesc>554</iddesc>
+    <name>1小时双倍积分卡</name>
+    <source>商城购买</source>
+    <desc>使用后，1小时内玩小游戏结算时获得的积分翻倍（离开游戏乐园的时间也会计入哦）</desc>
+  </item>
+  <item id="910203">
+    <iddesc>555</iddesc>
+    <name>2小时双倍积分卡</name>
+    <source>商城购买</source>
+    <desc>使用后，2小时内玩小游戏结算时获得的积分翻倍（离开游戏乐园的时间也会计入哦）</desc>
+  </item>
+  <item id="101055">
+    <iddesc>556</iddesc>
+    <name>男表情-自信</name>
+    <source>商城购买</source>
+    <desc>使用后表情将变为自信表情</desc>
+  </item>
+  <item id="100744">
+    <iddesc>556</iddesc>
+    <name>萌动海星外框</name>
+    <source>2014年9月5日~10月9日，卡布召集令</source>
+    <desc>使用后，将角色名字外框改变为萌动海星外框</desc>
+  </item>
+  <item id="551670">
+    <iddesc>556</iddesc>
+    <name>火之信念背景</name>
+    <source>2014.11.14《逆天折扣 限时抢购》活动出售</source>
+    <desc>燃烧吧！如火焰一般的战斗信念！</desc>
+  </item>
+  <item id="101056">
+    <iddesc>557</iddesc>
+    <name>女表情-乖巧</name>
+    <source>商城购买</source>
+    <desc>使用后表情将变为乖巧表情</desc>
+  </item>
+  <item id="100360">
+    <iddesc>558</iddesc>
+    <name>卷灵儿外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后改变角色名字外框为卷灵儿外框。</desc>
+  </item>
+  <item id="100361">
+    <iddesc>559</iddesc>
+    <name>水瓶宝宝外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后改变角色名字外框为水瓶宝宝外框。</desc>
+  </item>
+  <item id="100363">
+    <iddesc>560</iddesc>
+    <name>岩石将军外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后改变角色名字外框为岩石将军外框。</desc>
+  </item>
+  <item id="100364">
+    <iddesc>561</iddesc>
+    <name>幼龙烟花外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后改变角色名字外框为幼龙烟花外框。</desc>
+  </item>
+  <item id="101057">
+    <iddesc>562</iddesc>
+    <name>男表情-异彩眸</name>
+    <source>商城购买</source>
+    <desc>使用后表情将变为异彩眸表情</desc>
+  </item>
+  <item id="101058">
+    <iddesc>563</iddesc>
+    <name>女表情-异彩眸</name>
+    <source>商城购买</source>
+    <desc>使用后表情将变为异彩眸表情</desc>
+  </item>
+  <item id="100380">
+    <iddesc>564</iddesc>
+    <name>斑点鹿外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后改变角色名字外框为斑点鹿外框。</desc>
+  </item>
+  <item id="100381">
+    <iddesc>565</iddesc>
+    <name>仙灵鹿外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后改变角色名字外框为仙灵鹿外框。</desc>
+  </item>
+  <item id="100386">
+    <iddesc>566</iddesc>
+    <name>中国结外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后改变角色名字外框为中国结外框。</desc>
+  </item>
+  <item id="100387">
+    <iddesc>567</iddesc>
+    <name>鲤鱼外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后改变角色名字外框为鲤鱼外框。</desc>
+  </item>
+  <item id="100388">
+    <iddesc>568</iddesc>
+    <name>牛奶瓶外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后改变角色名字外框为牛奶瓶外框。</desc>
+  </item>
+  <item id="100389">
+    <iddesc>569</iddesc>
+    <name>火王外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后改变角色名字外框为火王外框。</desc>
+  </item>
+  <item id="100397">
+    <iddesc>570</iddesc>
+    <name>礼物外框</name>
+    <source>寻宝罗盘第六期奖励</source>
+    <desc>使用后改变角色名字外框为礼物外框。</desc>
+  </item>
+  <item id="100398">
+    <iddesc>571</iddesc>
+    <name>摩羯精魄外框</name>
+    <source>寻宝罗盘第六期奖励</source>
+    <desc>使用后改变角色名字外框为摩羯精魄外框。</desc>
+  </item>
+  <item id="800371">
+    <iddesc>572</iddesc>
+    <name>月兔奇幻屋</name>
+    <source>寻宝罗盘第六期奖励</source>
+    <desc>月兔奇幻屋，家园房型</desc>
+  </item>
+  <item id="800372">
+    <iddesc>573</iddesc>
+    <name>月兔路标</name>
+    <source>寻宝罗盘第六期奖励</source>
+    <desc>月兔路标，可在后花园摆放</desc>
+  </item>
+  <item id="800373">
+    <iddesc>574</iddesc>
+    <name>月兔床</name>
+    <source>寻宝罗盘第六期奖励</source>
+    <desc>月兔床，可在家园小屋摆放</desc>
+  </item>
+  <item id="800374">
+    <iddesc>575</iddesc>
+    <name>月兔钢琴</name>
+    <source>寻宝罗盘第六期奖励</source>
+    <desc>月兔钢琴，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="800375">
+    <iddesc>576</iddesc>
+    <name>月兔喷泉</name>
+    <source>寻宝罗盘第六期奖励</source>
+    <desc>月兔喷泉，可在后花园摆放</desc>
+  </item>
+  <item id="800376">
+    <iddesc>577</iddesc>
+    <name>月兔挂钟</name>
+    <source>寻宝罗盘第六期奖励</source>
+    <desc>月兔挂钟，可在家园小屋摆放</desc>
+  </item>
+  <item id="800377">
+    <iddesc>578</iddesc>
+    <name>月兔灯</name>
+    <source>寻宝罗盘第六期奖励</source>
+    <desc>月兔灯，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="800378">
+    <iddesc>579</iddesc>
+    <name>月兔沙发</name>
+    <source>寻宝罗盘第六期奖励</source>
+    <desc>月兔沙发，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="100399">
+    <iddesc>580</iddesc>
+    <name>火龙精魄外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后改变角色名字外框为火龙精魄外框。</desc>
+  </item>
+  <item id="100400">
+    <iddesc>581</iddesc>
+    <name>惊喜盒子外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后改变角色名字外框为惊喜盒子外框。</desc>
+  </item>
+  <item id="101059">
+    <iddesc>582</iddesc>
+    <name>男表情-绿瞳</name>
+    <source>商城购买</source>
+    <desc>使用后表情将变为绿瞳表情</desc>
+  </item>
+  <item id="101060">
+    <iddesc>583</iddesc>
+    <name>女表情-绿瞳</name>
+    <source>商城购买</source>
+    <desc>使用后表情将变为绿瞳表情</desc>
+  </item>
+  <item id="100407">
+    <iddesc>584</iddesc>
+    <name>金锣外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后改变角色名字外框为金锣外框。</desc>
+  </item>
+  <item id="100408">
+    <iddesc>585</iddesc>
+    <name>水滴蛇精魄外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后改变角色名字外框为水滴蛇精魄外框。</desc>
+  </item>
+  <item id="100413">
+    <iddesc>586</iddesc>
+    <name>招魂幡外框</name>
+    <source>先祖的祝福活动奖励</source>
+    <desc>使用后改变角色名字外框为招魂幡外框。</desc>
+  </item>
+  <item id="100416">
+    <iddesc>587</iddesc>
+    <name>蓝灵鹿精魄外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后改变角色名字外框为蓝灵鹿精魄外框。</desc>
+  </item>
+  <item id="100417">
+    <iddesc>588</iddesc>
+    <name>白兔儿外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后改变角色名字外框为白兔儿外框。</desc>
+  </item>
+  <item id="800379">
+    <iddesc>589</iddesc>
+    <name>紫罗兰公主床</name>
+    <source>商城购买</source>
+    <desc>紫罗兰公主床家具，可在家园小屋摆放</desc>
+  </item>
+  <item id="800380">
+    <iddesc>590</iddesc>
+    <name>梦幻立灯</name>
+    <source>商城购买</source>
+    <desc>梦幻立灯家具，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="800381">
+    <iddesc>591</iddesc>
+    <name>紫罗兰花架</name>
+    <source>商城购买</source>
+    <desc>紫罗兰花架家具，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="800382">
+    <iddesc>592</iddesc>
+    <name>紫罗兰书架</name>
+    <source>商城购买</source>
+    <desc>紫罗兰书架家具，可在家园小屋摆放</desc>
+  </item>
+  <item id="800383">
+    <iddesc>593</iddesc>
+    <name>紫罗兰茶几</name>
+    <source>商城购买</source>
+    <desc>紫罗兰茶几家具，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="100418">
+    <iddesc>594</iddesc>
+    <name>金太阳外框</name>
+    <source>副本兑换</source>
+    <desc>使用后改变角色名字外框为金太阳外框。</desc>
+  </item>
+  <item id="100427">
+    <iddesc>595</iddesc>
+    <name>水瓶宝宝精魄外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后改变角色名字外框为水瓶宝宝精魄外框。</desc>
+  </item>
+  <item id="100428">
+    <iddesc>596</iddesc>
+    <name>冰企鹅外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后改变角色名字外框为冰企鹅外框。</desc>
+  </item>
+  <item id="101061">
+    <iddesc>597</iddesc>
+    <name>男表情-深邃</name>
+    <source>寻宝罗盘第七期奖励</source>
+    <desc>使用后可改变表情为深邃表情。</desc>
+  </item>
+  <item id="101062">
+    <iddesc>598</iddesc>
+    <name>女表情-深邃</name>
+    <source>寻宝罗盘第七期奖励</source>
+    <desc>使用后可改变表情为深邃表情。</desc>
+  </item>
+  <item id="101063">
+    <iddesc>599</iddesc>
+    <name>男表情-星星眼</name>
+    <source>寻宝罗盘第七期奖励</source>
+    <desc>使用后可改变表情为星星眼表情。</desc>
+  </item>
+  <item id="101064">
+    <iddesc>600</iddesc>
+    <name>女表情-星星眼</name>
+    <source>寻宝罗盘第七期奖励</source>
+    <desc>使用后可改变表情为星星眼表情。</desc>
+  </item>
+  <item id="100424">
+    <iddesc>601</iddesc>
+    <name>梦珊瑚外框</name>
+    <source>寻宝罗盘第七期奖励</source>
+    <desc>使用后改变角色名字外框为梦珊瑚外框。</desc>
+  </item>
+  <item id="100425">
+    <iddesc>602</iddesc>
+    <name>刀小狼精魄外框</name>
+    <source>寻宝罗盘第七期奖励</source>
+    <desc>使用后改变角色名字外框为刀小狼精魄外框。</desc>
+  </item>
+  <item id="100426">
+    <iddesc>603</iddesc>
+    <name>紫蛛儿精魄外框</name>
+    <source>寻宝罗盘第七期奖励</source>
+    <desc>使用后改变角色名字外框为紫蛛儿精魄外框。</desc>
+  </item>
+  <item id="800384">
+    <iddesc>604</iddesc>
+    <name>梦想音乐屋</name>
+    <source>寻宝罗盘第七期奖励</source>
+    <desc>梦想音乐屋家具，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="800385">
+    <iddesc>605</iddesc>
+    <name>企鹅滑梯</name>
+    <source>寻宝罗盘第七期奖励</source>
+    <desc>企鹅滑梯家具，可在后花园摆放</desc>
+  </item>
+  <item id="800386">
+    <iddesc>606</iddesc>
+    <name>星月床</name>
+    <source>寻宝罗盘第七期奖励</source>
+    <desc>星月床家具，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="800387">
+    <iddesc>607</iddesc>
+    <name>三角钢琴</name>
+    <source>寻宝罗盘第七期奖励</source>
+    <desc>三角钢琴家具，可在家园小屋摆放</desc>
+  </item>
+  <item id="800388">
+    <iddesc>608</iddesc>
+    <name>兔子喷泉</name>
+    <source>寻宝罗盘第七期奖励</source>
+    <desc>兔子喷泉家具，可在后花园摆放</desc>
+  </item>
+  <item id="800389">
+    <iddesc>609</iddesc>
+    <name>休闲长椅</name>
+    <source>寻宝罗盘第七期奖励</source>
+    <desc>休闲长椅家具，可在后花园摆放</desc>
+  </item>
+  <item id="800390">
+    <iddesc>610</iddesc>
+    <name>蓝色康乃馨</name>
+    <source>寻宝罗盘第七期奖励</source>
+    <desc>蓝色康乃馨家具，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="800391">
+    <iddesc>611</iddesc>
+    <name>飞翼衣橱</name>
+    <source>寻宝罗盘第七期奖励</source>
+    <desc>飞翼衣橱家具，可在家园小屋摆放</desc>
+  </item>
+  <item id="101065">
+    <iddesc>612</iddesc>
+    <name>男表情-皱眉</name>
+    <source>商城购买</source>
+    <desc>使用后可改变表情为皱眉表情</desc>
+  </item>
+  <item id="101066">
+    <iddesc>613</iddesc>
+    <name>女表情-微笑</name>
+    <source>商城购买</source>
+    <desc>使用后可改变表情为微笑表情。</desc>
+  </item>
+  <item id="100430">
+    <iddesc>614</iddesc>
+    <name>闪电童子精魄外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后改变角色名字外框为闪电童子精魄外框。</desc>
+  </item>
+  <item id="100431">
+    <iddesc>615</iddesc>
+    <name>樱花彩蛋外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后改变角色名字外框为樱花彩蛋外框。</desc>
+  </item>
+  <item id="101067">
+    <iddesc>616</iddesc>
+    <name>男表情-刺青</name>
+    <source>商城购买</source>
+    <desc>使用后可改变表情为刺青表情</desc>
+  </item>
+  <item id="101068">
+    <iddesc>617</iddesc>
+    <name>女表情-刺青</name>
+    <source>商城购买</source>
+    <desc>使用后可改变表情为刺青表情</desc>
+  </item>
+  <item id="100435">
+    <iddesc>618</iddesc>
+    <name>射手宝宝精魄外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后改变角色名字外框为射手宝宝精魄外框。</desc>
+  </item>
+  <item id="100436">
+    <iddesc>619</iddesc>
+    <name>百花蝶外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后改变角色名字外框为百花蝶外框。</desc>
+  </item>
+  <item id="100434">
+    <iddesc>620</iddesc>
+    <name>表情复制卡</name>
+    <source>商城购买</source>
+    <desc>可以用来复制当前使用的表情，默认表情和表情转换仪中的表情除外。</desc>
+  </item>
+  <item id="100437">
+    <iddesc>621</iddesc>
+    <name>蓝星彩蛋外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后改变角色名字外框为蓝星彩蛋外框。</desc>
+  </item>
+  <item id="100438">
+    <iddesc>622</iddesc>
+    <name>小浣熊外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后改变角色名字外框为小浣熊外框。</desc>
+  </item>
+  <item id="100444">
+    <iddesc>623</iddesc>
+    <name>粉桃子外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后改变角色名字外框为粉桃子外框。</desc>
+  </item>
+  <item id="100445">
+    <iddesc>624</iddesc>
+    <name>金闪闪彩蛋外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后改变角色名字外框为金闪闪彩蛋外框。</desc>
+  </item>
+  <item id="101069">
+    <iddesc>625</iddesc>
+    <name>男表情-沉思</name>
+    <source>寻宝罗盘第八期奖励</source>
+    <desc>使用后可改变表情为沉思表情。</desc>
+  </item>
+  <item id="101070">
+    <iddesc>626</iddesc>
+    <name>女表情-沉思</name>
+    <source>寻宝罗盘第八期奖励</source>
+    <desc>使用后可改变表情为沉思表情。</desc>
+  </item>
+  <item id="101071">
+    <iddesc>627</iddesc>
+    <name>男表情-憧憬</name>
+    <source>寻宝罗盘第八期奖励</source>
+    <desc>使用后可改变表情为憧憬表情。</desc>
+  </item>
+  <item id="101072">
+    <iddesc>628</iddesc>
+    <name>女表情-憧憬</name>
+    <source>寻宝罗盘第八期奖励</source>
+    <desc>使用后可改变表情为憧憬表情。</desc>
+  </item>
+  <item id="800392">
+    <iddesc>629</iddesc>
+    <name>梦境城堡</name>
+    <source>寻宝罗盘第八期奖励</source>
+    <desc>梦境城堡家具，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="800393">
+    <iddesc>630</iddesc>
+    <name>梦境泳池</name>
+    <source>寻宝罗盘第八期奖励</source>
+    <desc>梦境泳池家具，可在后花园摆放</desc>
+  </item>
+  <item id="800394">
+    <iddesc>631</iddesc>
+    <name>浪漫风车</name>
+    <source>寻宝罗盘第八期奖励</source>
+    <desc>浪漫风车家具，可在后花园摆放</desc>
+  </item>
+  <item id="800395">
+    <iddesc>632</iddesc>
+    <name>时钟衣橱</name>
+    <source>寻宝罗盘第八期奖励</source>
+    <desc>时钟衣橱家具，可在家园小屋摆放</desc>
+  </item>
+  <item id="800396">
+    <iddesc>633</iddesc>
+    <name>小猫摆件</name>
+    <source>寻宝罗盘第八期奖励</source>
+    <desc>小猫摆件家具，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="800397">
+    <iddesc>634</iddesc>
+    <name>网球沙发</name>
+    <source>寻宝罗盘第八期奖励</source>
+    <desc>网球沙发家具，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="100441">
+    <iddesc>635</iddesc>
+    <name>精精外框</name>
+    <source>寻宝罗盘第八期奖励</source>
+    <desc>使用后改变角色名字外框为精精外框。</desc>
+  </item>
+  <item id="100442">
+    <iddesc>636</iddesc>
+    <name>符灵外框</name>
+    <source>寻宝罗盘第八期奖励</source>
+    <desc>使用后改变角色名字外框为符灵外框。</desc>
+  </item>
+  <item id="100443">
+    <iddesc>637</iddesc>
+    <name>发电玩偶外框</name>
+    <source>寻宝罗盘第八期奖励</source>
+    <desc>使用后改变角色名字外框为发电玩偶外框。</desc>
+  </item>
+  <item id="101073">
+    <iddesc>638</iddesc>
+    <name>男表情-魔瞳</name>
+    <source>商城购买</source>
+    <desc>使用后可改变表情为魔瞳表情</desc>
+  </item>
+  <item id="101074">
+    <iddesc>639</iddesc>
+    <name>女表情-魔瞳</name>
+    <source>商城购买</source>
+    <desc>使用后可改变表情为魔瞳表情</desc>
+  </item>
+  <item id="100446">
+    <iddesc>640</iddesc>
+    <name>碧玉彩蛋外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后改变角色名字外框为碧玉彩蛋外框。</desc>
+  </item>
+  <item id="100447">
+    <iddesc>641</iddesc>
+    <name>紫豆豆外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后改变角色名字外框为紫豆豆外框。</desc>
+  </item>
+  <item id="100451">
+    <iddesc>642</iddesc>
+    <name>贝贝元宝外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后改变角色名字外框为贝贝元宝外框。</desc>
+  </item>
+  <item id="100452">
+    <iddesc>643</iddesc>
+    <name>青衣童女外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后改变角色名字外框为青衣童女外框。</desc>
+  </item>
+  <item id="100456">
+    <iddesc>644</iddesc>
+    <name>小红结外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后改变角色名字外框为小红结外框。</desc>
+  </item>
+  <item id="100457">
+    <iddesc>645</iddesc>
+    <name>星星豆外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后改变角色名字外框为星星豆外框。</desc>
+  </item>
+  <item id="100470">
+    <iddesc>646</iddesc>
+    <name>狮王绣球外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后改变角色名字外框为狮王绣球外框。</desc>
+  </item>
+  <item id="100471">
+    <iddesc>647</iddesc>
+    <name>盒子幽灵外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后改变角色名字外框为盒子幽灵外框。</desc>
+  </item>
+  <item id="101075">
+    <iddesc>648</iddesc>
+    <name>男表情-骄傲</name>
+    <source>寻宝罗盘第九期奖励</source>
+    <desc>使用后可改变表情为骄傲表情</desc>
+  </item>
+  <item id="101076">
+    <iddesc>649</iddesc>
+    <name>女表情-骄傲</name>
+    <source>寻宝罗盘第九期奖励</source>
+    <desc>使用后可改变表情为骄傲表情</desc>
+  </item>
+  <item id="101077">
+    <iddesc>650</iddesc>
+    <name>男表情-期待</name>
+    <source>寻宝罗盘第九期奖励</source>
+    <desc>使用后可改变表情为期待表情</desc>
+  </item>
+  <item id="101078">
+    <iddesc>651</iddesc>
+    <name>女表情-期待</name>
+    <source>寻宝罗盘第九期奖励</source>
+    <desc>使用后可改变表情为期待表情</desc>
+  </item>
+  <item id="100475">
+    <iddesc>652</iddesc>
+    <name>碧水兽外框</name>
+    <source>寻宝罗盘第九期奖励</source>
+    <desc>使用后改变角色名字外框为碧水兽外框。</desc>
+  </item>
+  <item id="100476">
+    <iddesc>653</iddesc>
+    <name>羽毛勋章外框</name>
+    <source>寻宝罗盘第九期奖励</source>
+    <desc>使用后改变角色名字外框为羽毛勋章外框。</desc>
+  </item>
+  <item id="100477">
+    <iddesc>654</iddesc>
+    <name>射手宝宝外框</name>
+    <source>寻宝罗盘第九期奖励</source>
+    <desc>使用后改变角色名字外框为射手宝宝外框。</desc>
+  </item>
+  <item id="800398">
+    <iddesc>655</iddesc>
+    <name>神秘魔法屋</name>
+    <source>寻宝罗盘第九期奖励</source>
+    <desc>神秘魔法屋家具，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="800399">
+    <iddesc>656</iddesc>
+    <name>魔术师躺椅</name>
+    <source>寻宝罗盘第九期奖励</source>
+    <desc>魔术师躺椅家具，可在后花园摆放</desc>
+  </item>
+  <item id="800400">
+    <iddesc>657</iddesc>
+    <name>魔法阳伞</name>
+    <source>寻宝罗盘第九期奖励</source>
+    <desc>魔法阳伞家具，可在后花园摆放</desc>
+  </item>
+  <item id="800401">
+    <iddesc>658</iddesc>
+    <name>高雅茶具</name>
+    <source>寻宝罗盘第九期奖励</source>
+    <desc>高雅茶具家具，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="800402">
+    <iddesc>659</iddesc>
+    <name>魔法沙发</name>
+    <source>寻宝罗盘第九期奖励</source>
+    <desc>魔法沙发家具，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="800403">
+    <iddesc>660</iddesc>
+    <name>百变魔术箱</name>
+    <source>寻宝罗盘第九期奖励</source>
+    <desc>百变魔术箱家具，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="100478">
+    <iddesc>661</iddesc>
+    <name>金牛宝宝外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后改变角色名字外框为金牛宝宝外框。</desc>
+  </item>
+  <item id="100479">
+    <iddesc>662</iddesc>
+    <name>沙葫芦外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后改变角色名字外框为沙葫芦外框。</desc>
+  </item>
+  <item id="101079">
+    <iddesc>663</iddesc>
+    <name>男表情-浅笑</name>
+    <source>爱心值兑换</source>
+    <desc>使用后可改变表情为浅笑表情</desc>
+  </item>
+  <item id="101080">
+    <iddesc>664</iddesc>
+    <name>女表情-浅笑</name>
+    <source>爱心值兑换</source>
+    <desc>使用后可改变表情为浅笑表情</desc>
+  </item>
+  <item id="101081">
+    <iddesc>665</iddesc>
+    <name>男表情-眨眼</name>
+    <source>爱心值兑换</source>
+    <desc>使用后可改变表情为眨眼表情</desc>
+  </item>
+  <item id="101082">
+    <iddesc>666</iddesc>
+    <name>女表情-眨眼</name>
+    <source>爱心值兑换</source>
+    <desc>使用后可改变表情为眨眼表情</desc>
+  </item>
+  <item id="101083">
+    <iddesc>667</iddesc>
+    <name>男表情-傻笑</name>
+    <source>爱心值兑换</source>
+    <desc>使用后可改变表情为傻笑表情</desc>
+  </item>
+  <item id="101084">
+    <iddesc>668</iddesc>
+    <name>女表情-傻笑</name>
+    <source>爱心值兑换</source>
+    <desc>使用后可改变表情为傻笑表情</desc>
+  </item>
+  <item id="100480">
+    <iddesc>669</iddesc>
+    <name>圣水魔瓶外框</name>
+    <source>爱心值兑换</source>
+    <desc>使用后改变角色名字外框为圣水魔瓶外框。</desc>
+  </item>
+  <item id="100481">
+    <iddesc>670</iddesc>
+    <name>黄金音符外框</name>
+    <source>爱心值兑换</source>
+    <desc>使用后改变角色名字外框为黄金音符外框。</desc>
+  </item>
+  <item id="100482">
+    <iddesc>671</iddesc>
+    <name>魔法陶罐外框</name>
+    <source>爱心值兑换</source>
+    <desc>使用后改变角色名字外框为魔法陶罐外框。</desc>
+  </item>
+  <item id="300036">
+    <iddesc>672</iddesc>
+    <name>苍羽幻石</name>
+    <source>购买超进化礼包或者在天降福瑞活动中开启【福瑞宝箱】获得</source>
+    <desc>蕴含仙羽之力的奇石，具有进化的力量</desc>
+  </item>
+  <item id="300037">
+    <iddesc>673</iddesc>
+    <name>日月琉璃</name>
+    <source>购买超进化礼包或者在天降福瑞活动中开启【福瑞宝箱】获得</source>
+    <desc>蕴含日月之力的神奇琉璃，具有进化的力量</desc>
+  </item>
+  <item id="300038">
+    <iddesc>674</iddesc>
+    <name>时空碎片</name>
+    <source>无法获得</source>
+    <desc>拥有时空力量的碎片，可以兑换各种珍稀物品。</desc>
+  </item>
+  <item id="100483">
+    <iddesc>675</iddesc>
+    <name>白银钥匙</name>
+    <source>购买</source>
+    <desc>使用此钥匙可以开启白银宝箱1次</desc>
+  </item>
+  <item id="100484">
+    <iddesc>676</iddesc>
+    <name>黄金钥匙</name>
+    <source>购买</source>
+    <desc>使用此钥匙可以开启黄金宝箱1次</desc>
+  </item>
+  <item id="100485">
+    <iddesc>677</iddesc>
+    <name>钻石钥匙</name>
+    <source>购买</source>
+    <desc>使用此钥匙可以开启钻石宝箱1次</desc>
+  </item>
+  <item id="800404">
+    <iddesc>678</iddesc>
+    <name>星月港湾</name>
+    <source>爱心值兑换</source>
+    <desc>星月港湾家具，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="800405">
+    <iddesc>679</iddesc>
+    <name>星月路标</name>
+    <source>爱心值兑换</source>
+    <desc>星月路标家具，可在后花园摆放</desc>
+  </item>
+  <item id="800406">
+    <iddesc>680</iddesc>
+    <name>魔法路灯</name>
+    <source>爱心值兑换</source>
+    <desc>魔法路灯家具，可在后花园摆放</desc>
+  </item>
+  <item id="800407">
+    <iddesc>681</iddesc>
+    <name>星月餐桌</name>
+    <source>爱心值兑换</source>
+    <desc>星月餐桌家具，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="800408">
+    <iddesc>682</iddesc>
+    <name>星月池塘</name>
+    <source>爱心值兑换</source>
+    <desc>星月池塘家具，可在后花园摆放</desc>
+  </item>
+  <item id="800409">
+    <iddesc>683</iddesc>
+    <name>蓝梦窗帘</name>
+    <source>爱心值兑换</source>
+    <desc>蓝梦窗帘家具，可在家园小屋摆放</desc>
+  </item>
+  <item id="800410">
+    <iddesc>684</iddesc>
+    <name>蓝梦双人床</name>
+    <source>爱心值兑换</source>
+    <desc>蓝梦双人床家具，可在家园小屋摆放</desc>
+  </item>
+  <item id="800411">
+    <iddesc>685</iddesc>
+    <name>星月吊灯</name>
+    <source>爱心值兑换</source>
+    <desc>星月吊灯家具，可在家园小屋摆放</desc>
+  </item>
+  <item id="800412">
+    <iddesc>686</iddesc>
+    <name>魔法书柜</name>
+    <source>爱心值兑换</source>
+    <desc>魔法书柜家具，可在家园小屋摆放</desc>
+  </item>
+  <item id="800413">
+    <iddesc>687</iddesc>
+    <name>云朵沙发</name>
+    <source>爱心值兑换</source>
+    <desc>云朵沙发家具，可在家园小屋摆放</desc>
+  </item>
+  <item id="800414">
+    <iddesc>688</iddesc>
+    <name>星月时钟</name>
+    <source>爱心值兑换</source>
+    <desc>星月时钟家具，可在家园小屋摆放</desc>
+  </item>
+  <item id="101085">
+    <iddesc>689</iddesc>
+    <name>男表情-忧郁</name>
+    <source>商城购买</source>
+    <desc>使用后可改变表情为忧郁表情</desc>
+  </item>
+  <item id="101086">
+    <iddesc>690</iddesc>
+    <name>女表情-忧郁</name>
+    <source>商城购买</source>
+    <desc>使用后可改变表情为忧郁表情</desc>
+  </item>
+  <item id="100487">
+    <iddesc>691</iddesc>
+    <name>艾草外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后改变角色名字外框为艾草外框。</desc>
+  </item>
+  <item id="100488">
+    <iddesc>692</iddesc>
+    <name>小魔灵外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后改变角色名字外框为小魔灵外框。</desc>
+  </item>
+  <item id="101087">
+    <iddesc>693</iddesc>
+    <name>男表情-萌呆</name>
+    <source>商城购买</source>
+    <desc>使用后可改变表情为萌呆表情</desc>
+  </item>
+  <item id="101088">
+    <iddesc>694</iddesc>
+    <name>女表情-萌呆</name>
+    <source>商城购买</source>
+    <desc>使用后可改变表情为萌呆表情</desc>
+  </item>
+  <item id="100490">
+    <iddesc>695</iddesc>
+    <name>雪兔宝贝外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后改变角色名字外框为雪兔宝贝外框。</desc>
+  </item>
+  <item id="100491">
+    <iddesc>696</iddesc>
+    <name>葫芦球外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后改变角色名字外框为葫芦球外框。</desc>
+  </item>
+  <item id="100499">
+    <iddesc>697</iddesc>
+    <name>花球球外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后改变角色名字外框为花球球外框。</desc>
+  </item>
+  <item id="100500">
+    <iddesc>698</iddesc>
+    <name>萌骷髅外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后改变角色名字外框为萌骷髅外框。</desc>
+  </item>
+  <item id="101089">
+    <iddesc>699</iddesc>
+    <name>男表情-坚决</name>
+    <source>寻宝罗盘第10期奖励</source>
+    <desc>使用后可改变表情为坚决表情</desc>
+  </item>
+  <item id="101090">
+    <iddesc>700</iddesc>
+    <name>女表情-坚决</name>
+    <source>寻宝罗盘第10期奖励</source>
+    <desc>使用后可改变表情为坚决表情</desc>
+  </item>
+  <item id="101091">
+    <iddesc>701</iddesc>
+    <name>男表情-发呆</name>
+    <source>寻宝罗盘第10期奖励</source>
+    <desc>使用后可改变表情为发呆表情</desc>
+  </item>
+  <item id="101092">
+    <iddesc>702</iddesc>
+    <name>女表情-发呆</name>
+    <source>寻宝罗盘第10期奖励</source>
+    <desc>使用后可改变表情为发呆表情</desc>
+  </item>
+  <item id="100516">
+    <iddesc>703</iddesc>
+    <name>烈火龙外框</name>
+    <source>寻宝罗盘第10期奖励</source>
+    <desc>使用后改变角色名字外框为烈火龙外框。</desc>
+  </item>
+  <item id="100517">
+    <iddesc>704</iddesc>
+    <name>黑盔小太外框</name>
+    <source>寻宝罗盘第10期奖励</source>
+    <desc>使用后改变角色名字外框为黑盔小太外框。</desc>
+  </item>
+  <item id="100518">
+    <iddesc>705</iddesc>
+    <name>小光外框</name>
+    <source>寻宝罗盘第10期奖励</source>
+    <desc>使用后改变角色名字外框为小光外框。</desc>
+  </item>
+  <item id="800415">
+    <iddesc>706</iddesc>
+    <name>薰衣草之恋</name>
+    <source>寻宝罗盘第10期奖励</source>
+    <desc>薰衣草之恋家具，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="800416">
+    <iddesc>707</iddesc>
+    <name>薰衣草风车</name>
+    <source>寻宝罗盘第10期奖励</source>
+    <desc>薰衣草风车家具，可在后花园摆放</desc>
+  </item>
+  <item id="800417">
+    <iddesc>708</iddesc>
+    <name>浪漫秋千</name>
+    <source>寻宝罗盘第10期奖励</source>
+    <desc>浪漫秋千家具，可在后花园摆放</desc>
+  </item>
+  <item id="800418">
+    <iddesc>709</iddesc>
+    <name>舒适野炊毯</name>
+    <source>寻宝罗盘第10期奖励</source>
+    <desc>舒适野炊毯家具，可在后花园摆放</desc>
+  </item>
+  <item id="800419">
+    <iddesc>710</iddesc>
+    <name>薰衣草路灯</name>
+    <source>寻宝罗盘第10期奖励</source>
+    <desc>薰衣草路灯家具，可在后花园摆放</desc>
+  </item>
+  <item id="800420">
+    <iddesc>711</iddesc>
+    <name>梦幻餐桌</name>
+    <source>寻宝罗盘第10期奖励</source>
+    <desc>梦幻餐桌家具，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="800421">
+    <iddesc>712</iddesc>
+    <name>紫梦双人床</name>
+    <source>寻宝罗盘第10期奖励</source>
+    <desc>紫梦双人床家具，可在家园小屋摆放</desc>
+  </item>
+  <item id="800422">
+    <iddesc>713</iddesc>
+    <name>薰衣草电脑桌</name>
+    <source>寻宝罗盘第10期奖励</source>
+    <desc>薰衣草电脑桌家具，可在家园小屋摆放</desc>
+  </item>
+  <item id="800423">
+    <iddesc>714</iddesc>
+    <name>薰衣草衣柜</name>
+    <source>寻宝罗盘第10期奖励</source>
+    <desc>薰衣草衣柜家具，可在家园小屋摆放</desc>
+  </item>
+  <item id="100519">
+    <iddesc>715</iddesc>
+    <name>白骨夫人变身器</name>
+    <source>寻宝罗盘第10期奖励</source>
+    <desc>让目标玩家变成白骨夫人的样子，维持3分钟。</desc>
+  </item>
+  <item id="100529">
+    <iddesc>716</iddesc>
+    <name>猴宝贝外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后改变角色名字外框为猴宝贝外框。</desc>
+  </item>
+  <item id="100530">
+    <iddesc>717</iddesc>
+    <name>巧克力圣代外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后改变角色名字外框为巧克力圣代外框。</desc>
+  </item>
+  <item id="100531">
+    <iddesc>718</iddesc>
+    <name>幸运星外框</name>
+    <source>新老玩家回归活动</source>
+    <desc>使用后改变角色名字外框为幸运星外框。</desc>
+  </item>
+  <item id="101093">
+    <iddesc>719</iddesc>
+    <name>男表情-吃货</name>
+    <source>商城购买</source>
+    <desc>使用后可改变表情为吃货表情</desc>
+  </item>
+  <item id="101094">
+    <iddesc>720</iddesc>
+    <name>女表情-吃货</name>
+    <source>商城购买</source>
+    <desc>使用后可改变表情为吃货表情</desc>
+  </item>
+  <item id="100532">
+    <iddesc>721</iddesc>
+    <name>红樱桃外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后改变角色名字外框为红樱桃外框。</desc>
+  </item>
+  <item id="100533">
+    <iddesc>722</iddesc>
+    <name>小熊外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后改变角色名字外框为小熊外框。</desc>
+  </item>
+  <item id="100492">
+    <iddesc>723</iddesc>
+    <name>南瓜头外框</name>
+    <source>2013年暑期报到有礼送活动</source>
+    <desc>使用后改变角色名字外框为南瓜头外框。</desc>
+  </item>
+  <item id="100493">
+    <iddesc>724</iddesc>
+    <name>天使宝宝外框</name>
+    <source>2013.6.27驱赶毒蚊活动</source>
+    <desc>使用后改变角色名字外框为天使宝宝外框。</desc>
+  </item>
+  <item id="100528">
+    <iddesc>725</iddesc>
+    <name>蓝紫花外框</name>
+    <source>2013.7.11紧急救援活动</source>
+    <desc>使用后改变角色名字外框为蓝紫花外框。</desc>
+  </item>
+  <item id="100536">
+    <iddesc>726</iddesc>
+    <name>冰淇淋外框</name>
+    <source>2013.7.18最强妖怪训练师</source>
+    <desc>使用后改变角色名字外框为冰淇淋外框。</desc>
+  </item>
+  <item id="100537">
+    <iddesc>727</iddesc>
+    <name>裁判外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后改变角色名字外框为裁判外框。</desc>
+  </item>
+  <item id="100538">
+    <iddesc>728</iddesc>
+    <name>王者之师家族外框</name>
+    <source>2013.7.16第一届擂台赛</source>
+    <desc>使用后，将改变角色名字外框为王者之师家族外框。但退出家族后该外框自动删除。</desc>
+  </item>
+  <item id="100539">
+    <iddesc>729</iddesc>
+    <name>豆腐外框</name>
+    <source>暑期抢豆腐活动</source>
+    <desc>使用后，将改变角色的名字外框为豆腐外框。</desc>
+  </item>
+  <item id="100540">
+    <iddesc>730</iddesc>
+    <name>假日糖果外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后，将改变角色的名字外框为假日糖果外框。</desc>
+  </item>
+  <item id="100541">
+    <iddesc>731</iddesc>
+    <name>草莓外框</name>
+    <source>暂时无法获得</source>
+    <desc>使用后，将改变角色的名字外框为草莓外框。</desc>
+  </item>
+  <item id="101095">
+    <iddesc>732</iddesc>
+    <name>男表情-信心</name>
+    <source>寻宝罗盘第11期奖励</source>
+    <desc>使用后可改变表情为信心表情</desc>
+  </item>
+  <item id="101096">
+    <iddesc>733</iddesc>
+    <name>女表情-信心</name>
+    <source>寻宝罗盘第11期奖励</source>
+    <desc>使用后可改变表情为信心表情</desc>
+  </item>
+  <item id="101097">
+    <iddesc>734</iddesc>
+    <name>男表情-惊讶</name>
+    <source>寻宝罗盘第11期奖励</source>
+    <desc>使用后可改变表情为惊讶表情</desc>
+  </item>
+  <item id="101098">
+    <iddesc>735</iddesc>
+    <name>女表情-惊讶</name>
+    <source>寻宝罗盘第11期奖励</source>
+    <desc>使用后可改变表情为惊讶表情</desc>
+  </item>
+  <item id="100546">
+    <iddesc>736</iddesc>
+    <name>锦囊外框</name>
+    <source>寻宝罗盘第11期奖励</source>
+    <desc>使用后，将改变角色的名字外框为锦囊外框。</desc>
+  </item>
+  <item id="100547">
+    <iddesc>737</iddesc>
+    <name>火尖枪外框</name>
+    <source>寻宝罗盘第11期奖励</source>
+    <desc>使用后，将改变角色的名字外框为火尖枪外框。</desc>
+  </item>
+  <item id="100548">
+    <iddesc>738</iddesc>
+    <name>玉佩外框</name>
+    <source>寻宝罗盘第11期奖励</source>
+    <desc>使用后，将改变角色的名字外框为玉佩外框。</desc>
+  </item>
+  <item id="100549">
+    <iddesc>739</iddesc>
+    <name>牛魔王变身器</name>
+    <source>寻宝罗盘第11期奖励</source>
+    <desc>让目标玩家变成牛魔王的样子，维持3分钟。</desc>
+  </item>
+  <item id="800424">
+    <iddesc>740</iddesc>
+    <name>黑珍珠号</name>
+    <source>寻宝罗盘第11期奖励</source>
+    <desc>黑珍珠号家具，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="800425">
+    <iddesc>741</iddesc>
+    <name>高雅钢琴</name>
+    <source>寻宝罗盘第11期奖励</source>
+    <desc>高雅钢琴家具，可在家园小屋摆放</desc>
+  </item>
+  <item id="800426">
+    <iddesc>742</iddesc>
+    <name>海盗宝箱</name>
+    <source>寻宝罗盘第11期奖励</source>
+    <desc>海盗宝箱家具，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="800427">
+    <iddesc>743</iddesc>
+    <name>海盗之刃</name>
+    <source>寻宝罗盘第11期奖励</source>
+    <desc>海盗之刃家具，可在家园小屋摆放</desc>
+  </item>
+  <item id="800428">
+    <iddesc>744</iddesc>
+    <name>航海地图</name>
+    <source>寻宝罗盘第11期奖励</source>
+    <desc>航海地图家具，可在家园小屋摆放</desc>
+  </item>
+  <item id="800429">
+    <iddesc>745</iddesc>
+    <name>古典地球仪</name>
+    <source>寻宝罗盘第11期奖励</source>
+    <desc>古典地球仪家具，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="800430">
+    <iddesc>746</iddesc>
+    <name>海盗铁锚</name>
+    <source>寻宝罗盘第11期奖励</source>
+    <desc>海盗铁锚家具，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="800431">
+    <iddesc>747</iddesc>
+    <name>海盗舵盘</name>
+    <source>寻宝罗盘第11期奖励</source>
+    <desc>海盗舵盘家具，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="100543">
+    <iddesc>748</iddesc>
+    <name>毒心宝外框</name>
+    <source>商城购买</source>
+    <desc>使用后，将改变角色的名字外框为毒心宝外框。</desc>
+  </item>
+  <item id="100544">
+    <iddesc>749</iddesc>
+    <name>粉粉星星外框</name>
+    <source>商城购买</source>
+    <desc>使用后，将改变角色的名字外框为粉粉星星外框。</desc>
+  </item>
+  <item id="100545">
+    <iddesc>750</iddesc>
+    <name>草莓衣柜外型</name>
+    <source>商城购买</source>
+    <desc>在家园衣柜中使用，可以改变衣柜样式。</desc>
+  </item>
+  <item id="100550">
+    <iddesc>751</iddesc>
+    <name>小顽猴外框</name>
+    <source>商城购买</source>
+    <desc>使用后，将改变角色的名字外框为小顽猴外框。</desc>
+  </item>
+  <item id="100551">
+    <iddesc>752</iddesc>
+    <name>包子外框</name>
+    <source>商城购买</source>
+    <desc>使用后，将改变角色的名字外框为包子外框。</desc>
+  </item>
+  <item id="100553">
+    <iddesc>753</iddesc>
+    <name>小火灵外框</name>
+    <source>玩家回归活动</source>
+    <desc>使用后，将改变角色的名字外框为小火灵外框。</desc>
+  </item>
+  <item id="101099">
+    <iddesc>754</iddesc>
+    <name>男表情-蚊香眼</name>
+    <source>商城购买</source>
+    <desc>使用后可改变表情为蚊香眼表情</desc>
+  </item>
+  <item id="101100">
+    <iddesc>755</iddesc>
+    <name>女表情-蚊香眼</name>
+    <source>商城购买</source>
+    <desc>使用后可改变表情为蚊香眼表情</desc>
+  </item>
+  <item id="100554">
+    <iddesc>756</iddesc>
+    <name>粉蓝星星外框</name>
+    <source>商城购买</source>
+    <desc>使用后，将改变角色的名字外框为粉蓝星星外框。</desc>
+  </item>
+  <item id="100555">
+    <iddesc>757</iddesc>
+    <name>木蜘蛛外框</name>
+    <source>商城购买</source>
+    <desc>使用后，将改变角色的名字外框为木蜘蛛外框。</desc>
+  </item>
+  <item id="100556">
+    <iddesc>758</iddesc>
+    <name>紫蘑菇外框</name>
+    <source>商城购买</source>
+    <desc>使用后，将改变角色的名字外框为紫蘑菇外框。</desc>
+  </item>
+  <item id="100557">
+    <iddesc>759</iddesc>
+    <name>闪闪铃铛外框</name>
+    <source>商城购买</source>
+    <desc>使用后，将改变角色的名字外框为闪闪铃铛外框。</desc>
+  </item>
+  <item id="100559">
+    <iddesc>760</iddesc>
+    <name>狮子星外框</name>
+    <source>商城购买</source>
+    <desc>使用后，将改变角色的名字外框为狮子星外框。</desc>
+  </item>
+  <item id="100560">
+    <iddesc>761</iddesc>
+    <name>紫云伞外框</name>
+    <source>商城购买</source>
+    <desc>使用后，将改变角色的名字外框为紫云伞外框。</desc>
+  </item>
+  <item id="101101">
+    <iddesc>762</iddesc>
+    <name>男表情-坚毅</name>
+    <source>寻宝罗盘第12期奖励</source>
+    <desc>使用后可改变表情为坚毅表情</desc>
+  </item>
+  <item id="101102">
+    <iddesc>763</iddesc>
+    <name>女表情-坚毅</name>
+    <source>寻宝罗盘第12期奖励</source>
+    <desc>使用后可改变表情为坚毅表情</desc>
+  </item>
+  <item id="101103">
+    <iddesc>764</iddesc>
+    <name>男表情-无语</name>
+    <source>寻宝罗盘第12期奖励</source>
+    <desc>使用后可改变表情为无语表情</desc>
+  </item>
+  <item id="101104">
+    <iddesc>765</iddesc>
+    <name>女表情-无语</name>
+    <source>寻宝罗盘第12期奖励</source>
+    <desc>使用后可改变表情为无语表情</desc>
+  </item>
+  <item id="100561">
+    <iddesc>766</iddesc>
+    <name>魔剑魂外框</name>
+    <source>寻宝罗盘第12期奖励</source>
+    <desc>使用后，将改变角色的名字外框为魔剑魂外框。</desc>
+  </item>
+  <item id="100562">
+    <iddesc>767</iddesc>
+    <name>幻童外框</name>
+    <source>寻宝罗盘第12期奖励</source>
+    <desc>使用后，将改变角色的名字外框为幻童外框。</desc>
+  </item>
+  <item id="100563">
+    <iddesc>768</iddesc>
+    <name>百烈魂外框</name>
+    <source>寻宝罗盘第12期奖励</source>
+    <desc>使用后，将改变角色的名字外框为百烈魂外框。</desc>
+  </item>
+  <item id="100564">
+    <iddesc>769</iddesc>
+    <name>二郎神变身器</name>
+    <source>寻宝罗盘第12期奖励</source>
+    <desc>让目标玩家变成二郎神的样子，维持3分钟。</desc>
+  </item>
+  <item id="800432">
+    <iddesc>770</iddesc>
+    <name>密林小屋</name>
+    <source>寻宝罗盘第12期奖励</source>
+    <desc>密林小屋家具，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="800433">
+    <iddesc>771</iddesc>
+    <name>南瓜灯</name>
+    <source>寻宝罗盘第12期奖励</source>
+    <desc>南瓜灯家具，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="800434">
+    <iddesc>772</iddesc>
+    <name>创意盆栽</name>
+    <source>寻宝罗盘第12期奖励</source>
+    <desc>创意盆栽家具，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="800435">
+    <iddesc>773</iddesc>
+    <name>果盘摆件</name>
+    <source>寻宝罗盘第12期奖励</source>
+    <desc>果盘摆件家具，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="800436">
+    <iddesc>774</iddesc>
+    <name>萝卜椅子</name>
+    <source>寻宝罗盘第12期奖励</source>
+    <desc>萝卜椅子家具，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="800437">
+    <iddesc>775</iddesc>
+    <name>侍者茶几</name>
+    <source>寻宝罗盘第12期奖励</source>
+    <desc>侍者茶几家具，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="800438">
+    <iddesc>776</iddesc>
+    <name>水果吊灯</name>
+    <source>寻宝罗盘第12期奖励</source>
+    <desc>水果吊灯家具，可在家园小屋摆放</desc>
+  </item>
+  <item id="100565">
+    <iddesc>777</iddesc>
+    <name>火风外框</name>
+    <source>商城购买</source>
+    <desc>使用后，将改变角色的名字外框为火风外框。</desc>
+  </item>
+  <item id="100566">
+    <iddesc>778</iddesc>
+    <name>紫云外框</name>
+    <source>商城购买</source>
+    <desc>使用后，将改变角色的名字外框为紫云外框。</desc>
+  </item>
+  <item id="800439">
+    <iddesc>785</iddesc>
+    <name>粉色羊驼</name>
+    <source>找朋友交换获得</source>
+    <desc>粉色羊驼家具，可在家园小屋摆放</desc>
+  </item>
+  <item id="800440">
+    <iddesc>786</iddesc>
+    <name>浮世绘屏风</name>
+    <source>找朋友交换获得</source>
+    <desc>浮世绘屏风，可在家园小屋摆放</desc>
+  </item>
+  <item id="800441">
+    <iddesc>787</iddesc>
+    <name>蝴蝶宫灯</name>
+    <source>找朋友交换获得</source>
+    <desc>蝴蝶宫灯，可在家园小屋摆放</desc>
+  </item>
+  <item id="800442">
+    <iddesc>788</iddesc>
+    <name>宽屏液晶电视</name>
+    <source>找朋友交换获得</source>
+    <desc>宽屏液晶电视，可在家园小屋摆放</desc>
+  </item>
+  <item id="800443">
+    <iddesc>789</iddesc>
+    <name>唐式灯笼</name>
+    <source>找朋友交换获得</source>
+    <desc>唐式灯笼，可在家园小屋摆放</desc>
+  </item>
+  <item id="800444">
+    <iddesc>790</iddesc>
+    <name>小霸王游戏机</name>
+    <source>找朋友交换获得</source>
+    <desc>小霸王游戏机，可在家园小屋摆放</desc>
+  </item>
+  <item id="800445">
+    <iddesc>791</iddesc>
+    <name>中国窗</name>
+    <source>找朋友交换获得</source>
+    <desc>中国窗，可在家园小屋摆放</desc>
+  </item>
+  <item id="100569">
+    <iddesc>792</iddesc>
+    <name>仙法毛笔外框</name>
+    <source>2013.09.05顽皮的叶灵犬活动奖励</source>
+    <desc>使用后，将改变角色的名字外框为仙法毛笔外框。</desc>
+  </item>
+  <item id="100568">
+    <iddesc>793</iddesc>
+    <name>弓箭星外框</name>
+    <source>玩家回归活动</source>
+    <desc>使用后，将改变角色的名字外框为弓箭星外框。</desc>
+  </item>
+  <item id="100571">
+    <iddesc>794</iddesc>
+    <name>绿点糖果外框</name>
+    <source>商城购买</source>
+    <desc>使用后，将改变角色的名字外框为绿点糖果外框。</desc>
+  </item>
+  <item id="100572">
+    <iddesc>795</iddesc>
+    <name>毒水滴外框</name>
+    <source>商城购买</source>
+    <desc>使用后，将改变角色的名字外框为毒水滴外框。</desc>
+  </item>
+  <item id="100576">
+    <iddesc>796</iddesc>
+    <name>粉蓝骷髅外框</name>
+    <source>商城购买</source>
+    <desc>使用后，将改变角色的名字外框为粉蓝骷髅外框。</desc>
+  </item>
+  <item id="100577">
+    <iddesc>797</iddesc>
+    <name>小红鱼外框</name>
+    <source>商城购买</source>
+    <desc>使用后，将改变角色的名字外框为小红鱼外框。</desc>
+  </item>
+  <item id="101105">
+    <iddesc>798</iddesc>
+    <name>男表情-印记</name>
+    <source>商城购买</source>
+    <desc>使用后可改变表情为印记表情</desc>
+  </item>
+  <item id="101106">
+    <iddesc>799</iddesc>
+    <name>女表情-印记</name>
+    <source>商城购买</source>
+    <desc>使用后可改变表情为印记表情</desc>
+  </item>
+  <item id="100583">
+    <iddesc>800</iddesc>
+    <name>粉蓝花朵外框</name>
+    <source>商城购买</source>
+    <desc>使用后，将改变角色的名字外框为粉蓝花朵外框。</desc>
+  </item>
+  <item id="100584">
+    <iddesc>801</iddesc>
+    <name>尖角骷髅外框</name>
+    <source>商城购买</source>
+    <desc>使用后，将改变角色的名字外框为尖角骷髅外框。</desc>
+  </item>
+  <item id="101107">
+    <iddesc>802</iddesc>
+    <name>男表情-镇定</name>
+    <source>寻宝罗盘第13期奖励</source>
+    <desc>使用后可改变表情为镇定表情</desc>
+  </item>
+  <item id="101108">
+    <iddesc>803</iddesc>
+    <name>女表情-镇定</name>
+    <source>寻宝罗盘第13期奖励</source>
+    <desc>使用后可改变表情为镇定表情</desc>
+  </item>
+  <item id="101109">
+    <iddesc>804</iddesc>
+    <name>男表情-疲劳</name>
+    <source>寻宝罗盘第13期奖励</source>
+    <desc>使用后可改变表情为疲劳表情</desc>
+  </item>
+  <item id="101110">
+    <iddesc>805</iddesc>
+    <name>女表情-疲劳</name>
+    <source>寻宝罗盘第13期奖励</source>
+    <desc>使用后可改变表情为疲劳表情</desc>
+  </item>
+  <item id="100580">
+    <iddesc>806</iddesc>
+    <name>星河之子外框</name>
+    <source>寻宝罗盘第13期奖励</source>
+    <desc>使用后，将改变角色的名字外框为星河之子外框。</desc>
+  </item>
+  <item id="100581">
+    <iddesc>807</iddesc>
+    <name>神剑外框</name>
+    <source>寻宝罗盘第13期奖励</source>
+    <desc>使用后，将改变角色的名字外框为神剑外框。</desc>
+  </item>
+  <item id="100582">
+    <iddesc>808</iddesc>
+    <name>飞天小将外框</name>
+    <source>寻宝罗盘第13期奖励</source>
+    <desc>使用后，将改变角色的名字外框为飞天小将外框。</desc>
+  </item>
+  <item id="800446">
+    <iddesc>809</iddesc>
+    <name>蟠龙宫殿</name>
+    <source>寻宝罗盘第13期奖励</source>
+    <desc>蟠龙宫殿家具，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="800447">
+    <iddesc>810</iddesc>
+    <name>幸福摩天轮</name>
+    <source>寻宝罗盘第13期奖励</source>
+    <desc>幸福摩天轮家具，可在后花园摆放</desc>
+  </item>
+  <item id="800448">
+    <iddesc>811</iddesc>
+    <name>沙滩休闲桌</name>
+    <source>寻宝罗盘第13期奖励</source>
+    <desc>沙滩休闲桌家具，可在后花园摆放</desc>
+  </item>
+  <item id="800449">
+    <iddesc>812</iddesc>
+    <name>华美路灯</name>
+    <source>寻宝罗盘第13期奖励</source>
+    <desc>华美路灯家具，可在后花园摆放</desc>
+  </item>
+  <item id="800450">
+    <iddesc>813</iddesc>
+    <name>蟠龙雕像</name>
+    <source>寻宝罗盘第13期奖励</source>
+    <desc>蟠龙雕像家具，可在后花园摆放</desc>
+  </item>
+  <item id="800451">
+    <iddesc>814</iddesc>
+    <name>双层花坛</name>
+    <source>寻宝罗盘第13期奖励</source>
+    <desc>双层花坛家具，可在后花园摆放</desc>
+  </item>
+  <item id="800452">
+    <iddesc>815</iddesc>
+    <name>古典圆桌</name>
+    <source>寻宝罗盘第13期奖励</source>
+    <desc>古典圆桌家具，可在家园小屋摆放</desc>
+  </item>
+  <item id="800453">
+    <iddesc>816</iddesc>
+    <name>胖胖龙喷泉</name>
+    <source>寻宝罗盘第13期奖励</source>
+    <desc>胖胖龙喷泉家具，可在后花园摆放</desc>
+  </item>
+  <item id="100585">
+    <iddesc>817</iddesc>
+    <name>铁扇公主变身器</name>
+    <source>寻宝罗盘第13期奖励</source>
+    <desc>让目标玩家变成铁扇公主的样子，维持3分钟。</desc>
+  </item>
+  <item id="100587">
+    <iddesc>818</iddesc>
+    <name>小幽魂外框</name>
+    <source>商城购买</source>
+    <desc>使用后，将改变角色的名字外框为小幽魂外框。</desc>
+  </item>
+  <item id="100588">
+    <iddesc>819</iddesc>
+    <name>木质宝箱外框</name>
+    <source>商城购买</source>
+    <desc>使用后，将改变角色的名字外框为木质宝箱外框。</desc>
+  </item>
+  <item id="100590">
+    <iddesc>820</iddesc>
+    <name>橙色蘑菇外框</name>
+    <source>商城购买</source>
+    <desc>使用后，将改变角色的名字外框为橙色蘑菇外框。</desc>
+  </item>
+  <item id="100591">
+    <iddesc>821</iddesc>
+    <name>金角仙兽蛋外框</name>
+    <source>商城购买</source>
+    <desc>使用后，将改变角色的名字外框为金角仙兽蛋外框。</desc>
+  </item>
+  <item id="100592">
+    <iddesc>822</iddesc>
+    <name>七色茱萸外框</name>
+    <source>2013.10.11-2013.10.24寻找七色茱萸活动中获得</source>
+    <desc>使用后，将改变角色的名字外框为七色茱萸外框。</desc>
+  </item>
+  <item id="100589">
+    <iddesc>823</iddesc>
+    <name>冰翼外框</name>
+    <source>2013.10月首充大礼包奖励</source>
+    <desc>使用后，将改变角色的名字外框为冰翼外框。</desc>
+  </item>
+  <item id="100593">
+    <iddesc>824</iddesc>
+    <name>小精灵外框</name>
+    <source>卡布召集令</source>
+    <desc>使用后，将改变角色的名字外框为小精灵外框。</desc>
+  </item>
+  <item id="100594">
+    <iddesc>825</iddesc>
+    <name>花灵外框</name>
+    <source>商城购买</source>
+    <desc>使用后，将改变角色的名字外框为花灵外框。</desc>
+  </item>
+  <item id="100595">
+    <iddesc>826</iddesc>
+    <name>宝珠外框</name>
+    <source>商城购买</source>
+    <desc>使用后，将改变角色的名字外框为宝珠外框。</desc>
+  </item>
+  <item id="100597">
+    <iddesc>827</iddesc>
+    <name>焰光龙外框</name>
+    <source>火焰试炼处兑换获得</source>
+    <desc>使用后，将改变角色的名字外框为焰光龙外框。</desc>
+  </item>
+  <item id="100598">
+    <iddesc>828</iddesc>
+    <name>疾风豹外框</name>
+    <source>风暴试炼中兑换获得</source>
+    <desc>使用后，将改变角色的名字外框为疾风豹外框</desc>
+  </item>
+  <item id="100599">
+    <iddesc>829</iddesc>
+    <name>风炽天狼外框</name>
+    <source>火风试炼中兑换获得</source>
+    <desc>使用后，将改变角色的名字外框为风炽天狼外框。</desc>
+  </item>
+  <item id="101111">
+    <iddesc>830</iddesc>
+    <name>男表情-猎人</name>
+    <source>寻宝罗盘第14期奖励</source>
+    <desc>使用后可改变表情为猎人表情</desc>
+  </item>
+  <item id="101112">
+    <iddesc>831</iddesc>
+    <name>女表情-猎人</name>
+    <source>寻宝罗盘第14期奖励</source>
+    <desc>使用后可改变表情为猎人表情</desc>
+  </item>
+  <item id="101113">
+    <iddesc>832</iddesc>
+    <name>男表情-可怜</name>
+    <source>寻宝罗盘第14期奖励</source>
+    <desc>男表情-可怜</desc>
+  </item>
+  <item id="101114">
+    <iddesc>833</iddesc>
+    <name>女表情-可怜</name>
+    <source>寻宝罗盘第14期奖励</source>
+    <desc>使用后可改变表情为可怜表情</desc>
+  </item>
+  <item id="100602">
+    <iddesc>834</iddesc>
+    <name>双枪外框</name>
+    <source>寻宝罗盘第14期奖励</source>
+    <desc>使用后，将改变角色的名字外框为双枪外框。</desc>
+  </item>
+  <item id="100603">
+    <iddesc>835</iddesc>
+    <name>叛逆之刃外框</name>
+    <source>寻宝罗盘第14期奖励</source>
+    <desc>使用后，将改变角色的名字外框为叛逆之刃外框。</desc>
+  </item>
+  <item id="100604">
+    <iddesc>836</iddesc>
+    <name>灵仔外框</name>
+    <source>寻宝罗盘第14期奖励</source>
+    <desc>使用后，将改变角色的名字外框为红章鱼外框。</desc>
+  </item>
+  <item id="800454">
+    <iddesc>837</iddesc>
+    <name>花海幻城</name>
+    <source>寻宝罗盘第14期奖励</source>
+    <desc>花海幻城家具，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="800455">
+    <iddesc>838</iddesc>
+    <name>英式时钟</name>
+    <source>寻宝罗盘第14期奖励</source>
+    <desc>英式时钟家具，可在家园小屋摆放</desc>
+  </item>
+  <item id="800456">
+    <iddesc>839</iddesc>
+    <name>高贵吊灯</name>
+    <source>寻宝罗盘第14期奖励</source>
+    <desc>高贵吊灯家具，可在家园小屋摆放</desc>
+  </item>
+  <item id="800457">
+    <iddesc>840</iddesc>
+    <name>精致梳妆台</name>
+    <source>寻宝罗盘第14期奖励</source>
+    <desc>精致梳妆台家具，可在家园小屋摆放</desc>
+  </item>
+  <item id="800458">
+    <iddesc>841</iddesc>
+    <name>墙壁蜡烛</name>
+    <source>寻宝罗盘第14期奖励</source>
+    <desc>墙壁蜡烛家具，可在家园小屋摆放</desc>
+  </item>
+  <item id="800459">
+    <iddesc>842</iddesc>
+    <name>蓝玫瑰花坛</name>
+    <source>寻宝罗盘第14期奖励</source>
+    <desc>蓝玫瑰花坛家具，可在后花园摆放</desc>
+  </item>
+  <item id="800460">
+    <iddesc>843</iddesc>
+    <name>高级餐桌</name>
+    <source>寻宝罗盘第14期奖励</source>
+    <desc>高级餐桌家具，可在家园小屋摆放</desc>
+  </item>
+  <item id="800461">
+    <iddesc>844</iddesc>
+    <name>优雅茶几</name>
+    <source>寻宝罗盘第14期奖励</source>
+    <desc>优雅茶几家具，可在家园小屋摆放</desc>
+  </item>
+  <item id="100605">
+    <iddesc>845</iddesc>
+    <name>开心包子脸外框</name>
+    <source>商城购买</source>
+    <desc>使用后，将改变角色的名字外框为开心包子脸外框。</desc>
+  </item>
+  <item id="100606">
+    <iddesc>846</iddesc>
+    <name>番茄外框</name>
+    <source>商城购买</source>
+    <desc>使用后，将改变角色的名字外框为番茄外框。</desc>
+  </item>
+  <item id="100608">
+    <iddesc>847</iddesc>
+    <name>彩虹飞羽外框(永久)</name>
+    <source>商城购买</source>
+    <desc>使用后，将改变角色的名字外框为彩虹飞羽外框，带有炫彩的动态光效。该名字外框使用后不会被扣除。</desc>
+  </item>
+  <item id="100619">
+    <iddesc>848</iddesc>
+    <name>火丸名字外框</name>
+    <source>商城购买</source>
+    <desc>使用后，将改变角色的名字外框为火丸名字外框</desc>
+  </item>
+  <item id="100601">
+    <iddesc>849</iddesc>
+    <name>红章鱼外框</name>
+    <source>2013.11月首充大礼包奖励</source>
+    <desc>使用后，将改变角色的名字外框为红章鱼外框。</desc>
+  </item>
+  <item id="100600">
+    <iddesc>850</iddesc>
+    <name>红宝石外框</name>
+    <source>卡布召集令</source>
+    <desc>使用后，将改变角色的名字外框为红宝石外框。</desc>
+  </item>
+  <item id="100609">
+    <iddesc>851</iddesc>
+    <name>鬼头外框</name>
+    <source>商城购买</source>
+    <desc>使用后，将改变角色的名字外框为鬼头外框。</desc>
+  </item>
+  <item id="100610">
+    <iddesc>852</iddesc>
+    <name>蓝蕊花外框</name>
+    <source>商城购买</source>
+    <desc>使用后，将改变角色的名字外框为蓝蕊花外框。</desc>
+  </item>
+  <item id="100616">
+    <iddesc>853</iddesc>
+    <name>玉项圈外框</name>
+    <source>商城购买</source>
+    <desc>使用后，将改变角色的名字外框为玉项圈外框</desc>
+  </item>
+  <item id="100617">
+    <iddesc>854</iddesc>
+    <name>草莓蛋糕外框</name>
+    <source>商城购买</source>
+    <desc>使用后，将改变角色的名字外框为草莓蛋糕外框</desc>
+  </item>
+  <item id="100620">
+    <iddesc>855</iddesc>
+    <name>黄金虎名字外框</name>
+    <source>商城购买</source>
+    <desc>使用后，将改变角色的名字外框为黄金虎名字外框</desc>
+  </item>
+  <item id="101115">
+    <iddesc>856</iddesc>
+    <name>男表情-战士</name>
+    <source>寻宝罗盘第15期奖励</source>
+    <desc>使用后可改变表情为战士表情。</desc>
+  </item>
+  <item id="101116">
+    <iddesc>857</iddesc>
+    <name>女表情-战士</name>
+    <source>寻宝罗盘第15期奖励</source>
+    <desc>使用后可改变表情为战士表情。</desc>
+  </item>
+  <item id="101117">
+    <iddesc>858</iddesc>
+    <name>男表情-顽皮</name>
+    <source>寻宝罗盘第15期奖励</source>
+    <desc>使用后可改变表情为顽皮表情。</desc>
+  </item>
+  <item id="101118">
+    <iddesc>859</iddesc>
+    <name>女表情-顽皮</name>
+    <source>寻宝罗盘第15期奖励</source>
+    <desc>使用后可改变表情为顽皮表情。</desc>
+  </item>
+  <item id="100621">
+    <iddesc>860</iddesc>
+    <name>芬里尔外框</name>
+    <source>寻宝罗盘第15期奖励</source>
+    <desc>使用后，将改变角色的名字外框为芬里尔名字外框</desc>
+  </item>
+  <item id="100622">
+    <iddesc>861</iddesc>
+    <name>忍者之刃外框</name>
+    <source>寻宝罗盘第15期奖励</source>
+    <desc>使用后，将改变角色的名字外框为忍者之刃名字外框。</desc>
+  </item>
+  <item id="100623">
+    <iddesc>862</iddesc>
+    <name>幻夜学徒外框</name>
+    <source>寻宝罗盘第15期奖励</source>
+    <desc>使用后，将改变角色的名字外框为幻夜学徒名字外框。</desc>
+  </item>
+  <item id="800462">
+    <iddesc>863</iddesc>
+    <name>幻灵之城</name>
+    <source>寻宝罗盘第15期奖励</source>
+    <desc>幻灵之城家具，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="800463">
+    <iddesc>864</iddesc>
+    <name>典雅茶几</name>
+    <source>寻宝罗盘第15期奖励</source>
+    <desc>典雅茶几家具，可在家园小屋摆放</desc>
+  </item>
+  <item id="800464">
+    <iddesc>865</iddesc>
+    <name>古典沙发</name>
+    <source>寻宝罗盘第15期奖励</source>
+    <desc>古典沙发家具，可在家园小屋摆放</desc>
+  </item>
+  <item id="800465">
+    <iddesc>866</iddesc>
+    <name>古典储物柜</name>
+    <source>寻宝罗盘第15期奖励</source>
+    <desc>古典储物柜家具，可在家园小屋摆放</desc>
+  </item>
+  <item id="800466">
+    <iddesc>867</iddesc>
+    <name>华彩吊灯</name>
+    <source>寻宝罗盘第15期奖励</source>
+    <desc>华彩吊灯家具，可在家园小屋摆放</desc>
+  </item>
+  <item id="800467">
+    <iddesc>868</iddesc>
+    <name>华彩双人床</name>
+    <source>寻宝罗盘第15期奖励</source>
+    <desc>华彩双人床家具，可在家园小屋摆放</desc>
+  </item>
+  <item id="800468">
+    <iddesc>869</iddesc>
+    <name>典雅沙发套件</name>
+    <source>寻宝罗盘第15期奖励</source>
+    <desc>典雅沙发套件家具，可在家园小屋摆放</desc>
+  </item>
+  <item id="800469">
+    <iddesc>870</iddesc>
+    <name>典雅四人茶座</name>
+    <source>寻宝罗盘第15期奖励</source>
+    <desc>典雅四人茶座家具，可在家园小屋摆放</desc>
+  </item>
+  <item id="100624">
+    <iddesc>871</iddesc>
+    <name>狱影龙翼外框</name>
+    <source>2013.12月首充大礼包奖励</source>
+    <desc>使用后，将改变角色的名字外框为狱影龙翼名字外框。</desc>
+  </item>
+  <item id="100627">
+    <iddesc>872</iddesc>
+    <name>小黄雏外框</name>
+    <source>商城购买</source>
+    <desc>使用后，将改变角色的名字外框为小黄雏名字外框。</desc>
+  </item>
+  <item id="100628">
+    <iddesc>873</iddesc>
+    <name>橙目鼠外框</name>
+    <source>商城购买</source>
+    <desc>使用后，将改变角色的名字外框为橙目鼠名字外框。</desc>
+  </item>
+  <item id="100629">
+    <iddesc>874</iddesc>
+    <name>小草球外框</name>
+    <source>商城购买</source>
+    <desc>使用后，将改变角色的名字外框为小草球名字外框。</desc>
+  </item>
+  <item id="100630">
+    <iddesc>875</iddesc>
+    <name>梦幻猫咪外框</name>
+    <source>商城购买</source>
+    <desc>使用后，将改变角色的名字外框为梦幻猫咪名字外框。</desc>
+  </item>
+  <item id="100626">
+    <iddesc>876</iddesc>
+    <name>小白兔外框</name>
+    <source>卡布召集令</source>
+    <desc>使用后改变角色名字外框为小白兔外框</desc>
+  </item>
+  <item id="100631">
+    <iddesc>877</iddesc>
+    <name>白尾狸外框</name>
+    <source>商城购买</source>
+    <desc>使用后，将改变角色的名字外框为梦白尾狸名字外框。</desc>
+  </item>
+  <item id="100632">
+    <iddesc>878</iddesc>
+    <name>紫草球外框</name>
+    <source>商城购买</source>
+    <desc>使用后，将改变角色的名字外框为梦紫草球名字外框。</desc>
+  </item>
+  <item id="100633">
+    <iddesc>879</iddesc>
+    <name>新月外框</name>
+    <source>斩月之门</source>
+    <desc>使用后，将改变角色的名字外框为新月外框</desc>
+  </item>
+  <item id="100634">
+    <iddesc>880</iddesc>
+    <name>满月外框</name>
+    <source>斩月之门</source>
+    <desc>使用后，将改变角色的名字外框为满月外框</desc>
+  </item>
+  <item id="100635">
+    <iddesc>881</iddesc>
+    <name>斩月外框</name>
+    <source>斩月之门</source>
+    <desc>使用后，将改变角色的名字外框为斩月外框</desc>
+  </item>
+  <item id="100637">
+    <iddesc>882</iddesc>
+    <name>双蛋狂欢外框</name>
+    <source>双旦活动奖励</source>
+    <desc>使用后，将改变角色的名字外框为双蛋狂欢外框</desc>
+  </item>
+  <item id="100638">
+    <iddesc>883</iddesc>
+    <name>紫金扇外框</name>
+    <source>商城购买</source>
+    <desc>使用后，将改变角色的名字外框为紫金扇名字外框。</desc>
+  </item>
+  <item id="100639">
+    <iddesc>884</iddesc>
+    <name>红莓果外框</name>
+    <source>商城购买</source>
+    <desc>使用后，将改变角色的名字外框为红莓果名字外框。</desc>
+  </item>
+  <item id="100641">
+    <iddesc>885</iddesc>
+    <name>蓝羽外框</name>
+    <source>寻宝罗盘第16期奖励</source>
+    <desc>使用后，将改变角色的名字外框为蓝羽名字外框。</desc>
+  </item>
+  <item id="100642">
+    <iddesc>886</iddesc>
+    <name>烈龙外框</name>
+    <source>寻宝罗盘第16期奖励</source>
+    <desc>使用后，将改变角色的名字外框为烈龙名字外框。</desc>
+  </item>
+  <item id="100643">
+    <iddesc>887</iddesc>
+    <name>寒云龙外框</name>
+    <source>寻宝罗盘第16期奖励</source>
+    <desc>使用后，将改变角色的名字外框为寒云龙名字外框。</desc>
+  </item>
+  <item id="101119">
+    <iddesc>888</iddesc>
+    <name>男表情-无畏</name>
+    <source>寻宝罗盘第16期奖励</source>
+    <desc>使用后可改变表情为无畏表情。</desc>
+  </item>
+  <item id="101120">
+    <iddesc>889</iddesc>
+    <name>女表情-无畏</name>
+    <source>寻宝罗盘第16期奖励</source>
+    <desc>使用后可改变表情为无畏表情。</desc>
+  </item>
+  <item id="101121">
+    <iddesc>890</iddesc>
+    <name>男表情-愣神</name>
+    <source>寻宝罗盘第16期奖励</source>
+    <desc>使用后可改变表情为愣神表情。</desc>
+  </item>
+  <item id="101122">
+    <iddesc>891</iddesc>
+    <name>女表情-愣神</name>
+    <source>寻宝罗盘第16期奖励</source>
+    <desc>使用后可改变表情为愣神表情。</desc>
+  </item>
+  <item id="800470">
+    <iddesc>892</iddesc>
+    <name>皇宇宝殿</name>
+    <source>寻宝罗盘第16期奖励</source>
+    <desc>皇宇宝殿家具，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="800471">
+    <iddesc>893</iddesc>
+    <name>皇室储物柜</name>
+    <source>寻宝罗盘第16期奖励</source>
+    <desc>皇室储物柜家具，可在家园小屋摆放</desc>
+  </item>
+  <item id="800472">
+    <iddesc>894</iddesc>
+    <name>皇室卧榻</name>
+    <source>寻宝罗盘第16期奖励</source>
+    <desc>皇室卧榻家具，可在家园小屋摆放</desc>
+  </item>
+  <item id="800473">
+    <iddesc>895</iddesc>
+    <name>皇室屏风</name>
+    <source>寻宝罗盘第16期奖励</source>
+    <desc>皇室屏风家具，可在家园小屋摆放</desc>
+  </item>
+  <item id="800474">
+    <iddesc>896</iddesc>
+    <name>红木棋桌</name>
+    <source>寻宝罗盘第16期奖励</source>
+    <desc>红木棋桌家具，可在家园小屋摆放</desc>
+  </item>
+  <item id="800475">
+    <iddesc>897</iddesc>
+    <name>皇室书案</name>
+    <source>寻宝罗盘第16期奖励</source>
+    <desc>皇室书案家具，可在家园小屋摆放</desc>
+  </item>
+  <item id="800476">
+    <iddesc>898</iddesc>
+    <name>红木香案</name>
+    <source>寻宝罗盘第16期奖励</source>
+    <desc>红木香案家具，可在家园小屋摆放</desc>
+  </item>
+  <item id="800477">
+    <iddesc>899</iddesc>
+    <name>红木茶座</name>
+    <source>寻宝罗盘第16期奖励</source>
+    <desc>红木茶座家具，可在家园小屋摆放</desc>
+  </item>
+  <item id="100644">
+    <iddesc>900</iddesc>
+    <name>丁香萝卜外框</name>
+    <source>2014.1月首充大礼包奖励</source>
+    <desc>使用后，将改变角色的名字外框为丁香萝卜名字外框</desc>
+  </item>
+  <item id="100646">
+    <iddesc>901</iddesc>
+    <name>宝葫芦外框</name>
+    <source>参加12.27~1.09《守护葫芦藤》兑换获得</source>
+    <desc>使用后，将改变角色的名字外框为宝葫芦外框</desc>
+  </item>
+  <item id="100647">
+    <iddesc>902</iddesc>
+    <name>酷楼外框</name>
+    <source>卡布召集令</source>
+    <desc>使用后，将改变角色的名字外框为酷楼名字外框</desc>
+  </item>
+  <item id="100649">
+    <iddesc>903</iddesc>
+    <name>玉扇外框</name>
+    <source>商城购买</source>
+    <desc>使用后，将改变角色的名字外框为玉扇外框</desc>
+  </item>
+  <item id="100650">
+    <iddesc>904</iddesc>
+    <name>大眼雀外框</name>
+    <source>商城购买</source>
+    <desc>使用后，将改变角色的名字外框为大眼雀外框</desc>
+  </item>
+  <item id="400429">
+    <iddesc>905</iddesc>
+    <name>巨木圣石</name>
+    <source>2014.01.10超进化回归活动</source>
+    <desc>蕴含大自然中各种植物的力量，可以令巨木将军超进化。</desc>
+  </item>
+  <item id="400430">
+    <iddesc>906</iddesc>
+    <name>金狮圣石</name>
+    <source>2014.01.10超进化回归活动</source>
+    <desc>具有金属力量的圣石，可以令金甲剑狮超进化。</desc>
+  </item>
+  <item id="400431">
+    <iddesc>907</iddesc>
+    <name>炽焰圣石</name>
+    <source>2014.01.10超进化回归活动</source>
+    <desc>具有火焰力量的圣石，可以令赤炎鸟超进化。</desc>
+  </item>
+  <item id="100653">
+    <iddesc>908</iddesc>
+    <name>小水鹤外框</name>
+    <source>商城购买</source>
+    <desc>使用后，将改变角色名字外框为小水鹤外框</desc>
+  </item>
+  <item id="100654">
+    <iddesc>909</iddesc>
+    <name>猫猫球外框</name>
+    <source>商城购买</source>
+    <desc>使用后，将改变角色名字外框为猫猫球外框</desc>
+  </item>
+  <item id="100662">
+    <iddesc>910</iddesc>
+    <name>金色羽翼外框(永久)</name>
+    <source>2014年充值年费豪礼相送活动</source>
+    <desc>使用后，将改变角色的名字外框为金色羽翼外框，带有炫彩的动态光效。该名字外框使用后不会消失。</desc>
+  </item>
+  <item id="101123">
+    <iddesc>911</iddesc>
+    <name>男表情-小恶魔</name>
+    <source>寻宝罗盘第17期奖励</source>
+    <desc>使用后可改变表情为小恶魔表情。</desc>
+  </item>
+  <item id="101124">
+    <iddesc>912</iddesc>
+    <name>女表情-小恶魔</name>
+    <source>寻宝罗盘第17期奖励</source>
+    <desc>使用后可改变表情为小恶魔表情。</desc>
+  </item>
+  <item id="101125">
+    <iddesc>913</iddesc>
+    <name>男表情-满足</name>
+    <source>寻宝罗盘第17期奖励</source>
+    <desc>使用后可改变表情为满足表情。</desc>
+  </item>
+  <item id="101126">
+    <iddesc>914</iddesc>
+    <name>女表情-满足</name>
+    <source>寻宝罗盘第17期奖励</source>
+    <desc>使用后可改变表情为满足表情。</desc>
+  </item>
+  <item id="100663">
+    <iddesc>915</iddesc>
+    <name>紫玫瑰外框</name>
+    <source>寻宝罗盘第17期奖励</source>
+    <desc>使用后，将改变角色的名字外框为紫玫瑰名字外框。</desc>
+  </item>
+  <item id="100664">
+    <iddesc>916</iddesc>
+    <name>笑笑幽外框</name>
+    <source>寻宝罗盘第17期奖励</source>
+    <desc>使用后，将改变角色的名字外框为笑笑幽名字外框。</desc>
+  </item>
+  <item id="100665">
+    <iddesc>917</iddesc>
+    <name>紫蝠翼外框</name>
+    <source>寻宝罗盘第17期奖励</source>
+    <desc>使用后，将改变角色的名字外框为紫蝠翼名字外框。</desc>
+  </item>
+  <item id="800478">
+    <iddesc>918</iddesc>
+    <name>甜甜糖果屋</name>
+    <source>寻宝罗盘第17期奖励</source>
+    <desc>甜甜糖果屋家具，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="800479">
+    <iddesc>919</iddesc>
+    <name>绿条纹小床</name>
+    <source>寻宝罗盘第17期奖励</source>
+    <desc>绿条纹小床家具，可在家园小屋摆放</desc>
+  </item>
+  <item id="800480">
+    <iddesc>920</iddesc>
+    <name>五彩玫瑰</name>
+    <source>寻宝罗盘第17期奖励</source>
+    <desc>五彩玫瑰家具，可在家园小屋摆放</desc>
+  </item>
+  <item id="800481">
+    <iddesc>921</iddesc>
+    <name>方形花架</name>
+    <source>寻宝罗盘第17期奖励</source>
+    <desc>方形花架家具，可在家园小屋摆放</desc>
+  </item>
+  <item id="800482">
+    <iddesc>922</iddesc>
+    <name>糖果秋千</name>
+    <source>寻宝罗盘第17期奖励</source>
+    <desc>糖果秋千家具，可在家园小屋摆放</desc>
+  </item>
+  <item id="800483">
+    <iddesc>923</iddesc>
+    <name>绿纹沙发</name>
+    <source>寻宝罗盘第17期奖励</source>
+    <desc>绿纹沙发家具，可在家园小屋摆放</desc>
+  </item>
+  <item id="800484">
+    <iddesc>924</iddesc>
+    <name>茶色书柜</name>
+    <source>寻宝罗盘第17期奖励</source>
+    <desc>茶色书柜家具，可在家园小屋摆放</desc>
+  </item>
+  <item id="800485">
+    <iddesc>925</iddesc>
+    <name>绿纹小椅子</name>
+    <source>寻宝罗盘第17期奖励</source>
+    <desc>绿纹小椅子家具，可在家园小屋摆放</desc>
+  </item>
+  <item id="100655">
+    <iddesc>926</iddesc>
+    <name>暗域龙王外框</name>
+    <source>运营活动</source>
+    <desc>使用后，将改变角色的名字外框为暗域龙王外框</desc>
+  </item>
+  <item id="100656">
+    <iddesc>927</iddesc>
+    <name>学霸外框</name>
+    <source>运营活动</source>
+    <desc>使用后，将改变角色的名字外框为学霸外框</desc>
+  </item>
+  <item id="100657">
+    <iddesc>928</iddesc>
+    <name>考神外框</name>
+    <source>运营活动</source>
+    <desc>使用后，将改变角色的名字外框为考神外框</desc>
+  </item>
+  <item id="100658">
+    <iddesc>929</iddesc>
+    <name>擂台赛裁判外框</name>
+    <source>运营活动</source>
+    <desc>使用后，将改变角色的名字外框为擂台赛裁判外框</desc>
+  </item>
+  <item id="100659">
+    <iddesc>930</iddesc>
+    <name>战狂外框</name>
+    <source>运营活动</source>
+    <desc>使用后，将改变角色的名字外框为战狂外框</desc>
+  </item>
+  <item id="100660">
+    <iddesc>931</iddesc>
+    <name>战霸外框</name>
+    <source>运营活动</source>
+    <desc>使用后，将改变角色的名字外框为战霸外框</desc>
+  </item>
+  <item id="100661">
+    <iddesc>932</iddesc>
+    <name>战神外框</name>
+    <source>运营活动</source>
+    <desc>使用后，将改变角色的名字外框为战神外框</desc>
+  </item>
+  <item id="101127">
+    <iddesc>933</iddesc>
+    <name>男表情-勇敢</name>
+    <source>商城购买</source>
+    <desc>使用后改变表情为勇敢表情</desc>
+  </item>
+  <item id="101128">
+    <iddesc>934</iddesc>
+    <name>女表情-勇敢</name>
+    <source>商城购买</source>
+    <desc>使用后改变表情为勇敢表情</desc>
+  </item>
+  <item id="100666">
+    <iddesc>935</iddesc>
+    <name>噬冰外框</name>
+    <source>敬佛堂</source>
+    <desc>使用后，将改变角色的名字外框为噬冰外框</desc>
+  </item>
+  <item id="100667">
+    <iddesc>936</iddesc>
+    <name>炎武外框</name>
+    <source>敬佛堂</source>
+    <desc>使用后，将改变角色的名字外框为炎武外框</desc>
+  </item>
+  <item id="100668">
+    <iddesc>937</iddesc>
+    <name>星使外框</name>
+    <source>敬佛堂</source>
+    <desc>使用后，将改变角色的名字外框为星使外框</desc>
+  </item>
+  <item id="100669">
+    <iddesc>938</iddesc>
+    <name>马年吉祥外框</name>
+    <source>线下运营活动</source>
+    <desc>使用后，将改变角色的名字外框为马年吉祥外框</desc>
+  </item>
+  <item id="100671">
+    <iddesc>939</iddesc>
+    <name>恭贺新年外框</name>
+    <source>2014年新年签到活动</source>
+    <desc>使用后，将改变角色的名字外框为恭贺新年外框</desc>
+  </item>
+  <item id="100672">
+    <iddesc>940</iddesc>
+    <name>金圣外框</name>
+    <source>卡布召集令</source>
+    <desc>使用后，将改变角色的名字外框为金圣外框</desc>
+  </item>
+  <item id="100673">
+    <iddesc>941</iddesc>
+    <name>圣光王者外框（永久）</name>
+    <source>商城购买</source>
+    <desc>使用后，将改变角色的名字外框为圣光王者外框，该名字外框使用后不会消失。</desc>
+  </item>
+  <item id="101129">
+    <iddesc>942</iddesc>
+    <name>男表情-精神</name>
+    <source>商城购买</source>
+    <desc>使用后表情将变为精神表情</desc>
+  </item>
+  <item id="101130">
+    <iddesc>943</iddesc>
+    <name>女表情-精神</name>
+    <source>2014.01.29商城出售</source>
+    <desc>商城购买</desc>
+  </item>
+  <item id="100670">
+    <iddesc>944</iddesc>
+    <name>迎春红包外框</name>
+    <source>2014年2月首冲礼包</source>
+    <desc>使用后，将改变角色的名字外框为迎春红包外框</desc>
+  </item>
+  <item id="101131">
+    <iddesc>945</iddesc>
+    <name>男表情-迷幻</name>
+    <source>寻宝罗盘第18期奖励</source>
+    <desc>使用后可改变表情为迷幻表情。</desc>
+  </item>
+  <item id="101132">
+    <iddesc>946</iddesc>
+    <name>女表情-迷幻</name>
+    <source>寻宝罗盘第18期奖励</source>
+    <desc>使用后可改变表情为迷幻表情。</desc>
+  </item>
+  <item id="101133">
+    <iddesc>947</iddesc>
+    <name>男表情-无辜</name>
+    <source>寻宝罗盘第18期奖励</source>
+    <desc>使用后可改变表情为无辜表情。</desc>
+  </item>
+  <item id="101134">
+    <iddesc>948</iddesc>
+    <name>女表情-无辜</name>
+    <source>寻宝罗盘第18期奖励</source>
+    <desc>使用后可改变表情为无辜表情。</desc>
+  </item>
+  <item id="100677">
+    <iddesc>949</iddesc>
+    <name>彩蛋小黄外框</name>
+    <source>寻宝罗盘第18期奖励</source>
+    <desc>使用后，将改变角色的名字外框为彩蛋小黄名字外框。</desc>
+  </item>
+  <item id="100678">
+    <iddesc>950</iddesc>
+    <name>闪闪粉结外框</name>
+    <source>寻宝罗盘第18期奖励</source>
+    <desc>使用后，将改变角色的名字外框为闪闪粉结名字外框。</desc>
+  </item>
+  <item id="100679">
+    <iddesc>951</iddesc>
+    <name>蓝朵朵外框</name>
+    <source>寻宝罗盘第18期奖励</source>
+    <desc>使用后，将改变角色的名字外框为蓝朵朵名字外框。</desc>
+  </item>
+  <item id="800486">
+    <iddesc>952</iddesc>
+    <name>摩登殿堂</name>
+    <source>寻宝罗盘第18期奖励</source>
+    <desc>摩登殿堂家具，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="800487">
+    <iddesc>953</iddesc>
+    <name>蓝纹软床</name>
+    <source>寻宝罗盘第18期奖励</source>
+    <desc>蓝纹软床家具，可在家园小屋摆放</desc>
+  </item>
+  <item id="800488">
+    <iddesc>954</iddesc>
+    <name>浅蓝储物柜</name>
+    <source>寻宝罗盘第18期奖励</source>
+    <desc>浅蓝储物柜家具，可在家园小屋摆放</desc>
+  </item>
+  <item id="800489">
+    <iddesc>955</iddesc>
+    <name>蓝金吊灯</name>
+    <source>寻宝罗盘第18期奖励</source>
+    <desc>蓝金吊灯家具，可在家园小屋摆放</desc>
+  </item>
+  <item id="800490">
+    <iddesc>956</iddesc>
+    <name>向日花瓶</name>
+    <source>寻宝罗盘第18期奖励</source>
+    <desc>向日花瓶家具，可在家园小屋摆放</desc>
+  </item>
+  <item id="800491">
+    <iddesc>957</iddesc>
+    <name>软皮沙发</name>
+    <source>寻宝罗盘第18期奖励</source>
+    <desc>软皮沙发家具，可在家园小屋摆放</desc>
+  </item>
+  <item id="800492">
+    <iddesc>958</iddesc>
+    <name>蓝纹立灯</name>
+    <source>寻宝罗盘第18期奖励</source>
+    <desc>蓝纹立灯家具，可在家园小屋摆放</desc>
+  </item>
+  <item id="800493">
+    <iddesc>959</iddesc>
+    <name>银蓝衣柜</name>
+    <source>寻宝罗盘第18期奖励</source>
+    <desc>银蓝衣柜家具，可在家园小屋摆放</desc>
+  </item>
+  <item id="100681">
+    <iddesc>960</iddesc>
+    <name>小绵羊外框</name>
+    <source>卡布召集令</source>
+    <desc>使用后，将改变角色的名字外框为小绵羊名字外框。</desc>
+  </item>
+  <item id="100682">
+    <iddesc>961</iddesc>
+    <name>双羽海星外框</name>
+    <source>2014年3月首冲礼包</source>
+    <desc>使用后，将改变角色的名字外框为双羽海星名字外框。</desc>
+  </item>
+  <item id="100683">
+    <iddesc>962</iddesc>
+    <name>兔宝宝外框</name>
+    <source>商城购买</source>
+    <desc>使用后改变角色名字外框为兔宝宝外框。</desc>
+  </item>
+  <item id="100684">
+    <iddesc>963</iddesc>
+    <name>冰冰喵外框</name>
+    <source>商城购买</source>
+    <desc>使用后改变角色名字外框为冰冰喵外框。</desc>
+  </item>
+  <item id="800494">
+    <iddesc>964</iddesc>
+    <name>小星树</name>
+    <source>星魂洞穴</source>
+    <desc>小星树，可在后花园摆放</desc>
+  </item>
+  <item id="800495">
+    <iddesc>965</iddesc>
+    <name>星魂花架</name>
+    <source>星魂洞穴</source>
+    <desc>星魂花架，可在后花园摆放</desc>
+  </item>
+  <item id="800496">
+    <iddesc>966</iddesc>
+    <name>星魂祭坛</name>
+    <source>星魂洞穴</source>
+    <desc>星魂祭坛，可在后花园摆放</desc>
+  </item>
+  <item id="800497">
+    <iddesc>967</iddesc>
+    <name>星魂图腾</name>
+    <source>星魂洞穴</source>
+    <desc>进化图腾，可在后花园摆放</desc>
+  </item>
+  <item id="101135">
+    <iddesc>968</iddesc>
+    <name>男表情-使者</name>
+    <source>商城购买</source>
+    <desc>使用后可改变表情为使者表情</desc>
+  </item>
+  <item id="101136">
+    <iddesc>969</iddesc>
+    <name>女表情-使者</name>
+    <source>商城购买</source>
+    <desc>使用后可改变表情为使者表情</desc>
+  </item>
+  <item id="101137">
+    <iddesc>970</iddesc>
+    <name>男表情-绿幽</name>
+    <source>寻宝罗盘第19期奖励</source>
+    <desc>使用后可改变表情为绿幽表情。</desc>
+  </item>
+  <item id="101138">
+    <iddesc>971</iddesc>
+    <name>女表情-绿幽</name>
+    <source>寻宝罗盘第19期奖励</source>
+    <desc>使用后可改变表情为绿幽表情。</desc>
+  </item>
+  <item id="101139">
+    <iddesc>972</iddesc>
+    <name>男表情-苦恼</name>
+    <source>寻宝罗盘第19期奖励</source>
+    <desc>使用后可改变表情为苦恼表情。</desc>
+  </item>
+  <item id="101140">
+    <iddesc>973</iddesc>
+    <name>女表情-苦恼</name>
+    <source>寻宝罗盘第19期奖励</source>
+    <desc>使用后可改变表情为苦恼表情。</desc>
+  </item>
+  <item id="100686">
+    <iddesc>974</iddesc>
+    <name>黑曜火箭筒外框</name>
+    <source>寻宝罗盘第19期奖励</source>
+    <desc>使用后，将改变角色的名字外框为黑曜火箭筒外框。</desc>
+  </item>
+  <item id="100687">
+    <iddesc>975</iddesc>
+    <name>冲锋机关枪外框</name>
+    <source>寻宝罗盘第19期奖励</source>
+    <desc>使用后，将改变角色的名字外框为冲锋机关枪外框。</desc>
+  </item>
+  <item id="100688">
+    <iddesc>976</iddesc>
+    <name>丛林藤蔓外框</name>
+    <source>寻宝罗盘第19期奖励</source>
+    <desc>使用后，将改变角色的名字外框为丛林藤蔓外框。</desc>
+  </item>
+  <item id="800498">
+    <iddesc>977</iddesc>
+    <name>莲上古城</name>
+    <source>寻宝罗盘第19期奖励</source>
+    <desc>莲上古城家具，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="800499">
+    <iddesc>978</iddesc>
+    <name>四柱红木床</name>
+    <source>寻宝罗盘第19期奖励</source>
+    <desc>四柱红木床家具，可在家园小屋摆放</desc>
+  </item>
+  <item id="800500">
+    <iddesc>979</iddesc>
+    <name>天字卷轴</name>
+    <source>寻宝罗盘第19期奖励</source>
+    <desc>天字卷轴家具，可在家园小屋摆放</desc>
+  </item>
+  <item id="800501">
+    <iddesc>980</iddesc>
+    <name>古风立镜</name>
+    <source>寻宝罗盘第19期奖励</source>
+    <desc>古风立镜家具，可在家园小屋摆放</desc>
+  </item>
+  <item id="800502">
+    <iddesc>981</iddesc>
+    <name>实木梳洗架</name>
+    <source>寻宝罗盘第19期奖励</source>
+    <desc>实木梳洗架家具，可在家园小屋摆放</desc>
+  </item>
+  <item id="800503">
+    <iddesc>982</iddesc>
+    <name>古风木衣柜</name>
+    <source>寻宝罗盘第19期奖励</source>
+    <desc>古风木衣柜家具，可在家园小屋摆放</desc>
+  </item>
+  <item id="800504">
+    <iddesc>983</iddesc>
+    <name>红木橱柜</name>
+    <source>寻宝罗盘第19期奖励</source>
+    <desc>红木橱柜家具，可在家园小屋摆放</desc>
+  </item>
+  <item id="800505">
+    <iddesc>984</iddesc>
+    <name>四抬红轿</name>
+    <source>寻宝罗盘第19期奖励</source>
+    <desc>四抬红轿家具，可在后花园摆放</desc>
+  </item>
+  <item id="100691">
+    <iddesc>985</iddesc>
+    <name>萌小莓外框</name>
+    <source>2014.3.7-3.23线下三周年论坛盖楼赢好礼活动</source>
+    <desc>使用后，改变角色名字外框为萌小莓名字外框。</desc>
+  </item>
+  <item id="100692">
+    <iddesc>986</iddesc>
+    <name>幸福花外框</name>
+    <source>商城购买</source>
+    <desc>使用后，将改变角色的名字外框为幸福花名字外框</desc>
+  </item>
+  <item id="100693">
+    <iddesc>987</iddesc>
+    <name>笑笑蛙外框</name>
+    <source>商城购买</source>
+    <desc>使用后，将改变角色的名字外框为笑笑蛙名字外框</desc>
+  </item>
+  <item id="100694">
+    <iddesc>988</iddesc>
+    <name>冰晶骷髅外框</name>
+    <source>卡布召集令</source>
+    <desc>使用后，将改变角色的名字外框为冰晶骷髅外框</desc>
+  </item>
+  <item id="100696">
+    <iddesc>989</iddesc>
+    <name>紫翼龙齿外框</name>
+    <source>2014年4月首冲礼包</source>
+    <desc>使用后，将名字外框改变为紫翼龙齿外框</desc>
+  </item>
+  <item id="100695">
+    <iddesc>990</iddesc>
+    <name>清风杨柳外框</name>
+    <source>2014年4月5日清明节签到获得</source>
+    <desc>使用后，将名字外框改变为清风杨柳外框</desc>
+  </item>
+  <item id="100697">
+    <iddesc>991</iddesc>
+    <name>愚人帽子外框</name>
+    <source>运营线下活动</source>
+    <desc>使用后，将改变角色的名字外框为愚人帽子外框</desc>
+  </item>
+  <item id="800506">
+    <iddesc>992</iddesc>
+    <name>鲜花别墅</name>
+    <source>寻宝罗盘第20期奖励</source>
+    <desc>鲜花别墅家具，可在后花园（家园小屋）摆放</desc>
+  </item>
+  <item id="800507">
+    <iddesc>993</iddesc>
+    <name>锦绣大床</name>
+    <source>寻宝罗盘第20期奖励</source>
+    <desc>锦绣大床家具，可在家园小屋摆放</desc>
+  </item>
+  <item id="800508">
+    <iddesc>994</iddesc>
+    <name>锦绣餐桌</name>
+    <source>寻宝罗盘第20期奖励</source>
+    <desc>锦绣餐桌家具，可在家园小屋摆放</desc>
+  </item>
+  <item id="800509">
+    <iddesc>995</iddesc>
+    <name>灵藤路灯</name>
+    <source>寻宝罗盘第20期奖励</source>
+    <desc>灵藤路灯家具，可在后花园摆放</desc>
+  </item>
+  <item id="800510">
+    <iddesc>996</iddesc>
+    <name>锦绣床头柜</name>
+    <source>寻宝罗盘第20期奖励</source>
+    <desc>锦绣床头柜家具，可在家园小屋摆放</desc>
+  </item>
+  <item id="800511">
+    <iddesc>997</iddesc>
+    <name>锦绣衣柜</name>
+    <source>寻宝罗盘第20期奖励</source>
+    <desc>锦绣衣柜家具，可在家园小屋摆放</desc>
+  </item>
+  <item id="800512">
+    <iddesc>998</iddesc>
+    <name>休闲乘凉桌</name>
+    <source>寻宝罗盘第20期奖励</source>
+    <desc>休闲乘凉桌家具，可在后花园摆放</desc>
+  </item>
+  <item id="800513">
+    <iddesc>999</iddesc>
+    <name>鲜花护栏</name>
+    <source>寻宝罗盘第20期奖励</source>
+    <desc>鲜花护栏家具，可在后花园摆放</desc>
+  </item>
+  <item id="101141">
+    <iddesc>1000</iddesc>
+    <name>男表情-疑惑</name>
+    <source>寻宝罗盘第20期奖励</source>
+    <desc>使用后可改变表情为疑惑表情</desc>
+  </item>
+  <item id="100732">
+    <iddesc>1000</iddesc>
+    <name>西瓜外框</name>
+    <source>卡布召集令</source>
+    <desc>使用后，将改变角色的名字外框为西瓜外框</desc>
+  </item>
+  <item id="101142">
+    <iddesc>1001</iddesc>
+    <name>女表情-疑惑</name>
+    <source>寻宝罗盘第20期奖励</source>
+    <desc>使用后可改变表情为疑惑表情</desc>
+  </item>
+  <item id="101143">
+    <iddesc>1002</iddesc>
+    <name>男表情-凝视</name>
+    <source>寻宝罗盘第20期奖励</source>
+    <desc>使用后可改变表情为凝视表情</desc>
+  </item>
+  <item id="101144">
+    <iddesc>1003</iddesc>
+    <name>女表情-凝视</name>
+    <source>寻宝罗盘第20期奖励</source>
+    <desc>使用后可改变表情为凝视表情</desc>
+  </item>
+  <item id="100699">
+    <iddesc>1004</iddesc>
+    <name>太阳花外框</name>
+    <source>寻宝罗盘第20期奖励</source>
+    <desc>使用后，改变角色名字外框为太阳花外框。</desc>
+  </item>
+  <item id="100700">
+    <iddesc>1005</iddesc>
+    <name>小鸭子外框</name>
+    <source>寻宝罗盘第20期奖励</source>
+    <desc>使用后，改变角色名字外框为小鸭子外框。</desc>
+  </item>
+  <item id="100701">
+    <iddesc>1006</iddesc>
+    <name>皇冠外框</name>
+    <source>寻宝罗盘第20期奖励</source>
+    <desc>使用后，改变角色名字外框为皇冠外框。</desc>
+  </item>
+  <item id="100702">
+    <iddesc>1007</iddesc>
+    <name>彩虹糖外框</name>
+    <source>卡布召集令</source>
+    <desc>使用后，改变角色名字外框为彩虹糖外框。</desc>
+  </item>
+  <item id="100706">
+    <iddesc>1008</iddesc>
+    <name>小毛驴外框</name>
+    <source>庆典之门</source>
+    <desc>使用后，改变角色名字外框为小毛驴外框。</desc>
+  </item>
+  <item id="100710">
+    <iddesc>1009</iddesc>
+    <name>双花外框</name>
+    <source>2014年5月首充礼包</source>
+    <desc>使用后，改变角色名字外框为双花外框。</desc>
+  </item>
+  <item id="100703">
+    <iddesc>1010</iddesc>
+    <name>旋律外框</name>
+    <source>寻宝罗盘第21期奖励</source>
+    <desc>使用后，改变角色名字外框为旋律外框。</desc>
+  </item>
+  <item id="100704">
+    <iddesc>1011</iddesc>
+    <name>小幽灵外框</name>
+    <source>寻宝罗盘第21期奖励</source>
+    <desc>使用后，改变角色名字外框为小幽灵外框。</desc>
+  </item>
+  <item id="100705">
+    <iddesc>1012</iddesc>
+    <name>粉喵喵外框</name>
+    <source>寻宝罗盘第21期奖励</source>
+    <desc>使用后，改变角色名字外框为粉喵喵外框。</desc>
+  </item>
+  <item id="100711">
+    <iddesc>1013</iddesc>
+    <name>点赞达人外框</name>
+    <source>点赞达人排行榜奖励</source>
+    <desc>使用后，将改变角色的名字外框为点赞达人外框</desc>
+  </item>
+  <item id="100712">
+    <iddesc>1014</iddesc>
+    <name>魅力之星外框</name>
+    <source>魅力之星排行榜奖励</source>
+    <desc>使用后，改变角色名字外框为魅力之星外框。</desc>
+  </item>
+  <item id="100707">
+    <iddesc>1015</iddesc>
+    <name>小熊猫外框</name>
+    <source>庆典之门</source>
+    <desc>使用后，改变角色名字外框为小熊猫外框。</desc>
+  </item>
+  <item id="100708">
+    <iddesc>1016</iddesc>
+    <name>奶牛仔外框</name>
+    <source>庆典之门</source>
+    <desc>使用后，改变角色名字外框为奶牛仔外框。</desc>
+  </item>
+  <item id="100709">
+    <iddesc>1017</iddesc>
+    <name>大猩猩外框</name>
+    <source>庆典之门</source>
+    <desc>使用后，改变角色名字外框为大猩猩外框。</desc>
+  </item>
+  <item id="100714">
+    <iddesc>1018</iddesc>
+    <name>樱花之舞外框</name>
+    <source>2014年5月16日~2014年6月12日，完成卡布召集令可获得</source>
+    <desc>使用后改变角色名字外框为樱花之舞外框</desc>
+  </item>
+  <item id="100718">
+    <iddesc>1019</iddesc>
+    <name>迷幻贝贝外框</name>
+    <source>寻宝罗盘</source>
+    <desc>使用后改变角色名字外框为迷幻贝贝外框</desc>
+  </item>
+  <item id="100719">
+    <iddesc>1020</iddesc>
+    <name>大懒猫外框</name>
+    <source>寻宝罗盘</source>
+    <desc>使用后改变角色名字外框为大懒猫外框</desc>
+  </item>
+  <item id="100720">
+    <iddesc>1021</iddesc>
+    <name>小蝙蝠外框</name>
+    <source>寻宝罗盘</source>
+    <desc>使用后，将改变角色名字外框为小蝙蝠外框</desc>
+  </item>
+  <item id="100721">
+    <iddesc>1022</iddesc>
+    <name>流星蝴蝶外框</name>
+    <source>2014年5月30日~2014年6月5日签到获得</source>
+    <desc>使用后改变角色名字外框为流星蝴蝶外框</desc>
+  </item>
+  <item id="100717">
+    <iddesc>1023</iddesc>
+    <name>锥刺金羽外框</name>
+    <source>2014年6月首充礼包</source>
+    <desc>使用后改变角色名字外框为锥刺金羽外框</desc>
+  </item>
+  <item id="101149">
+    <iddesc>1024</iddesc>
+    <name>男表情-窃喜</name>
+    <source>寻宝罗盘第22期奖励</source>
+    <desc>使用后表情将变为窃喜</desc>
+  </item>
+  <item id="101150">
+    <iddesc>1025</iddesc>
+    <name>女表情-窃喜</name>
+    <source>寻宝罗盘第22期奖励</source>
+    <desc>使用后表情将变为窃喜</desc>
+  </item>
+  <item id="101151">
+    <iddesc>1026</iddesc>
+    <name>男表情-思考</name>
+    <source>寻宝罗盘第22期奖励</source>
+    <desc>使用后表情将变为思考</desc>
+  </item>
+  <item id="101152">
+    <iddesc>1027</iddesc>
+    <name>女表情-思考</name>
+    <source>寻宝罗盘第22期奖励</source>
+    <desc>使用后表情将变为思考</desc>
+  </item>
+  <item id="100723">
+    <iddesc>1028</iddesc>
+    <name>飞龙之翼外框</name>
+    <source>卡布召集令获得</source>
+    <desc>使用后改变角色名字外框为飞龙之翼外框</desc>
+  </item>
+  <item id="100724">
+    <iddesc>1029</iddesc>
+    <name>雨后清荷外框</name>
+    <source>签到获得</source>
+    <desc>使用后，改变角色名字外框为雨后清荷外框。</desc>
+  </item>
+  <item id="100729">
+    <iddesc>1030</iddesc>
+    <name>笑脸金星外框</name>
+    <source>2014年暑期充值活动奖励</source>
+    <desc>使用后，将改变角色名字外框为笑脸金星外框</desc>
+  </item>
+  <item id="100726">
+    <iddesc>1031</iddesc>
+    <name>跳跳虎外框</name>
+    <source>寻宝罗盘</source>
+    <desc>使用后，将改变角色名字外框为跳跳虎外框</desc>
+  </item>
+  <item id="100727">
+    <iddesc>1032</iddesc>
+    <name>粉粉猪外框</name>
+    <source>寻宝罗盘</source>
+    <desc>使用后，将改变角色名字外框为粉粉猪外框</desc>
+  </item>
+  <item id="100728">
+    <iddesc>1033</iddesc>
+    <name>心心狗外框</name>
+    <source>寻宝罗盘</source>
+    <desc>使用后，将改变角色名字外框为心心狗外框</desc>
+  </item>
+  <item id="100725">
+    <iddesc>1034</iddesc>
+    <name>冰激凌外框</name>
+    <source>2014年暑期签到活动获得</source>
+    <desc>使用后，改变角色名字外框为冰激凌外框</desc>
+  </item>
+  <item id="101153">
+    <iddesc>1035</iddesc>
+    <name>男表情-自豪</name>
+    <source>寻宝罗盘</source>
+    <desc>使用后可改变表情为自豪表情</desc>
+  </item>
+  <item id="100730">
+    <iddesc>1035</iddesc>
+    <name>友谊外框</name>
+    <source>2014年7月4日~2014年7月31日，参加《伙伴的呼唤》获得</source>
+    <desc>使用后，将改变角色的名字外框为友谊外框</desc>
+  </item>
+  <item id="101154">
+    <iddesc>1036</iddesc>
+    <name>女表情-自豪</name>
+    <source>寻宝罗盘</source>
+    <desc>使用后表情将变为自豪表情</desc>
+  </item>
+  <item id="101155">
+    <iddesc>1037</iddesc>
+    <name>男表情-甜蜜</name>
+    <source>寻宝罗盘</source>
+    <desc>使用后表情将变为甜蜜表情</desc>
+  </item>
+  <item id="101156">
+    <iddesc>1038</iddesc>
+    <name>女表情-甜蜜</name>
+    <source>寻宝罗盘</source>
+    <desc>使用后表情将变为甜蜜表情</desc>
+  </item>
+  <item id="101157">
+    <iddesc>1039</iddesc>
+    <name>男表情-木讷</name>
+    <source>寻宝罗盘</source>
+    <desc>使用后表情将变为木讷，是否确定使用？</desc>
+  </item>
+  <item id="101158">
+    <iddesc>1040</iddesc>
+    <name>女表情-木讷</name>
+    <source>寻宝罗盘</source>
+    <desc>使用后表情将变为木讷，是否确定使用？</desc>
+  </item>
+  <item id="101159">
+    <iddesc>1041</iddesc>
+    <name>男表情-呆滞</name>
+    <source>寻宝罗盘</source>
+    <desc>使用后表情将变为呆滞，是否确定使用？</desc>
+  </item>
+  <item id="101160">
+    <iddesc>1042</iddesc>
+    <name>女表情-呆滞</name>
+    <source>寻宝罗盘</source>
+    <desc>使用后表情将变为呆滞，是否确定使用？</desc>
+  </item>
+  <item id="100735">
+    <iddesc>1043</iddesc>
+    <name>牛牛外框</name>
+    <source>寻宝罗盘</source>
+    <desc>使用后，将改变角色名字外框为牛牛外框</desc>
+  </item>
+  <item id="100736">
+    <iddesc>1044</iddesc>
+    <name>小天使外框</name>
+    <source>寻宝罗盘</source>
+    <desc>使用后，将改变角色名字外框为小天使外框</desc>
+  </item>
+  <item id="100737">
+    <iddesc>1045</iddesc>
+    <name>四叶草外框</name>
+    <source>寻宝罗盘</source>
+    <desc>使用后，将改变角色名字外框为四叶草外框</desc>
+  </item>
+  <item id="100740">
+    <iddesc>1046</iddesc>
+    <name>小苹果外框</name>
+    <source>2014年8月8日~9月4日，卡布召集令</source>
+    <desc>使用后，将角色名字外框改变为小苹果外框</desc>
+  </item>
+  <item id="100739">
+    <iddesc>1047</iddesc>
+    <name>海魂外框</name>
+    <source>2014年8月8日~8月14日助力海龙马超进化</source>
+    <desc>使用后，将角色名字外框改变为海魂外框</desc>
+  </item>
+  <item id="100738">
+    <iddesc>1048</iddesc>
+    <name>筋斗云外框</name>
+    <source>2014年8月8日~8月28日，暑期摇摇乐活动</source>
+    <desc>使用后，将角色名字外框改变为筋斗云外框</desc>
+  </item>
+  <item id="100741">
+    <iddesc>1049</iddesc>
+    <name>游戏盒外框</name>
+    <source>线下运营活动</source>
+    <desc>使用后，将角色名字外框改变为游戏盒外框</desc>
+  </item>
+  <item id="100742">
+    <iddesc>1050</iddesc>
+    <name>神算子外框</name>
+    <source>运营活动</source>
+    <desc>使用后，将角色名字外框改变为神算子外框</desc>
+  </item>
+  <item id="100743">
+    <iddesc>1051</iddesc>
+    <name>金粉雏菊外框</name>
+    <source>2014年9月首充礼包</source>
+    <desc>使用后，将角色名字外框改变为金粉雏菊外框</desc>
+  </item>
+  <item id="101163">
+    <iddesc>1052</iddesc>
+    <name>男表情-恬静</name>
+    <source>寻宝罗盘</source>
+    <desc>使用后表情将变为恬静</desc>
+  </item>
+  <item id="101164">
+    <iddesc>1053</iddesc>
+    <name>女表情-恬静</name>
+    <source>寻宝罗盘</source>
+    <desc>使用后表情将变为恬静</desc>
+  </item>
+  <item id="101161">
+    <iddesc>1054</iddesc>
+    <name>男表情-迟疑</name>
+    <source>寻宝罗盘</source>
+    <desc>使用后表情将变为迟疑</desc>
+  </item>
+  <item id="101162">
+    <iddesc>1055</iddesc>
+    <name>女表情-迟疑</name>
+    <source>寻宝罗盘</source>
+    <desc>使用后表情将变为迟疑</desc>
+  </item>
+  <item id="101165">
+    <iddesc>1056</iddesc>
+    <name>番茄仔外框</name>
+    <source>寻宝罗盘</source>
+    <desc>使用后，将改变角色名字外框为番茄仔外框</desc>
+  </item>
+  <item id="101166">
+    <iddesc>1057</iddesc>
+    <name>双甜筒外框</name>
+    <source>寻宝罗盘</source>
+    <desc>使用后，将改变角色名字外框为双甜筒外框</desc>
+  </item>
+  <item id="101167">
+    <iddesc>1058</iddesc>
+    <name>小仓鼠外框</name>
+    <source>寻宝罗盘</source>
+    <desc>使用后，将改变角色名字外框为小仓鼠外框</desc>
+  </item>
+  <item id="101168">
+    <iddesc>1059</iddesc>
+    <name>狙击外框</name>
+    <source>寻宝罗盘</source>
+    <desc>使用后，将改变角色名字外框为狙击外框</desc>
+  </item>
+  <item id="101169">
+    <iddesc>1060</iddesc>
+    <name>西洋枪外框</name>
+    <source>寻宝罗盘</source>
+    <desc>使用后，将改变角色名字外框为西洋枪外框</desc>
+  </item>
+  <item id="101170">
+    <iddesc>1061</iddesc>
+    <name>喷射翼外框</name>
+    <source>寻宝罗盘</source>
+    <desc>使用后，将改变角色名字外框为喷射翼外框</desc>
+  </item>
+  <item id="100747">
+    <iddesc>1062</iddesc>
+    <name>闪耀金花外框</name>
+    <source>2014年10月首充礼包</source>
+    <desc>使用后，将改变角色名字外框为闪耀金花外框</desc>
+  </item>
+  <item id="100748">
+    <iddesc>1063</iddesc>
+    <name>爱国者外框</name>
+    <source>线下运营活动</source>
+    <desc>使用后，将改变角色名字外框为爱国者外框</desc>
+  </item>
+  <item id="101173">
+    <iddesc>1064</iddesc>
+    <name>男表情-惊讶</name>
+    <source>寻宝罗盘</source>
+    <desc>使用后表情将变为惊讶</desc>
+  </item>
+  <item id="101174">
+    <iddesc>1065</iddesc>
+    <name>女表情-惊讶</name>
+    <source>寻宝罗盘</source>
+    <desc>使用后表情将变为惊讶</desc>
+  </item>
+  <item id="101171">
+    <iddesc>1066</iddesc>
+    <name>男表情-怒视</name>
+    <source>寻宝罗盘</source>
+    <desc>使用后表情将变为怒视</desc>
+  </item>
+  <item id="101172">
+    <iddesc>1067</iddesc>
+    <name>女表情-怒视</name>
+    <source>寻宝罗盘</source>
+    <desc>使用后表情将变为怒视</desc>
+  </item>
+  <item id="101175">
+    <iddesc>1068</iddesc>
+    <name>喜迎国庆外框</name>
+    <source>参加2014年《喜迎国庆 豪礼不停》活动获得</source>
+    <desc>使用后，将改变角色名字外框为喜迎国庆外框</desc>
+  </item>
+  <item id="101176">
+    <iddesc>1069</iddesc>
+    <name>秋夜枫香外框</name>
+    <source>2014年10月10日~11月6日，完成《卡布召集令》可获得</source>
+    <desc>使用后，将角色名字外框改变为秋夜枫香外框</desc>
+  </item>
+  <item id="101178">
+    <iddesc>1070</iddesc>
+    <name>土幻之星外框</name>
+    <source>参加2014.10.16日线下群组活动《新双系大竞猜》活动获得</source>
+    <desc>使用后，将改变角色名字外框为土幻之星外框</desc>
+  </item>
+  <item id="101177">
+    <iddesc>1071</iddesc>
+    <name>玄纹紫球外框</name>
+    <source>参加2014年10月16日《误闯锁链结界》活动获得</source>
+    <desc>使用后，将改变角色名字外框为玄纹紫球外框</desc>
+  </item>
+  <item id="103015">
+    <iddesc>1072</iddesc>
+    <name>乾坤袋</name>
+    <source>参加《天降福瑞》活动有机会获得</source>
+    <desc>可以用来扩充人物背包或者妖怪仓库的容量。</desc>
+  </item>
+  <item id="100752">
+    <iddesc>1073</iddesc>
+    <name>紫翼爱心外框</name>
+    <source>2014年11月首充礼包</source>
+    <desc>使用后，将改变角色名字外框为紫翼爱心外框</desc>
+  </item>
+  <item id="100753">
+    <iddesc>1074</iddesc>
+    <name>糖果彩虹外框</name>
+    <source>2014年11月寻宝罗盘</source>
+    <desc>使用后，将改变角色名字外框为糖果彩虹外框</desc>
+  </item>
+  <item id="100754">
+    <iddesc>1075</iddesc>
+    <name>绚烂黄桃外框</name>
+    <source>2014年11月寻宝罗盘</source>
+    <desc>使用后，将改变角色名字外框为绚烂黄桃外框</desc>
+  </item>
+  <item id="100755">
+    <iddesc>1076</iddesc>
+    <name>向日葵外框</name>
+    <source>2014年11月寻宝罗盘</source>
+    <desc>使用后，将改变角色名字外框为向日葵外框</desc>
+  </item>
+  <item id="800565">
+    <iddesc>1077</iddesc>
+    <name>情趣小屋</name>
+    <source>2014年11月寻宝罗盘</source>
+    <desc>情趣小屋，可在后花园摆放</desc>
+  </item>
+  <item id="800566">
+    <iddesc>1078</iddesc>
+    <name>浓情小餐桌</name>
+    <source>2014年11月寻宝罗盘</source>
+    <desc>浓情小餐桌，可以在后花园或家园小屋里摆放</desc>
+  </item>
+  <item id="800567">
+    <iddesc>1079</iddesc>
+    <name>浓情沙发</name>
+    <source>2014年11月寻宝罗盘</source>
+    <desc>浓情沙发，可以在后花园或家园小屋里摆放。</desc>
+  </item>
+  <item id="800568">
+    <iddesc>1080</iddesc>
+    <name>浓情双人床</name>
+    <source>2014年11月寻宝罗盘</source>
+    <desc>浓情双人床，可以在后花园或家园小屋里摆放。</desc>
+  </item>
+  <item id="800569">
+    <iddesc>1081</iddesc>
+    <name>浓情床头柜</name>
+    <source>2014年11月寻宝罗盘</source>
+    <desc>浓情床头柜，可以在后花园或家园小屋里摆放。</desc>
+  </item>
+  <item id="800570">
+    <iddesc>1082</iddesc>
+    <name>浓情衣柜</name>
+    <source>2014年11月寻宝罗盘</source>
+    <desc>浓情衣柜，可以在后花园或家园小屋里摆放。</desc>
+  </item>
+  <item id="800571">
+    <iddesc>1083</iddesc>
+    <name>浓情双人桌</name>
+    <source>2014年11月寻宝罗盘</source>
+    <desc>浓情双人桌，可以在后花园或家园小屋里摆放。</desc>
+  </item>
+  <item id="800572">
+    <iddesc>1084</iddesc>
+    <name>小天使水池</name>
+    <source>2014年11月寻宝罗盘</source>
+    <desc>小天使水池，可以在后花园或家园小屋里摆放</desc>
+  </item>
+  <item id="101179">
+    <iddesc>1085</iddesc>
+    <name>秋露寒霜外框</name>
+    <source>2014年11月7日起，完成《卡布召集令》可获得</source>
+    <desc>使用后，将角色名字外框改变为秋露寒霜外框</desc>
+  </item>
+  <item id="101180">
+    <iddesc>1086</iddesc>
+    <name>男表情-专注</name>
+    <source>商城购买</source>
+    <desc>使用后表情将变为专注</desc>
+  </item>
+  <item id="101181">
+    <iddesc>1087</iddesc>
+    <name>女表情-专注</name>
+    <source>商城购买</source>
+    <desc>使用后表情将变为专注</desc>
+  </item>
+  <item id="440425">
+    <iddesc>1088</iddesc>
+    <name>珍宠之魂</name>
+    <source>北斗七星图</source>
+    <desc>召唤珍稀妖怪的必备道具，集齐50个可以随机召唤一只可以捕捉的珍稀妖怪。（该物品上限为99个，请及时使用）</desc>
+  </item>
+  <item id="440426">
+    <iddesc>1089</iddesc>
+    <name>神宠之魂</name>
+    <source>北斗七星图</source>
+    <desc>召唤远古神宠的必备道具，集齐50个可以随机召唤一只可以捕捉的远古神宠。（该物品上限为99个，请及时使用）</desc>
+  </item>
+  <item id="440427">
+    <iddesc>1090</iddesc>
+    <name>3级灵玉精华</name>
+    <source>北斗七星图</source>
+    <desc>收集一定数量后，可以将低级灵玉升级为3级灵玉。</desc>
+  </item>
+  <item id="440428">
+    <iddesc>1091</iddesc>
+    <name>4级灵玉精华</name>
+    <source>北斗七星图</source>
+    <desc>收集一定数量后，可以将低级灵玉升级为4级灵玉。</desc>
+  </item>
+  <item id="440429">
+    <iddesc>1092</iddesc>
+    <name>灵心石</name>
+    <source>北斗七星图</source>
+    <desc>3级和4级灵玉洗炼后可以使用该道具保留原属性。</desc>
+  </item>
+  <item id="440430">
+    <iddesc>1092</iddesc>
+    <name>摇光星石</name>
+    <source>活动获得</source>
+    <desc>摇光星石，开启北斗七星图必备星石之一</desc>
+  </item>
+  <item id="440431">
+    <iddesc>1093</iddesc>
+    <name>开阳星石</name>
+    <source>活动获得</source>
+    <desc>开阳星石，开启北斗七星图必备星石之一</desc>
+  </item>
+  <item id="440432">
+    <iddesc>1094</iddesc>
+    <name>玉衡星石</name>
+    <source>活动获得</source>
+    <desc>玉衡星石，开启北斗七星图必备星石之一</desc>
+  </item>
+  <item id="440433">
+    <iddesc>1095</iddesc>
+    <name>天权星石</name>
+    <source>活动获得</source>
+    <desc>天权星石，开启北斗七星图必备星石之一</desc>
+  </item>
+  <item id="440434">
+    <iddesc>1096</iddesc>
+    <name>天玑星石</name>
+    <source>活动获得</source>
+    <desc>天玑星石，开启北斗七星图必备星石之一</desc>
+  </item>
+  <item id="440435">
+    <iddesc>1097</iddesc>
+    <name>天璇星石</name>
+    <source>活动获得</source>
+    <desc>天璇星石，开启北斗七星图必备星石之一</desc>
+  </item>
+  <item id="440436">
+    <iddesc>1098</iddesc>
+    <name>天枢星石</name>
+    <source>活动获得</source>
+    <desc>天枢星石，开启北斗七星图必备星石之一</desc>
+  </item>
+  <item id="101182">
+    <iddesc>1099</iddesc>
+    <name>女表情-粉嫩</name>
+    <source>商场购买</source>
+    <desc>使用后表情将变为粉嫩</desc>
+  </item>
+  <item id="101183">
+    <iddesc>1100</iddesc>
+    <name>男表情-清秀</name>
+    <source>商场购买</source>
+    <desc>使用后表情将变为清秀</desc>
+  </item>
+  <item id="920707">
+    <iddesc>1101</iddesc>
+    <name>男表情-噬灵</name>
+    <source>2014年12月寻宝罗盘获得</source>
+    <desc>使用后改变表情为噬灵表情</desc>
+  </item>
+  <item id="920709">
+    <iddesc>1102</iddesc>
+    <name>女表情-护灵</name>
+    <source>2014年12月寻宝罗盘获得</source>
+    <desc>使用后改变表情为护灵表情</desc>
+  </item>
+  <item id="920710">
+    <iddesc>1103</iddesc>
+    <name>红贝壳外框</name>
+    <source>2014年12月寻宝罗盘获得</source>
+    <desc>使用后，将改变角色名字外框为红贝壳外框</desc>
+  </item>
+  <item id="920711">
+    <iddesc>1104</iddesc>
+    <name>糖小猫外框</name>
+    <source>2014年12月寻宝罗盘获得</source>
+    <desc>使用后，将改变角色名字外框为糖小猫外框</desc>
+  </item>
+  <item id="920712">
+    <iddesc>1105</iddesc>
+    <name>萝卜兔外框</name>
+    <source>2014年12月寻宝罗盘获得</source>
+    <desc>使用后，将改变角色名字外框为糖小猫外框</desc>
+  </item>
+  <item id="101184">
+    <iddesc>1106</iddesc>
+    <name>男表情-斗意</name>
+    <source>商场购买</source>
+    <desc>使用后表情将变为男表情-斗意。</desc>
+  </item>
+  <item id="101185">
+    <iddesc>1107</iddesc>
+    <name>女表情-斗意</name>
+    <source>商场购买</source>
+    <desc>使用后表情将变为女表情-斗意。</desc>
+  </item>
+  <item id="101186">
+    <iddesc>1108</iddesc>
+    <name>男表情—冰天</name>
+    <source>商场购买</source>
+    <desc>使用后表情将变为男表情-冰天。</desc>
+  </item>
+  <item id="101187">
+    <iddesc>1109</iddesc>
+    <name>女表情—雪影</name>
+    <source>商场购买</source>
+    <desc>使用后表情将变为女表情-雪影。</desc>
+  </item>
+  <item id="101191">
+    <iddesc>1110</iddesc>
+    <name>男表情—高冷</name>
+    <source>2015年12月31日寻宝罗盘</source>
+    <desc>使用后表情将变为男表情—高冷。</desc>
+  </item>
+  <item id="101192">
+    <iddesc>1111</iddesc>
+    <name>女表情—艳丽</name>
+    <source>2015年12月31日寻宝罗盘</source>
+    <desc>使用后表情将变为女表情—艳丽。</desc>
+  </item>
+  <item id="101193">
+    <iddesc>1112</iddesc>
+    <name>生肖龙外框</name>
+    <source>寻宝罗盘有几率获得</source>
+    <desc>使用后，将改变角色名字外框为生肖龙外框</desc>
+  </item>
+  <item id="101194">
+    <iddesc>1113</iddesc>
+    <name>生肖蛇外框</name>
+    <source>寻宝罗盘有几率获得</source>
+    <desc>使用后，将改变角色名字外框为生肖蛇外框</desc>
+  </item>
+  <item id="101188">
+    <iddesc>1114</iddesc>
+    <name>通用表情-异幻之瞳</name>
+    <source>2014年12月30日寻宝罗盘</source>
+    <desc>使用后表情将变为通用表情-异幻之瞳。</desc>
+  </item>
+  <item id="101189">
+    <iddesc>1115</iddesc>
+    <name>男表情-动力</name>
+    <source>VIP集市</source>
+    <desc>使用后表情将变为男表情-动力。</desc>
+  </item>
+  <item id="101190">
+    <iddesc>1116</iddesc>
+    <name>女表情-希冀</name>
+    <source>VIP集市</source>
+    <desc>使用后表情将变为女表情-希冀。</desc>
+  </item>
+  <item id="551784">
+    <iddesc>1117</iddesc>
+    <name>男表情—欢愉</name>
+    <source>2015.1.29寻宝罗盘</source>
+    <desc>使用后表情将变为男表情-欢愉。</desc>
+  </item>
+  <item id="551785">
+    <iddesc>1118</iddesc>
+    <name>女表情—欢愉</name>
+    <source>2015.1.29寻宝罗盘</source>
+    <desc>使用后表情将变为女表情-欢愉。</desc>
+  </item>
+  <item id="440438">
+    <iddesc>1119</iddesc>
+    <name>金元宝</name>
+    <source>贝贝界面领取</source>
+    <desc>古老的流通货币，可于VIP市集使用。</desc>
+  </item>
+  <item id="440439">
+    <iddesc>1120</iddesc>
+    <name>星石礼包</name>
+    <source>1.2017年4月首充获得。2.藏宝商城购买获得</source>
+    <desc>使用后获得随机星石*1、1级灵玉*1、历练*20000、铜钱*2000</desc>
+  </item>
+  <item id="440441">
+    <iddesc>1201</iddesc>
+    <name>星石宝盒</name>
+    <source>参加讨伐令前十名获得</source>
+    <desc>打开后获得一个随机星石</desc>
+  </item>
+  <item id="440440">
+    <iddesc>1202</iddesc>
+    <name>宠魂宝盒</name>
+    <source>参加讨伐令前十名获得</source>
+    <desc>打开后随机获得一个神宠之魂或者珍宠之魂</desc>
+  </item>
+  <item id="551798">
+    <iddesc>1203</iddesc>
+    <name>男表情-清雅</name>
+    <source>VIP市集有几率获得</source>
+    <desc>使用后表情将变为男表情-清雅。</desc>
+  </item>
+  <item id="551799">
+    <iddesc>1204</iddesc>
+    <name>女表情-清雅</name>
+    <source>VIP市集有几率获得</source>
+    <desc>使用后表情将变为男表情-清雅。</desc>
+  </item>
+  <item id="101195">
+    <iddesc>1205</iddesc>
+    <name>生肖鼠外框</name>
+    <source>寻宝罗盘有几率获得</source>
+    <desc>使用后，将改变角色的名字外框为生肖鼠外框，该名字外框使用后不会消失。</desc>
+  </item>
+  <item id="102018">
+    <iddesc>1206</iddesc>
+    <name>生肖鸡外框</name>
+    <source>寻宝罗盘有几率获得</source>
+    <desc>使用后，将改变角色的名字外框为生肖鸡外框，该名字外框使用后不会消失。</desc>
+  </item>
+  <item id="551824">
+    <iddesc>1207</iddesc>
+    <name>男表情-热血</name>
+    <source>商城出售</source>
+    <desc>使用后表情将变为男表情-热血。</desc>
+  </item>
+  <item id="551825">
+    <iddesc>1208</iddesc>
+    <name>女表情-热血</name>
+    <source>商城购买</source>
+    <desc>使用后表情将变为女表情-热血。</desc>
+  </item>
+  <item id="100758">
+    <iddesc>1209</iddesc>
+    <name>培元金丹</name>
+    <source>1.家园的藏宝箱兑换获得 2.藏宝商城购买</source>
+    <desc>可恢复妖怪200体力</desc>
+  </item>
+  <item id="440444">
+    <iddesc>1210</iddesc>
+    <name>潜力石</name>
+    <source>于炫光商城可用点卷兑换</source>
+    <desc>蕴含着无限的潜力，是妖怪学习特训技能的必需品之一。</desc>
+  </item>
+  <item id="440445">
+    <iddesc>1211</iddesc>
+    <name>【霸空狂袭】秘籍</name>
+    <source>1.藏宝商店 2.限时拍卖 3.家族神界宝库</source>
+    <desc>神秘的书籍记载着【紫狱龙王】一族失传的技能——【霸空狂袭】！</desc>
+  </item>
+  <item id="440446">
+    <iddesc>1212</iddesc>
+    <name>【濒死战意】秘籍</name>
+    <source>1.藏宝商店 2.限时拍卖 3.家族神界宝库</source>
+    <desc>神秘的书籍记载着【紫狱龙王】一族失传的技能——【濒死战意】！</desc>
+  </item>
+  <item id="102016">
+    <iddesc>1213</iddesc>
+    <name>生肖羊外框</name>
+    <source>寻宝罗盘有几率获得</source>
+    <desc>使用后，将改变角色的名字外框为生肖羊外框。</desc>
+  </item>
+  <item id="102020">
+    <iddesc>1214</iddesc>
+    <name>生肖猪外框</name>
+    <source>寻宝罗盘有几率获得</source>
+    <desc>使用后，将改变角色的名字外框为生肖猪外框。</desc>
+  </item>
+  <item id="440448">
+    <iddesc>1215</iddesc>
+    <name>【煞神一拳】秘籍</name>
+    <source>1.藏宝商店  2.每日非首次开启七星宝图有几率获得</source>
+    <desc>神秘的书籍记载着【地煞猴王】一族失传的技能——【煞神一拳】！</desc>
+  </item>
+  <item id="440447">
+    <iddesc>1216</iddesc>
+    <name>【霸王破岳】秘籍</name>
+    <source>1.藏宝商店  2.每日非首次开启七星宝图有几率获得</source>
+    <desc>神秘的书籍记载着【地煞猴王】一族失传的技能——可学得强化版的【真.霸王破岳】！</desc>
+  </item>
+  <item id="551837">
+    <iddesc>1217</iddesc>
+    <name>男表情-尴尬</name>
+    <source>购买游园少年套装额外赠送</source>
+    <desc>使用后表情将变为尴尬表情</desc>
+  </item>
+  <item id="551838">
+    <iddesc>1218</iddesc>
+    <name>女表情-别扭</name>
+    <source>购买游园少女套装额外赠送</source>
+    <desc>使用后表情将变为别扭表情</desc>
+  </item>
+  <item id="103017">
+    <iddesc>1219</iddesc>
+    <name>3级摘玉符</name>
+    <source>1.妖怪擂台战奖励获得。2.炫光商城购买</source>
+    <desc>可以将装备在妖怪身上的3级灵玉无损卸下。</desc>
+  </item>
+  <item id="103018">
+    <iddesc>1220</iddesc>
+    <name>4级摘玉符</name>
+    <source>1.妖怪擂台战奖励获得。2.藏宝商城购买</source>
+    <desc>可以将装备在妖怪身上的4级灵玉无损卸下。</desc>
+  </item>
+  <item id="551849">
+    <iddesc>1221</iddesc>
+    <name>男表情-紫郁</name>
+    <source>直接购买整套生肖浩然狗套装♂可额外赠送</source>
+    <desc>使用后表情将变为男表情-紫郁</desc>
+  </item>
+  <item id="551850">
+    <iddesc>1222</iddesc>
+    <name>女表情-紫郁</name>
+    <source>直接购买整套生肖浩然狗套装♀可额外赠送</source>
+    <desc>使用后表情将变为女表情-紫郁</desc>
+  </item>
+  <item id="551862">
+    <iddesc>1223</iddesc>
+    <name>男表情-夜纹</name>
+    <source>2015年3月27日 商城购买</source>
+    <desc>使用后表情将变为男表情-夜纹</desc>
+  </item>
+  <item id="551863">
+    <iddesc>1224</iddesc>
+    <name>女表情-夜纹</name>
+    <source>2015年3月27日 商城购买</source>
+    <desc>使用后表情将变为男表情-夜纹</desc>
+  </item>
+  <item id="551876">
+    <iddesc>1225</iddesc>
+    <name>通用表情-哭泣</name>
+    <source>2015年4月3日寻宝罗盘获得</source>
+    <desc>使用后表情将变为通用表情-哭泣</desc>
+  </item>
+  <item id="551877">
+    <iddesc>1226</iddesc>
+    <name>通用表情-悲剧</name>
+    <source>2015年4月3日寻宝罗盘获得</source>
+    <desc>使用后表情将变为通用表情-悲剧</desc>
+  </item>
+  <item id="101198">
+    <iddesc>1227</iddesc>
+    <name>生肖兔外框</name>
+    <source>寻宝罗盘有几率获得</source>
+    <desc>使用后，将改变角色的名字外框为生肖兔外框。</desc>
+  </item>
+  <item id="101199">
+    <iddesc>1228</iddesc>
+    <name>生肖马外框</name>
+    <source>寻宝罗盘有几率获得</source>
+    <desc>使用后，将改变角色的名字外框为生肖马外框。</desc>
+  </item>
+  <item id="551890">
+    <iddesc>1229</iddesc>
+    <name>男表情-果冻</name>
+    <source>购买光织圣子套装额外赠送</source>
+    <desc>使用后表情将变为男表情-果冻</desc>
+  </item>
+  <item id="551891">
+    <iddesc>1230</iddesc>
+    <name>女表情-微薰</name>
+    <source>购买光织圣女套装额外赠送</source>
+    <desc>使用后表情将变为女表情-微薰</desc>
+  </item>
+  <item id="440452">
+    <iddesc>1231</iddesc>
+    <name>【木之护佑】秘籍</name>
+    <source>1.藏宝商店  2.每日非首次开启七星宝图有几率获得</source>
+    <desc>神秘的书籍记载着【霸刀螳螂】一族失传的技能——【木之护佑】！</desc>
+  </item>
+  <item id="440453">
+    <iddesc>1232</iddesc>
+    <name>【疾风神力】秘籍</name>
+    <source>1.藏宝商店  2.每日非首次开启七星宝图有几率获得</source>
+    <desc>神秘的书籍记载着【霸刀螳螂】一族失传的技能——【真.疾风神力】！</desc>
+  </item>
+  <item id="100263">
+    <iddesc>1233</iddesc>
+    <name>男表情-瞌睡</name>
+    <source>寻宝活动奖励 已绝版</source>
+    <desc>使用后可改变表情为瞌睡表情</desc>
+  </item>
+  <item id="100264">
+    <iddesc>1234</iddesc>
+    <name>女表情-瞌睡</name>
+    <source>寻宝活动奖励 已绝版</source>
+    <desc>使用后可改变表情为瞌睡表情</desc>
+  </item>
+  <item id="551925">
+    <iddesc>1235</iddesc>
+    <name>男表情-愕然</name>
+    <source>2015年4月30日-2015年6月4日商城购买</source>
+    <desc>使用后表情将变为男表情-愕然</desc>
+  </item>
+  <item id="551926">
+    <iddesc>1236</iddesc>
+    <name>女表情-讶异</name>
+    <source>2015年4月30日-2015年6月4日商城购买</source>
+    <desc>使用后表情将变为女表情-讶异</desc>
+  </item>
+  <item id="551914">
+    <iddesc>1237</iddesc>
+    <name>男表情-冷峻</name>
+    <source>2015年4月30日寻宝罗盘获得</source>
+    <desc>使用后表情将变为男表情-冷峻</desc>
+  </item>
+  <item id="551915">
+    <iddesc>1238</iddesc>
+    <name>女表情-悦颜</name>
+    <source>2015年4月30日寻宝罗盘获得</source>
+    <desc>使用后表情将变为女表情-悦颜</desc>
+  </item>
+  <item id="440454">
+    <iddesc>1239</iddesc>
+    <name>灌缘幡</name>
+    <source>1.玄塔觅宝 2.七星宝图 3.藏宝商城 4.坐骑大赛兑换</source>
+    <desc>拥有神奇法力的宝幡，可为指定的珍宠或神宠，增加抽中概率，仅限当天有效。</desc>
+  </item>
+  <item id="101196">
+    <iddesc>1241</iddesc>
+    <name>生肖牛外框</name>
+    <source>寻宝罗盘有几率获得</source>
+    <desc>使用后，将改变角色的名字外框为生肖牛外框。</desc>
+  </item>
+  <item id="102019">
+    <iddesc>1242</iddesc>
+    <name>生肖狗外框</name>
+    <source>寻宝罗盘有几率获得</source>
+    <desc>使用后，将改变角色的名字外框为生肖狗外框。</desc>
+  </item>
+  <item id="100761">
+    <iddesc>1243</iddesc>
+    <name>达人外框</name>
+    <source>由小编赠送获得</source>
+    <desc>使用后，将改变角色的名字外框为达人外框</desc>
+  </item>
+  <item id="551938">
+    <iddesc>1244</iddesc>
+    <name>男表情-匪徒</name>
+    <source>直接购买整套骷髅海贼男套装可额外赠送</source>
+    <desc>使用后表情将变为男表情-匪徒</desc>
+  </item>
+  <item id="551939">
+    <iddesc>1245</iddesc>
+    <name>女表情-匪徒</name>
+    <source>直接购买整套骷髅海贼女套装可额外赠送</source>
+    <desc>使用后表情将变为女表情-匪徒</desc>
+  </item>
+  <item id="103026">
+    <iddesc>1246</iddesc>
+    <name>福利礼包</name>
+    <source>1.藏宝商店有几率出现  2.特殊节日于炫光商城出售</source>
+    <desc>于背包打开可获得：升级丹*1、铜钱20000、历练80000</desc>
+  </item>
+  <item id="440455">
+    <iddesc>1247</iddesc>
+    <name>【浑厚之爪】秘籍</name>
+    <source>1.藏宝商店  2.每日非首次开启七星宝图有几率获得</source>
+    <desc>神秘的书籍记载着【九天战猫】一族失传的技能——浑厚之爪！</desc>
+  </item>
+  <item id="440456">
+    <iddesc>1248</iddesc>
+    <name>【爆炎血爪】秘籍</name>
+    <source>1.藏宝商店  2.每日非首次开启七星宝图有几率获得</source>
+    <desc>神秘的书籍记载着【九天战猫】一族失传的技能——真.爆炎血爪！</desc>
+  </item>
+  <item id="920713">
+    <iddesc>1249</iddesc>
+    <name>多啦艾梦外框</name>
+    <source>2015年5月22日起完成《卡布召集令》可获得</source>
+    <desc>使用后，将改变角色的名字外框为多啦艾梦外框</desc>
+  </item>
+  <item id="920714">
+    <iddesc>1250</iddesc>
+    <name>合金光束外框</name>
+    <source>2015年5月22日起完成【发帖送好礼】活动有几率获得</source>
+    <desc>使用后，将改变角色的名字外框为合金光束外框</desc>
+  </item>
+  <item id="103021">
+    <iddesc>1251</iddesc>
+    <name>培育加速器</name>
+    <source>1.游戏乐园积分兑换 2.商城购买 3.拍卖厅竞拍获得</source>
+    <desc>可用于宠物房的妖怪培育仪加速一天。</desc>
+  </item>
+  <item id="551948">
+    <iddesc>1252</iddesc>
+    <name>男表情-窘迫</name>
+    <source>商城消费反馈赠送获得</source>
+    <desc>使用后表情将变为男表情-窘迫</desc>
+  </item>
+  <item id="551949">
+    <iddesc>1253</iddesc>
+    <name>女表情-抖擞</name>
+    <source>商城消费反馈赠送获得</source>
+    <desc>使用后表情将变为女表情-抖擞</desc>
+  </item>
+  <item id="551950">
+    <iddesc>1254</iddesc>
+    <name>通用表情-愤怒</name>
+    <source>游戏盒儿童节礼包获得</source>
+    <desc>使用后表情将变为通用表情-愤怒</desc>
+  </item>
+  <item id="101197">
+    <iddesc>1255</iddesc>
+    <name>生肖虎外框</name>
+    <source>寻宝罗盘有几率获得</source>
+    <desc>使用后，将改变角色的名字外框为生肖虎外框。</desc>
+  </item>
+  <item id="102017">
+    <iddesc>1256</iddesc>
+    <name>生肖猴外框</name>
+    <source>寻宝罗盘有几率获得</source>
+    <desc>使用后，将改变角色的名字外框为生肖猴外框</desc>
+  </item>
+  <item id="920715">
+    <iddesc>1257</iddesc>
+    <name>赖床喵喵外框</name>
+    <source>2015年6月5日参加回帖有礼活动获得</source>
+    <desc>使用后，将改变角色的名字外框为赖床喵喵外框</desc>
+  </item>
+  <item id="440450">
+    <iddesc>1258</iddesc>
+    <name>【血焰焚天】秘籍</name>
+    <source>1.藏宝商店  2.每日非首次开启七星宝图有几率获得</source>
+    <desc>神秘的书籍记载着【焚天血蟒】一族失传的技能——真.血焰焚天！</desc>
+  </item>
+  <item id="440451">
+    <iddesc>1259</iddesc>
+    <name>【傲阳体术】秘籍</name>
+    <source>1.藏宝商店  2.每日非首次开启七星宝图有几率获得</source>
+    <desc>神秘的书籍记载着【焚天血蟒】一族失传的技能—傲阳体术！</desc>
+  </item>
+  <item id="920716">
+    <iddesc>1260</iddesc>
+    <name>雪白熊宝外框(永久)</name>
+    <source>玄塔觅塔有几率获得</source>
+    <desc>使用后，将改变角色的名字外框为雪白熊宝外框</desc>
+  </item>
+  <item id="551954">
+    <iddesc>1261</iddesc>
+    <name>合金英雄背景</name>
+    <source>玄塔觅塔有几率获得</source>
+    <desc>化身为合金英雄，在充满机械气息的世界中尽情战斗吧！</desc>
+  </item>
+  <item id="551951">
+    <iddesc>1262</iddesc>
+    <name>空灵梦境背景</name>
+    <source>商城反馈礼包获得</source>
+    <desc>如痴如醉的梦境，没有喧嚣，没有烦躁，只有无尽的空灵。</desc>
+  </item>
+  <item id="440458">
+    <iddesc>1263</iddesc>
+    <name>飓风圣石</name>
+    <source>参加蓝羽大仙超进化活动获得</source>
+    <desc>蕴含着飓风的强大力量，可于超进化仪为蓝羽大仙开启超进化。</desc>
+  </item>
+  <item id="920718">
+    <iddesc>1264</iddesc>
+    <name>调皮精灵外框</name>
+    <source>寻宝罗盘有几率获得</source>
+    <desc>使用后，将改变角色的名字外框为调皮精灵外框</desc>
+  </item>
+  <item id="920717">
+    <iddesc>1265</iddesc>
+    <name>捣蛋鸭外框</name>
+    <source>寻宝罗盘有几率获得</source>
+    <desc>使用后，将改变角色的名字外框为捣蛋鸭外框</desc>
+  </item>
+  <item id="920719">
+    <iddesc>1266</iddesc>
+    <name>家族崛起金外框</name>
+    <source>参加论坛活动《家族新势力》有机会获得</source>
+    <desc>使用后，将改变角色的名字外框为家族崛起金外框</desc>
+  </item>
+  <item id="103030">
+    <iddesc>1267</iddesc>
+    <name>攻击速度洗炼石</name>
+    <source>1.开战场宝箱有几率得 2.VIP市集兑换珍贵道具有几率得</source>
+    <desc>一颗可以改变灵玉攻击和速度力量的石头。</desc>
+  </item>
+  <item id="103031">
+    <iddesc>1268</iddesc>
+    <name>法术速度洗炼石</name>
+    <source>1.开战场宝箱有几率得 2.VIP市集兑换珍贵道具有几率得</source>
+    <desc>一颗可以改变灵玉法术和速度力量的石头。</desc>
+  </item>
+  <item id="103029">
+    <iddesc>1269</iddesc>
+    <name>防御抗性洗炼石</name>
+    <source>1.开战场宝箱有几率得 2.VIP市集兑换珍贵道具有几率得</source>
+    <desc>一颗可以改变灵玉防御和抗性力量的石头。</desc>
+  </item>
+  <item id="103028">
+    <iddesc>1270</iddesc>
+    <name>体力抗性洗炼石</name>
+    <source>1.开战场宝箱有几率得 2.VIP市集兑换珍贵道具有几率得</source>
+    <desc>一颗可以改变灵玉体力和抗性力量的石头。</desc>
+  </item>
+  <item id="103027">
+    <iddesc>1271</iddesc>
+    <name>体力防御洗炼石</name>
+    <source>1.开战场宝箱有几率得 2.VIP市集兑换珍贵道具有几率得</source>
+    <desc>一颗可以改变灵玉体力和防御力量的石头。</desc>
+  </item>
+  <item id="920720">
+    <iddesc>1272</iddesc>
+    <name>家族崛起蓝外框</name>
+    <source>参加论坛活动《家族新势力》有机会获得</source>
+    <desc>使用后，将改变角色的名字外框为家族崛起蓝外框</desc>
+  </item>
+  <item id="920721">
+    <iddesc>1273</iddesc>
+    <name>家族导师外框</name>
+    <source>参加论坛活动《家族新势力》有机会获得</source>
+    <desc>使用后，将改变角色的名字外框为家族导师外框</desc>
+  </item>
+  <item id="551956">
+    <iddesc>1274</iddesc>
+    <name>家族崛起背景</name>
+    <source>参加论坛活动《家族新势力》有机会获得</source>
+    <desc>万众一心，众志成城，我们是家族崛起的希望，而家族是我们最强大的后盾。</desc>
+  </item>
+  <item id="103034">
+    <iddesc>1275</iddesc>
+    <name>碧影家族徽章</name>
+    <source>开启战场宝箱有几率获得</source>
+    <desc>特殊的家族徽章，仅限族长使用，可将家族徽章改变为碧影家族徽章</desc>
+  </item>
+  <item id="103035">
+    <iddesc>1276</iddesc>
+    <name>紫薰家族徽章</name>
+    <source>于VIP市集的【精美道具】兑换有几率获得</source>
+    <desc>特殊的家族徽章，仅限族长使用，可将家族徽章改变为紫薰家族徽章</desc>
+  </item>
+  <item id="103036">
+    <iddesc>1277</iddesc>
+    <name>蓝光家族徽章</name>
+    <source>于“玄塔觅宝”中打开终极宝箱有几率获得</source>
+    <desc>特殊的家族徽章，仅限族长使用，可将家族徽章改变为蓝光家族徽章</desc>
+  </item>
+  <item id="103037">
+    <iddesc>1278</iddesc>
+    <name>粉俏家族徽章</name>
+    <source>每日非首次开启七星宝图有几率获得</source>
+    <desc>特殊的家族徽章，仅限族长使用，可将家族徽章改变为粉俏家族徽章</desc>
+  </item>
+  <item id="103038">
+    <iddesc>1279</iddesc>
+    <name>金芒家族徽章</name>
+    <source>于家族宝库的【神界宝库】抽取宝物有几率获得</source>
+    <desc>特殊的家族徽章，仅限族长使用，可将家族徽章改变为金芒家族徽章</desc>
+  </item>
+  <item id="103039">
+    <iddesc>1280</iddesc>
+    <name>战场宝箱</name>
+    <source>1.于战场兑换获得 2.商城积分兑换 3.藏宝商城有几率出现</source>
+    <desc>于背包中点击打开，可随机获得珍贵道具</desc>
+  </item>
+  <item id="920722">
+    <iddesc>1281</iddesc>
+    <name>威严裁判外框</name>
+    <source>成为擂台赛裁判可获得</source>
+    <desc>使用后，将改变角色的名字外框为威严裁判外框</desc>
+  </item>
+  <item id="551968">
+    <iddesc>1282</iddesc>
+    <name>通用表情-暖暖</name>
+    <source>2015暑假充值活动</source>
+    <desc>使用后表情将变为通用表情-暖暖</desc>
+  </item>
+  <item id="551967">
+    <iddesc>1283</iddesc>
+    <name>宁夏之夜背景</name>
+    <source>2015暑假充值活动</source>
+    <desc>知了也睡了，安静的睡了，在这个宁静的夏夜。</desc>
+  </item>
+  <item id="920723">
+    <iddesc>1284</iddesc>
+    <name>多啦美梦外框（永久）</name>
+    <source>2015暑假充值活动</source>
+    <desc>使用后，将改变角色的名字外框为多啦美梦外框</desc>
+  </item>
+  <item id="103041">
+    <iddesc>1285</iddesc>
+    <name>银票</name>
+    <source>于【东海】击败宵皇魔有极小几率掉落</source>
+    <desc>到资源舱的【物资回收仪】出售后可获得铜钱</desc>
+  </item>
+  <item id="551980">
+    <iddesc>1286</iddesc>
+    <name>男表情-蓝凌</name>
+    <source>2015.7.24寻宝罗盘有几率获得</source>
+    <desc>使用后表情将变为男表情-蓝凌</desc>
+  </item>
+  <item id="551981">
+    <iddesc>1287</iddesc>
+    <name>女表情-蓝凌</name>
+    <source>2015.7.24寻宝罗盘有几率获得</source>
+    <desc>使用后表情将变为女表情-蓝凌</desc>
+  </item>
+  <item id="551970">
+    <iddesc>1288</iddesc>
+    <name>战神之火背景</name>
+    <source>论坛擂台赛冠军奖励</source>
+    <desc>擂台王者之争挑战重重，唯有胜者才配得上战神之火的庇护！</desc>
+  </item>
+  <item id="300043">
+    <iddesc>1289</iddesc>
+    <name>岩土圣石</name>
+    <source>2015.7.24参加【决战魔王窟】获得获得</source>
+    <desc>蕴含土系之力的奇石，具有进化的力量。</desc>
+  </item>
+  <item id="920724">
+    <iddesc>1290</iddesc>
+    <name>青小萌外框</name>
+    <source>寻宝罗盘有几率获得</source>
+    <desc>使用后，将改变角色的名字外框为青小萌外框</desc>
+  </item>
+  <item id="920725">
+    <iddesc>1291</iddesc>
+    <name>小粉兔外框</name>
+    <source>寻宝罗盘有几率获得</source>
+    <desc>使用后，将改变角色的名字外框为小粉兔外框</desc>
+  </item>
+  <item id="920726">
+    <iddesc>1292</iddesc>
+    <name>兔萝卜外框</name>
+    <source>寻宝罗盘</source>
+    <desc>使用后改变角色名字外框为兔萝卜外框。</desc>
+  </item>
+  <item id="920727">
+    <iddesc>1293</iddesc>
+    <name>喵捉鼠外框</name>
+    <source>寻宝罗盘</source>
+    <desc>使用后改变角色名字外框为喵捉鼠外框。</desc>
+  </item>
+  <item id="551990">
+    <iddesc>1294</iddesc>
+    <name>情谊之心背景</name>
+    <source>寻宝罗盘</source>
+    <desc>使用后改变角色背景为情谊之心背景。</desc>
+  </item>
+  <item id="920728">
+    <iddesc>1295</iddesc>
+    <name>普天同庆红包外框</name>
+    <source>寻宝罗盘</source>
+    <desc>使用后改变角色名字外框为普天同庆红包外框。</desc>
+  </item>
+  <item id="552020">
+    <iddesc>1296</iddesc>
+    <name>圆溜溜表情</name>
+    <source>寻宝罗盘有几率获得</source>
+    <desc>使用后可改变表情为圆溜溜表情</desc>
+  </item>
+  <item id="552041">
+    <iddesc>1299</iddesc>
+    <name>男表情-古惑</name>
+    <source>寻宝罗盘有几率获得</source>
+    <desc>使用后变成古惑表情</desc>
+  </item>
+  <item id="552042">
+    <iddesc>1300</iddesc>
+    <name>女表情-逗比</name>
+    <source>寻宝罗盘有几率获得</source>
+    <desc>使用后变成逗比表情</desc>
+  </item>
+  <item id="102244">
+    <iddesc>1301</iddesc>
+    <name>【小辟寒】精魄</name>
+    <source>2015.11月首充大礼包奖励</source>
+    <desc>合天地之造化，蕴无上灵力之精魄。在妖怪培育舱中使用妖怪化形仪可以化形出小辟寒。</desc>
+  </item>
+  <item id="102245">
+    <iddesc>1302</iddesc>
+    <name>【覆海王】精魄</name>
+    <source>待定</source>
+    <desc>合天地之造化，蕴无上灵力之精魄。在妖怪培育舱中使用妖怪化形仪可以化形出覆海王。</desc>
+  </item>
+  <item id="500333">
+    <iddesc>1303</iddesc>
+    <name>小腼腆眼神</name>
+    <source>商城购买</source>
+    <desc>使用后改变表情为小腼腆眼神表情</desc>
+  </item>
+  <item id="500338">
+    <iddesc>1304</iddesc>
+    <name>小幸福眼神</name>
+    <source>商城购买</source>
+    <desc>使用后改变表情为小幸福眼神表情</desc>
+  </item>
+  <item id="500350">
+    <iddesc>1305</iddesc>
+    <name>【豪龙之火】秘籍</name>
+    <source>1.于家族的神界宝库有几率召唤出烈焰破坏神分身，击败它可获得。 2.每日非首次开启七星宝图有几率获得。 3.藏宝商城有极低几率出现。</source>
+    <desc>神秘的书籍记载着【烈焰破坏神】一族失传的技能——【豪龙之火】！</desc>
+  </item>
+  <item id="500351">
+    <iddesc>1306</iddesc>
+    <name>【迦楼罗】秘籍</name>
+    <source>1.于家族的神界宝库有几率召唤出烈焰破坏神分身，击败它可获得。 2.每日非首次开启七星宝图有几率获得。 3.藏宝商城有极低几率出现。</source>
+    <desc>神秘的书籍记载着【烈焰破坏神】一族失传的技能——【迦楼罗】！</desc>
+  </item>
+  <item id="552045">
+    <iddesc>1307</iddesc>
+    <name>蘑菇仙法杖</name>
+    <source>2016年1月首充获得</source>
+    <desc>具有蘑菇外形的法力高强的魔法杖</desc>
+  </item>
+  <item id="920734">
+    <iddesc>1308</iddesc>
+    <name>金刚斧外框</name>
+    <source>2016年1月首充奖励获得</source>
+    <desc>使用后，将改变角色的名字外框为金刚斧外框。</desc>
+  </item>
+  <item id="920735">
+    <iddesc>1309</iddesc>
+    <name>开心云外框</name>
+    <source>2016年1月29日寻宝罗盘</source>
+    <desc>使用后，将改变角色的名字外框为开心云外框。</desc>
+  </item>
+  <item id="552052">
+    <iddesc>1310</iddesc>
+    <name>男表情-耿直</name>
+    <source>2016.1.29寻宝罗盘有几率获得</source>
+    <desc>使用后表情将变为男表情-耿直</desc>
+  </item>
+  <item id="920742">
+    <iddesc>1310</iddesc>
+    <name>圣诞树铃铛外框</name>
+    <source>2016年12月首充奖励获得</source>
+    <desc>使用后，将改变角色的名字外框为圣诞树铃铛外框。</desc>
+  </item>
+  <item id="552053">
+    <iddesc>1311</iddesc>
+    <name>女表情-萌化</name>
+    <source>2016.1.29寻宝罗盘有几率获得</source>
+    <desc>使用后表情将变为女表情-萌化</desc>
+  </item>
+  <item id="552069">
+    <iddesc>1312</iddesc>
+    <name>男表情-自恋狂</name>
+    <source>2016.2.19元宵大礼包购买所得</source>
+    <desc>使用后表情将变为男表情-自恋狂</desc>
+  </item>
+  <item id="552070">
+    <iddesc>1313</iddesc>
+    <name>女表情-天然呆</name>
+    <source>2016.2.19元宵大礼包购买所得</source>
+    <desc>使用后表情将变为女表情-天然呆</desc>
+  </item>
+  <item id="552090">
+    <iddesc>1314</iddesc>
+    <name>男表情-弯扭</name>
+    <source>2016.5.27童心未泯礼包获得</source>
+    <desc>使用后改变表情为男表情-弯扭</desc>
+  </item>
+  <item id="552094">
+    <iddesc>1315</iddesc>
+    <name>女表情-薄嗔</name>
+    <source>2016.5.27童心未泯礼包获得</source>
+    <desc>使用后表情将变为女表情-薄嗔</desc>
+  </item>
+  <item id="552100">
+    <iddesc>1316</iddesc>
+    <name>男表情—狩魔人</name>
+    <source>2016.9.30国庆狩魔礼包获得</source>
+    <desc>使用后改变表情为男表情—狩魔人</desc>
+  </item>
+  <item id="552104">
+    <iddesc>1317</iddesc>
+    <name>女表情—狩魔人</name>
+    <source>2016.9.30国庆狩魔礼包获得</source>
+    <desc>使用后表情将变为女表情—狩魔人</desc>
+  </item>
+  <item id="552111">
+    <iddesc>1318</iddesc>
+    <name>男表情—神经兮兮</name>
+    <source>2016.10.21寻宝罗盘获得</source>
+    <desc>使用后改变表情为男表情—神经兮兮</desc>
+  </item>
+  <item id="552115">
+    <iddesc>1319</iddesc>
+    <name>女表情—紧张兮兮</name>
+    <source>2016.10.21寻宝罗盘获得</source>
+    <desc>使用后改变表情为女表情—紧张兮兮</desc>
+  </item>
+  <item id="552126">
+    <iddesc>1320</iddesc>
+    <name>男表情—血族之瞳</name>
+    <source>2016.10.28万圣节魅影血族礼包获得</source>
+    <desc>使用后改变表情为男表情—血族之瞳</desc>
+  </item>
+  <item id="552127">
+    <iddesc>1321</iddesc>
+    <name>女表情—血族之瞳</name>
+    <source>2016.10.28万圣节魅影血族礼包获得</source>
+    <desc>使用后改变表情为女表情—血族之瞳</desc>
+  </item>
+  <item id="552137">
+    <iddesc>1323</iddesc>
+    <name>男表情-炽烈眼神</name>
+    <source>成为2017年年费超级VIP可得</source>
+    <desc>使用后表情将变为男表情-炽烈眼神。</desc>
+  </item>
+  <item id="552140">
+    <iddesc>1324</iddesc>
+    <name>女表情-炽烈眼神</name>
+    <source>成为2017年年费超级VIP可得</source>
+    <desc>使用后表情将变为女表情-炽烈眼神。</desc>
+  </item>
+  <item id="104029">
+    <iddesc>1325</iddesc>
+    <name>爆跳西游大礼包</name>
+    <source>小卡布在“爆跳西游”手游App中对战获得20000金币并获取兑换码后，在《爆跳西游来对战 绝世神宠等你领》活动界面兑换获得的礼包。</source>
+    <desc>【冰晶狮】精魄ID、大历练丹*10、洗炼石*10、攻击速度洗髓丹*8、体力抗性洗髓丹*8、孙悟空变身器</desc>
+  </item>
+  <item id="552157">
+    <iddesc>1326</iddesc>
+    <name>男表情-百玄鹿妖</name>
+    <source>2017儿童礼包奖励可得</source>
+    <desc>使用后表情将变为男表情-百玄鹿妖。</desc>
+  </item>
+  <item id="552161">
+    <iddesc>1327</iddesc>
+    <name>女表情-食梦鹿妖</name>
+    <source>2017儿童礼包奖励可得</source>
+    <desc>使用后表情将变为女表情-食梦鹿妖。</desc>
+  </item>
+  <item id="104031">
+    <iddesc>1328</iddesc>
+    <name>百玄鹿妖礼盒♂</name>
+    <source>2017.6.2六一鹿妖大礼包</source>
+    <desc>购买之后可获得百玄鹿妖男套装♂、天地灵气*8、上清宝玉*8、女娲石*8、体力防御洗髓丹*10、攻击速度洗髓丹*10、大历练丹*15、洗髓丹*20</desc>
+  </item>
+  <item id="104032">
+    <iddesc>1329</iddesc>
+    <name>食梦鹿妖女套装♀</name>
+    <source>2017.6.2六一鹿妖大礼包</source>
+    <desc>购买之后可获得食梦鹿妖女套装♀、天地灵气*8、上清宝玉*8、女娲石*8、体力防御洗髓丹*10、攻击速度洗髓丹*10、大历练丹*15、洗髓丹*20</desc>
+  </item>
+  <item id="104033">
+    <iddesc>1330</iddesc>
+    <name>怪异圣石礼包</name>
+    <source>2017.6.23~2017.7.6商城购买</source>
+    <desc>怪异圣石、天地灵气*4、女娲石*5、历练*50000、铜钱*10000</desc>
+  </item>
+  <item id="552174">
+    <iddesc>1331</iddesc>
+    <name>萌兔灵气剑</name>
+    <source>2017年暑假充值奖励获得</source>
+    <desc>兔子剑客套装武器</desc>
+  </item>
+  <item id="552173">
+    <iddesc>1332</iddesc>
+    <name>绒绒天波翼</name>
+    <source>2017年暑假充值奖励获得</source>
+    <desc>兔子剑客的背饰</desc>
+  </item>
+  <item id="552167">
+    <iddesc>1333</iddesc>
+    <name>男表情-兔子剑客</name>
+    <source>0</source>
+    <desc>使用后表情将变为男表情-兔子剑客。</desc>
+  </item>
+  <item id="552171">
+    <iddesc>1334</iddesc>
+    <name>女表情-兔子剑客</name>
+    <source>0</source>
+    <desc>使用后表情将变为女表情-兔子剑客。</desc>
+  </item>
+  <item id="552179">
+    <iddesc>1335</iddesc>
+    <name>男表情-牛郎</name>
+    <source>2017年暑期摇摇乐4星奖励获得</source>
+    <desc>使用后表情将变为男表情-牛郎。</desc>
+  </item>
+  <item id="552180">
+    <iddesc>1336</iddesc>
+    <name>女表情-织女</name>
+    <source>2017年暑期摇摇乐4星奖励获得</source>
+    <desc>使用后表情将变为女表情-织女。</desc>
+  </item>
+  <item id="104036">
+    <iddesc>1337</iddesc>
+    <name>牛郎鹊鸟彩虹礼盒</name>
+    <source>2017.8.21-9.7商城购买</source>
+    <desc>购买之后可获得牛郎青荷布衣、牛郎麻布鞋、2级属性灵玉*2、3级属性灵玉、体力抗性洗髓丹*10、法术速度洗髓丹*10、大历练丹*15</desc>
+  </item>
+  <item id="104037">
+    <iddesc>1338</iddesc>
+    <name>织女鹊鸟彩虹礼盒</name>
+    <source>2017.8.21-9.7商城购买</source>
+    <desc>购买之后可获得织女朱丝羽织、织女仙木屐、2级属性灵玉*2、3级属性灵玉、体力抗性洗髓丹*10、法术速度洗髓丹*10、大历练丹*15</desc>
+  </item>
+  <item id="552186">
+    <iddesc>1339</iddesc>
+    <name>男表情-后羿毅力</name>
+    <source>2017年10月1日-10月12日购买辉耀节日套装2合1礼包获得</source>
+    <desc>使用后表情将变为男表情-后羿毅力。</desc>
+  </item>
+  <item id="552190">
+    <iddesc>1340</iddesc>
+    <name>女表情-嫦娥彩虹</name>
+    <source>2017年10月1日-10月12日购买辉耀节日套装2合1礼包获得</source>
+    <desc>使用后表情将变为女表情-嫦娥彩虹。</desc>
+  </item>
+  <item id="552197">
+    <iddesc>1341</iddesc>
+    <name>男表情-萌鬼脸</name>
+    <source>2017年11月17日玄天双将赢套装中获得</source>
+    <desc>使用后表情将变为男表情-萌鬼脸。</desc>
+  </item>
+  <item id="552200">
+    <iddesc>1342</iddesc>
+    <name>女表情-鬼灵精</name>
+    <source>2017年11月17日玄天双将赢套装中获得</source>
+    <desc>使用后表情将变为女表情-鬼灵精。</desc>
+  </item>
+  <item id="920745">
+    <iddesc>1343</iddesc>
+    <name>双界尊主外框</name>
+    <source>成为2018年年费超级VIP可得</source>
+    <desc>使用后，将改变角色的名字外框为双界尊主外框。</desc>
+  </item>
+  <item id="500356">
+    <iddesc>1344</iddesc>
+    <name>萌哒雪人套装♂</name>
+    <source>成为2018年年费超级VIP可得</source>
+    <desc>萌哒雪人套装♂包括：萌哒雪男帽、萌哒男外套、萌哒雪男鞋、萌哒雪人、男表情-萌哒雪男</desc>
+  </item>
+  <item id="500357">
+    <iddesc>1345</iddesc>
+    <name>萌哒雪人套装♀</name>
+    <source>成为2018年年费超级VIP可得</source>
+    <desc>萌哒雪人套装♀包括：萌哒雪女帽、萌哒女仆裙、萌哒雪女鞋、萌哒雪人、女表情-萌哒雪女</desc>
+  </item>
+  <item id="552205">
+    <iddesc>1346</iddesc>
+    <name>男表情-萌哒雪男</name>
+    <source>成为2018年年费超级VIP可得</source>
+    <desc>使用后表情将变为男表情-萌哒雪男。</desc>
+  </item>
+  <item id="552209">
+    <iddesc>1347</iddesc>
+    <name>女表情-萌哒雪女</name>
+    <source>成为2018年年费超级VIP可得</source>
+    <desc>使用后表情将变为女表情-萌哒雪女。</desc>
+  </item>
+  <item id="920746">
+    <iddesc>1348</iddesc>
+    <name>白水晶蝴蝶外框</name>
+    <source>成为2018年1月首充奖励</source>
+    <desc>使用后，将改变角色的名字外框为白水晶蝴蝶外框。</desc>
+  </item>
+  <item id="920747">
+    <iddesc>1349</iddesc>
+    <name>梅子蛋糕外框</name>
+    <source>成为2018年2月首充奖励</source>
+    <desc>使用后，将改变角色的名字外框为梅子蛋糕外框。</desc>
+  </item>
+  <item id="104043">
+    <iddesc>1350</iddesc>
+    <name>国庆盛典大礼包</name>
+    <source>0</source>
+    <desc>使用后可获得：防御抗性洗髓丹*8、升级丹*8、造化丹*5、苍羽幻石*5、三倍历练丹*5、双倍历练丹*8，火龙仙兽蛋*1、【月牙狼】精魄*1</desc>
+  </item>
+</itemManual>

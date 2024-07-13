@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- 1:墙壁  2：地板  3：不可摆区域 4:装扮背包-->
+<data>
+<scene id="0" >
+    <item id="1" type="3" x="0" y="0" width="240" height="330"></item>
+	<item id="2" type="3" x="240" y="0" width="1700" height="150"></item>
+	<item id="3" type="3" x="600" y="285" width="360" height="240"></item>
+	<item id="4" type="4" x="0" y="1070" width="1940" height="70"></item>
+</scene> 
+<scene id="100002">
+</scene>
+</data>

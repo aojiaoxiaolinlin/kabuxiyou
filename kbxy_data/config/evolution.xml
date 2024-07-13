@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+  <evolution id="0" name="0" oId="" oName=""/>
+  <evolution id="1825" name="九天战猫" oId="1003" oName="大块咪">
+    <task id="5" type="4" aimId="6010011" aimName="洛特的考验" aimNum="1" sceneId="1009" sceneName="军事厅"/>
+    <task id="6" type="2" aimId="300036" aimName="苍羽幻石" aimNum="10" sceneId="18001" sceneName="活动乐园"/>
+    <task id="7" type="2" aimId="300037" aimName="日月琉璃" aimNum="20" sceneId="18001" sceneName="活动乐园"/>
+    <task id="11" type="2" aimId="300028" aimName="天地灵气" aimNum="10" sceneId="2005" sceneName="五指山顶"/>
+    <task id="12" type="2" aimId="300023" aimName="冰晶砂" aimNum="35" sceneId="3004" sceneName="白骨山"/>
+    <task id="17" type="1" aimId="0" aimName="" aimNum="80" sceneId="0" sceneName="0"/>
+  </evolution>
+  <evolution id="1826" name="霸刀螳螂" oId="1006" oName="荆甲螳螂">
+    <task id="5" type="4" aimId="6010011" aimName="洛特的考验" aimNum="1" sceneId="1009" sceneName="军事厅"/>
+    <task id="6" type="2" aimId="300036" aimName="苍羽幻石" aimNum="10" sceneId="18001" sceneName="活动乐园"/>
+    <task id="7" type="2" aimId="300037" aimName="日月琉璃" aimNum="20" sceneId="18001" sceneName="活动乐园"/>
+    <task id="11" type="2" aimId="300028" aimName="天地灵气" aimNum="10" sceneId="2005" sceneName="五指山顶"/>
+    <task id="13" type="2" aimId="300024" aimName="茅山玉" aimNum="35" sceneId="7001" sceneName="子母河"/>
+    <task id="17" type="1" aimId="0" aimName="" aimNum="80" sceneId="0" sceneName="0"/>
+  </evolution>
+  <evolution id="1827" name="太虚水云鹤" oId="1009" oName="霜水鹤">
+    <task id="5" type="4" aimId="6010011" aimName="洛特的考验" aimNum="1" sceneId="1009" sceneName="军事厅"/>
+    <task id="6" type="2" aimId="300036" aimName="苍羽幻石" aimNum="10" sceneId="18001" sceneName="活动乐园"/>
+    <task id="7" type="2" aimId="300037" aimName="日月琉璃" aimNum="20" sceneId="18001" sceneName="活动乐园"/>
+    <task id="11" type="2" aimId="300028" aimName="天地灵气" aimNum="10" sceneId="2005" sceneName="五指山顶"/>
+    <task id="14" type="2" aimId="300025" aimName="松绿石" aimNum="35" sceneId="5001" sceneName="枯松涧"/>
+    <task id="17" type="1" aimId="0" aimName="" aimNum="80" sceneId="0" sceneName="0"/>
+  </evolution>
+  <evolution id="1828" name="焚天血蟒" oId="1012" oName="烈焰蛇">
+    <task id="5" type="4" aimId="6010011" aimName="洛特的考验" aimNum="1" sceneId="1009" sceneName="军事厅"/>
+    <task id="6" type="2" aimId="300036" aimName="苍羽幻石" aimNum="10" sceneId="18001" sceneName="活动乐园"/>
+    <task id="7" type="2" aimId="300037" aimName="日月琉璃" aimNum="20" sceneId="18001" sceneName="活动乐园"/>
+    <task id="11" type="2" aimId="300028" aimName="天地灵气" aimNum="10" sceneId="2005" sceneName="五指山顶"/>
+    <task id="15" type="2" aimId="300026" aimName="朱砂石" aimNum="35" sceneId="9002" sceneName="乱石山"/>
+    <task id="17" type="1" aimId="0" aimName="" aimNum="80" sceneId="0" sceneName="0"/>
+  </evolution>
+  <evolution id="1829" name="地煞猴王" oId="1015" oName="大岩猴">
+    <task id="5" type="4" aimId="6010011" aimName="洛特的考验" aimNum="1" sceneId="1009" sceneName="军事厅"/>
+    <task id="6" type="2" aimId="300036" aimName="苍羽幻石" aimNum="10" sceneId="18001" sceneName="活动乐园"/>
+    <task id="7" type="2" aimId="300037" aimName="日月琉璃" aimNum="20" sceneId="18001" sceneName="活动乐园"/>
+    <task id="11" type="2" aimId="300028" aimName="天地灵气" aimNum="10" sceneId="2005" sceneName="五指山顶"/>
+    <task id="16" type="2" aimId="300027" aimName="青金石" aimNum="35" sceneId="9002" sceneName="乱石山"/>
+    <task id="17" type="1" aimId="0" aimName="" aimNum="80" sceneId="0" sceneName="0"/>
+  </evolution>
+  <evolution id="1904" name="巨木神将" oId="111" oName="巨木将军">
+    <task id="17" type="1" aimId="0" aimName="" aimNum="80" sceneId="0" sceneName="0"/>
+    <task id="20" type="2" aimId="300036" aimName="苍羽幻石" aimNum="12" sceneId="0" sceneName="0"/>
+    <task id="21" type="2" aimId="300037" aimName="日月琉璃" aimNum="24" sceneId="0" sceneName="0"/>
+    <task id="22" type="2" aimId="300028" aimName="天地灵气" aimNum="15" sceneId="2005" sceneName="五指山顶"/>
+    <task id="23" type="2" aimId="300016" aimName="千年红木" aimNum="20" sceneId="2004" sceneName="五指山"/>
+    <task id="24" type="6" aimId="400429" aimName="巨木圣石" aimNum="1" sceneId="0" sceneName="0"/>
+  </evolution>
+  <evolution id="1942" name="金刚狮王" oId="18" oName="金甲剑狮">
+    <task id="17" type="1" aimId="0" aimName="" aimNum="80" sceneId="0" sceneName="0"/>
+    <task id="20" type="2" aimId="300036" aimName="苍羽幻石" aimNum="12" sceneId="0" sceneName="0"/>
+    <task id="21" type="2" aimId="300037" aimName="日月琉璃" aimNum="24" sceneId="0" sceneName="0"/>
+    <task id="22" type="2" aimId="300028" aimName="天地灵气" aimNum="15" sceneId="2005" sceneName="五指山顶"/>
+    <task id="25" type="2" aimId="300020" aimName="天罡石" aimNum="20" sceneId="6002" sceneName="通天河"/>
+    <task id="26" type="6" aimId="400430" aimName="金狮圣石" aimNum="1" sceneId="0" sceneName="0"/>
+  </evolution>
+  <evolution id="2070" name="炽焰凤凰" oId="33" oName="赤炎鸟">
+    <task id="17" type="1" aimId="0" aimName="" aimNum="80" sceneId="0" sceneName="0"/>
+    <task id="20" type="2" aimId="300036" aimName="苍羽幻石" aimNum="12" sceneId="0" sceneName="0"/>
+    <task id="21" type="2" aimId="300037" aimName="日月琉璃" aimNum="24" sceneId="0" sceneName="0"/>
+    <task id="22" type="2" aimId="300028" aimName="天地灵气" aimNum="15" sceneId="2005" sceneName="五指山顶"/>
+    <task id="27" type="2" aimId="300019" aimName="火云岩" aimNum="20" sceneId="8001" sceneName="火焰山入口"/>
+    <task id="28" type="6" aimId="400431" aimName="炽焰圣石" aimNum="1" sceneId="0" sceneName="0"/>
+  </evolution>
+  <evolution id="2498" name="岩王犀将" oId="60" oName="冥图古犀">
+    <task id="6" type="2" aimId="300036" aimName="苍羽幻石" aimNum="10" sceneId="18001" sceneName="活动乐园"/>
+    <task id="17" type="1" aimId="0" aimName="" aimNum="80" sceneId="0" sceneName="0"/>
+    <task id="21" type="2" aimId="300037" aimName="日月琉璃" aimNum="24" sceneId="0" sceneName="0"/>
+    <task id="36" type="6" aimId="300043" aimName="岩土圣石" aimNum="1" sceneId="0" sceneName="0"/>
+    <task id="37" type="2" aimId="300029" aimName="女娲石" aimNum="18" sceneId="0" sceneName="0"/>
+  </evolution>
+  <evolution id="2636" name="帝星夜刃闪" oId="147" oName="夜刃闪">
+    <task id="17" type="1" aimId="0" aimName="" aimNum="80" sceneId="0" sceneName="0"/>
+    <task id="20" type="2" aimId="300036" aimName="苍羽幻石" aimNum="12" sceneId="0" sceneName="0"/>
+    <task id="21" type="2" aimId="300037" aimName="日月琉璃" aimNum="24" sceneId="0" sceneName="0"/>
+    <task id="22" type="2" aimId="300028" aimName="天地灵气" aimNum="15" sceneId="2005" sceneName="五指山顶"/>
+    <task id="30" type="6" aimId="440449" aimName="怪异圣石" aimNum="1" sceneId="0" sceneName="0"/>
+    <task id="31" type="2" aimId="300015" aimName="幻影石" aimNum="20" sceneId="2101" sceneName="蛇盘山"/>
+  </evolution>
+  <evolution id="2642" name="蓝袍战士" oId="" oName=""/>
+  <evolution id="2643" name="蓝袍队长" oId="2642" oName="蓝袍战士">
+    <task id="6" type="2" aimId="300036" aimName="苍羽幻石" aimNum="10" sceneId="18001" sceneName="活动乐园"/>
+    <task id="7" type="2" aimId="300037" aimName="日月琉璃" aimNum="20" sceneId="18001" sceneName="活动乐园"/>
+    <task id="11" type="2" aimId="300028" aimName="天地灵气" aimNum="10" sceneId="2005" sceneName="五指山顶"/>
+    <task id="17" type="1" aimId="0" aimName="" aimNum="80" sceneId="0" sceneName="0"/>
+    <task id="37" type="2" aimId="300029" aimName="女娲石" aimNum="18" sceneId="0" sceneName="0"/>
+    <task id="38" type="6" aimId="440459" aimName="机甲圣石" aimNum="1" sceneId="0" sceneName="0"/>
+  </evolution>
+  <evolution id="2697" name="蓝羽梦仙君" oId="1026" oName="蓝羽大仙">
+    <task id="17" type="1" aimId="0" aimName="" aimNum="80" sceneId="0" sceneName="0"/>
+    <task id="20" type="2" aimId="300036" aimName="苍羽幻石" aimNum="12" sceneId="0" sceneName="0"/>
+    <task id="21" type="2" aimId="300037" aimName="日月琉璃" aimNum="24" sceneId="0" sceneName="0"/>
+    <task id="31" type="2" aimId="300015" aimName="幻影石" aimNum="20" sceneId="2101" sceneName="蛇盘山"/>
+    <task id="33" type="6" aimId="440458" aimName="飓风圣石" aimNum="1" sceneId="0" sceneName="0"/>
+    <task id="34" type="2" aimId="300022" aimName="上清宝玉" aimNum="30" sceneId="4001" sceneName="宝象国国都"/>
+  </evolution>
+  <evolution id="2752" name="幻咒宗师" oId="1304" oName="幻咒王">
+    <task id="5" type="4" aimId="6010011" aimName="洛特的考验" aimNum="1" sceneId="1009" sceneName="军事厅"/>
+    <task id="17" type="1" aimId="0" aimName="" aimNum="80" sceneId="0" sceneName="0"/>
+    <task id="20" type="2" aimId="300036" aimName="苍羽幻石" aimNum="12" sceneId="0" sceneName="0"/>
+    <task id="21" type="2" aimId="300037" aimName="日月琉璃" aimNum="24" sceneId="0" sceneName="0"/>
+    <task id="22" type="2" aimId="300028" aimName="天地灵气" aimNum="15" sceneId="2005" sceneName="五指山顶"/>
+    <task id="37" type="2" aimId="300029" aimName="女娲石" aimNum="18" sceneId="0" sceneName="0"/>
+  </evolution>
+</data>

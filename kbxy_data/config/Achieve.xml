@@ -1,0 +1,6410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<achievement>
+  <class id="1" name="综合">
+    <item id="1" name="妖怪类" cls="1">
+      <achieve name="我的妖怪伙伴">
+        <achid>90101001</achid>
+        <txt>捕捉到的一只妖怪</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>1</itemindex>
+        <honour></honour>
+        <score>10</score>
+      </achieve>
+      <achieve name="妖怪满包">
+        <achid>90101002</achid>
+        <txt>拥有15种不同的妖怪</txt>
+        <type>2</type>
+        <classindex>1</classindex>
+        <itemindex>1</itemindex>
+        <honour></honour>
+        <score>15</score>
+      </achieve>
+      <achieve name="妖怪成堆">
+        <achid>90101003</achid>
+        <txt>拥有25种不同的妖怪</txt>
+        <type>2</type>
+        <classindex>1</classindex>
+        <itemindex>1</itemindex>
+        <honour></honour>
+        <score>25</score>
+      </achieve>
+      <achieve name="妖怪饲育家">
+        <achid>90101004</achid>
+        <txt>拥有50种不同的妖怪</txt>
+        <type>2</type>
+        <classindex>1</classindex>
+        <itemindex>1</itemindex>
+        <honour>妖怪饲育家</honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="小有所成">
+        <achid>90101005</achid>
+        <txt>第一只50级的妖怪</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>1</itemindex>
+        <honour></honour>
+        <score>10</score>
+      </achieve>
+      <achieve name="名声显赫">
+        <achid>90101006</achid>
+        <txt>第一只100级的妖怪</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>1</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="一代宗师">
+        <achid>90101007</achid>
+        <txt>拥有6只100级的妖怪</txt>
+        <type>2</type>
+        <classindex>1</classindex>
+        <itemindex>1</itemindex>
+        <honour></honour>
+        <score>80</score>
+      </achieve>
+      <achieve name="占山为王">
+        <achid>90101008</achid>
+        <txt>拥有25只100级的妖怪</txt>
+        <type>2</type>
+        <classindex>1</classindex>
+        <itemindex>1</itemindex>
+        <honour></honour>
+        <score>180</score>
+      </achieve>
+      <achieve name="各有所爱">
+        <achid>90101009</achid>
+        <txt>拥有10种不同的100级的妖怪</txt>
+        <type>2</type>
+        <classindex>1</classindex>
+        <itemindex>1</itemindex>
+        <honour></honour>
+        <score>100</score>
+      </achieve>
+      <achieve name="博爱大使">
+        <achid>90101010</achid>
+        <txt>拥有20种不同的100级的妖怪</txt>
+        <type>2</type>
+        <classindex>1</classindex>
+        <itemindex>1</itemindex>
+        <honour>博爱的卡布</honour>
+        <score>150</score>
+      </achieve>
+      <achieve name="万众瞩目">
+        <achid>90101011</achid>
+        <txt>拥有1只万众瞩目的妖怪</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>1</itemindex>
+        <honour></honour>
+        <score>150</score>
+      </achieve>
+      <achieve name="万人敬仰">
+        <achid>90101012</achid>
+        <txt>拥有10只万众瞩目的妖怪</txt>
+        <type>2</type>
+        <classindex>1</classindex>
+        <itemindex>1</itemindex>
+        <honour></honour>
+        <score>180</score>
+      </achieve>
+      <achieve name="绝代妖王">
+        <achid>90101013</achid>
+        <txt>拥有1只绝代妖王的妖怪</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>1</itemindex>
+        <honour>妖王的同伴</honour>
+        <score>200</score>
+      </achieve>
+      <achieve name="脱胎换骨">
+        <achid>90101014</achid>
+        <txt>第一次使用洗髓丹</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>1</itemindex>
+        <honour></honour>
+        <score>10</score>
+      </achieve>
+      <achieve name="洗出极品啦！">
+        <achid>90101015</achid>
+        <txt>使用洗髓丹获得万众瞩目的妖怪</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>1</itemindex>
+        <honour></honour>
+        <score>120</score>
+      </achieve>
+      <achieve name="借丹成道">
+        <achid>90101016</achid>
+        <txt>使用洗髓丹获得绝代妖王的妖怪</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>1</itemindex>
+        <honour>举世无双的人品</honour>
+        <score>150</score>
+      </achieve>
+      <achieve name="木头人">
+        <achid>90101017</achid>
+        <txt>打败巨木将军获得“木头人”</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>1</itemindex>
+        <honour></honour>
+        <score>20</score>
+      </achieve>
+      <achieve name="小剑狮">
+        <achid>90101018</achid>
+        <txt>打败金甲剑狮获得“小剑狮”</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>1</itemindex>
+        <honour></honour>
+        <score>20</score>
+      </achieve>
+      <achieve name="火咕">
+        <achid>90101019</achid>
+        <txt>打败赤炎鸟获得“火咕”</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>1</itemindex>
+        <honour></honour>
+        <score>45</score>
+      </achieve>
+      <achieve name="小泥巴">
+        <achid>90101020</achid>
+        <txt>打败冥图古犀获得“小泥巴”</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>1</itemindex>
+        <honour></honour>
+        <score>60</score>
+      </achieve>
+      <achieve name="小海马">
+        <achid>90101021</achid>
+        <txt>打败海龙马获得“小海马"</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>1</itemindex>
+        <honour></honour>
+        <score>100</score>
+      </achieve>
+      <achieve name="小白">
+        <achid>90101022</achid>
+        <txt>打败傲天获得“小白”</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>1</itemindex>
+        <honour></honour>
+        <score>80</score>
+      </achieve>
+      <achieve name="小飞">
+        <achid>90101023</achid>
+        <txt>通过活动或者打败冲霄获得“小飞”</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>1</itemindex>
+        <honour></honour>
+        <score>80</score>
+      </achieve>
+      <achieve name="独角魔">
+        <achid>90101024</achid>
+        <txt>打败紫云太岁获得“独角魔”</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>1</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="大眼蝠">
+        <achid>90101025</achid>
+        <txt>打败绿刺蝠卫获得“大眼蝠”</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>1</itemindex>
+        <honour></honour>
+        <score>60</score>
+      </achieve>
+      <achieve name="幽仔">
+        <achid>90101026</achid>
+        <txt>打败夜刃闪获得“幽仔”</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>1</itemindex>
+        <honour></honour>
+        <score>60</score>
+      </achieve>
+      <achieve name="佛念珠">
+        <achid>90101027</achid>
+        <txt>通过活动日历积分兑换获得“佛念珠”</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>1</itemindex>
+        <honour></honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="小飞马">
+        <achid>90101028</achid>
+        <txt>通过洛特的考验抽奖获得“小飞马”</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>1</itemindex>
+        <honour></honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="命中注定">
+        <achid>90101029</achid>
+        <txt>使用黄金葫芦捕捉到一只妖怪</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>1</itemindex>
+        <honour></honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="小黑鸟">
+        <achid>90101030</achid>
+        <txt>打败蓝羽大仙获得“小黑鸟”</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>1</itemindex>
+        <honour></honour>
+        <score>80</score>
+      </achieve>
+      <achieve name="我的专属妖怪">
+        <achid>90101031</achid>
+        <txt>通过魔晶罗盘拿到属于自己的专属妖怪</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>1</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="云宝宝">
+        <achid>90101032</achid>
+        <txt>打败云穹精获得“云宝宝”</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>1</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="青铜傀卒">
+        <achid>90101033</achid>
+        <txt>打败黄金傀将获得“青铜傀卒”</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>1</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="秘技">
+        <achid>90101034</achid>
+        <txt>通过打败冲霄获得冲霄的新技能</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>1</itemindex>
+        <honour></honour>
+        <score>80</score>
+      </achieve>
+      <achieve name="突破！">
+        <achid>90101035</achid>
+        <txt>通过打败傲天获得傲天的新技能</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>1</itemindex>
+        <honour></honour>
+        <score>80</score>
+      </achieve>
+      <achieve name="破天重生">
+        <achid>90101036</achid>
+        <txt>通过任务获得妖怪“望天剑”</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>1</itemindex>
+        <honour></honour>
+        <score>20</score>
+      </achieve>
+      <achieve name="战场实力派">
+        <achid>90101037</achid>
+        <txt>通过战场集齐所有妖怪</txt>
+        <type>3</type>
+        <classindex>1</classindex>
+        <itemindex>1</itemindex>
+        <honour></honour>
+        <score>50</score>
+        <task1>赤月妖</task1>
+        <task2>牙牙魔</task2>
+        <task3>喵喵仙</task3>
+        <task4>天幼狼</task4>
+        <task5>辟风幽</task5>
+      </achieve>
+      <achieve name="毒雾蝎">
+        <achid>90101038</achid>
+        <txt>打败九幽看守者获得“毒雾蝎”</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>1</itemindex>
+        <honour></honour>
+        <score>80</score>
+      </achieve>
+      <achieve name="幽魂">
+        <achid>90101039</achid>
+        <txt>打败噬魂获得“幽魂”</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>1</itemindex>
+        <honour></honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="小章鱼">
+        <achid>90101040</achid>
+        <txt>完成任务“神秘的漩涡”获得小章鱼</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>1</itemindex>
+        <honour></honour>
+        <score>20</score>
+      </achieve>
+      <achieve name="紫灵儿">
+        <achid>90101041</achid>
+        <txt>打败紫灵儿获得“紫灵儿”</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>1</itemindex>
+        <honour></honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="小墨心">
+        <achid>90101042</achid>
+        <txt>完成谜之诗人系列任务获得“小墨心”</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>1</itemindex>
+        <honour></honour>
+        <score>20</score>
+      </achieve>
+      <achieve name="霸天逆云龙">
+        <achid>90101043</achid>
+        <txt>打败千回长者获得“霸天逆云龙”</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>1</itemindex>
+        <honour></honour>
+        <score>60</score>
+      </achieve>
+      <achieve name="雷电鼠">
+        <achid>90101044</achid>
+        <txt>完成任务“聚拢的乌云”获得“电光鼠”</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>1</itemindex>
+        <honour></honour>
+        <score>20</score>
+      </achieve>
+      <achieve name="雾电雏鸟">
+        <achid>90101045</achid>
+        <txt>打败惊雷大仙获得“雾电雏鸟”</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>1</itemindex>
+        <honour></honour>
+        <score>80</score>
+      </achieve>
+      <achieve name="雷晶兽">
+        <achid>90101046</achid>
+        <txt>通过藏龙渊战场奖励兑换获得“雷晶兽”</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>1</itemindex>
+        <honour></honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="小雷云">
+        <achid>90101047</achid>
+        <txt>通过收集小银鱼兑换获得“小雷云”</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>1</itemindex>
+        <honour></honour>
+        <score>20</score>
+      </achieve>
+      <achieve name="玉冰龙">
+        <achid>90101048</achid>
+        <txt>打败冰龙神，获得玉冰龙</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>1</itemindex>
+        <honour></honour>
+        <score>80</score>
+      </achieve>
+      <achieve name="夜灵">
+        <achid>90101049</achid>
+        <txt>打败永夜王获得“夜灵”</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>1</itemindex>
+        <honour></honour>
+        <score>80</score>
+      </achieve>
+      <achieve name="一代传奇">
+        <achid>90101050</achid>
+        <txt>拥有50只100级的妖怪</txt>
+        <type>2</type>
+        <classindex>1</classindex>
+        <itemindex>1</itemindex>
+        <honour></honour>
+        <score>200</score>
+      </achieve>
+      <achieve name="举世无双">
+        <achid>90101051</achid>
+        <txt>拥有100只100级的妖怪</txt>
+        <type>2</type>
+        <classindex>1</classindex>
+        <itemindex>1</itemindex>
+        <honour></honour>
+        <score>250</score>
+      </achieve>
+      <achieve name="名震西游">
+        <achid>90101052</achid>
+        <txt>拥有50只万众瞩目的妖怪</txt>
+        <type>2</type>
+        <classindex>1</classindex>
+        <itemindex>1</itemindex>
+        <honour></honour>
+        <score>300</score>
+      </achieve>
+      <achieve name="笑傲天下">
+        <achid>90101053</achid>
+        <txt>拥有100只万众瞩目的妖怪</txt>
+        <type>2</type>
+        <classindex>1</classindex>
+        <itemindex>1</itemindex>
+        <honour></honour>
+        <score>350</score>
+      </achieve>
+      <achieve name="妖王领主">
+        <achid>90101054</achid>
+        <txt>拥有5只绝代妖王的妖怪</txt>
+        <type>2</type>
+        <classindex>1</classindex>
+        <itemindex>1</itemindex>
+        <honour>妖王领主</honour>
+        <score>250</score>
+      </achieve>
+      <achieve name="妖王统帅">
+        <achid>90101055</achid>
+        <txt>拥有10只绝代妖王的妖怪</txt>
+        <type>2</type>
+        <classindex>1</classindex>
+        <itemindex>1</itemindex>
+        <honour>妖王统帅</honour>
+        <score>300</score>
+      </achieve>
+      <achieve name="震天妖皇">
+        <achid>90101056</achid>
+        <txt>拥有20只绝代妖王的妖怪</txt>
+        <type>2</type>
+        <classindex>1</classindex>
+        <itemindex>1</itemindex>
+        <honour>震天妖皇</honour>
+        <score>350</score>
+      </achieve>
+      <achieve name="小光">
+        <achid>90101057</achid>
+        <txt>打败超能战神获得“小光”</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>1</itemindex>
+        <honour></honour>
+        <score>100</score>
+      </achieve>
+      <achieve name="黑盔小太">
+        <achid>90101058</achid>
+        <txt>打败时空终结者获得“黑盔小太”</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>1</itemindex>
+        <honour></honour>
+        <score>100</score>
+      </achieve>
+      <achieve name="百烈魂">
+        <achid>90101059</achid>
+        <txt>打败星风赤子获得“百烈魂”</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>1</itemindex>
+        <honour></honour>
+        <score>100</score>
+      </achieve>
+      <achieve name="小威">
+        <achid>90101060</achid>
+        <txt>打败天威守护者获得“小威”</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>1</itemindex>
+        <honour></honour>
+        <score>100</score>
+      </achieve>
+      <achieve name="星河之子">
+        <achid>90101061</achid>
+        <txt>完成机械合体获得星河之子</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>1</itemindex>
+        <honour></honour>
+        <score>100</score>
+      </achieve>
+      <achieve name="灵萝儿">
+        <achid>90101062</achid>
+        <txt>打败灵萝仙姬获得“灵萝儿”</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>1</itemindex>
+        <honour></honour>
+        <score>100</score>
+      </achieve>
+      <achieve name="风焰魂">
+        <achid>90101063</achid>
+        <txt>打败焚天战魂获得“风焰魂”</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>1</itemindex>
+        <honour></honour>
+        <score>100</score>
+      </achieve>
+      <achieve name="圣光勇者">
+        <achid>90101064</achid>
+        <txt>打败圣光天尊（真身）获得“圣光勇者”</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>1</itemindex>
+        <honour></honour>
+        <score>100</score>
+      </achieve>
+      <achieve name="青武兵">
+        <achid>90101065</achid>
+        <txt>打败青辉武神获得“青武兵”</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>1</itemindex>
+        <honour></honour>
+        <score>100</score>
+      </achieve>
+      <achieve name="飙车五兄弟">
+        <achid>90101066</achid>
+        <txt>拥有5只哔哔小兔</txt>
+        <type>2</type>
+        <classindex>1</classindex>
+        <itemindex>1</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="灵藤满屋">
+        <achid>90101067</achid>
+        <txt>通过活动“夺回花束行动”兑换获得8只灵藤子</txt>
+        <type>2</type>
+        <classindex>1</classindex>
+        <itemindex>1</itemindex>
+        <honour></honour>
+        <score>40</score>
+      </achieve>
+      <achieve name="火陨猛霸王">
+        <achid>90101068</achid>
+        <txt>通过VIP市集获得小猛的精魄</txt>
+        <type>2</type>
+        <classindex>1</classindex>
+        <itemindex>1</itemindex>
+        <honour></honour>
+        <score>40</score>
+      </achieve>
+      <achieve name="小钢甲">
+        <achid>90101069</achid>
+        <txt>通过战场兑换获得3只【小钢甲】精魄。</txt>
+        <type>2</type>
+        <classindex>1</classindex>
+        <itemindex>1</itemindex>
+        <honour></honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="开斧山猪">
+        <achid>90101070</achid>
+        <txt>通过VIP市集获得小斧猪的精魄</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>1</itemindex>
+        <honour></honour>
+        <score>40</score>
+      </achieve>
+      <achieve name="成交！小碧鲨精魄！">
+        <achid>90101071</achid>
+        <txt>在拍卖手册中成功竞拍得到【小碧鲨】精魄</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>1</itemindex>
+        <honour></honour>
+        <score>60</score>
+      </achieve>
+      <achieve name="多妖擂台-叱小童">
+        <achid>90101072</achid>
+        <txt>通过多妖怪擂台获得叱小童</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>1</itemindex>
+        <honour></honour>
+        <score>180</score>
+      </achieve>
+      <achieve name="单妖擂台-小尘儿">
+        <achid>90101073</achid>
+        <txt>通过单妖怪擂台获得小尘儿</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>1</itemindex>
+        <honour></honour>
+        <score>150</score>
+      </achieve>
+      <achieve name="圣矢天将">
+        <achid>90101074</achid>
+        <txt>通过VIP市集获得小矢</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>1</itemindex>
+        <honour></honour>
+        <score>40</score>
+      </achieve>
+      <achieve name="拥有妖王30只">
+        <achid>90101076</achid>
+        <txt>拥有30只绝代妖王的妖怪</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>1</itemindex>
+        <honour></honour>
+        <score>380</score>
+      </achieve>
+      <achieve name="拥有妖王50只">
+        <achid>90101077</achid>
+        <txt>拥有50只绝代妖王的妖怪</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>1</itemindex>
+        <honour></honour>
+        <score>400</score>
+      </achieve>
+    </item>
+    <item id="2" name="坐骑类" cls="1">
+      <achieve name="神秘的蛋">
+        <achid>90102001</achid>
+        <txt>获得一个仙兽蛋</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>2</itemindex>
+        <honour></honour>
+        <score>10</score>
+      </achieve>
+      <achieve name="狂奔吧！">
+        <achid>90102002</achid>
+        <txt>获得一只神兽坐骑</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>2</itemindex>
+        <honour></honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="饲养专家">
+        <achid>90102003</achid>
+        <txt>获得5只神兽坐骑</txt>
+        <type>2</type>
+        <classindex>1</classindex>
+        <itemindex>2</itemindex>
+        <honour></honour>
+        <score>100</score>
+      </achieve>
+      <achieve name="神兽管理员">
+        <achid>90102004</achid>
+        <txt>获得10只神兽坐骑</txt>
+        <type>2</type>
+        <classindex>1</classindex>
+        <itemindex>2</itemindex>
+        <honour></honour>
+        <score>120</score>
+      </achieve>
+      <achieve name="神兽满仓">
+        <achid>90102005</achid>
+        <txt>获得25只神兽坐骑</txt>
+        <type>2</type>
+        <classindex>1</classindex>
+        <itemindex>2</itemindex>
+        <honour>神兽的爱</honour>
+        <score>150</score>
+      </achieve>
+      <achieve name="神兽骑兵队长">
+        <achid>90102006</achid>
+        <txt>获得50只神兽坐骑</txt>
+        <type>2</type>
+        <classindex>1</classindex>
+        <itemindex>2</itemindex>
+        <honour></honour>
+        <score>180</score>
+      </achieve>
+      <achieve name="健步如飞">
+        <achid>90102007</achid>
+        <txt>获得一只品质为健步如飞的神兽坐骑</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>2</itemindex>
+        <honour></honour>
+        <score>20</score>
+      </achieve>
+      <achieve name="日行千里">
+        <achid>90102008</achid>
+        <txt>获得一只品质为日行千里的神兽坐骑</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>2</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="风驰云卷">
+        <achid>90102009</achid>
+        <txt>获得一只品质为风驰云卷的神兽坐骑</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>2</itemindex>
+        <honour></honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="绝世名骑">
+        <achid>90102010</achid>
+        <txt>获得一只品质为绝世名骑的神兽坐骑</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>2</itemindex>
+        <honour></honour>
+        <score>80</score>
+      </achieve>
+      <achieve name="上古神兽">
+        <achid>90102011</achid>
+        <txt>获得一只品质为上古神兽的神兽坐骑</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>2</itemindex>
+        <honour></honour>
+        <score>100</score>
+      </achieve>
+      <achieve name="鸡蛋">
+        <achid>90102012</achid>
+        <txt>获得一颗“彩冠鸡仙兽蛋”</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>2</itemindex>
+        <honour></honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="牛也是蛋生的？">
+        <achid>90102013</achid>
+        <txt>获得一颗“旋角仙兽蛋”</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>2</itemindex>
+        <honour></honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="狗蛋！">
+        <achid>90102014</achid>
+        <txt>获得一颗“金丝仙兽蛋”</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>2</itemindex>
+        <honour></honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="巨蛋！">
+        <achid>90102015</achid>
+        <txt>巨蛋！	获得一颗“巨牙仙兽蛋”		 </txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>2</itemindex>
+        <honour></honour>
+        <score>50</score>
+      </achieve>
+    </item>
+    <item id="3" name="服装类" cls="1">
+      <achieve name="哇！新衣服">
+        <achid>90103001</achid>
+        <txt>购买一件时装</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>3</itemindex>
+        <honour></honour>
+        <score>10</score>
+      </achieve>
+      <achieve name="来一套吧！">
+        <achid>90103002</achid>
+        <txt>购买一整套时装</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>3</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="我爱买衣服">
+        <achid>90103003</achid>
+        <txt>购买5套时装</txt>
+        <type>2</type>
+        <classindex>1</classindex>
+        <itemindex>3</itemindex>
+        <honour></honour>
+        <score>80</score>
+      </achieve>
+      <achieve name="购物狂">
+        <achid>90103004</achid>
+        <txt>购买10套时装</txt>
+        <type>2</type>
+        <classindex>1</classindex>
+        <itemindex>3</itemindex>
+        <honour>我是购物狂</honour>
+        <score>120</score>
+      </achieve>
+      <achieve name="时装达人">
+        <achid>90103005</achid>
+        <txt>拥有15套时装</txt>
+        <type>2</type>
+        <classindex>1</classindex>
+        <itemindex>3</itemindex>
+        <honour></honour>
+        <score>150</score>
+      </achieve>
+      <achieve name="混搭很到位">
+        <achid>90103006</achid>
+        <txt>每个部位装备不同套的时装</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>3</itemindex>
+        <honour></honour>
+        <score>60</score>
+      </achieve>
+      <achieve name="清凉一夏">
+        <achid>90103007</achid>
+        <txt>通过擂台积分获得一整套“泳装”时装</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>3</itemindex>
+        <honour></honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="可爱西瓜装(男)">
+        <achid>90103008</achid>
+        <txt>通过小游戏积分获得一整套“西瓜装”时装</txt>
+        <type>3</type>
+        <classindex>1</classindex>
+        <itemindex>3</itemindex>
+        <honour></honour>
+        <score>50</score>
+        <sex>1</sex>
+        <task1>碧纹西瓜帽</task1>
+        <task2>碧纹西瓜衣</task2>
+        <task3>碧纹西瓜鞋</task3>
+      </achieve>
+      <achieve name="身份的象征(男)">
+        <achid>90103009</achid>
+        <txt>获得一整套“礼服装”或者“礼裙装”</txt>
+        <type>3</type>
+        <classindex>1</classindex>
+        <itemindex>3</itemindex>
+        <honour></honour>
+        <score>80</score>
+        <sex>1</sex>
+        <task1>翡翠青逸发</task1>
+        <task2>燕尾黑礼服</task2>
+        <task3>清雅白礼鞋</task3>
+      </achieve>
+      <achieve name="可爱西瓜装(女)">
+        <achid>90103012</achid>
+        <txt>通过小游戏积分获得一整套“西瓜装”时装</txt>
+        <type>3</type>
+        <classindex>1</classindex>
+        <itemindex>3</itemindex>
+        <honour></honour>
+        <score>50</score>
+        <sex>0</sex>
+        <task1>碧纹西瓜帽</task1>
+        <task2>碧纹西瓜衣</task2>
+        <task3>碧纹西瓜鞋</task3>
+      </achieve>
+      <achieve name="身份的象征(女)">
+        <achid>90103013</achid>
+        <txt>获得一整套“礼服装”或者“礼裙装”</txt>
+        <type>3</type>
+        <classindex>1</classindex>
+        <itemindex>3</itemindex>
+        <honour></honour>
+        <score>80</score>
+        <sex>0</sex>
+        <task1>白丝轻花环</task1>
+        <task2>红蝶丝礼裙</task2>
+        <task3>轻柔白礼鞋</task3>
+      </achieve>
+      <achieve name="恶魔的化身！(男)">
+        <achid>90103014</achid>
+        <txt>获得一整套“恶魔套装”</txt>
+        <type>3</type>
+        <classindex>1</classindex>
+        <itemindex>3</itemindex>
+        <honour></honour>
+        <score>80</score>
+        <sex>1</sex>
+        <task1>红魔犄角</task1>
+        <task2>恶魔礼服</task2>
+        <task3>恶梦之翼</task3>
+        <task4>黑魔长靴</task4>
+        <task5>炼狱三叉</task5>
+      </achieve>
+      <achieve name="恶魔的化身！(女)">
+        <achid>90103015</achid>
+        <txt>获得一整套“恶魔套装”</txt>
+        <type>3</type>
+        <classindex>1</classindex>
+        <itemindex>3</itemindex>
+        <honour></honour>
+        <score>80</score>
+        <sex>0</sex>
+        <task1>红魔犄角</task1>
+        <task2>恶魔礼服</task2>
+        <task3>恶梦之翼</task3>
+        <task4>黑魔长靴</task4>
+        <task5>炼狱三叉</task5>
+      </achieve>
+      <achieve name="小龙人(男)">
+        <achid>90103016</achid>
+        <txt>通过VIP商城获得一整套“龙族套装”</txt>
+        <type>3</type>
+        <classindex>1</classindex>
+        <itemindex>3</itemindex>
+        <honour></honour>
+        <score>80</score>
+        <sex>1</sex>
+        <task1>生肖青龙帽</task1>
+        <task2>生肖青龙衣</task2>
+        <task3>生肖青龙鞋</task3>
+        <task4>水龙之杖</task4>
+      </achieve>
+      <achieve name="小龙人(女)">
+        <achid>90103017</achid>
+        <txt>通过VIP商城获得一整套“龙族套装”</txt>
+        <type>3</type>
+        <classindex>1</classindex>
+        <itemindex>3</itemindex>
+        <honour></honour>
+        <score>80</score>
+        <sex>0</sex>
+        <task1>生肖红龙帽</task1>
+        <task2>生肖红龙衣</task2>
+        <task3>生肖红龙鞋</task3>
+        <task4>土龙之杖</task4>
+      </achieve>
+      <achieve name="紫月赤灵(男)">
+        <achid>90103018</achid>
+        <txt>完成任务获得一整套“魔晶战记纪念套装”</txt>
+        <type>3</type>
+        <classindex>1</classindex>
+        <itemindex>3</itemindex>
+        <honour></honour>
+        <score>60</score>
+        <sex>1</sex>
+        <task1>赤灵头带</task1>
+        <task2>赤灵战衣</task2>
+        <task3>赤灵战履</task3>
+      </achieve>
+      <achieve name="紫月赤灵(女)">
+        <achid>90103019</achid>
+        <txt>完成任务获得一整套“魔晶战记纪念套装”</txt>
+        <type>3</type>
+        <classindex>1</classindex>
+        <itemindex>3</itemindex>
+        <honour></honour>
+        <score>60</score>
+        <sex>0</sex>
+        <task1>紫月发卡</task1>
+        <task2>紫月战衣</task2>
+        <task3>紫月战履</task3>
+      </achieve>
+      <achieve name="雷霆变身(男)">
+        <achid>90103020</achid>
+        <txt>获得一整套“雷霆套装”</txt>
+        <type>3</type>
+        <classindex>1</classindex>
+        <itemindex>3</itemindex>
+        <honour></honour>
+        <score>30</score>
+        <sex>1</sex>
+        <task1>伏雷装</task1>
+        <task2>疾雷轻靴</task2>
+        <task3>闪雷短发</task3>
+        <task4>雷霆重剑</task4>
+      </achieve>
+      <achieve name="雷霆变身(女)">
+        <achid>90103021</achid>
+        <txt>获得一整套“雷霆套装”</txt>
+        <type>3</type>
+        <classindex>1</classindex>
+        <itemindex>3</itemindex>
+        <honour></honour>
+        <score>30</score>
+        <sex>0</sex>
+        <task1>伏雷装</task1>
+        <task2>疾雷长靴</task2>
+        <task3>闪雷长发</task3>
+        <task4>闪雷轻剑</task4>
+      </achieve>
+      <achieve name="时尚王者">
+        <achid>90103022</achid>
+        <txt>拥有30套时装</txt>
+        <type>2</type>
+        <classindex>1</classindex>
+        <itemindex>3</itemindex>
+        <honour>时尚王者</honour>
+        <score>250</score>
+      </achieve>
+      <achieve name="星河斗士套装(男)">
+        <achid>90103023</achid>
+        <txt>通过拍卖厅参与竞拍，获得一整套“星河斗士男套装”</txt>
+        <type>3</type>
+        <classindex>1</classindex>
+        <itemindex>3</itemindex>
+        <honour></honour>
+        <score>80</score>
+        <sex>1</sex>
+        <task1>星河短发</task1>
+        <task2>星河战甲</task2>
+        <task3>星河战靴</task3>
+        <task4>星河战弓</task4>
+      </achieve>
+      <achieve name="星河斗士套装(女)">
+        <achid>90103024</achid>
+        <txt>通过拍卖厅参与竞拍，获得一整套“星河斗士女套装”</txt>
+        <type>3</type>
+        <classindex>1</classindex>
+        <itemindex>3</itemindex>
+        <honour></honour>
+        <score>80</score>
+        <sex>0</sex>
+        <task1>星河长发</task1>
+        <task2>星河战甲</task2>
+        <task3>星河战靴</task3>
+        <task4>星河战弓</task4>
+      </achieve>
+      <achieve name="史莱姆梦幻套装(男)">
+        <achid>90103025</achid>
+        <txt>分别于绝品套装大收集A、B、C篇中兑换收集可得</txt>
+        <type>3</type>
+        <classindex>1</classindex>
+        <itemindex>3</itemindex>
+        <honour></honour>
+        <score>80</score>
+        <sex>1</sex>
+        <task1>史莱姆乖萌头饰</task1>
+        <task2>史莱姆宝宝餐衣</task2>
+        <task3>史莱姆卡通勺子</task3>
+        <task4>男表情-奶嘴</task4>
+        <task5>萌萌贱笑包子</task5>
+      </achieve>
+      <achieve name="史莱姆梦幻套装(女)">
+        <achid>90103026</achid>
+        <txt>分别于绝品套装大收集A、B、C篇中兑换收集可得</txt>
+        <type>3</type>
+        <classindex>1</classindex>
+        <itemindex>3</itemindex>
+        <honour></honour>
+        <score>80</score>
+        <sex>0</sex>
+        <task1>史莱姆乖萌头饰</task1>
+        <task2>史莱姆宝宝餐衣</task2>
+        <task3>史莱姆卡通勺子</task3>
+        <task4>女表情-奶嘴</task4>
+        <task5>萌萌贱笑包子</task5>
+      </achieve>
+    </item>
+    <item id="4" name="铜钱类" cls="1">
+      <achieve name="第一桶金">
+        <achid>90104001</achid>
+        <txt>拥有5000铜钱</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>4</itemindex>
+        <honour></honour>
+        <score>10</score>
+      </achieve>
+      <achieve name="积少成多">
+        <achid>90104002</achid>
+        <txt>拥有10000铜钱</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>4</itemindex>
+        <honour></honour>
+        <score>20</score>
+      </achieve>
+      <achieve name="富二代吗？">
+        <achid>90104003</achid>
+        <txt>拥有25000铜钱</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>4</itemindex>
+        <honour></honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="我是有钱人">
+        <achid>90104004</achid>
+        <txt>拥有50000铜钱</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>4</itemindex>
+        <honour></honour>
+        <score>80</score>
+      </achieve>
+      <achieve name="谁能比我富">
+        <achid>90104005</achid>
+        <txt>拥有100000铜钱</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>4</itemindex>
+        <honour></honour>
+        <score>100</score>
+      </achieve>
+      <achieve name="大手大脚花钱">
+        <achid>90104006</achid>
+        <txt>一次性消耗2000铜钱</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>4</itemindex>
+        <honour></honour>
+        <score>10</score>
+      </achieve>
+      <achieve name="眼都不眨一下">
+        <achid>90104007</achid>
+        <txt>一次性消耗5000铜钱</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>4</itemindex>
+        <honour></honour>
+        <score>20</score>
+      </achieve>
+      <achieve name="大财主">
+        <achid>90104008</achid>
+        <txt>拥有300000铜钱</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>4</itemindex>
+        <honour>财神爷</honour>
+        <score>150</score>
+      </achieve>
+      <achieve name="竞拍">
+        <achid>90104009</achid>
+        <txt>去拍卖手册中竞拍一件物品</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>4</itemindex>
+        <honour></honour>
+        <score>20</score>
+      </achieve>
+      <achieve name="成交！">
+        <achid>90104011</achid>
+        <txt>在拍卖手册中成功竞拍得到一件物品（不包括限时大抢拍）</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>4</itemindex>
+        <honour></honour>
+        <score>80</score>
+      </achieve>
+    </item>
+    <item id="5" name="采集类" cls="1">
+      <achieve name="购买采集器">
+        <achid>90105001</achid>
+        <txt>购买聚能火钻和气体吸收机</txt>
+        <type>3</type>
+        <classindex>1</classindex>
+        <itemindex>5</itemindex>
+        <honour></honour>
+        <score>10</score>
+        <task1>聚能火钻</task1>
+        <task2>气体吸收机</task2>
+      </achieve>
+      <achieve name="宝石成堆">
+        <achid>90105004</achid>
+        <txt>获得50颗女娲石</txt>
+        <type>2</type>
+        <classindex>1</classindex>
+        <itemindex>5</itemindex>
+        <honour>女娲石的庇护</honour>
+        <score>150</score>
+      </achieve>
+      <achieve name="天地灵气成堆">
+        <achid>90105007</achid>
+        <txt>拥有100瓶天地灵气</txt>
+        <type>2</type>
+        <classindex>1</classindex>
+        <itemindex>5</itemindex>
+        <honour></honour>
+        <score>100</score>
+      </achieve>
+      <achieve name="兑换洗髓丹">
+        <achid>90105008</achid>
+        <txt>第一次兑换洗髓丹</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>5</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="洗髓丹收藏家">
+        <achid>90105009</achid>
+        <txt>拥有20颗洗髓丹</txt>
+        <type>2</type>
+        <classindex>1</classindex>
+        <itemindex>5</itemindex>
+        <honour></honour>
+        <score>120</score>
+      </achieve>
+      <achieve name="造化丹收藏家">
+        <achid>90105010</achid>
+        <txt>拥有20颗造化丹</txt>
+        <type>2</type>
+        <classindex>1</classindex>
+        <itemindex>5</itemindex>
+        <honour></honour>
+        <score>120</score>
+      </achieve>
+      <achieve name="丹药大师">
+        <achid>90105011</achid>
+        <txt>炼丹等级达到6</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>5</itemindex>
+        <honour>丹药大师</honour>
+        <score>100</score>
+      </achieve>
+      <achieve name="上清宝玉">
+        <achid>90105012</achid>
+        <txt>拥有100块上清宝玉</txt>
+        <type>2</type>
+        <classindex>1</classindex>
+        <itemindex>5</itemindex>
+        <honour></honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="洗髓炼化师">
+        <achid>90105013</achid>
+        <txt>通过炼丹得到10颗洗髓丹</txt>
+        <type>2</type>
+        <classindex>1</classindex>
+        <itemindex>5</itemindex>
+        <honour></honour>
+        <score>120</score>
+      </achieve>
+      <achieve name="造化炼化师">
+        <achid>90105014</achid>
+        <txt>通过炼丹得到10颗造化丹</txt>
+        <type>2</type>
+        <classindex>1</classindex>
+        <itemindex>5</itemindex>
+        <honour></honour>
+        <score>150</score>
+      </achieve>
+      <achieve name="获得九天无双印记">
+        <achid>90105015</achid>
+        <txt>通过无双碎片合成出九天无双印记</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>5</itemindex>
+        <honour></honour>
+        <score>40</score>
+      </achieve>
+      <achieve name="获得霸刀无双印记">
+        <achid>90105016</achid>
+        <txt>通过无双碎片合成出霸刀无双印记</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>5</itemindex>
+        <honour></honour>
+        <score>40</score>
+      </achieve>
+      <achieve name="获得太虚无双印记">
+        <achid>90105017</achid>
+        <txt>通过无双碎片合成出太虚无双印记</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>5</itemindex>
+        <honour></honour>
+        <score>40</score>
+      </achieve>
+      <achieve name="获得焚天无双印记">
+        <achid>90105018</achid>
+        <txt>通过无双碎片合成出焚天无双印记</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>5</itemindex>
+        <honour></honour>
+        <score>40</score>
+      </achieve>
+      <achieve name="获得地煞无双印记">
+        <achid>90105019</achid>
+        <txt>通过无双碎片合成出地煞无双印记</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>5</itemindex>
+        <honour></honour>
+        <score>40</score>
+      </achieve>
+      <achieve name="获得圣殿无双印记">
+        <achid>90105020</achid>
+        <txt>通过无双碎片合成出圣殿无双印记</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>5</itemindex>
+        <honour></honour>
+        <score>40</score>
+      </achieve>
+      <achieve name="获得烈焰无双印记">
+        <achid>90105021</achid>
+        <txt>通过无双碎片合成出烈焰无双印记</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>5</itemindex>
+        <honour></honour>
+        <score>40</score>
+      </achieve>
+      <achieve name="获得紫狱无双印记">
+        <achid>90105022</achid>
+        <txt>通过无双碎片合成出紫狱无双印记</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>5</itemindex>
+        <honour></honour>
+        <score>40</score>
+      </achieve>
+    </item>
+    <item id="6" name="小游戏类" cls="1">
+      <achieve name="通关时空隧道拯救队">
+        <achid>90106001</achid>
+        <txt>通过时空隧道拯救队所有关卡</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>6</itemindex>
+        <honour></honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="通关妖怪分辨测试">
+        <achid>90106002</achid>
+        <txt>通过妖怪分辨测试所有关卡</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>6</itemindex>
+        <honour></honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="通关围堵水鹤">
+        <achid>90106003</achid>
+        <txt>通过围堵水鹤所有关卡</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>6</itemindex>
+        <honour></honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="玩转傲来渔场">
+        <achid>90106004</achid>
+        <txt>玩傲来渔场小游戏获得8000积分</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>6</itemindex>
+        <honour></honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="通关火焰山危机">
+        <achid>90106005</achid>
+        <txt>通过火焰山危机所有关卡</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>6</itemindex>
+        <honour></honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="玩转抢盐大作战">
+        <achid>90106006</achid>
+        <txt>玩抢盐大作战小游戏获得10000积分</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>6</itemindex>
+        <honour></honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="玩转火焰山大冒险">
+        <achid>90106007</achid>
+        <txt>玩火焰山大冒险小游戏获得6000积分</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>6</itemindex>
+        <honour></honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="我有娱乐币">
+        <achid>90106008</achid>
+        <txt>使用铜钱兑换20枚娱乐币</txt>
+        <type>2</type>
+        <classindex>1</classindex>
+        <itemindex>6</itemindex>
+        <honour></honour>
+        <score>10</score>
+      </achieve>
+      <achieve name="你画我猜">
+        <achid>90106009</achid>
+        <txt>参加50次你画我猜联机游戏</txt>
+        <type>2</type>
+        <classindex>1</classindex>
+        <itemindex>6</itemindex>
+        <honour>画画爱好者</honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="地盘争夺战">
+        <achid>90106010</achid>
+        <txt>参加50次地盘争夺战联机游戏</txt>
+        <type>2</type>
+        <classindex>1</classindex>
+        <itemindex>6</itemindex>
+        <honour>爱上争夺战</honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="我的地盘我做主">
+        <achid>90106011</achid>
+        <txt>获得100次地盘争夺战胜利</txt>
+        <type>2</type>
+        <classindex>1</classindex>
+        <itemindex>6</itemindex>
+        <honour>抢地盘牛人</honour>
+        <score>80</score>
+      </achieve>
+      <achieve name="通关西游祖玛">
+        <achid>90106012</achid>
+        <txt>通过西游祖玛所有关卡</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>6</itemindex>
+        <honour></honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="通关孔雀鱼觅食记">
+        <achid>90106013</achid>
+        <txt>通过孔雀鱼觅食记所有关卡</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>6</itemindex>
+        <honour></honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="黄金矿工">
+        <achid>90106014</achid>
+        <txt>参加50次黄金矿工联机游戏</txt>
+        <type>2</type>
+        <classindex>1</classindex>
+        <itemindex>6</itemindex>
+        <honour>开心小矿工</honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="画画高手">
+        <achid>90106015</achid>
+        <txt>在一次你画我猜游戏中获得六朵鲜花</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>6</itemindex>
+        <honour>受欢迎的人</honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="业余画家">
+        <achid>90106016</achid>
+        <txt>在一次你画我猜游戏中获得六颗鸡蛋</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>6</itemindex>
+        <honour>被打击的人</honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="我爱画画">
+        <achid>90106017</achid>
+        <txt>参加100次你画我猜联机游戏</txt>
+        <type>2</type>
+        <classindex>1</classindex>
+        <itemindex>6</itemindex>
+        <honour>专业画家</honour>
+        <score>80</score>
+      </achieve>
+      <achieve name="就爱抢地盘">
+        <achid>90106018</achid>
+        <txt>参加100次地盘争夺战联机游戏</txt>
+        <type>2</type>
+        <classindex>1</classindex>
+        <itemindex>6</itemindex>
+        <honour>就爱抢地盘</honour>
+        <score>80</score>
+      </achieve>
+      <achieve name="地盘霸主">
+        <achid>90106019</achid>
+        <txt>在一次地盘争夺战中比对方多50颗以上棋子获胜</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>6</itemindex>
+        <honour>新一代地王</honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="高级矿工">
+        <achid>90106020</achid>
+        <txt>获得100次黄金矿工第一名</txt>
+        <type>2</type>
+        <classindex>1</classindex>
+        <itemindex>6</itemindex>
+        <honour>黄金包工头</honour>
+        <score>80</score>
+      </achieve>
+      <achieve name="我爱金子">
+        <achid>90106021</achid>
+        <txt>参加单次黄金矿工游戏获得140积分</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>6</itemindex>
+        <honour>掘金者</honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="炫彩拼图">
+        <achid>90106022</achid>
+        <txt>参加100次炫彩拼图联机游戏</txt>
+        <type>2</type>
+        <classindex>1</classindex>
+        <itemindex>6</itemindex>
+        <honour>炫彩会员</honour>
+        <score>80</score>
+      </achieve>
+      <achieve name="合作愉快">
+        <achid>90106023</achid>
+        <txt>在60秒内完成一幅拼图作品</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>6</itemindex>
+        <honour>爱合作的人</honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="泡泡大作战">
+        <achid>90106024</achid>
+        <txt>参加50次泡泡大作战联机游戏</txt>
+        <type>2</type>
+        <classindex>1</classindex>
+        <itemindex>6</itemindex>
+        <honour>泡泡练习者</honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="集中火力">
+        <achid>90106025</achid>
+        <txt>参加100次泡泡大作战联机游戏</txt>
+        <type>2</type>
+        <classindex>1</classindex>
+        <itemindex>6</itemindex>
+        <honour>泡泡杀手</honour>
+        <score>80</score>
+      </achieve>
+      <achieve name="智慧比拼">
+        <achid>90106026</achid>
+        <txt>通过卡布教室的知识小天地参加50场智慧比拼</txt>
+        <type>2</type>
+        <classindex>1</classindex>
+        <itemindex>6</itemindex>
+        <honour></honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="尖子生">
+        <achid>90106027</achid>
+        <txt>通过卡布教室的知识小天地参加100场智慧比拼</txt>
+        <type>2</type>
+        <classindex>1</classindex>
+        <itemindex>6</itemindex>
+        <honour></honour>
+        <score>80</score>
+      </achieve>
+      <achieve name="天才！">
+        <achid>90106028</achid>
+        <txt>参加卡布教室知识小天地的智慧比拼累计达到2W积分</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>6</itemindex>
+        <honour></honour>
+        <score>100</score>
+      </achieve>
+      <achieve name="挖宝行动">
+        <achid>90106029</achid>
+        <txt>参加1次深度掘宝小游戏并得到了宝物</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>6</itemindex>
+        <honour></honour>
+        <score>20</score>
+      </achieve>
+      <achieve name="挖宝专家 ">
+        <achid>90106030</achid>
+        <txt>通过深度掘宝小游戏得到女娲石</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>6</itemindex>
+        <honour></honour>
+        <score>20</score>
+      </achieve>
+      <achieve name="眼力绝佳 ">
+        <achid>90106031</achid>
+        <txt>参加50次记忆卡片联机游戏</txt>
+        <type>2</type>
+        <classindex>1</classindex>
+        <itemindex>6</itemindex>
+        <honour>眼力劳动者</honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="记忆超群">
+        <achid>90106032</achid>
+        <txt>参加100次记忆卡片联机游戏</txt>
+        <type>2</type>
+        <classindex>1</classindex>
+        <itemindex>6</itemindex>
+        <honour>过目不忘的人</honour>
+        <score>80</score>
+      </achieve>
+    </item>
+    <item id="7" name="法术变身类" cls="1">
+      <achieve name="魔晶射线">
+        <achid>90107001</achid>
+        <txt>通过任务获得“魔晶射线”法术</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>7</itemindex>
+        <honour></honour>
+        <score>10</score>
+      </achieve>
+      <achieve name="八爪金龙">
+        <achid>90107002</achid>
+        <txt>通过任务获得“八爪金龙”法术</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>7</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="水弹术">
+        <achid>90107003</achid>
+        <txt>从炫光城购买清洁喷水器获得“水弹术”法术</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>7</itemindex>
+        <honour></honour>
+        <score>20</score>
+      </achieve>
+      <achieve name="化鱼术">
+        <achid>90107004</achid>
+        <txt>通过任务获得“化鱼术”法术</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>7</itemindex>
+        <honour></honour>
+        <score>20</score>
+      </achieve>
+      <achieve name="八戒幻咒">
+        <achid>90107005</achid>
+        <txt>从古怪老仙人那获得“八戒幻咒”法术</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>7</itemindex>
+        <honour></honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="炎火术">
+        <achid>90107006</achid>
+        <txt>从古怪老仙人那获得“炎火术”法术</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>7</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="加我好友">
+        <achid>90107007</achid>
+        <txt>从古怪老仙人那获得“加我好友”法术</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>7</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="快来我的家族吧！">
+        <achid>90107008</achid>
+        <txt>从古怪老仙人那获得“快来我的家族吧！”法术</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>7</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="旋风咒">
+        <achid>90107009</achid>
+        <txt>从古怪老仙人那获得“旋风咒”法术</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>7</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="小强标签">
+        <achid>90107010</achid>
+        <txt>从古怪老仙人那获得“小强标签”法术</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>7</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="五彩烟花">
+        <achid>90107011</achid>
+        <txt>使用一次“五彩烟花”法术</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>7</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="精细鬼之变 ">
+        <achid>90107012</achid>
+        <txt>从古怪老仙人那获得“精细鬼之变”法术</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>7</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="伶俐虫之变">
+        <achid>90107013</achid>
+        <txt>从古怪老仙人那获得“伶俐虫之变”法术 </txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>7</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="雷击术">
+        <achid>90107014</achid>
+        <txt>通过雷霆之门获得“雷击术”法术</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>7</itemindex>
+        <honour></honour>
+        <score>20</score>
+      </achieve>
+    </item>
+    <item id="16" name="师徒类" cls="1">
+      <achieve name="拜师！">
+        <achid>90108001</achid>
+        <txt>成为别人的徒弟！</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>16</itemindex>
+        <honour></honour>
+        <score>10</score>
+      </achieve>
+      <achieve name="收徒！">
+        <achid>90108002</achid>
+        <txt>成为别人的师傅！</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>16</itemindex>
+        <honour></honour>
+        <score>10</score>
+      </achieve>
+      <achieve name="出类拔萃！">
+        <achid>90108003</achid>
+        <txt>达到出师要求，并且顺利出师！</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>16</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="名声远播">
+        <achid>90108004</achid>
+        <txt>顺利从3名师傅出师了！		</txt>
+        <type>2</type>
+        <classindex>1</classindex>
+        <itemindex>16</itemindex>
+        <honour></honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="一代名师！">
+        <achid>90108005</achid>
+        <txt>累计有3名徒弟成功出师！</txt>
+        <type>2</type>
+        <classindex>1</classindex>
+        <itemindex>16</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="桃李满天下！">
+        <achid>90108006</achid>
+        <txt>累计有5名徒弟成功出师！</txt>
+        <type>2</type>
+        <classindex>1</classindex>
+        <itemindex>16</itemindex>
+        <honour></honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="圣师传说！">
+        <achid>90108007</achid>
+        <txt>累计有10名徒弟成功出师！</txt>
+        <type>2</type>
+        <classindex>1</classindex>
+        <itemindex>16</itemindex>
+        <honour></honour>
+        <score>100</score>
+      </achieve>
+      <achieve name="初为人师">
+        <achid>90108008</achid>
+        <txt>拥有的历史感恩值达到2万</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>16</itemindex>
+        <honour></honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="传道授业">
+        <achid>90108009</achid>
+        <txt>拥有的历史感恩值达到10万</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>16</itemindex>
+        <honour></honour>
+        <score>100</score>
+      </achieve>
+      <achieve name="圣贤师尊">
+        <achid>90108010</achid>
+        <txt>拥有的历史感恩值达到20万</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>16</itemindex>
+        <honour></honour>
+        <score>180</score>
+      </achieve>
+    </item>
+    <item id="23" name="家族类" cls="1">
+      <achieve name="家族守护之心">
+        <achid>90605001</achid>
+        <txt>通过“家族宝库”获得1个【童小古】精魄</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>23</itemindex>
+        <honour></honour>
+        <score>40</score>
+      </achieve>
+      <achieve name="家族精英">
+        <achid>90605002</achid>
+        <txt>家族的个人贡献达到1000</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>23</itemindex>
+        <honour></honour>
+        <score>20</score>
+      </achieve>
+      <achieve name="家族护卫者">
+        <achid>90605003</achid>
+        <txt>家族的个人贡献达到5000</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>23</itemindex>
+        <honour></honour>
+        <score>40</score>
+      </achieve>
+      <achieve name="家族拥护者">
+        <achid>90605004</achid>
+        <txt>家族的个人贡献达到20000</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>23</itemindex>
+        <honour>家族拥护者</honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="家族功勋元老">
+        <achid>90605005</achid>
+        <txt>家族的个人贡献达到50000</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>23</itemindex>
+        <honour>家族功勋元老</honour>
+        <score>80</score>
+      </achieve>
+      <achieve name="家族大元帅">
+        <achid>90605006</achid>
+        <txt>家族的个人贡献达到100000</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>23</itemindex>
+        <honour>家族大元帅</honour>
+        <score>120</score>
+      </achieve>
+      <achieve name="家族精神领袖">
+        <achid>90605007</achid>
+        <txt>家族的个人贡献达到200000</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>23</itemindex>
+        <honour>家族精神领袖</honour>
+        <score>180</score>
+      </achieve>
+      <achieve name="家族的抗争之心">
+        <achid>90605008</achid>
+        <txt>通过“家族宝库”获得1个【金小抗】精魄</txt>
+        <type>1</type>
+        <classindex>1</classindex>
+        <itemindex>23</itemindex>
+        <honour></honour>
+        <score>40</score>
+      </achieve>
+      <achieve name="家族五环之徽">
+        <achid>90605009</achid>
+        <txt>获得一整套五环系列的家族徽章</txt>
+        <type>3</type>
+        <classindex>1</classindex>
+        <itemindex>23</itemindex>
+        <honour></honour>
+        <score>120</score>
+        <task1>碧影家族徽章</task1>
+        <task2>紫薰家族勋章</task2>
+        <task3>蓝光家族勋章</task3>
+        <task4>粉俏家族勋章</task4>
+        <task5>金芒家族勋章</task5>
+      </achieve>
+    </item>
+  </class>
+  <class id="2" name="任务成就类">
+    <item id="8" name="任务数量类" cls="2">
+      <achieve name="西游之始">
+        <achid>90201001</achid>
+        <txt>完成1个魔晶战记任务</txt>
+        <type>1</type>
+        <classindex>2</classindex>
+        <itemindex>8</itemindex>
+        <honour></honour>
+        <score>10</score>
+      </achieve>
+      <achieve name="魔晶石">
+        <achid>90201002</achid>
+        <txt>获得30颗魔晶石</txt>
+        <type>2</type>
+        <classindex>2</classindex>
+        <itemindex>8</itemindex>
+        <honour></honour>
+        <score>200</score>
+      </achieve>
+      <achieve name="完成5个日常任务">
+        <achid>90201003</achid>
+        <txt>完成5个日常任务</txt>
+        <type>2</type>
+        <classindex>2</classindex>
+        <itemindex>8</itemindex>
+        <honour></honour>
+        <score>10</score>
+      </achieve>
+      <achieve name="完成50个日常任务">
+        <achid>90201004</achid>
+        <txt>完成50个日常任务</txt>
+        <type>2</type>
+        <classindex>2</classindex>
+        <itemindex>8</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="完成200个日常任务">
+        <achid>90201005</achid>
+        <txt>完成200个日常任务</txt>
+        <type>2</type>
+        <classindex>2</classindex>
+        <itemindex>8</itemindex>
+        <honour></honour>
+        <score>80</score>
+      </achieve>
+      <achieve name="完成500个日常任务">
+        <achid>90201006</achid>
+        <txt>完成500个日常任务</txt>
+        <type>2</type>
+        <classindex>2</classindex>
+        <itemindex>8</itemindex>
+        <honour></honour>
+        <score>180</score>
+      </achieve>
+      <achieve name="八卦灵盘">
+        <achid>90201008</achid>
+        <txt>完成一次八卦灵盘跑环任务</txt>
+        <type>1</type>
+        <classindex>2</classindex>
+        <itemindex>8</itemindex>
+        <honour></honour>
+        <score>10</score>
+      </achieve>
+      <achieve name="跑了一个月">
+        <achid>90201009</achid>
+        <txt>完成30次八卦灵盘跑环任务</txt>
+        <type>2</type>
+        <classindex>2</classindex>
+        <itemindex>8</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+    </item>
+    <item id="9" name="任务目标类" cls="2">
+      <achieve name="打败虎魔王">
+        <achid>90202001</achid>
+        <txt>打败皇城危机任务中的虎魔王</txt>
+        <type>1</type>
+        <classindex>2</classindex>
+        <itemindex>9</itemindex>
+        <honour></honour>
+        <score>20</score>
+      </achieve>
+      <achieve name="大破五行阵">
+        <achid>90202002</achid>
+        <txt>在天崩地裂任务中按照顺序摆好五指山顶的五行阵</txt>
+        <type>1</type>
+        <classindex>2</classindex>
+        <itemindex>9</itemindex>
+        <honour></honour>
+        <score>10</score>
+      </achieve>
+      <achieve name="探索云栈洞">
+        <achid>90202003</achid>
+        <txt>随九齿钉耙任务第一次进入云栈洞</txt>
+        <type>1</type>
+        <classindex>2</classindex>
+        <itemindex>9</itemindex>
+        <honour></honour>
+        <score>10</score>
+      </achieve>
+      <achieve name="生命之树">
+        <achid>90202004</achid>
+        <txt>完成风卷残云任务中的种树环节</txt>
+        <type>1</type>
+        <classindex>2</classindex>
+        <itemindex>9</itemindex>
+        <honour></honour>
+        <score>10</score>
+      </achieve>
+      <achieve name="花千月夏">
+        <achid>90202005</achid>
+        <txt>在镜花水月任务中打败花千月夏</txt>
+        <type>1</type>
+        <classindex>2</classindex>
+        <itemindex>9</itemindex>
+        <honour></honour>
+        <score>20</score>
+      </achieve>
+      <achieve name="白骨精之死">
+        <achid>90202006</achid>
+        <txt>在白骨风暴任务中打败白骨精</txt>
+        <type>1</type>
+        <classindex>2</classindex>
+        <itemindex>9</itemindex>
+        <honour></honour>
+        <score>80</score>
+      </achieve>
+      <achieve name="金角银角">
+        <achid>90202007</achid>
+        <txt>在绝代双角任务中打败金角银角</txt>
+        <type>1</type>
+        <classindex>2</classindex>
+        <itemindex>9</itemindex>
+        <honour></honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="勇闯火云洞">
+        <achid>90202008</achid>
+        <txt>在混世魔童任务中顺利通过火云洞</txt>
+        <type>1</type>
+        <classindex>2</classindex>
+        <itemindex>9</itemindex>
+        <honour></honour>
+        <score>10</score>
+      </achieve>
+      <achieve name="破阵">
+        <achid>90202009</achid>
+        <txt>完成龙宫传说中的破阵环节</txt>
+        <type>1</type>
+        <classindex>2</classindex>
+        <itemindex>9</itemindex>
+        <honour></honour>
+        <score>10</score>
+      </achieve>
+      <achieve name="宿命之谜">
+        <achid>90202010</achid>
+        <txt>在宿命的羁绊任务中拼好甲骨记书</txt>
+        <type>1</type>
+        <classindex>2</classindex>
+        <itemindex>9</itemindex>
+        <honour></honour>
+        <score>10</score>
+      </achieve>
+      <achieve name="打破封印">
+        <achid>90202011</achid>
+        <txt>在宿命对决任务中成功解救冲霄和傲天</txt>
+        <type>1</type>
+        <classindex>2</classindex>
+        <itemindex>9</itemindex>
+        <honour></honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="通关密码">
+        <achid>90202013</achid>
+        <txt>在摘椰子的老猴任务中顺利解开石碣的对联</txt>
+        <type>1</type>
+        <classindex>2</classindex>
+        <itemindex>9</itemindex>
+        <honour></honour>
+        <score>10</score>
+      </achieve>
+      <achieve name="太上令">
+        <achid>90202016</achid>
+        <txt>完成太上令！飞天之路系列任务</txt>
+        <type>1</type>
+        <classindex>2</classindex>
+        <itemindex>9</itemindex>
+        <honour></honour>
+        <score>20</score>
+      </achieve>
+      <achieve name="养家糊口">
+        <achid>90202017</achid>
+        <txt>通过任务获得10000铜钱</txt>
+        <type>2</type>
+        <classindex>2</classindex>
+        <itemindex>9</itemindex>
+        <honour></honour>
+        <score>20</score>
+      </achieve>
+      <achieve name="10倍">
+        <achid>90202018</achid>
+        <txt>通过八卦灵盘任务获得10倍经验奖励</txt>
+        <type>1</type>
+        <classindex>2</classindex>
+        <itemindex>9</itemindex>
+        <honour></honour>
+        <score>20</score>
+      </achieve>
+      <achieve name="三清殿戏国师">
+        <achid>90202020</achid>
+        <txt>完成《车迟怪谈》任务</txt>
+        <type>1</type>
+        <classindex>2</classindex>
+        <itemindex>9</itemindex>
+        <honour></honour>
+        <score>10</score>
+      </achieve>
+      <achieve name="斗法？谁怕谁！">
+        <achid>90202021</achid>
+        <txt>完成《车迟斗法》任务中隔空猜物小游戏</txt>
+        <type>1</type>
+        <classindex>2</classindex>
+        <itemindex>9</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="挑战云穹精">
+        <achid>90202022</achid>
+        <txt>在云穹精任务中打败云穹精</txt>
+        <type>1</type>
+        <classindex>2</classindex>
+        <itemindex>9</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="不屈战魂">
+        <achid>90202023</achid>
+        <txt>在《不屈战魂》任务中打败黄金傀将</txt>
+        <type>1</type>
+        <classindex>2</classindex>
+        <itemindex>9</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="红色印记">
+        <achid>90202024</achid>
+        <txt>在《红色印记》任务中解开大树封印之谜</txt>
+        <type>1</type>
+        <classindex>2</classindex>
+        <itemindex>9</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="真相大白">
+        <achid>90202025</achid>
+        <txt>完成《斗法降妖》主线任务</txt>
+        <type>1</type>
+        <classindex>2</classindex>
+        <itemindex>9</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="序幕与突破">
+        <achid>90202026</achid>
+        <txt>完成《序幕与突破》任务</txt>
+        <type>1</type>
+        <classindex>2</classindex>
+        <itemindex>9</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="宝剑归来 ">
+        <achid>90202027</achid>
+        <txt>完成《失去的记忆-重铸剑体》任务</txt>
+        <type>1</type>
+        <classindex>2</classindex>
+        <itemindex>9</itemindex>
+        <honour></honour>
+        <score>20</score>
+      </achieve>
+      <achieve name="通天之变">
+        <achid>90202028</achid>
+        <txt>完成《通天之变》主线任务</txt>
+        <type>1</type>
+        <classindex>2</classindex>
+        <itemindex>9</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="十方俱灭">
+        <achid>90202029</achid>
+        <txt>完成《傲天秘技》任务</txt>
+        <type>1</type>
+        <classindex>2</classindex>
+        <itemindex>9</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="灵体合一">
+        <achid>90202030</achid>
+        <txt>完成《逝去的与留下的》任务</txt>
+        <type>1</type>
+        <classindex>2</classindex>
+        <itemindex>9</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="再见冰蓝贝">
+        <achid>90202031</achid>
+        <txt>完成《魂石传说（上）》主线任务		 </txt>
+        <type>1</type>
+        <classindex>2</classindex>
+        <itemindex>9</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="噬魂归来">
+        <achid>90202032</achid>
+        <txt>完成《白骨山探秘》任务</txt>
+        <type>1</type>
+        <classindex>2</classindex>
+        <itemindex>9</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="收服！紫灵儿">
+        <achid>90202033</achid>
+        <txt>完成《魂石传说（下）》主线任务</txt>
+        <type>1</type>
+        <classindex>2</classindex>
+        <itemindex>9</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="卡布试炼">
+        <achid>90202034</achid>
+        <txt>完成《紫月赤灵》主线任务</txt>
+        <type>1</type>
+        <classindex>2</classindex>
+        <itemindex>9</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="金兜奇遇">
+        <achid>90202035</achid>
+        <txt>完成《金兜奇遇》主线任务</txt>
+        <type>1</type>
+        <classindex>2</classindex>
+        <itemindex>9</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="金兜劫难">
+        <achid>90202036</achid>
+        <txt>完成《金兜劫难》主线任务</txt>
+        <type>1</type>
+        <classindex>2</classindex>
+        <itemindex>9</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="如意真仙">
+        <achid>90202037</achid>
+        <txt>完成《如意真仙》主线任务</txt>
+        <type>1</type>
+        <classindex>2</classindex>
+        <itemindex>9</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="蝎子精之死">
+        <achid>90202038</achid>
+        <txt>完成《桃花情劫》主线任务</txt>
+        <type>1</type>
+        <classindex>2</classindex>
+        <itemindex>9</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="真假美猴王">
+        <achid>90202039</achid>
+        <txt>完成《猕猴混世》主线任务</txt>
+        <type>1</type>
+        <classindex>2</classindex>
+        <itemindex>9</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="降服！六耳猕猴">
+        <achid>90202040</achid>
+        <txt>完成《佛前问罪》主线任务</txt>
+        <type>1</type>
+        <classindex>2</classindex>
+        <itemindex>9</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="烈火焚天">
+        <achid>90202041</achid>
+        <txt>完成《烈火焚天》主线任务</txt>
+        <type>1</type>
+        <classindex>2</classindex>
+        <itemindex>9</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="通过火焰山！">
+        <achid>90202042</achid>
+        <txt>完成《炎阳之雨》主线任务</txt>
+        <type>1</type>
+        <classindex>2</classindex>
+        <itemindex>9</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="佛宝冤劫">
+        <achid>90202043</achid>
+        <txt>完成《佛宝冤劫》主线任务</txt>
+        <type>1</type>
+        <classindex>2</classindex>
+        <itemindex>9</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="击败九头怪！">
+        <achid>90202044</achid>
+        <txt>完成《深潭降妖》主线任务</txt>
+        <type>1</type>
+        <classindex>2</classindex>
+        <itemindex>9</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="奇遇仙翁">
+        <achid>90202045</achid>
+        <txt>完成《奇遇仙翁》主线任务</txt>
+        <type>1</type>
+        <classindex>2</classindex>
+        <itemindex>9</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="获得！冰蓝贝">
+        <achid>90202046</achid>
+        <txt>完成《通灵河贝》主线任务</txt>
+        <type>1</type>
+        <classindex>2</classindex>
+        <itemindex>9</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="蓝星橙月">
+        <achid>90202047</achid>
+        <txt>完成《蓝星橙月》主线任务</txt>
+        <type>1</type>
+        <classindex>2</classindex>
+        <itemindex>9</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="战胜黄眉大王！">
+        <achid>90202048</achid>
+        <txt>完成《笑佛擒妖》主线任务</txt>
+        <type>1</type>
+        <classindex>2</classindex>
+        <itemindex>9</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="驼罗蟒怪">
+        <achid>90202049</achid>
+        <txt>完成《驼罗蟒怪》主线任务</txt>
+        <type>1</type>
+        <classindex>2</classindex>
+        <itemindex>9</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="计盗金铃">
+        <achid>90202050</achid>
+        <txt>完成《计盗金铃》主线任务</txt>
+        <type>1</type>
+        <classindex>2</classindex>
+        <itemindex>9</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="击败黄花观主！">
+        <achid>90202051</achid>
+        <txt>完成《祸起盘丝》主线任务</txt>
+        <type>1</type>
+        <classindex>2</classindex>
+        <itemindex>9</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="收服狮驼三魔">
+        <achid>90202052</achid>
+        <txt>完成《三妖显相》主线任务</txt>
+        <type>1</type>
+        <classindex>2</classindex>
+        <itemindex>9</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="擒妖正主">
+        <achid>90202053</achid>
+        <txt>完成《擒妖正主》主线任务</txt>
+        <type>1</type>
+        <classindex>2</classindex>
+        <itemindex>9</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="降服金鼻白毛老鼠精！">
+        <achid>90202054</achid>
+        <txt>完成《鼠妖现形》主线任务</txt>
+        <type>1</type>
+        <classindex>2</classindex>
+        <itemindex>9</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="规劝灭法国国王">
+        <achid>90202055</achid>
+        <txt>完成《灭法惊魂》主线任务</txt>
+        <type>1</type>
+        <classindex>2</classindex>
+        <itemindex>9</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+    </item>
+  </class>
+  <class id="3" name="探索成就类">
+    <item id="10" name="任务目标类" cls="3">
+      <achieve name="探索月光号">
+        <achid>90301001</achid>
+        <txt>探索月光号所有区域</txt>
+        <type>3</type>
+        <classindex>3</classindex>
+        <itemindex>10</itemindex>
+        <honour></honour>
+        <score>30</score>
+        <task1>驾驶舱</task1>
+        <task2>超时空舱</task2>
+        <task3>宠物房</task3>
+        <task4>资源舱</task4>
+        <task5>炫光城</task5>
+        <task6>研究院</task6>
+        <task7>军事厅</task7>
+        <task8>档案室</task8>
+        <task9>能源转换舱</task9>
+        <task10>娱乐城</task10>
+        <task11>电影院</task11>
+        <task12>教室</task12>
+        <task13></task13>
+      </achieve>
+      <achieve name="探索大唐区域">
+        <achid>90301002</achid>
+        <txt>探索大唐所有区域</txt>
+        <type>3</type>
+        <classindex>3</classindex>
+        <itemindex>10</itemindex>
+        <honour></honour>
+        <score>20</score>
+        <task1>长安城</task1>
+        <task2>双叉岭</task2>
+        <task3>五指山</task3>
+        <task4>五指山顶</task4>
+        <task5>皇宫</task5>
+        <task6>炼丹阁</task6>
+      </achieve>
+      <achieve name="探索大唐边境区域">
+        <achid>90301003</achid>
+        <txt>探索大唐边境所有区域</txt>
+        <type>3</type>
+        <classindex>3</classindex>
+        <itemindex>10</itemindex>
+        <honour></honour>
+        <score>20</score>
+        <task1>蛇盘山</task1>
+        <task2>黑风山</task2>
+        <task3>云栈洞</task3>
+        <task4>高老庄</task4>
+      </achieve>
+      <achieve name="探索乌斯藏国区域">
+        <achid>90301004</achid>
+        <txt>探索乌斯藏国所有区域</txt>
+        <type>3</type>
+        <classindex>3</classindex>
+        <itemindex>10</itemindex>
+        <honour></honour>
+        <score>20</score>
+        <task1>乌斯藏国国都</task1>
+        <task2>黄风岭</task2>
+        <task3>白骨山</task3>
+        <task4>流沙河</task4>
+      </achieve>
+      <achieve name="探索宝象国区域">
+        <achid>90301005</achid>
+        <txt>探索宝象国所有区域</txt>
+        <type>3</type>
+        <classindex>3</classindex>
+        <itemindex>10</itemindex>
+        <honour></honour>
+        <score>20</score>
+        <task1>黑松林</task1>
+        <task2>平顶山</task2>
+        <task3>宝象国国都</task3>
+      </achieve>
+      <achieve name="探索乌鸡国区域">
+        <achid>90301006</achid>
+        <txt>探索乌鸡国所有区域</txt>
+        <type>3</type>
+        <classindex>3</classindex>
+        <itemindex>10</itemindex>
+        <honour></honour>
+        <score>20</score>
+        <task1>枯松涧</task1>
+        <task2>黑水河</task2>
+        <task3>乌鸡国国都</task3>
+      </achieve>
+      <achieve name="探索车迟国区域">
+        <achid>90301007</achid>
+        <txt>探索车迟国所有区域</txt>
+        <type>3</type>
+        <classindex>3</classindex>
+        <itemindex>10</itemindex>
+        <honour></honour>
+        <score>20</score>
+        <task1>车迟国都</task1>
+        <task2>通天河</task2>
+        <task3>车迟山</task3>
+        <task4>金兜山</task4>
+      </achieve>
+      <achieve name="探索女儿国区域">
+        <achid>90301008</achid>
+        <txt>探索女儿国所有区域</txt>
+        <type>3</type>
+        <classindex>3</classindex>
+        <itemindex>10</itemindex>
+        <honour></honour>
+        <score>20</score>
+        <task1>子母河</task1>
+        <task2>毒敌山</task2>
+        <task3>女儿国国都</task3>
+      </achieve>
+      <achieve name="探索火焰山区域">
+        <achid>90301009</achid>
+        <txt>探索火焰山所有区域</txt>
+        <type>3</type>
+        <classindex>3</classindex>
+        <itemindex>10</itemindex>
+        <honour></honour>
+        <score>20</score>
+        <task1>火焰山入口</task1>
+        <task2>烈焰峡谷</task2>
+        <task3>炎阳之地</task3>
+      </achieve>
+      <achieve name="探索祭赛国区域">
+        <achid>90301010</achid>
+        <txt>探索祭赛国所有区域</txt>
+        <type>3</type>
+        <classindex>3</classindex>
+        <itemindex>10</itemindex>
+        <honour></honour>
+        <score>20</score>
+        <task1>乱石山</task1>
+        <task2>荆棘岭</task2>
+        <task3>七绝山</task3>
+        <task4>祭赛国国都</task4>
+      </achieve>
+      <achieve name="探索朱紫国区域">
+        <achid>90301011</achid>
+        <txt>探索朱紫国所有区域</txt>
+        <type>3</type>
+        <classindex>3</classindex>
+        <itemindex>10</itemindex>
+        <honour></honour>
+        <score>20</score>
+        <task1>麒麟山</task1>
+        <task2>盘丝岭</task2>
+        <task3>蜈蚣岭</task3>
+        <task4>朱紫国国都</task4>
+      </achieve>
+      <achieve name="世界探索者">
+        <achid>90301012</achid>
+        <txt>完成所有地图探索成就获得</txt>
+        <type>3</type>
+        <classindex>3</classindex>
+        <itemindex>10</itemindex>
+        <honour>探索者</honour>
+        <score>50</score>
+        <task1>探索月光号</task1>
+        <task2>探索大唐区域</task2>
+        <task3>探索大唐边境区域</task3>
+        <task4>探索乌斯藏国区域</task4>
+        <task5>探索宝象国区域</task5>
+        <task6>探索乌鸡国区域</task6>
+        <task7>探索车迟国区域</task7>
+        <task8>探索女儿国区域</task8>
+        <task9>探索火焰山区域</task9>
+        <task10>探索祭赛国区域</task10>
+        <task11>探索朱紫国区域</task11>
+      </achieve>
+      <achieve name="探索东海区域">
+        <achid>90301013</achid>
+        <txt>探索东海所有区域</txt>
+        <type>3</type>
+        <classindex>3</classindex>
+        <itemindex>10</itemindex>
+        <honour></honour>
+        <score>20</score>
+        <task1>傲来海岸</task1>
+        <task2>东海</task2>
+        <task3>珊瑚礁</task3>
+        <task4>深海裂谷</task4>
+        <task5>龙宫</task5>
+      </achieve>
+      <achieve name="探索花果山区域">
+        <achid>90301014</achid>
+        <txt>探索花果山所有区域</txt>
+        <type>3</type>
+        <classindex>3</classindex>
+        <itemindex>10</itemindex>
+        <honour></honour>
+        <score>20</score>
+        <task1>演武场</task1>
+        <task2>花果山</task2>
+        <task3>水帘洞</task3>
+        <task4>碧水洞天</task4>
+      </achieve>
+      <achieve name="探索狮驼国区域">
+        <achid>90301015</achid>
+        <txt>探索狮驼国所有区域</txt>
+        <type>3</type>
+        <classindex>3</classindex>
+        <itemindex>10</itemindex>
+        <honour></honour>
+        <score>60</score>
+        <task1>狮驼国国都</task1>
+        <task2>云雷城</task2>
+        <task3>云雷墟</task3>
+        <task4>狮驼岭</task4>
+        <task5>狮驼洞</task5>
+        <task6>后洞</task6>
+      </achieve>
+      <achieve name="探索比丘国区域">
+        <achid>90301016</achid>
+        <txt>探索比丘国所有区域</txt>
+        <type>3</type>
+        <classindex>3</classindex>
+        <itemindex>10</itemindex>
+        <honour></honour>
+        <score>70</score>
+        <task1>比丘国国都</task1>
+        <task2>金殿</task2>
+        <task3>圣光神庙</task3>
+        <task4>陷空山</task4>
+        <task5>无底洞</task5>
+        <task6>清华洞</task6>
+        <task7>天王山</task7>
+        <task8>柳林坡</task8>
+        <task9>镇海寺</task9>
+      </achieve>
+      <achieve name="探索灭法国区域">
+        <achid>90301017</achid>
+        <txt>探索灭法国所有区域</txt>
+        <type>3</type>
+        <classindex>3</classindex>
+        <itemindex>10</itemindex>
+        <honour></honour>
+        <score>80</score>
+        <task1>灭法国国都</task1>
+        <task2>宫殿</task2>
+        <task3>凤仙郡</task3>
+        <task4>达摩遗址</task4>
+        <task5>折岳连环洞</task5>
+        <task6>隐雾山</task6>
+        <task7>隐雾山崖底</task7>
+        <task8>蓬莱镇</task8>
+      </achieve>
+      <achieve name="探索北俱庐州区域">
+        <achid>90301018</achid>
+        <txt>探索北俱庐州所有区域</txt>
+        <type>3</type>
+        <classindex>3</classindex>
+        <itemindex>10</itemindex>
+        <honour></honour>
+        <score>40</score>
+        <task1>太古神境</task1>
+        <task2>晨暮冰川</task2>
+        <task3>独龙崖</task3>
+        <task4>寒冰谷</task4>
+      </achieve>
+      <achieve name="探索地府区域">
+        <achid>90301019</achid>
+        <txt>探索地府所有区域</txt>
+        <type>3</type>
+        <classindex>3</classindex>
+        <itemindex>10</itemindex>
+        <honour></honour>
+        <score>40</score>
+        <task1>鬼门关</task1>
+        <task2>黄泉路</task2>
+        <task3>忘川河</task3>
+        <task4>内殿</task4>
+        <task5>阎王殿</task5>
+      </achieve>
+      <achieve name="探索封神岛区域">
+        <achid>90301020</achid>
+        <txt>探索封神岛所有区域</txt>
+        <type>3</type>
+        <classindex>3</classindex>
+        <itemindex>10</itemindex>
+        <honour></honour>
+        <score>40</score>
+        <task1>锁灵谷</task1>
+        <task2>超能幻境</task2>
+        <task3>封神岭</task3>
+        <task4>星空堡垒</task4>
+        <task5>神木林</task5>
+      </achieve>
+      <achieve name="探索活动乐园">
+        <achid>90301021</achid>
+        <txt>探索活动乐园</txt>
+        <type>1</type>
+        <classindex>3</classindex>
+        <itemindex>10</itemindex>
+        <honour></honour>
+        <score>10</score>
+      </achieve>
+    </item>
+  </class>
+  <class id="4" name="战斗成就类">
+    <item id="11" name="玩家PK类" cls="4">
+      <achieve name="PK胜利">
+        <achid>90401001</achid>
+        <txt>完成一次玩家对战（擂台、大乱斗除外）并获得胜利</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>11</itemindex>
+        <honour></honour>
+        <score>10</score>
+      </achieve>
+      <achieve name="单挑王者">
+        <achid>90401002</achid>
+        <txt>完成100次玩家对战（擂台、大乱斗除外）并获得胜利</txt>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>11</itemindex>
+        <honour></honour>
+        <score>80</score>
+      </achieve>
+      <achieve name="差不多无敌了">
+        <achid>90401003</achid>
+        <txt>完成500次玩家对战（擂台、大乱斗除外）并获得胜利</txt>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>11</itemindex>
+        <honour></honour>
+        <score>180</score>
+      </achieve>
+      <achieve name="打擂台">
+        <achid>90401004</achid>
+        <txt>完成一次擂台挑战并且获得胜利</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>11</itemindex>
+        <honour></honour>
+        <score>15</score>
+      </achieve>
+      <achieve name="屹立不倒">
+        <achid>90401005</achid>
+        <txt>蝉联20场擂台擂主</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>11</itemindex>
+        <honour></honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="擂台王者">
+        <achid>90401006</achid>
+        <txt>蝉联100场擂台擂主</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>11</itemindex>
+        <honour></honour>
+        <score>150</score>
+      </achieve>
+      <achieve name="永不言败">
+        <achid>90401007</achid>
+        <txt>挑战100次擂台擂主</txt>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>11</itemindex>
+        <honour></honour>
+        <score>60</score>
+      </achieve>
+      <achieve name="大乱斗">
+        <achid>90401008</achid>
+        <txt>参加一次大乱斗</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>11</itemindex>
+        <honour></honour>
+        <score>10</score>
+      </achieve>
+      <achieve name="知己知彼">
+        <achid>90401009</achid>
+        <txt>参加100次大乱斗</txt>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>11</itemindex>
+        <honour></honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="大乱斗常客">
+        <achid>90401010</achid>
+        <txt>参加500次大乱斗</txt>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>11</itemindex>
+        <honour></honour>
+        <score>180</score>
+      </achieve>
+      <achieve name="新兵报到">
+        <achid>90401011</achid>
+        <txt>同一场战场战斗中击败1个敌人 </txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>11</itemindex>
+        <honour></honour>
+        <score>20</score>
+      </achieve>
+      <achieve name="战场杀手">
+        <achid>90401012</achid>
+        <txt>同一场战场战斗中击败5个敌人</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>11</itemindex>
+        <honour></honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="战场鬼见愁">
+        <achid>90401013</achid>
+        <txt>同一场战场战斗中击败10个敌人</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>11</itemindex>
+        <honour></honour>
+        <score>80</score>
+      </achieve>
+      <achieve name="疯狂收割机">
+        <achid>90401014</achid>
+        <txt>同一场战场战斗中击败20个敌人</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>11</itemindex>
+        <honour>冷血杀手</honour>
+        <score>150</score>
+      </achieve>
+      <achieve name="将军！">
+        <achid>90401015</achid>
+        <txt>击败一个战场首领</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>11</itemindex>
+        <honour></honour>
+        <score>20</score>
+      </achieve>
+      <achieve name="擒贼先擒王">
+        <achid>90401016</achid>
+        <txt>同一场战场战斗中击败5次战场首领</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>11</itemindex>
+        <honour></honour>
+        <score>80</score>
+      </achieve>
+      <achieve name="战神">
+        <achid>90401017</achid>
+        <txt>同一场战场战斗中击败10次战场首领</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>11</itemindex>
+        <honour>战神</honour>
+        <score>150</score>
+      </achieve>
+      <achieve name="速战速决">
+        <achid>90401018</achid>
+        <txt>3分钟内获得战场胜利</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>11</itemindex>
+        <honour></honour>
+        <score>130</score>
+      </achieve>
+      <achieve name="百胜将军">
+        <achid>90401019</achid>
+        <txt>累计100场战场胜利</txt>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>11</itemindex>
+        <honour></honour>
+        <score>180</score>
+      </achieve>
+      <achieve name="屡败屡战">
+        <achid>90401020</achid>
+        <txt>累计100场战场失败</txt>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>11</itemindex>
+        <honour></honour>
+        <score>160</score>
+      </achieve>
+      <achieve name="所向无敌">
+        <achid>90401021</achid>
+        <txt>获得200场战场胜利</txt>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>11</itemindex>
+        <honour></honour>
+        <score>250</score>
+      </achieve>
+      <achieve name="惊天战神">
+        <achid>90401022</achid>
+        <txt>获得500场战场胜利</txt>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>11</itemindex>
+        <honour>惊天战神</honour>
+        <score>300</score>
+      </achieve>
+      <achieve name="常胜将军">
+        <achid>90401023</achid>
+        <txt>完成1000次玩家对战（擂台、大乱斗除外）并获得胜利</txt>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>11</itemindex>
+        <honour>常胜将军</honour>
+        <score>250</score>
+      </achieve>
+    </item>
+    <item id="12" name="妖怪战斗类" cls="4">
+      <achieve name="大唐勇士">
+        <achid>90402001</achid>
+        <txt>杀死长安城区域妖怪100只</txt>
+        <txt2>有效区域：双叉岭、五指山、五指山顶</txt2>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>12</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="大唐王者">
+        <achid>90402002</achid>
+        <txt>杀死长安城区域妖怪500只</txt>
+        <txt2>有效区域：双叉岭、五指山、五指山顶</txt2>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>12</itemindex>
+        <honour></honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="大唐边境勇士">
+        <achid>90402003</achid>
+        <txt>杀死大唐边境区域妖怪100只</txt>
+        <txt2>有效区域：高老庄、云栈洞、黑风山、蛇盘山</txt2>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>12</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="大唐边境王者">
+        <achid>90402004</achid>
+        <txt>杀死大唐边境区域妖怪500只</txt>
+        <txt2>有效区域：高老庄、云栈洞、黑风山、蛇盘山</txt2>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>12</itemindex>
+        <honour></honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="乌斯藏国勇士">
+        <achid>90402005</achid>
+        <txt>杀死乌斯藏国区域妖怪100只</txt>
+        <txt2>有效区域：乌斯藏国国都、黄风岭、流沙河、白骨山</txt2>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>12</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="乌斯藏国王者">
+        <achid>90402006</achid>
+        <txt>杀死乌斯藏国区域妖怪500只</txt>
+        <txt2>有效区域：乌斯藏国国都、黄风岭、流沙河、白骨山</txt2>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>12</itemindex>
+        <honour></honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="宝象国勇士">
+        <achid>90402007</achid>
+        <txt>杀死宝象国区域妖怪100只</txt>
+        <txt2>有效区域：宝象国国都、黑松林、平顶山</txt2>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>12</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="宝象国王者">
+        <achid>90402008</achid>
+        <txt>杀死宝象国区域妖怪500只</txt>
+        <txt2>有效区域：宝象国国都、黑松林、平顶山</txt2>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>12</itemindex>
+        <honour></honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="乌鸡国勇士">
+        <achid>90402009</achid>
+        <txt>杀死乌鸡国区域妖怪100只</txt>
+        <txt2>有效区域：乌鸡国国都、枯松涧、黑水河</txt2>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>12</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="乌鸡国王者">
+        <achid>90402010</achid>
+        <txt>杀死乌鸡国区域妖怪500只</txt>
+        <txt2>有效区域：乌鸡国国都、枯松涧、黑水河</txt2>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>12</itemindex>
+        <honour></honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="车迟国勇士">
+        <achid>90402011</achid>
+        <txt>杀死车迟国区域妖怪100只</txt>
+        <txt2>有效区域：车迟国国都、金兜山、通天河、车迟山</txt2>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>12</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="车迟国王者">
+        <achid>90402012</achid>
+        <txt>杀死车迟国区域妖怪500只</txt>
+        <txt2>有效区域：车迟国国都、金兜山、通天河、车迟山</txt2>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>12</itemindex>
+        <honour></honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="女儿国勇士">
+        <achid>90402013</achid>
+        <txt>杀死女儿国区域妖怪100只</txt>
+        <txt2>有效区域：女儿国国都、毒敌山、子母河</txt2>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>12</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="女儿国王者">
+        <achid>90402014</achid>
+        <txt>杀死女儿国区域妖怪500只</txt>
+        <txt2>有效区域：女儿国国都、毒敌山、子母河</txt2>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>12</itemindex>
+        <honour></honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="火焰山勇士">
+        <achid>90402015</achid>
+        <txt>杀死火焰山区域妖怪100只</txt>
+        <txt2>有效区域：火焰山入口、烈焰峡谷、炎阳之地</txt2>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>12</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="火焰山王者">
+        <achid>90402016</achid>
+        <txt>杀死火焰山区域妖怪500只</txt>
+        <txt2>有效区域：火焰山入口、烈焰峡谷、炎阳之地</txt2>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>12</itemindex>
+        <honour></honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="祭赛国勇士">
+        <achid>90402017</achid>
+        <txt>杀死祭赛国区域妖怪100只</txt>
+        <txt2>有效区域：祭赛国国都、七绝山、荆棘岭、乱石山</txt2>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>12</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="祭赛国王者">
+        <achid>90402018</achid>
+        <txt>杀死祭赛国区域妖怪500只</txt>
+        <txt2>有效区域：祭赛国国都、七绝山、荆棘岭、乱石山</txt2>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>12</itemindex>
+        <honour></honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="朱紫国勇士">
+        <achid>90402019</achid>
+        <txt>杀死朱紫国区域妖怪100只</txt>
+        <txt2>有效区域：朱紫国国都、蜈蚣岭、盘丝岭、麒麟山</txt2>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>12</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="朱紫国王者">
+        <achid>90402020</achid>
+        <txt>杀死朱紫国区域妖怪500只</txt>
+        <txt2>有效区域：朱紫国国都、蜈蚣岭、盘丝岭、麒麟山</txt2>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>12</itemindex>
+        <honour></honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="西游小勇士">
+        <achid>90402021</achid>
+        <txt>完成所有地图“勇士”成就</txt>
+        <type>3</type>
+        <classindex>4</classindex>
+        <itemindex>12</itemindex>
+        <honour></honour>
+        <score>30</score>
+        <task1>大唐勇士</task1>
+        <task2>大唐边境勇士</task2>
+        <task3>乌斯藏国勇士</task3>
+        <task4>宝象国勇士</task4>
+        <task5>乌鸡国勇士</task5>
+        <task6>车迟国勇士</task6>
+        <task7>女儿国勇士</task7>
+        <task8>火焰山勇士</task8>
+        <task9>祭赛国勇士</task9>
+        <task10>朱紫国勇士</task10>
+      </achieve>
+      <achieve name="西游大将军">
+        <achid>90402022</achid>
+        <txt>完成所有地图“王者”成就</txt>
+        <type>3</type>
+        <classindex>4</classindex>
+        <itemindex>12</itemindex>
+        <honour>西游大将军</honour>
+        <score>50</score>
+        <task1>大唐王者</task1>
+        <task2>大唐边境王者</task2>
+        <task3>乌斯藏国王者</task3>
+        <task4>宝象国王者</task4>
+        <task5>乌鸡国王者</task5>
+        <task6>车迟国王者</task6>
+        <task7>女儿国王者</task7>
+        <task8>火焰山王者</task8>
+        <task9>祭赛国王者</task9>
+        <task10>朱紫国王者</task10>
+        <task11></task11>
+      </achieve>
+      <achieve name="黄金杀手">
+        <achid>90402023</achid>
+        <txt>杀死500只金属性妖怪</txt>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>12</itemindex>
+        <honour></honour>
+        <score>60</score>
+      </achieve>
+      <achieve name="朽木杀手">
+        <achid>90402024</achid>
+        <txt>杀死500只木属性妖怪</txt>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>12</itemindex>
+        <honour></honour>
+        <score>60</score>
+      </achieve>
+      <achieve name="腹水杀手">
+        <achid>90402025</achid>
+        <txt>杀死500只水属性妖怪</txt>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>12</itemindex>
+        <honour></honour>
+        <score>60</score>
+      </achieve>
+      <achieve name="狂火杀手">
+        <achid>90402026</achid>
+        <txt>杀死500只火属性妖怪</txt>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>12</itemindex>
+        <honour></honour>
+        <score>60</score>
+      </achieve>
+      <achieve name="厚土杀手">
+        <achid>90402027</achid>
+        <txt>杀死500只土属性妖怪</txt>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>12</itemindex>
+        <honour></honour>
+        <score>60</score>
+      </achieve>
+      <achieve name="邪妖杀手">
+        <achid>90402028</achid>
+        <txt>杀死500只妖属性妖怪</txt>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>12</itemindex>
+        <honour></honour>
+        <score>60</score>
+      </achieve>
+      <achieve name="血魔杀手">
+        <achid>90402029</achid>
+        <txt>杀死500只魔属性妖怪</txt>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>12</itemindex>
+        <honour></honour>
+        <score>60</score>
+      </achieve>
+      <achieve name="飞翼杀手">
+        <achid>90402030</achid>
+        <txt>杀死500只翼属性妖怪</txt>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>12</itemindex>
+        <honour></honour>
+        <score>60</score>
+      </achieve>
+      <achieve name="古怪杀手">
+        <achid>90402031</achid>
+        <txt>杀死500只怪属性妖怪</txt>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>12</itemindex>
+        <honour></honour>
+        <score>60</score>
+      </achieve>
+      <achieve name="神风杀手">
+        <achid>90402032</achid>
+        <txt>杀死500只风属性妖怪</txt>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>12</itemindex>
+        <honour></honour>
+        <score>60</score>
+      </achieve>
+      <achieve name="全能杀手">
+        <achid>90402033</achid>
+        <txt>完成所有属性“杀手”成就</txt>
+        <type>3</type>
+        <classindex>4</classindex>
+        <itemindex>12</itemindex>
+        <honour>全能杀手</honour>
+        <score>50</score>
+        <task1>黄金杀手</task1>
+        <task2>朽木杀手</task2>
+        <task3>腹水杀手</task3>
+        <task4>狂火杀手</task4>
+        <task5>厚土杀手</task5>
+        <task6>邪妖杀手</task6>
+        <task7>血魔杀手</task7>
+        <task8>飞翼杀手</task8>
+        <task9>古怪杀手</task9>
+        <task10>神风杀手</task10>
+      </achieve>
+      <achieve name="东海勇士">
+        <achid>90402034</achid>
+        <txt>杀死东海区域妖怪100只</txt>
+        <txt2>有效区域：傲来海岸、东海、珊瑚礁、龙宫、深海裂谷</txt2>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>12</itemindex>
+        <honour></honour>
+        <score>60</score>
+      </achieve>
+      <achieve name="东海王者">
+        <achid>90402035</achid>
+        <txt>杀死东海区域妖怪500只</txt>
+        <txt2>有效区域：傲来海岸、东海、珊瑚礁、龙宫、深海裂谷</txt2>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>12</itemindex>
+        <honour></honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="天宫勇士">
+        <achid>90402036</achid>
+        <txt>杀死天宫区域妖怪100只</txt>
+        <txt2>有效区域：南天门</txt2>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>12</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="天宫王者">
+        <achid>90402037</achid>
+        <txt>杀死天宫区域妖怪500只</txt>
+        <txt2>有效区域：南天门</txt2>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>12</itemindex>
+        <honour></honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="满星杀手">
+        <achid>90402038</achid>
+        <txt>于敬佛堂内击败1个满星妖怪</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>12</itemindex>
+        <honour></honour>
+        <score>20</score>
+      </achieve>
+      <achieve name="满星收割者">
+        <achid>90402039</achid>
+        <txt>于敬佛堂内击败5个满星妖怪</txt>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>12</itemindex>
+        <honour></honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="满星碾压者">
+        <achid>90402040</achid>
+        <txt>于敬佛堂内击败20个满星妖怪</txt>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>12</itemindex>
+        <honour></honour>
+        <score>80</score>
+      </achieve>
+      <achieve name="狮驼国勇士">
+        <achid>90402041</achid>
+        <txt>杀死狮驼国区域妖怪100只</txt>
+        <txt2>有效区域：后洞、云雷墟、狮驼岭、狮驼洞、狮驼国国度</txt2>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>12</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="狮驼国王者">
+        <achid>90402042</achid>
+        <txt>杀死狮驼国区域妖怪500只</txt>
+        <txt2>有效区域：后洞、云雷墟、狮驼岭、狮驼洞、狮驼国国度</txt2>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>12</itemindex>
+        <honour></honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="比丘国勇士">
+        <achid>90402043</achid>
+        <txt>杀死比丘国区域妖怪100只</txt>
+        <txt2>有效区域：圣光神庙、金殿、陷空山、比丘国国都、柳林坡、天王山、无底洞、镇海寺、清华洞</txt2>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>12</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="比丘国王者">
+        <achid>90402044</achid>
+        <txt>杀死比丘国区域妖怪500只</txt>
+        <txt2>有效区域：圣光神庙、金殿、陷空山、比丘国国都、柳林坡、天王山、无底洞、镇海寺、清华洞</txt2>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>12</itemindex>
+        <honour></honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="灭法国勇士">
+        <achid>90402045</achid>
+        <txt>杀死灭法国区域妖怪100只</txt>
+        <txt2>有效区域：宫殿、凤仙郡、达摩遗址、灭法国国都、蓬莱镇、隐雾山底崖、隐雾山、折岳连环洞</txt2>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>12</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="灭法国王者">
+        <achid>90402046</achid>
+        <txt>杀死灭法国区域妖怪500只</txt>
+        <txt2>有效区域：宫殿、凤仙郡、达摩遗址、灭法国国都、蓬莱镇、隐雾山底崖、隐雾山、折岳连环洞</txt2>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>12</itemindex>
+        <honour></honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="北俱庐州勇士">
+        <achid>90402047</achid>
+        <txt>杀死北俱庐州区域妖怪100只</txt>
+        <txt2>有效区域：太古神境、独龙崖、寒冰谷、晨幕冰川</txt2>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>12</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="北俱庐州王者">
+        <achid>90402048</achid>
+        <txt>杀死北俱庐州区域妖怪500只</txt>
+        <txt2>有效区域：太古神境、独龙崖、寒冰谷、晨幕冰川</txt2>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>12</itemindex>
+        <honour></honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="地府勇士">
+        <achid>90402049</achid>
+        <txt>杀死地府区域妖怪100只</txt>
+        <txt2>有效区域：鬼门关、黄泉路、阎王殿、忘川河、内殿</txt2>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>12</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="地府王者">
+        <achid>90402050</achid>
+        <txt>杀死地府区域妖怪500只</txt>
+        <txt2>有效区域：鬼门关、黄泉路、阎王殿、忘川河、内殿</txt2>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>12</itemindex>
+        <honour></honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="封神岛勇士">
+        <achid>90402051</achid>
+        <txt>杀死封神岛区域妖怪100只</txt>
+        <txt2>有效区域：神木林、星空堡垒、超能幻境、锁灵谷、封神岭</txt2>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>12</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="封神岛王者">
+        <achid>90402052</achid>
+        <txt>杀死封神岛区域妖怪500只</txt>
+        <txt2>有效区域：神木林、星空堡垒、超能幻境、锁灵谷、封神岭</txt2>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>12</itemindex>
+        <honour></honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="活动乐园王者">
+        <achid>90402053</achid>
+        <txt>杀死活动乐园区域妖怪100只</txt>
+        <txt2>有效区域：活动乐园</txt2>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>12</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="活动乐园王者">
+        <achid>90402054</achid>
+        <txt>杀死活动乐园区域妖怪500只</txt>
+        <txt2>有效区域：活动乐园</txt2>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>12</itemindex>
+        <honour></honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="演武场勇士">
+        <achid>90402055</achid>
+        <txt>杀死演武场区域妖怪100只</txt>
+        <txt2>有效区域：花果山、演武场</txt2>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>12</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="演武场王者">
+        <achid>90402056</achid>
+        <txt>杀死演武场区域妖怪500只</txt>
+        <txt2>有效区域：花果山、演武场</txt2>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>12</itemindex>
+        <honour></honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="毒辣杀手">
+        <achid>90402057</achid>
+        <txt>杀死500只毒属性妖怪</txt>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>12</itemindex>
+        <honour></honour>
+        <score>60</score>
+      </achieve>
+      <achieve name="闪雷杀手">
+        <achid>90402058</achid>
+        <txt>杀死500只雷属性妖怪</txt>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>12</itemindex>
+        <honour></honour>
+        <score>60</score>
+      </achieve>
+      <achieve name="梦幻杀手">
+        <achid>90402059</achid>
+        <txt>杀死500只幻属性妖怪</txt>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>12</itemindex>
+        <honour></honour>
+        <score>60</score>
+      </achieve>
+      <achieve name="霜冰杀手">
+        <achid>90402060</achid>
+        <txt>杀死500只冰属性妖怪</txt>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>12</itemindex>
+        <honour></honour>
+        <score>60</score>
+      </achieve>
+      <achieve name="异灵杀手">
+        <achid>90402061</achid>
+        <txt>杀死500只灵属性妖怪</txt>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>12</itemindex>
+        <honour></honour>
+        <score>60</score>
+      </achieve>
+      <achieve name="机械杀手">
+        <achid>90402062</achid>
+        <txt>杀死500只机械属性妖怪</txt>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>12</itemindex>
+        <honour></honour>
+        <score>60</score>
+      </achieve>
+      <achieve name="火风杀手">
+        <achid>90402063</achid>
+        <txt>杀死500只火风属性妖怪</txt>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>12</itemindex>
+        <honour></honour>
+        <score>80</score>
+      </achieve>
+      <achieve name="木灵杀手">
+        <achid>90402064</achid>
+        <txt>杀死500只木灵属性妖怪</txt>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>12</itemindex>
+        <honour></honour>
+        <score>80</score>
+      </achieve>
+      <achieve name="至圣杀手">
+        <achid>90402065</achid>
+        <txt>杀死500只圣属性妖怪</txt>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>12</itemindex>
+        <honour></honour>
+        <score>80</score>
+      </achieve>
+      <achieve name="土幻杀手">
+        <achid>90402066</achid>
+        <txt>杀死500只土幻属性妖怪</txt>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>12</itemindex>
+        <honour></honour>
+        <score>80</score>
+      </achieve>
+    </item>
+    <item id="13" name="BOSS战斗类" cls="4">
+      <achieve name="新手的试炼">
+        <achid>90403001</achid>
+        <txt>通关新手试炼副本</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour></honour>
+        <score>20</score>
+      </achieve>
+      <achieve name="万妖洞探险">
+        <achid>90403002</achid>
+        <txt>挑战万妖洞30层并打败金甲剑狮</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="深入洞穴">
+        <achid>90403003</achid>
+        <txt>挑战万妖洞35层并打败绿刺蝠卫</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour></honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="金甲剑狮">
+        <achid>90403004</achid>
+        <txt>击败金甲剑狮</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour></honour>
+        <score>20</score>
+      </achieve>
+      <achieve name="巨木将军">
+        <achid>90403005</achid>
+        <txt>击败巨木将军</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour></honour>
+        <score>20</score>
+      </achieve>
+      <achieve name="赤炎鸟">
+        <achid>90403006</achid>
+        <txt>击败赤炎鸟</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour></honour>
+        <score>45</score>
+      </achieve>
+      <achieve name="海龙马">
+        <achid>90403007</achid>
+        <txt>击败海龙马</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour></honour>
+        <score>100</score>
+      </achieve>
+      <achieve name="冥图古犀">
+        <achid>90403008</achid>
+        <txt>击败冥图古犀</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour></honour>
+        <score>60</score>
+      </achieve>
+      <achieve name="傲天">
+        <achid>90403009</achid>
+        <txt>击败傲天</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour></honour>
+        <score>80</score>
+      </achieve>
+      <achieve name="冲霄">
+        <achid>90403010</achid>
+        <txt>击败冲霄</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour></honour>
+        <score>80</score>
+      </achieve>
+      <achieve name="紫云太岁">
+        <achid>90403011</achid>
+        <txt>击败紫云太岁</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="绿刺蝠卫">
+        <achid>90403012</achid>
+        <txt>击败绿刺蝠卫</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour></honour>
+        <score>60</score>
+      </achieve>
+      <achieve name="夜刃闪">
+        <achid>90403013</achid>
+        <txt>击败夜刃闪</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour></honour>
+        <score>60</score>
+      </achieve>
+      <achieve name="大王的宿敌">
+        <achid>90403015</achid>
+        <txt>完成所有BOSS“击败”成就</txt>
+        <type>3</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour>大王的宿敌</honour>
+        <score>50</score>
+        <task1>金甲剑狮</task1>
+        <task2>巨木将军</task2>
+        <task3>赤炎鸟</task3>
+        <task4>海龙马</task4>
+        <task5>冥图古犀</task5>
+        <task6>傲天</task6>
+        <task7>冲霄</task7>
+        <task8>紫云太岁</task8>
+        <task9>绿刺蝠卫</task9>
+        <task10>夜刃闪</task10>
+      </achieve>
+      <achieve name="悲剧的金甲剑狮">
+        <achid>90403016</achid>
+        <txt>击败金甲剑狮100次</txt>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour></honour>
+        <score>100</score>
+      </achieve>
+      <achieve name="悲剧的巨木将军">
+        <achid>90403017</achid>
+        <txt>击败巨木将军100次</txt>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour></honour>
+        <score>100</score>
+      </achieve>
+      <achieve name="悲剧的赤炎鸟">
+        <achid>90403018</achid>
+        <txt>击败赤炎鸟100次</txt>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour></honour>
+        <score>100</score>
+      </achieve>
+      <achieve name="悲剧的海龙马">
+        <achid>90403019</achid>
+        <txt>击败海龙马100次</txt>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour></honour>
+        <score>140</score>
+      </achieve>
+      <achieve name="悲剧的冥图古犀">
+        <achid>90403020</achid>
+        <txt>击败冥图古犀100次</txt>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour></honour>
+        <score>120</score>
+      </achieve>
+      <achieve name="悲剧的傲天">
+        <achid>90403021</achid>
+        <txt>击败傲天100次</txt>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour></honour>
+        <score>180</score>
+      </achieve>
+      <achieve name="悲剧的冲霄">
+        <achid>90403022</achid>
+        <txt>击败冲霄100次</txt>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour></honour>
+        <score>180</score>
+      </achieve>
+      <achieve name="悲剧的紫云太岁">
+        <achid>90403023</achid>
+        <txt>击败紫云太岁100次</txt>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour></honour>
+        <score>100</score>
+      </achieve>
+      <achieve name="悲剧的绿刺蝠卫">
+        <achid>90403024</achid>
+        <txt>击败绿刺蝠卫100次</txt>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour></honour>
+        <score>100</score>
+      </achieve>
+      <achieve name="悲剧的夜刃闪">
+        <achid>90403025</achid>
+        <txt>击败夜刃闪100次</txt>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour></honour>
+        <score>140</score>
+      </achieve>
+      <achieve name="开天辟地 唯我独尊">
+        <achid>90403027</achid>
+        <txt>完成所有BOSS“100次击败”成就</txt>
+        <type>3</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour>唯我独尊</honour>
+        <score>80</score>
+        <task1>悲剧的金甲剑狮</task1>
+        <task2>悲剧的巨木将军</task2>
+        <task3>悲剧的赤炎鸟</task3>
+        <task4>悲剧的海龙马</task4>
+        <task5>悲剧的冥图古犀</task5>
+        <task6>悲剧的傲天</task6>
+        <task7>悲剧的冲霄</task7>
+        <task8>悲剧的紫云太岁</task8>
+        <task9>悲剧的绿刺蝠卫</task9>
+        <task10>悲剧的夜刃闪</task10>
+      </achieve>
+      <achieve name="双台谷立威">
+        <achid>90403028</achid>
+        <txt>挑战双台谷20层并打败蓝羽大仙</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour></honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="蓝羽大仙">
+        <achid>90403029</achid>
+        <txt>击败蓝羽大仙</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour></honour>
+        <score>60</score>
+      </achieve>
+      <achieve name="悲剧的蓝羽大仙">
+        <achid>90403030</achid>
+        <txt>击败蓝羽大仙100次</txt>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour></honour>
+        <score>120</score>
+      </achieve>
+      <achieve name="百毒不侵">
+        <achid>90403031</achid>
+        <txt>挑战万妖洞45层并打败九幽看守者 </txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour></honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="九幽看守者">
+        <achid>90403032</achid>
+        <txt>击败九幽看守者</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour></honour>
+        <score>60</score>
+      </achieve>
+      <achieve name="悲剧的九幽看守者">
+        <achid>90403033</achid>
+        <txt>击败九幽看守者100次</txt>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour></honour>
+        <score>120</score>
+      </achieve>
+      <achieve name="双台谷探秘">
+        <achid>90403034</achid>
+        <txt>挑战双台谷30层并打败噬魂</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour></honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="噬魂">
+        <achid>90403035</achid>
+        <txt>击败噬魂</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour></honour>
+        <score>80</score>
+      </achieve>
+      <achieve name="深渊之雷">
+        <achid>90403036</achid>
+        <txt>挑战万妖洞60层并打败惊雷大仙</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour></honour>
+        <score>80</score>
+      </achieve>
+      <achieve name="通关！千回岛！">
+        <achid>90403037</achid>
+        <txt>顺利通过千回岛千回长者的考验</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour></honour>
+        <score>80</score>
+      </achieve>
+      <achieve name="惊雷大仙">
+        <achid>90403038</achid>
+        <txt>击败惊雷大仙</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour></honour>
+        <score>60</score>
+      </achieve>
+      <achieve name="悲剧的惊雷大仙">
+        <achid>90403039</achid>
+        <txt>击败惊雷大仙100次</txt>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour></honour>
+        <score>150</score>
+      </achieve>
+      <achieve name="冰龙神">
+        <achid>90403040</achid>
+        <txt>击败冰龙神</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour></honour>
+        <score>60</score>
+      </achieve>
+      <achieve name="悲剧的冰龙神">
+        <achid>90403041</achid>
+        <txt>击败冰龙神100次</txt>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour></honour>
+        <score>150</score>
+      </achieve>
+      <achieve name="永夜王">
+        <achid>90403042</achid>
+        <txt>击败永夜王</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour></honour>
+        <score>60</score>
+      </achieve>
+      <achieve name="悲剧的永夜王">
+        <achid>90403043</achid>
+        <txt>击败永夜王100次</txt>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour></honour>
+        <score>150</score>
+      </achieve>
+      <achieve name="超能战神">
+        <achid>90403044</achid>
+        <txt>击败超能战神</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour></honour>
+        <score>60</score>
+      </achieve>
+      <achieve name="时空终结者">
+        <achid>90403046</achid>
+        <txt>击败时空终结者</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour></honour>
+        <score>60</score>
+      </achieve>
+      <achieve name="星风赤子">
+        <achid>90403048</achid>
+        <txt>击败星风赤子</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour></honour>
+        <score>60</score>
+      </achieve>
+      <achieve name="天威守护者">
+        <achid>90403049</achid>
+        <txt>击败天威守护者</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour></honour>
+        <score>60</score>
+      </achieve>
+      <achieve name="星际巡航者">
+        <achid>90403050</achid>
+        <txt>击败星际巡航者</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour></honour>
+        <score>100</score>
+      </achieve>
+      <achieve name="悲剧的星际巡航者">
+        <achid>90403051</achid>
+        <txt>击败星际巡航者100次</txt>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour></honour>
+        <score>180</score>
+      </achieve>
+      <achieve name="灵萝仙姬">
+        <achid>90403052</achid>
+        <txt>击败灵萝仙姬</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour></honour>
+        <score>60</score>
+      </achieve>
+      <achieve name="焚天战魂">
+        <achid>90403053</achid>
+        <txt>击败焚天战魂</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour></honour>
+        <score>100</score>
+      </achieve>
+      <achieve name="悲剧的焚天战魂">
+        <achid>90403054</achid>
+        <txt>击败焚天战魂100次</txt>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour></honour>
+        <score>180</score>
+      </achieve>
+      <achieve name="圣光天尊">
+        <achid>90403055</achid>
+        <txt>击败圣光天尊（真身）</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour></honour>
+        <score>120</score>
+      </achieve>
+      <achieve name="悲剧的圣光天尊">
+        <achid>90403056</achid>
+        <txt>击败圣光天尊（真身）100次</txt>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour></honour>
+        <score>250</score>
+      </achieve>
+      <achieve name="青辉武神">
+        <achid>90403057</achid>
+        <txt>击败青辉武神</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour></honour>
+        <score>100</score>
+      </achieve>
+      <achieve name="悲剧的青辉武神">
+        <achid>90403058</achid>
+        <txt>击败青辉武神100次</txt>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour></honour>
+        <score>180</score>
+      </achieve>
+      <achieve name="亘古守护者">
+        <achid>90403059</achid>
+        <txt>击败亘古守护者</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour></honour>
+        <score>80</score>
+      </achieve>
+      <achieve name="凄惨的亘古守护者">
+        <achid>90403060</achid>
+        <txt>击败亘古守护者50次</txt>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour></honour>
+        <score>120</score>
+      </achieve>
+      <achieve name="抗古守护者 ">
+        <achid>90403061</achid>
+        <txt>击败抗古守护者</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour></honour>
+        <score>80</score>
+      </achieve>
+      <achieve name="凄惨的抗古守护者">
+        <achid>90403062</achid>
+        <txt>击败抗古守护者50次</txt>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour></honour>
+        <score>120</score>
+      </achieve>
+      <achieve name="终古守护者 ">
+        <achid>90403063</achid>
+        <txt>击败终古守护者</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour></honour>
+        <score>80</score>
+      </achieve>
+      <achieve name="凄惨的终古守护者">
+        <achid>90403064</achid>
+        <txt>击败终古守护者50次</txt>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour></honour>
+        <score>120</score>
+      </achieve>
+      <achieve name="远古毁灭者">
+        <achid>90403065</achid>
+        <txt>击败远古毁灭者</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour></honour>
+        <score>80</score>
+      </achieve>
+      <achieve name="凄惨的远古毁灭者">
+        <achid>90403066</achid>
+        <txt>击败远古毁灭者50次</txt>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour></honour>
+        <score>120</score>
+      </achieve>
+      <achieve name="家族守护神之屈服">
+        <achid>90403067</achid>
+        <txt>完成终古、远古、亘古、抗古“50次击败”成就</txt>
+        <type>3</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour></honour>
+        <score>180</score>
+        <task1>凄惨的终古守护者</task1>
+        <task2>凄惨的远古毁灭者</task2>
+        <task3>凄惨的亘古守护者</task3>
+        <task4>凄惨的抗古守护者</task4>
+      </achieve>
+      <achieve name="挑战幻岩剑尊">
+        <achid>90403068</achid>
+        <txt>打败幻岩剑尊获得“乖乖”</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour></honour>
+        <score>110</score>
+      </achieve>
+      <achieve name="悲剧的幻岩剑尊">
+        <achid>90403069</achid>
+        <txt>击败幻岩剑尊100次</txt>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour></honour>
+        <score>200</score>
+      </achieve>
+      <achieve name="击败贪婪之罪">
+        <achid>90403070</achid>
+        <txt>击败贪婪猿罪</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour></honour>
+        <score>10</score>
+      </achieve>
+      <achieve name="悲剧的贪婪猿罪">
+        <achid>90403071</achid>
+        <txt>击败贪婪猿罪100次</txt>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour></honour>
+        <score>80</score>
+      </achieve>
+      <achieve name="击败暴怒之罪">
+        <achid>90403072</achid>
+        <txt>击败暴怒猿罪</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour></honour>
+        <score>10</score>
+      </achieve>
+      <achieve name="悲剧的暴怒猿罪">
+        <achid>90403073</achid>
+        <txt>击败暴怒猿罪100次</txt>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour></honour>
+        <score>100</score>
+      </achieve>
+      <achieve name="击败霸道之罪">
+        <achid>90403074</achid>
+        <txt>击败霸道猿罪</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour></honour>
+        <score>10</score>
+      </achieve>
+      <achieve name="悲剧的霸道猿罪">
+        <achid>90403075</achid>
+        <txt>击败霸道猿罪100次</txt>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour></honour>
+        <score>100</score>
+      </achieve>
+      <achieve name="击败冥河之罪">
+        <achid>90403076</achid>
+        <txt>击败冥河猿罪</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour></honour>
+        <score>10</score>
+      </achieve>
+      <achieve name="悲剧的冥河猿罪">
+        <achid>90403077</achid>
+        <txt>击败冥河猿罪100次</txt>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour></honour>
+        <score>80</score>
+      </achieve>
+      <achieve name="挑战双头暴君">
+        <achid>90403078</achid>
+        <txt>打败双头暴君获得“双头龙”</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour></honour>
+        <score>110</score>
+      </achieve>
+      <achieve name="悲剧的双头暴君">
+        <achid>90403079</achid>
+        <txt>击败双头暴君100次</txt>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour></honour>
+        <score>200</score>
+      </achieve>
+      <achieve name="挑战东岳大帝">
+        <achid>90403080</achid>
+        <txt>打败东岳大帝获得“东岳君”</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour></honour>
+        <score>110</score>
+      </achieve>
+      <achieve name="悲剧的东岳大帝">
+        <achid>90403081</achid>
+        <txt>击败东岳大帝100次</txt>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour></honour>
+        <score>200</score>
+      </achieve>
+      <achieve name="挑战正神黄天化">
+        <achid>90403082</achid>
+        <txt>打败正神黄天化获得“幼灵黄天化”</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour></honour>
+        <score>110</score>
+      </achieve>
+      <achieve name="悲剧的正神黄天化">
+        <achid>90403083</achid>
+        <txt>击败正神黄天化100次</txt>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour></honour>
+        <score>200</score>
+      </achieve>
+      <achieve name="挑战正神黄天禄">
+        <achid>90403084</achid>
+        <txt>打败正神黄天禄获得“幼灵黄天禄”</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour></honour>
+        <score>110</score>
+      </achieve>
+      <achieve name="悲剧的正神黄天禄">
+        <achid>90403085</achid>
+        <txt>击败正神黄天禄100次</txt>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour></honour>
+        <score>200</score>
+      </achieve>
+      <achieve name="挑战正神黄天祥">
+        <achid>90403086</achid>
+        <txt>打败正神黄天禄获得“幼灵黄天祥”</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour></honour>
+        <score>110</score>
+      </achieve>
+      <achieve name="悲剧的正神黄天祥">
+        <achid>90403087</achid>
+        <txt>击败正神黄天祥100次</txt>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour></honour>
+        <score>200</score>
+      </achieve>
+      <achieve name="天猷元帅">
+        <achid>90403088</achid>
+        <txt>打败天猷元帅获得“天猷仔”</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour></honour>
+        <score>110</score>
+      </achieve>
+      <achieve name="悲剧的天猷元帅">
+        <achid>90403089</achid>
+        <txt>击败天猷元帅100次</txt>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>13</itemindex>
+        <honour></honour>
+        <score>200</score>
+      </achieve>
+    </item>
+    <item id="17" name="封神之战类" cls="4">
+      <achieve name="脱胎换骨">
+        <achid>90404001</achid>
+        <txt>在封神之战中第一次获得凡人以上的称号。</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>17</itemindex>
+        <honour>不再做凡人</honour>
+        <score>20</score>
+      </achieve>
+      <achieve name="天尊临世">
+        <achid>90404002</achid>
+        <txt>在封神之战中获得“天尊”称号。</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>17</itemindex>
+        <honour>封神之无敌天尊</honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="传奇玄仙">
+        <achid>90404003</achid>
+        <txt>在封神之战中获得“玄仙”称号。</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>17</itemindex>
+        <honour>封神之玄幻仙者</honour>
+        <score>40</score>
+      </achieve>
+      <achieve name="金仙之首">
+        <achid>90404004</achid>
+        <txt>在封神之战中获得“金仙”称号。</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>17</itemindex>
+        <honour>封神之金仙真人</honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="天仙降世">
+        <achid>90404005</achid>
+        <txt>在封神之战中获得“天仙”称号。</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>17</itemindex>
+        <honour>封神之天仙降世</honour>
+        <score>20</score>
+      </achieve>
+      <achieve name="道仙">
+        <achid>90404006</achid>
+        <txt>在封神之战中获得“道仙”称号。</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>17</itemindex>
+        <honour></honour>
+        <score>15</score>
+      </achieve>
+      <achieve name="地仙">
+        <achid>90404007</achid>
+        <txt>在封神之战中获得“地仙”称号。</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>17</itemindex>
+        <honour></honour>
+        <score>10</score>
+      </achieve>
+      <achieve name="散仙">
+        <achid>90404008</achid>
+        <txt>在封神之战中获得“散仙”称号。</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>17</itemindex>
+        <honour></honour>
+        <score>5</score>
+      </achieve>
+      <achieve name="仙帝之王">
+        <achid>90404009</achid>
+        <txt>在封神之战中获得“仙帝”称号。</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>17</itemindex>
+        <honour>封神之仙帝王者</honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="聚灵之仙">
+        <achid>90404010</achid>
+        <txt>在封神之战中获得“灵仙”称号。</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>17</itemindex>
+        <honour>封神之聚灵仙者</honour>
+        <score>40</score>
+      </achieve>
+      <achieve name="太仙真人">
+        <achid>90404011</achid>
+        <txt>在封神之战中获得“太仙”称号。</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>17</itemindex>
+        <honour>封神之太仙真人</honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="得道成仙">
+        <achid>90404012</achid>
+        <txt>在封神之战中获得“神仙”称号。</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>17</itemindex>
+        <honour>封神之得道成仙</honour>
+        <score>20</score>
+      </achieve>
+      <achieve name="真仙">
+        <achid>90404013</achid>
+        <txt>在封神之战中获得“真仙”称号。</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>17</itemindex>
+        <honour></honour>
+        <score>15</score>
+      </achieve>
+      <achieve name="高仙">
+        <achid>90404014</achid>
+        <txt>在封神之战中获得“高仙”称号。</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>17</itemindex>
+        <honour></honour>
+        <score>10</score>
+      </achieve>
+      <achieve name="上仙">
+        <achid>90404015</achid>
+        <txt>在封神之战中获得“上仙”称号。</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>17</itemindex>
+        <honour></honour>
+        <score>5</score>
+      </achieve>
+      <achieve name="重装上阵(男)">
+        <achid>90404017</achid>
+        <txt>成功兑换战神套装。</txt>
+        <type>3</type>
+        <classindex>4</classindex>
+        <itemindex>17</itemindex>
+        <honour>封神之重装上阵</honour>
+        <score>80</score>
+        <sex>1</sex>
+        <task1>战神头盔</task1>
+        <task2>战神盔甲</task2>
+        <task3>战神靴</task3>
+      </achieve>
+      <achieve name="第一次单挑">
+        <achid>90404018</achid>
+        <txt>参加1场单妖怪模式的封神之战。</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>17</itemindex>
+        <honour>封神之勇于单挑</honour>
+        <score>10</score>
+      </achieve>
+      <achieve name="第一次群斗">
+        <achid>90404019</achid>
+        <txt>参加1场多妖怪模式的封神之战。</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>17</itemindex>
+        <honour>封神之群斗无惧</honour>
+        <score>10</score>
+      </achieve>
+      <achieve name="爱上单挑">
+        <achid>90404020</achid>
+        <txt>参加100场单妖怪模式的封神之战。</txt>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>17</itemindex>
+        <honour>封神之单挑控</honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="习惯群斗">
+        <achid>90404021</achid>
+        <txt>参加100场多妖怪模式的封神之战。</txt>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>17</itemindex>
+        <honour>封神之群斗控</honour>
+        <score>70</score>
+      </achieve>
+      <achieve name="战无不胜">
+        <achid>90404026</achid>
+        <txt>在封神之战，取得100场单妖怪模式的胜利。</txt>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>17</itemindex>
+        <honour>封神之战无不胜</honour>
+        <score>80</score>
+      </achieve>
+      <achieve name="攻无不克">
+        <achid>90404027</achid>
+        <txt>在封神之战，取得100场多妖怪模式的胜利。</txt>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>17</itemindex>
+        <honour>封神之攻无不克</honour>
+        <score>120</score>
+      </achieve>
+      <achieve name="独孤求败">
+        <achid>90404028</achid>
+        <txt>在封神之战，取得300场单妖怪模式的胜利。</txt>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>17</itemindex>
+        <honour>封神之独孤求败</honour>
+        <score>120</score>
+      </achieve>
+      <achieve name="封神无敌">
+        <achid>90404029</achid>
+        <txt>在封神之战，取得300场多妖怪模式的胜利。</txt>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>17</itemindex>
+        <honour>封神之无敌尊者</honour>
+        <score>180</score>
+      </achieve>
+      <achieve name="鲜花尊者">
+        <achid>90404030</achid>
+        <txt>在封神之战中累积获得鲜花300朵</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>17</itemindex>
+        <honour>封神之鲜花尊者</honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="崇拜者无数">
+        <achid>90404031</achid>
+        <txt>在封神之战中累积获得崇拜300次</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>17</itemindex>
+        <honour>封神之万众偶像</honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="兑换仙兽蛋">
+        <achid>90404032</achid>
+        <txt>获得一颗拔山仙兽蛋</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>17</itemindex>
+        <honour>封神之仙兽尊者</honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="重装上阵(女)">
+        <achid>90404033</achid>
+        <txt>成功兑换战神套装。</txt>
+        <type>3</type>
+        <classindex>4</classindex>
+        <itemindex>17</itemindex>
+        <honour>封神之重装上阵</honour>
+        <score>80</score>
+        <sex>0</sex>
+        <task1>战神发带</task1>
+        <task2>战神仙袍</task2>
+        <task3>战神仙履</task3>
+      </achieve>
+      <achieve name="绝地武装(男)">
+        <achid>90404039</achid>
+        <txt>成功兑换深蓝勇士装</txt>
+        <type>3</type>
+        <classindex>4</classindex>
+        <itemindex>17</itemindex>
+        <honour>封神之绝地武装</honour>
+        <score>80</score>
+        <sex>1</sex>
+        <task1>勇士头盔</task1>
+        <task2>勇士铠甲</task2>
+        <task3>勇士战靴</task3>
+      </achieve>
+      <achieve name="绝地武装(女)">
+        <achid>90404040</achid>
+        <txt>成功兑换银白巾帼装</txt>
+        <type>3</type>
+        <classindex>4</classindex>
+        <itemindex>17</itemindex>
+        <honour>封神之绝地武装</honour>
+        <score>80</score>
+        <sex>0</sex>
+        <task1>巾帼头盔</task1>
+        <task2>巾帼铠甲</task2>
+        <task3>巾帼战靴</task3>
+      </achieve>
+      <achieve name="战甲附身(男)">
+        <achid>90404041</achid>
+        <txt>成功兑换勇者盔甲套装</txt>
+        <type>3</type>
+        <classindex>4</classindex>
+        <itemindex>17</itemindex>
+        <honour>封神之战甲附身</honour>
+        <score>80</score>
+        <sex>1</sex>
+        <task1>勇者头盔</task1>
+        <task2>勇者盔甲</task2>
+        <task3>勇者战靴</task3>
+      </achieve>
+      <achieve name="战甲附身(女)">
+        <achid>90404042</achid>
+        <txt>成功兑换勇者盔甲套装</txt>
+        <type>3</type>
+        <classindex>4</classindex>
+        <itemindex>17</itemindex>
+        <honour>封神之战甲附身</honour>
+        <score>80</score>
+        <sex>0</sex>
+        <task1>勇者头盔</task1>
+        <task2>勇者盔甲</task2>
+        <task3>勇者战靴</task3>
+      </achieve>
+      <achieve name="赤炎龙血(男)">
+        <achid>90404043</achid>
+        <txt>成功兑换赤炎龙血套装</txt>
+        <type>3</type>
+        <classindex>4</classindex>
+        <itemindex>17</itemindex>
+        <honour>封神之赤炎龙血</honour>
+        <score>80</score>
+        <sex>1</sex>
+        <task1>龙血战盔</task1>
+        <task2>龙血战甲</task2>
+        <task3>龙血战靴</task3>
+      </achieve>
+      <achieve name="赤炎龙血(女)">
+        <achid>90404044</achid>
+        <txt>成功兑换赤炎龙血套装</txt>
+        <type>3</type>
+        <classindex>4</classindex>
+        <itemindex>17</itemindex>
+        <honour>封神之赤炎龙血</honour>
+        <score>80</score>
+        <sex>0</sex>
+        <task1>龙血宝盔</task1>
+        <task2>龙血宝甲</task2>
+        <task3>龙血宝靴</task3>
+      </achieve>
+      <achieve name="封神新秀">
+        <achid>90404045</achid>
+        <txt>参加1届封神之战</txt>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>17</itemindex>
+        <honour>封神之新秀</honour>
+        <score>20</score>
+      </achieve>
+      <achieve name="封神熟人">
+        <achid>90404046</achid>
+        <txt>参加3届封神之战</txt>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>17</itemindex>
+        <honour>封神之百战不殆</honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="封神之常驻客">
+        <achid>90404047</achid>
+        <txt>参加5届封神之战</txt>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>17</itemindex>
+        <honour>横扫千军</honour>
+        <score>80</score>
+      </achieve>
+      <achieve name="游侠之风(男)">
+        <achid>90404049</achid>
+        <txt>成功兑换一套游侠套装</txt>
+        <type>3</type>
+        <classindex>4</classindex>
+        <itemindex>17</itemindex>
+        <honour>游侠之风</honour>
+        <score>80</score>
+        <sex>1</sex>
+        <task1>游侠礼帽</task1>
+        <task2>游侠披风</task2>
+        <task3>游侠皮靴</task3>
+        <task4>正义之剑</task4>
+      </achieve>
+      <achieve name="游侠之风(女)">
+        <achid>90404050</achid>
+        <txt>成功兑换一套游侠套装</txt>
+        <type>3</type>
+        <classindex>4</classindex>
+        <itemindex>17</itemindex>
+        <honour>游侠之风</honour>
+        <score>80</score>
+        <sex>0</sex>
+        <task1>红翎礼帽</task1>
+        <task2>游侠风衣</task2>
+        <task3>游侠女靴</task3>
+        <task4>正义之剑</task4>
+      </achieve>
+      <achieve name="金镶暗战套装♂(男)">
+        <achid>90404051</achid>
+        <txt>在封神之战中成功兑换金镶暗战套装♂</txt>
+        <type>3</type>
+        <classindex>4</classindex>
+        <itemindex>17</itemindex>
+        <honour></honour>
+        <score>120</score>
+        <sex>1</sex>
+        <task1>金镶短型</task1>
+        <task2>金镶暗战衣</task2>
+        <task3>金镶暗战靴</task3>
+        <task4>暗战镰刀</task4>
+        <task5>金镶暗羽</task5>
+      </achieve>
+      <achieve name="金镶暗战套装♀(女)">
+        <achid>90404052</achid>
+        <txt>在封神之战中成功兑换金镶暗战套装♀</txt>
+        <type>3</type>
+        <classindex>4</classindex>
+        <itemindex>17</itemindex>
+        <honour></honour>
+        <score>120</score>
+        <sex>0</sex>
+        <task1>金镶长型</task1>
+        <task2>金镶暗战衣</task2>
+        <task3>金镶暗战靴</task3>
+        <task4>暗战镰刀</task4>
+        <task5>金镶暗羽</task5>
+      </achieve>
+      <achieve name="尊王假面之主">
+        <achid>90404053</achid>
+        <txt>参加封神之战，并获得尊王假面</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>17</itemindex>
+        <honour></honour>
+        <score>100</score>
+      </achieve>
+      <achieve name="超能甲面具之主">
+        <achid>90404054</achid>
+        <txt>参加封神之战，并获得超能甲面具</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>17</itemindex>
+        <honour></honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="星辰之子套装(男)">
+        <achid>90404055</achid>
+        <txt>在封神之战中成功兑换星辰之子套装</txt>
+        <type>3</type>
+        <classindex>4</classindex>
+        <itemindex>17</itemindex>
+        <honour></honour>
+        <score>100</score>
+        <sex>1</sex>
+        <task1>星辰男帽</task1>
+        <task2>星辰男衣</task2>
+        <task3>星辰之鞋</task3>
+        <task4>星辰法杖</task4>
+      </achieve>
+      <achieve name="星辰之女套装(女)">
+        <achid>90404056</achid>
+        <txt>在封神之战中成功兑换星辰之女套装</txt>
+        <type>3</type>
+        <classindex>4</classindex>
+        <itemindex>17</itemindex>
+        <honour></honour>
+        <score>100</score>
+        <sex>0</sex>
+        <task1>星辰女帽</task1>
+        <task2>星辰女衣</task2>
+        <task3>星辰之鞋</task3>
+        <task4>星辰法杖</task4>
+      </achieve>
+    </item>
+    <item id="18" name="讨伐令类" cls="4">
+      <achieve name="参加讨伐1天">
+        <achid>90405001</achid>
+        <txt>与噬天大帝对战1天</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>18</itemindex>
+        <honour></honour>
+        <score>10</score>
+      </achieve>
+      <achieve name="参加讨伐20天">
+        <achid>90405002</achid>
+        <txt>与噬天大帝对战20天</txt>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>18</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="参加讨伐40天">
+        <achid>90405003</achid>
+        <txt>与噬天大帝对战40天</txt>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>18</itemindex>
+        <honour>讨伐勇士</honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="参加讨伐60天">
+        <achid>90405004</achid>
+        <txt>与噬天大帝对战60天</txt>
+        <type>2</type>
+        <classindex>4</classindex>
+        <itemindex>18</itemindex>
+        <honour>讨伐副将</honour>
+        <score>80</score>
+      </achieve>
+      <achieve name="初征讨伐令">
+        <achid>90405006</achid>
+        <txt>当天对噬天大帝造成0.05以上的伤害</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>18</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="讨伐令先锋">
+        <achid>90405007</achid>
+        <txt>在讨伐令中获得排行榜前十名</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>18</itemindex>
+        <honour>讨伐令先锋</honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="讨伐令执掌者">
+        <achid>90405008</achid>
+        <txt>在讨伐令中获得排行榜第一名</txt>
+        <type>1</type>
+        <classindex>4</classindex>
+        <itemindex>18</itemindex>
+        <honour>讨伐令执掌者</honour>
+        <score>80</score>
+      </achieve>
+    </item>
+  </class>
+  <class id="5" name="西游事件成就类">
+    <item id="14" name="节日类" cls="5">
+      <achieve name="猜灯谜">
+        <achid>90501001</achid>
+        <txt>答对10道灯谜</txt>
+        <type>2</type>
+        <classindex>5</classindex>
+        <itemindex>14</itemindex>
+        <honour></honour>
+        <score>10</score>
+      </achieve>
+      <achieve name="学富五车">
+        <achid>90501002</achid>
+        <txt>答对30道灯谜</txt>
+        <type>2</type>
+        <classindex>5</classindex>
+        <itemindex>14</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="文曲星下凡">
+        <achid>90501004</achid>
+        <txt>答对42道灯谜</txt>
+        <type>2</type>
+        <classindex>5</classindex>
+        <itemindex>14</itemindex>
+        <honour>文曲星下凡</honour>
+        <score>80</score>
+      </achieve>
+      <achieve name="月饼中的鸡蛋">
+        <achid>90501005</achid>
+        <txt>使用道具“超级月饼”获得“彩冠鸡仙兽蛋”。</txt>
+        <type>1</type>
+        <classindex>5</classindex>
+        <itemindex>14</itemindex>
+        <honour></honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="月兔？！">
+        <achid>90501006</achid>
+        <txt>使用道具“超级月饼”获得“云兔儿”。</txt>
+        <type>1</type>
+        <classindex>5</classindex>
+        <itemindex>14</itemindex>
+        <honour></honour>
+        <score>20</score>
+      </achieve>
+      <achieve name="节日套装(男)">
+        <achid>90501007</achid>
+        <txt>通过活动获得一整套节日套装</txt>
+        <type>3</type>
+        <classindex>5</classindex>
+        <itemindex>14</itemindex>
+        <honour></honour>
+        <score>80</score>
+        <sex>1</sex>
+        <task1>翡玉儒生巾</task1>
+        <task2>正气经纶袍</task2>
+        <task3>万里踏云靴</task3>
+        <task4>炫彩青岚灯</task4>
+      </achieve>
+      <achieve name="她是嫦娥？">
+        <achid>90501008</achid>
+        <txt>在中秋活动期间与嫦娥仙子对话。</txt>
+        <type>1</type>
+        <classindex>5</classindex>
+        <itemindex>14</itemindex>
+        <honour></honour>
+        <score>10</score>
+      </achieve>
+      <achieve name="中秋赏月！">
+        <achid>90501009</achid>
+        <txt>使用道具“超级月饼”获得“月圆花灯”。</txt>
+        <type>1</type>
+        <classindex>5</classindex>
+        <itemindex>14</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="节日套装(女)">
+        <achid>90501010</achid>
+        <txt>通过活动获得一整套节日套装</txt>
+        <type>3</type>
+        <classindex>5</classindex>
+        <itemindex>14</itemindex>
+        <honour></honour>
+        <score>80</score>
+        <sex>0</sex>
+        <task1>花叶蝴蝶丝</task1>
+        <task2>彩带天仙衣</task2>
+        <task3>千金追月履</task3>
+        <task4>炫彩紫宸灯</task4>
+      </achieve>
+      <achieve name="参与国庆">
+        <achid>90501011</achid>
+        <txt>在活动“太空摘星之旅”中累计上缴二十颗蓝色星星</txt>
+        <type>1</type>
+        <classindex>5</classindex>
+        <itemindex>14</itemindex>
+        <honour></honour>
+        <score>10</score>
+      </achieve>
+      <achieve name="喜迎国庆">
+        <achid>90501012</achid>
+        <txt>在活动“太空摘星之旅”中累计上缴十颗红色星星</txt>
+        <type>1</type>
+        <classindex>5</classindex>
+        <itemindex>14</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="国庆大使">
+        <achid>90501013</achid>
+        <txt>在活动“太空摘星之旅”中上缴一颗金色星星</txt>
+        <type>1</type>
+        <classindex>5</classindex>
+        <itemindex>14</itemindex>
+        <honour></honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="欢乐国庆">
+        <achid>90501014</achid>
+        <txt>在活动“太空摘星之旅”中上交过四种颜色的星星</txt>
+        <type>1</type>
+        <classindex>5</classindex>
+        <itemindex>14</itemindex>
+        <honour>爱国者</honour>
+        <score>80</score>
+      </achieve>
+      <achieve name="变装秀(男)">
+        <achid>90501015</achid>
+        <txt>集齐万圣节南瓜套装</txt>
+        <type>3</type>
+        <classindex>5</classindex>
+        <itemindex>14</itemindex>
+        <honour></honour>
+        <score>50</score>
+        <sex>1</sex>
+        <task1>万圣节南瓜头</task1>
+        <task2>万圣节暗披风</task2>
+        <task3>万圣节暗影鞋</task3>
+      </achieve>
+      <achieve name="变装秀(女)">
+        <achid>90501016</achid>
+        <txt>集齐万圣节南瓜套装</txt>
+        <type>3</type>
+        <classindex>5</classindex>
+        <itemindex>14</itemindex>
+        <honour></honour>
+        <score>50</score>
+        <sex>0</sex>
+        <task1>万圣节女巫帽</task1>
+        <task2>万圣节南瓜裙</task2>
+        <task3>万圣节棕皮靴</task3>
+      </achieve>
+      <achieve name="南瓜怪来袭">
+        <achid>90501017</achid>
+        <txt>获得万圣节的专属节日妖怪</txt>
+        <type>1</type>
+        <classindex>5</classindex>
+        <itemindex>14</itemindex>
+        <honour></honour>
+        <score>20</score>
+      </achieve>
+      <achieve name="军备物资">
+        <achid>90501018</achid>
+        <txt>获得20个南瓜的军备物资</txt>
+        <type>2</type>
+        <classindex>5</classindex>
+        <itemindex>14</itemindex>
+        <honour></honour>
+        <score>10</score>
+      </achieve>
+      <achieve name="大量军备物资">
+        <achid>90501019</achid>
+        <txt>获得100个南瓜的军备物资</txt>
+        <type>2</type>
+        <classindex>5</classindex>
+        <itemindex>14</itemindex>
+        <honour></honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="击败南瓜大王">
+        <achid>90501020</achid>
+        <txt>击败一次南瓜大王</txt>
+        <type>1</type>
+        <classindex>5</classindex>
+        <itemindex>14</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="南瓜大王的噩梦">
+        <achid>90501021</achid>
+        <txt>击败7次南瓜大王</txt>
+        <type>2</type>
+        <classindex>5</classindex>
+        <itemindex>14</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="恩赐之心">
+        <achid>90501022</achid>
+        <txt>喂感恩树9滴晨曦之露</txt>
+        <type>2</type>
+        <classindex>5</classindex>
+        <itemindex>14</itemindex>
+        <honour></honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="辛勤的拜年者">
+        <achid>90501023</achid>
+        <txt>获得50个红包</txt>
+        <type>2</type>
+        <classindex>5</classindex>
+        <itemindex>14</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="新春才子">
+        <achid>90501024</achid>
+        <txt>答对20个春节灯谜</txt>
+        <type>2</type>
+        <classindex>5</classindex>
+        <itemindex>14</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="无影点灯手">
+        <achid>90501025</achid>
+        <txt>发射100次粒子光线点灯笼</txt>
+        <type>2</type>
+        <classindex>5</classindex>
+        <itemindex>14</itemindex>
+        <honour></honour>
+        <score>50</score>
+      </achieve>
+    </item>
+    <item id="15" name="活动类" cls="5">
+      <achieve name="收集一套卡牌">
+        <achid>90502001</achid>
+        <txt>收集任意一套卡牌并领取奖励</txt>
+        <type>2</type>
+        <classindex>5</classindex>
+        <itemindex>15</itemindex>
+        <honour></honour>
+        <score>15</score>
+      </achieve>
+      <achieve name="收集三套卡牌">
+        <achid>90502002</achid>
+        <txt>收集任意三套卡牌并领取奖励</txt>
+        <type>2</type>
+        <classindex>5</classindex>
+        <itemindex>15</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="收集十五套卡牌">
+        <achid>90502003</achid>
+        <txt>收集任意十五套卡牌并领取奖励</txt>
+        <type>2</type>
+        <classindex>5</classindex>
+        <itemindex>15</itemindex>
+        <honour></honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="收集三十套卡牌">
+        <achid>90502004</achid>
+        <txt>收集任意三十套卡牌并领取奖励</txt>
+        <type>2</type>
+        <classindex>5</classindex>
+        <itemindex>15</itemindex>
+        <honour></honour>
+        <score>80</score>
+      </achieve>
+      <achieve name="卡牌之“西天取经”">
+        <achid>90502005</achid>
+        <txt>收集“西天取经”套卡牌</txt>
+        <type>3</type>
+        <classindex>5</classindex>
+        <itemindex>15</itemindex>
+        <honour></honour>
+        <score>10</score>
+        <task1>白龙马</task1>
+        <task2>猪八戒</task2>
+        <task3>沙僧</task3>
+        <task4>唐僧</task4>
+        <task5>孙悟空</task5>
+      </achieve>
+      <achieve name="卡牌之“妖王争霸”">
+        <achid>90502006</achid>
+        <txt>收集“妖王争霸”套卡牌</txt>
+        <type>3</type>
+        <classindex>5</classindex>
+        <itemindex>15</itemindex>
+        <honour></honour>
+        <score>15</score>
+        <task1>金甲</task1>
+        <task2>绿刺</task2>
+        <task3>九幽</task3>
+        <task4>惊雷</task4>
+        <task5>幻咒</task5>
+      </achieve>
+      <achieve name="卡牌之“千年恩怨”">
+        <achid>90502007</achid>
+        <txt>收集“千年恩怨”套卡牌</txt>
+        <type>3</type>
+        <classindex>5</classindex>
+        <itemindex>15</itemindex>
+        <honour></honour>
+        <score>25</score>
+        <task1>红煞狼怪</task1>
+        <task2>噬魂</task2>
+        <task3>蓝羽</task3>
+        <task4>傲天</task4>
+        <task5>冲霄</task5>
+      </achieve>
+      <achieve name="卡牌之“苍炼王者”">
+        <achid>90502008</achid>
+        <txt>收集“苍炼王者”套卡牌</txt>
+        <type>3</type>
+        <classindex>5</classindex>
+        <itemindex>15</itemindex>
+        <honour></honour>
+        <score>10</score>
+        <task1>苍炼狂鲨</task1>
+        <task2>苍炼木神</task2>
+        <task3>苍炼石骨</task3>
+        <task4>苍炼火圣</task4>
+        <task5>苍炼金蛛</task5>
+      </achieve>
+      <achieve name="卡牌之“苍炼尊者”">
+        <achid>90502009</achid>
+        <txt>收集“苍炼尊者"套卡牌</txt>
+        <type>3</type>
+        <classindex>5</classindex>
+        <itemindex>15</itemindex>
+        <honour></honour>
+        <score>15</score>
+        <task1>苍炼獠魔</task1>
+        <task2>苍炼月妖</task2>
+        <task3>苍炼厉猫</task3>
+        <task4>苍炼风鹫</task4>
+        <task5>苍炼天卓狼</task5>
+      </achieve>
+      <achieve name="卡牌之“帝江传说">
+        <achid>90502010</achid>
+        <txt>收集“帝江传说”套卡牌</txt>
+        <type>3</type>
+        <classindex>5</classindex>
+        <itemindex>15</itemindex>
+        <honour></honour>
+        <score>25</score>
+        <task1>帝江刺客</task1>
+        <task2>帝江剑仆</task2>
+        <task3>帝江枪将</task3>
+        <task4>帝江浪人</task4>
+        <task5>帝江魔尊</task5>
+      </achieve>
+      <achieve name="卡牌之“太古神境”">
+        <achid>90502011</achid>
+        <txt>收集“太古神境”套卡牌</txt>
+        <type>3</type>
+        <classindex>5</classindex>
+        <itemindex>15</itemindex>
+        <honour></honour>
+        <score>10</score>
+        <task1>伏龙窟</task1>
+        <task2>天神界</task2>
+        <task3>敬佛堂</task3>
+        <task4>地魂界</task4>
+        <task5>锁妖塔</task5>
+      </achieve>
+      <achieve name="卡牌之“刑天之门”">
+        <achid>90502012</achid>
+        <txt>收集“刑天之门”套卡牌</txt>
+        <type>3</type>
+        <classindex>5</classindex>
+        <itemindex>15</itemindex>
+        <honour></honour>
+        <score>15</score>
+        <task1>摄魂使者</task1>
+        <task2>横钢战牛</task2>
+        <task3>钢斧鳄</task3>
+        <task4>赤蝎皇</task4>
+        <task5>刑天</task5>
+      </achieve>
+      <achieve name="卡牌之“神仙传说”">
+        <achid>90502013</achid>
+        <txt>收集“神仙传说”套卡牌</txt>
+        <type>3</type>
+        <classindex>5</classindex>
+        <itemindex>15</itemindex>
+        <honour></honour>
+        <score>25</score>
+        <task1>文殊菩萨</task1>
+        <task2>太白金星</task2>
+        <task3>太上老君</task3>
+        <task4>观音菩萨</task4>
+        <task5>九天真王</task5>
+      </achieve>
+      <achieve name="点赞达人">
+        <achid>90502014</achid>
+        <txt>第一次对别人点赞</txt>
+        <type>1</type>
+        <classindex>5</classindex>
+        <itemindex>15</itemindex>
+        <honour></honour>
+        <score>15</score>
+      </achieve>
+      <achieve name="魅力之星">
+        <achid>90502015</achid>
+        <txt>第一次被别人点赞</txt>
+        <type>1</type>
+        <classindex>5</classindex>
+        <itemindex>15</itemindex>
+        <honour></honour>
+        <score>15</score>
+      </achieve>
+      <achieve name="赤足战队">
+        <achid>90502017</achid>
+        <txt>参加活动“斗转星星大作战”获得5只赤足小兵。</txt>
+        <type>2</type>
+        <classindex>5</classindex>
+        <itemindex>15</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="开山小队">
+        <achid>90502018</achid>
+        <txt>参加活动“躲躲乐无边”获得5只石甲牛。</txt>
+        <type>2</type>
+        <classindex>5</classindex>
+        <itemindex>15</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="果神庇佑">
+        <achid>90502019</achid>
+        <txt>参加活动“躲躲乐无边”获得1只小果。</txt>
+        <type>1</type>
+        <classindex>5</classindex>
+        <itemindex>15</itemindex>
+        <honour></honour>
+        <score>10</score>
+      </achieve>
+      <achieve name="冰山之曙光">
+        <achid>90502020</achid>
+        <txt>参加活动“冰冻恶灵”获得5只冰石兽</txt>
+        <type>2</type>
+        <classindex>5</classindex>
+        <itemindex>15</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="国宝之友">
+        <achid>90502021</achid>
+        <txt>参加活动“ 冰冻恶灵”获得5只小竹熊</txt>
+        <type>2</type>
+        <classindex>5</classindex>
+        <itemindex>15</itemindex>
+        <honour></honour>
+        <score>40</score>
+      </achieve>
+      <achieve name="胖墩的伙伴">
+        <achid>90502022</achid>
+        <txt>参加活动“圣石之战”获得5只小胖墩</txt>
+        <type>2</type>
+        <classindex>5</classindex>
+        <itemindex>15</itemindex>
+        <honour></honour>
+        <score>60</score>
+      </achieve>
+    </item>
+  </class>
+  <class id="6" name="特殊活动成就类">
+    <item id="19" name="特殊活动类" cls="6">
+      <achieve name="首次开启宝箱">
+        <achid>90601001</achid>
+        <txt>第一次开启福瑞宝箱</txt>
+        <type>1</type>
+        <classindex>6</classindex>
+        <itemindex>19</itemindex>
+        <honour></honour>
+        <score>10</score>
+      </achieve>
+      <achieve name="开启宝箱百次">
+        <achid>90601002</achid>
+        <txt>累计开启福瑞宝箱100次。</txt>
+        <type>2</type>
+        <classindex>6</classindex>
+        <itemindex>19</itemindex>
+        <honour></honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="宝箱探寻者">
+        <achid>90601003</achid>
+        <txt>累计开启福瑞宝箱500次。</txt>
+        <type>2</type>
+        <classindex>6</classindex>
+        <itemindex>19</itemindex>
+        <honour></honour>
+        <score>150</score>
+      </achieve>
+      <achieve name="宝箱终极猎手">
+        <achid>90601004</achid>
+        <txt>累计开启福瑞宝箱2000次。</txt>
+        <type>2</type>
+        <classindex>6</classindex>
+        <itemindex>19</itemindex>
+        <honour></honour>
+        <score>300</score>
+      </achieve>
+      <achieve name="福瑞满溢">
+        <achid>90601005</achid>
+        <txt>一天内开满10次福瑞宝箱。</txt>
+        <type>1</type>
+        <classindex>6</classindex>
+        <itemindex>19</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="福瑞永伴">
+        <achid>90601006</achid>
+        <txt>一天内开满30次福瑞宝箱。</txt>
+        <type>1</type>
+        <classindex>6</classindex>
+        <itemindex>19</itemindex>
+        <honour></honour>
+        <score>120</score>
+      </achieve>
+    </item>
+    <item id="20" name="除魔卫道活动类" cls="6">
+      <achieve name="击败1只百年邪妖">
+        <achid>90602007</achid>
+        <txt>击败1只百年邪妖</txt>
+        <type>1</type>
+        <classindex>6</classindex>
+        <itemindex>20</itemindex>
+        <honour></honour>
+        <score>10</score>
+      </achieve>
+      <achieve name="击败10只百年邪妖">
+        <achid>90602008</achid>
+        <txt>击败10只百年邪妖</txt>
+        <type>2</type>
+        <classindex>6</classindex>
+        <itemindex>20</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="击败100只百年邪妖">
+        <achid>90602009</achid>
+        <txt>击败100只百年邪妖</txt>
+        <type>2</type>
+        <classindex>6</classindex>
+        <itemindex>20</itemindex>
+        <honour></honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="击败1只千年邪妖">
+        <achid>90602010</achid>
+        <txt>击败1只千年邪妖</txt>
+        <type>1</type>
+        <classindex>6</classindex>
+        <itemindex>20</itemindex>
+        <honour></honour>
+        <score>10</score>
+      </achieve>
+      <achieve name="击败10只千年邪妖">
+        <achid>90602011</achid>
+        <txt>击败10只千年邪妖</txt>
+        <type>2</type>
+        <classindex>6</classindex>
+        <itemindex>20</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="击败100只千年邪妖">
+        <achid>90602012</achid>
+        <txt>击败100只千年邪妖</txt>
+        <type>2</type>
+        <classindex>6</classindex>
+        <itemindex>20</itemindex>
+        <honour></honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="击败1只万年邪妖">
+        <achid>90602013</achid>
+        <txt>击败1只万年邪妖</txt>
+        <type>1</type>
+        <classindex>6</classindex>
+        <itemindex>20</itemindex>
+        <honour></honour>
+        <score>10</score>
+      </achieve>
+      <achieve name="击败10只万年邪妖">
+        <achid>90602014</achid>
+        <txt>击败10只万年邪妖</txt>
+        <type>2</type>
+        <classindex>6</classindex>
+        <itemindex>20</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="击败100只万年邪妖">
+        <achid>90602015</achid>
+        <txt>击败100只万年邪妖</txt>
+        <type>2</type>
+        <classindex>6</classindex>
+        <itemindex>20</itemindex>
+        <honour></honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="击败1只异界魔尊">
+        <achid>90602016</achid>
+        <txt>击败1只异界魔尊</txt>
+        <type>1</type>
+        <classindex>6</classindex>
+        <itemindex>20</itemindex>
+        <honour></honour>
+        <score>20</score>
+      </achieve>
+      <achieve name="击败8只异界魔尊">
+        <achid>90602017</achid>
+        <txt>击败8只异界魔尊</txt>
+        <type>2</type>
+        <classindex>6</classindex>
+        <itemindex>20</itemindex>
+        <honour></honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="击败30只异界魔尊">
+        <achid>90602018</achid>
+        <txt>击败30只异界魔尊</txt>
+        <type>2</type>
+        <classindex>6</classindex>
+        <itemindex>20</itemindex>
+        <honour></honour>
+        <score>80</score>
+      </achieve>
+    </item>
+    <item id="21" name="北斗七星图活动类" cls="6">
+      <achieve name="获得1个摇光星石">
+        <achid>90603019</achid>
+        <txt>获得1个摇光星石</txt>
+        <type>1</type>
+        <classindex>6</classindex>
+        <itemindex>21</itemindex>
+        <honour></honour>
+        <score>10</score>
+      </achieve>
+      <achieve name="获得1个开阳星石">
+        <achid>90603020</achid>
+        <txt>获得1个开阳星石</txt>
+        <type>1</type>
+        <classindex>6</classindex>
+        <itemindex>21</itemindex>
+        <honour></honour>
+        <score>10</score>
+      </achieve>
+      <achieve name="获得1个玉衡星石">
+        <achid>90603021</achid>
+        <txt>获得1个玉衡星石</txt>
+        <type>1</type>
+        <classindex>6</classindex>
+        <itemindex>21</itemindex>
+        <honour></honour>
+        <score>10</score>
+      </achieve>
+      <achieve name="获得1个天权星石">
+        <achid>90603022</achid>
+        <txt>获得1个天权星石</txt>
+        <type>1</type>
+        <classindex>6</classindex>
+        <itemindex>21</itemindex>
+        <honour></honour>
+        <score>10</score>
+      </achieve>
+      <achieve name="获得1个天玑星石">
+        <achid>90603023</achid>
+        <txt>获得1个天玑星石</txt>
+        <type>1</type>
+        <classindex>6</classindex>
+        <itemindex>21</itemindex>
+        <honour></honour>
+        <score>10</score>
+      </achieve>
+      <achieve name="获得1个天璇星石">
+        <achid>90603024</achid>
+        <txt>获得1个天璇星石</txt>
+        <type>1</type>
+        <classindex>6</classindex>
+        <itemindex>21</itemindex>
+        <honour></honour>
+        <score>10</score>
+      </achieve>
+      <achieve name="获得1个天枢星石">
+        <achid>90603025</achid>
+        <txt>获得1个天枢星石</txt>
+        <type>1</type>
+        <classindex>6</classindex>
+        <itemindex>21</itemindex>
+        <honour></honour>
+        <score>10</score>
+      </achieve>
+      <achieve name="七星神秘宝箱">
+        <achid>90603026</achid>
+        <txt>开启北斗七星图之后，成功寻得神秘宝箱。</txt>
+        <type>1</type>
+        <classindex>6</classindex>
+        <itemindex>21</itemindex>
+        <honour></honour>
+        <score>80</score>
+      </achieve>
+      <achieve name="紫金神龙">
+        <achid>90603027</achid>
+        <txt>获得金系神宠“紫金神龙”</txt>
+        <type>1</type>
+        <classindex>6</classindex>
+        <itemindex>21</itemindex>
+        <honour></honour>
+        <score>100</score>
+      </achieve>
+      <achieve name="狂焰神君">
+        <achid>90603028</achid>
+        <txt>获得火系神宠“狂焰神君”</txt>
+        <type>1</type>
+        <classindex>6</classindex>
+        <itemindex>21</itemindex>
+        <honour></honour>
+        <score>100</score>
+      </achieve>
+      <achieve name="金杖法王">
+        <achid>90603029</achid>
+        <txt>获得金系珍宠“金杖法王”</txt>
+        <type>1</type>
+        <classindex>6</classindex>
+        <itemindex>21</itemindex>
+        <honour></honour>
+        <score>80</score>
+      </achieve>
+      <achieve name="火影行者">
+        <achid>90603030</achid>
+        <txt>获得火系珍宠“火影行者”</txt>
+        <type>1</type>
+        <classindex>6</classindex>
+        <itemindex>21</itemindex>
+        <honour></honour>
+        <score>80</score>
+      </achieve>
+      <achieve name="蛮荒领主">
+        <achid>90603031</achid>
+        <txt>获得木系珍宠“蛮荒领主”</txt>
+        <type>1</type>
+        <classindex>6</classindex>
+        <itemindex>21</itemindex>
+        <honour></honour>
+        <score>80</score>
+      </achieve>
+      <achieve name="玄木神官">
+        <achid>90603032</achid>
+        <txt>获得木系神宠“玄木神官”</txt>
+        <type>1</type>
+        <classindex>6</classindex>
+        <itemindex>21</itemindex>
+        <honour></honour>
+        <score>100</score>
+      </achieve>
+      <achieve name="地罡神俑">
+        <achid>90603033</achid>
+        <txt>获得土系神宠“地罡神俑”</txt>
+        <type>1</type>
+        <classindex>6</classindex>
+        <itemindex>21</itemindex>
+        <honour></honour>
+        <score>100</score>
+      </achieve>
+      <achieve name="不朽仙龟">
+        <achid>90603034</achid>
+        <txt>获得土系珍宠“不朽仙龟”</txt>
+        <type>1</type>
+        <classindex>6</classindex>
+        <itemindex>21</itemindex>
+        <honour></honour>
+        <score>80</score>
+      </achieve>
+      <achieve name="镇海邪王">
+        <achid>90603035</achid>
+        <txt>获得水系珍宠“镇海邪王”</txt>
+        <type>1</type>
+        <classindex>6</classindex>
+        <itemindex>21</itemindex>
+        <honour></honour>
+        <score>80</score>
+      </achieve>
+      <achieve name="啸海神龙">
+        <achid>90603036</achid>
+        <txt>获得水系神宠“啸海神龙”</txt>
+        <type>1</type>
+        <classindex>6</classindex>
+        <itemindex>21</itemindex>
+        <honour></honour>
+        <score>100</score>
+      </achieve>
+      <achieve name="赤炎鬼铠">
+        <achid>90603037</achid>
+        <txt>获得魔系珍宠“赤炎鬼铠”</txt>
+        <type>1</type>
+        <classindex>6</classindex>
+        <itemindex>21</itemindex>
+        <honour></honour>
+        <score>100</score>
+      </achieve>
+      <achieve name="娄金狗">
+        <achid>90603038</achid>
+        <txt>获得火风系神宠“娄金狗”</txt>
+        <type>1</type>
+        <classindex>6</classindex>
+        <itemindex>21</itemindex>
+        <honour></honour>
+        <score>100</score>
+      </achieve>
+      <achieve name="次元狩牙">
+        <achid>90603039</achid>
+        <txt>获得机械系神宠“次元狩牙”</txt>
+        <type>1</type>
+        <classindex>6</classindex>
+        <itemindex>21</itemindex>
+        <honour></honour>
+        <score>100</score>
+      </achieve>
+    </item>
+    <item id="22" name="寻宝罗盘活动类" cls="6">
+      <achieve name="集齐噬灵之夜套装(男)">
+        <achid>90604001</achid>
+        <txt>获得一整套“噬灵之夜套装”</txt>
+        <type>3</type>
+        <classindex>6</classindex>
+        <itemindex>22</itemindex>
+        <honour></honour>
+        <score>50</score>
+        <sex>1</sex>
+        <task1>噬灵黑白发</task1>
+        <task2>男表情-噬灵</task2>
+        <task3>噬灵战衣</task3>
+        <task4>噬灵战靴</task4>
+        <task5>噬灵之剑</task5>
+      </achieve>
+      <achieve name="集齐护灵之粉套装(女)">
+        <achid>90604002</achid>
+        <txt>获得一整套“护灵之粉套装”</txt>
+        <type>3</type>
+        <classindex>6</classindex>
+        <itemindex>22</itemindex>
+        <honour></honour>
+        <score>50</score>
+        <sex>0</sex>
+        <task1>护灵发型</task1>
+        <task2>女表情-护灵</task2>
+        <task3>护灵女衣</task3>
+        <task4>护灵女鞋</task4>
+        <task5>护灵针筒</task5>
+      </achieve>
+      <achieve name="碧幽狼仙兽蛋">
+        <achid>90604003</achid>
+        <txt>获得一颗“碧幽狼仙兽蛋”。</txt>
+        <type>1</type>
+        <classindex>6</classindex>
+        <itemindex>22</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="十二生肖外框">
+        <achid>90604004</achid>
+        <txt>集齐十二生肖名字外框</txt>
+        <type>3</type>
+        <classindex>6</classindex>
+        <itemindex>22</itemindex>
+        <honour></honour>
+        <score>120</score>
+        <task1>生肖鼠</task1>
+        <task2>生肖牛</task2>
+        <task3>生肖虎</task3>
+        <task4>生肖兔</task4>
+        <task5>生肖龙</task5>
+        <task6>生肖蛇</task6>
+        <task7>生肖马</task7>
+        <task8>生肖羊</task8>
+        <task9>生肖猴</task9>
+        <task10>生肖鸡</task10>
+        <task11>生肖狗</task11>
+        <task12>生肖猪</task12>
+      </achieve>
+      <achieve name="集齐蓝绅高冷套装(男)">
+        <achid>90604006</achid>
+        <txt>获得一整套“蓝绅高冷套装”</txt>
+        <type>3</type>
+        <classindex>6</classindex>
+        <itemindex>22</itemindex>
+        <honour></honour>
+        <score>50</score>
+        <sex>1</sex>
+        <task1>蓝调绅士帽</task1>
+        <task2>蓝绅之衣</task2>
+        <task3>蓝绅之鞋</task3>
+        <task4>倚蓝透天剑</task4>
+        <task5>男表情—高冷</task5>
+      </achieve>
+      <achieve name="集齐金粉艳丽套装(女)">
+        <achid>90604007</achid>
+        <txt>获得一整套“金粉艳丽套装”</txt>
+        <type>3</type>
+        <classindex>6</classindex>
+        <itemindex>22</itemindex>
+        <honour></honour>
+        <score>50</score>
+        <sex>0</sex>
+        <task1>艳粉之发</task1>
+        <task2>金粉连衣裙</task2>
+        <task3>金粉之靴</task3>
+        <task4>屠粉透天仗</task4>
+        <task5>女表情—艳丽</task5>
+      </achieve>
+      <achieve name="修罗小兵团">
+        <achid>90604008</achid>
+        <txt>拥有8只青仔</txt>
+        <type>2</type>
+        <classindex>6</classindex>
+        <itemindex>22</itemindex>
+        <honour></honour>
+        <score>40</score>
+      </achieve>
+      <achieve name="集齐金刀豪客套装(男)">
+        <achid>90604009</achid>
+        <txt>获得一整套“金刀豪客套装”</txt>
+        <type>3</type>
+        <classindex>6</classindex>
+        <itemindex>22</itemindex>
+        <honour></honour>
+        <score>50</score>
+        <sex>1</sex>
+        <task1>金豪发型</task1>
+        <task2>豪客披身衣</task2>
+        <task3>光彩之靴</task3>
+        <task4>掘天金刀</task4>
+        <task5>男表情—欢愉</task5>
+      </achieve>
+      <achieve name="集齐漫棕仙姬套装(女)">
+        <achid>90604010</achid>
+        <txt>获得一整套“漫棕仙姬套装”</txt>
+        <type>3</type>
+        <classindex>6</classindex>
+        <itemindex>22</itemindex>
+        <honour></honour>
+        <score>50</score>
+        <sex>0</sex>
+        <task1>漫棕卷发</task1>
+        <task2>仙姬连衣裙</task2>
+        <task3>光彩之靴</task3>
+        <task4>掘天金刀</task4>
+        <task5>女表情—欢愉</task5>
+      </achieve>
+      <achieve name="杖炎小兵团">
+        <achid>90604011</achid>
+        <txt>拥有5只杖炎童子</txt>
+        <type>2</type>
+        <classindex>6</classindex>
+        <itemindex>22</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="巨蚊小兵团">
+        <achid>90604012</achid>
+        <txt>拥有8只小毒蚊</txt>
+        <type>2</type>
+        <classindex>6</classindex>
+        <itemindex>22</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="集齐厨艺师哥套装(男)">
+        <achid>90604013</achid>
+        <txt>获得一整套“厨艺师哥套装”</txt>
+        <type>3</type>
+        <classindex>6</classindex>
+        <itemindex>22</itemindex>
+        <honour></honour>
+        <score>60</score>
+        <sex>1</sex>
+        <task1>厨艺紫发</task1>
+        <task2>厨艺之衣</task2>
+        <task3>厨艺之靴</task3>
+        <task4>小银勺</task4>
+        <task5>小萌刀叉</task5>
+      </achieve>
+      <achieve name="集齐园艺师妹套装(女)">
+        <achid>90604014</achid>
+        <txt>获得一整套“园艺师妹套装”</txt>
+        <type>3</type>
+        <classindex>6</classindex>
+        <itemindex>22</itemindex>
+        <honour></honour>
+        <score>60</score>
+        <sex>0</sex>
+        <task1>小萌刀叉</task1>
+        <task2>园艺卷发</task2>
+        <task3>园艺套裙</task3>
+        <task4>园艺花靴</task4>
+        <task5>园艺包包</task5>
+      </achieve>
+      <achieve name="冰将小兵团">
+        <achid>90604015</achid>
+        <txt>拥有6只小冰将</txt>
+        <type>2</type>
+        <classindex>6</classindex>
+        <itemindex>22</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="集齐缤纷休闲之蓝套装(男)">
+        <achid>90604016</achid>
+        <txt>获得一整套“缤纷休闲之蓝套装”</txt>
+        <type>3</type>
+        <classindex>6</classindex>
+        <itemindex>22</itemindex>
+        <honour></honour>
+        <score>60</score>
+        <sex>1</sex>
+        <task1>休闲之蓝短发</task1>
+        <task2>休闲蓝之衣</task2>
+        <task3>缤纷蓝靴</task3>
+        <task4>缤纷蓝伞</task4>
+        <task5>缤纷蓝翼</task5>
+      </achieve>
+      <achieve name="集齐缤纷休闲之蓝套装(女)">
+        <achid>90604017</achid>
+        <txt>获得一整套“缤纷休闲之粉套装”</txt>
+        <type>3</type>
+        <classindex>6</classindex>
+        <itemindex>22</itemindex>
+        <honour></honour>
+        <score>60</score>
+        <sex>0</sex>
+        <task1>休闲之粉发型</task1>
+        <task2>休闲粉之衣</task2>
+        <task3>缤纷粉靴</task3>
+        <task4>缤纷粉伞</task4>
+        <task5>缤纷粉翼</task5>
+      </achieve>
+      <achieve name="独角兵战队">
+        <achid>90604018</achid>
+        <txt>拥有5只独角兵</txt>
+        <type>2</type>
+        <classindex>6</classindex>
+        <itemindex>22</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="紫侠机甲男套装(男)">
+        <achid>90604019</achid>
+        <txt>获得一整套“紫侠机甲男套装”</txt>
+        <type>3</type>
+        <classindex>6</classindex>
+        <itemindex>22</itemindex>
+        <honour></honour>
+        <score>50</score>
+        <sex>1</sex>
+        <task1>紫侠男头盔</task1>
+        <task2>紫侠战甲</task2>
+        <task3>紫侠战靴</task3>
+        <task4>紫侠长枪</task4>
+        <task5>白萌大玩偶</task5>
+      </achieve>
+      <achieve name="紫侠机甲女套装(女)">
+        <achid>90604020</achid>
+        <txt>获得一整套“紫侠机甲女套装”</txt>
+        <type>3</type>
+        <classindex>6</classindex>
+        <itemindex>22</itemindex>
+        <honour></honour>
+        <score>50</score>
+        <sex>0</sex>
+        <task1>紫侠女头盔</task1>
+        <task2>紫侠战甲</task2>
+        <task3>紫侠战靴</task3>
+        <task4>紫侠长枪</task4>
+        <task5>白萌大玩偶</task5>
+      </achieve>
+      <achieve name="猎斧战队">
+        <achid>90604021</achid>
+        <txt>拥有5只猎斧毒士</txt>
+        <type>2</type>
+        <classindex>6</classindex>
+        <itemindex>22</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="天雷战队">
+        <achid>90604022</achid>
+        <txt>拥有5只天雷执法者</txt>
+        <type>2</type>
+        <classindex>6</classindex>
+        <itemindex>22</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+    </item>
+    <item id="24" name="妖怪特训仪活动类" cls="6">
+      <achieve name="霸空狂袭">
+        <achid>90606001</achid>
+        <txt>紫狱龙王通过特训仪学会新技能“霸空狂袭”</txt>
+        <type>1</type>
+        <classindex>6</classindex>
+        <itemindex>24</itemindex>
+        <honour></honour>
+        <score>40</score>
+      </achieve>
+      <achieve name="濒死战意">
+        <achid>90606002</achid>
+        <txt>紫狱龙王通过特训仪学会新技能“濒死战意”</txt>
+        <type>1</type>
+        <classindex>6</classindex>
+        <itemindex>24</itemindex>
+        <honour></honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="霸王破岳">
+        <achid>90606003</achid>
+        <txt>地煞猴王通过特训仪学会新技能“真.霸王破岳”</txt>
+        <type>1</type>
+        <classindex>6</classindex>
+        <itemindex>24</itemindex>
+        <honour></honour>
+        <score>40</score>
+      </achieve>
+      <achieve name="煞神一拳">
+        <achid>90606004</achid>
+        <txt>地煞猴王通过特训仪学会新技能“煞神一拳”</txt>
+        <type>1</type>
+        <classindex>6</classindex>
+        <itemindex>24</itemindex>
+        <honour></honour>
+        <score>40</score>
+      </achieve>
+      <achieve name="木之护佑">
+        <achid>90606005</achid>
+        <txt>霸刀螳螂通过特训仪学会新技能“木之护佑”</txt>
+        <type>1</type>
+        <classindex>6</classindex>
+        <itemindex>24</itemindex>
+        <honour></honour>
+        <score>40</score>
+      </achieve>
+      <achieve name="疾风神力">
+        <achid>90606006</achid>
+        <txt>霸刀螳螂通过特训仪学会新技能“真.疾风神力”</txt>
+        <type>1</type>
+        <classindex>6</classindex>
+        <itemindex>24</itemindex>
+        <honour></honour>
+        <score>40</score>
+      </achieve>
+      <achieve name="浑厚之爪">
+        <achid>90606007</achid>
+        <txt>九天战猫通过特训仪学会新技能“浑厚之爪”。</txt>
+        <type>1</type>
+        <classindex>6</classindex>
+        <itemindex>24</itemindex>
+        <honour></honour>
+        <score>40</score>
+      </achieve>
+      <achieve name="爆炎血爪">
+        <achid>90606008</achid>
+        <txt>九天战猫通过特训仪学会新技能“真.爆炎血爪”。</txt>
+        <type>1</type>
+        <classindex>6</classindex>
+        <itemindex>24</itemindex>
+        <honour></honour>
+        <score>40</score>
+      </achieve>
+      <achieve name="傲阳体术">
+        <achid>90606009</achid>
+        <txt>焚天血蟒通过特训仪学会新技能“傲阳体术”。</txt>
+        <type>1</type>
+        <classindex>6</classindex>
+        <itemindex>24</itemindex>
+        <honour></honour>
+        <score>40</score>
+      </achieve>
+      <achieve name="血焰焚天">
+        <achid>90606010</achid>
+        <txt>焚天血蟒通过特训仪学会新技能“真.血焰焚天”。</txt>
+        <type>1</type>
+        <classindex>6</classindex>
+        <itemindex>24</itemindex>
+        <honour></honour>
+        <score>40</score>
+      </achieve>
+      <achieve name="豪龙之火">
+        <achid>90606011</achid>
+        <txt>烈焰破坏神通过特训仪学会新技能“豪龙之火”。</txt>
+        <type>1</type>
+        <classindex>6</classindex>
+        <itemindex>24</itemindex>
+        <honour></honour>
+        <score>40</score>
+      </achieve>
+      <achieve name="迦楼罗">
+        <achid>90606012</achid>
+        <txt>烈焰破坏神通过特训仪学会新技能“迦楼罗”。</txt>
+        <type>1</type>
+        <classindex>6</classindex>
+        <itemindex>24</itemindex>
+        <honour></honour>
+        <score>40</score>
+      </achieve>
+      <achieve name="浴火重生">
+        <achid>90606013</achid>
+        <txt>圣殿炽烈凰通过特训仪学会新技能“浴火重生”</txt>
+        <type>1</type>
+        <classindex>6</classindex>
+        <itemindex>24</itemindex>
+        <honour></honour>
+        <score>40</score>
+      </achieve>
+      <achieve name="圣辉万丈">
+        <achid>90606014</achid>
+        <txt>圣殿炽烈凰通过特训仪学会新技能“圣辉万丈”</txt>
+        <type>1</type>
+        <classindex>6</classindex>
+        <itemindex>24</itemindex>
+        <honour></honour>
+        <score>40</score>
+      </achieve>
+    </item>
+    <item id="25" name="玄塔觅宝活动类" cls="6">
+      <achieve name="塔护卫将">
+        <achid>90607001</achid>
+        <txt>获得玄塔小兵</txt>
+        <type>1</type>
+        <classindex>6</classindex>
+        <itemindex>25</itemindex>
+        <honour></honour>
+        <score>60</score>
+      </achieve>
+      <achieve name="玄塔护法">
+        <achid>90607002</achid>
+        <txt>获得玄塔童子</txt>
+        <type>1</type>
+        <classindex>6</classindex>
+        <itemindex>25</itemindex>
+        <honour></honour>
+        <score>60</score>
+      </achieve>
+      <achieve name="初窥玄塔">
+        <achid>90607003</achid>
+        <txt>开启1次玄塔终极宝箱</txt>
+        <type>1</type>
+        <classindex>6</classindex>
+        <itemindex>25</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="勇探玄塔">
+        <achid>90607004</achid>
+        <txt>开启5次玄塔终极宝箱</txt>
+        <type>2</type>
+        <classindex>6</classindex>
+        <itemindex>25</itemindex>
+        <honour></honour>
+        <score>80</score>
+      </achieve>
+      <achieve name="细探玄塔">
+        <achid>90607005</achid>
+        <txt>开启10次玄塔终极宝箱</txt>
+        <type>2</type>
+        <classindex>6</classindex>
+        <itemindex>25</itemindex>
+        <honour></honour>
+        <score>100</score>
+      </achieve>
+      <achieve name="征服玄塔">
+        <achid>90607006</achid>
+        <txt>开启30次玄塔终极宝箱</txt>
+        <type>2</type>
+        <classindex>6</classindex>
+        <itemindex>25</itemindex>
+        <honour></honour>
+        <score>150</score>
+      </achieve>
+      <achieve name="祸不单行">
+        <achid>90607007</achid>
+        <txt>1天之内遇到5次霉运当头</txt>
+        <type>1</type>
+        <classindex>6</classindex>
+        <itemindex>25</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="好运连连">
+        <achid>90607008</achid>
+        <txt>1天之内遇到5次吉星高照</txt>
+        <type>1</type>
+        <classindex>6</classindex>
+        <itemindex>25</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="乐天安命">
+        <achid>90607009</achid>
+        <txt>1天之内遇到3次旦夕祸福</txt>
+        <type>1</type>
+        <classindex>6</classindex>
+        <itemindex>25</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="大步流星">
+        <achid>90607010</achid>
+        <txt>15个回合内从玄塔起点到玄塔终点</txt>
+        <type>1</type>
+        <classindex>6</classindex>
+        <itemindex>25</itemindex>
+        <honour></honour>
+        <score>100</score>
+      </achieve>
+      <achieve name="紫狐戾月刀">
+        <achid>90607011</achid>
+        <txt>获得紫狐戾月刀</txt>
+        <type>1</type>
+        <classindex>6</classindex>
+        <itemindex>25</itemindex>
+        <honour></honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="木宝箱成堆">
+        <achid>90607012</achid>
+        <txt>开启500次玄塔木宝箱</txt>
+        <type>2</type>
+        <classindex>6</classindex>
+        <itemindex>25</itemindex>
+        <honour></honour>
+        <score>50</score>
+      </achieve>
+      <achieve name="银宝箱成堆">
+        <achid>90607013</achid>
+        <txt>开启400次玄塔银宝箱</txt>
+        <type>2</type>
+        <classindex>6</classindex>
+        <itemindex>25</itemindex>
+        <honour></honour>
+        <score>80</score>
+      </achieve>
+      <achieve name="金宝箱成堆">
+        <achid>90607014</achid>
+        <txt>开启300次玄塔金宝箱</txt>
+        <type>2</type>
+        <classindex>6</classindex>
+        <itemindex>25</itemindex>
+        <honour></honour>
+        <score>120</score>
+      </achieve>
+      <achieve name="雪白熊宝外框(永久)">
+        <achid>90607015</achid>
+        <txt>获得雪白熊宝外框(永久)</txt>
+        <type>1</type>
+        <classindex>6</classindex>
+        <itemindex>25</itemindex>
+        <honour></honour>
+        <score>30</score>
+      </achieve>
+      <achieve name="合金英雄背景">
+        <achid>90607016</achid>
+        <txt>获得合金英雄背景</txt>
+        <type>1</type>
+        <classindex>6</classindex>
+        <itemindex>25</itemindex>
+        <honour></honour>
+        <score>50</score>
+      </achieve>
+    </item>
+  </class>
+</achievement>

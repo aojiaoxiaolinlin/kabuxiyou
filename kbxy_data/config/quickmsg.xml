@@ -1,0 +1,48 @@
+﻿<Message>
+	<msg name = "家园" >
+		<txt1>你的家里好漂亮！</txt1>
+		<txt2>我家比你家漂亮！</txt2>
+		<txt3>快来我家看看！</txt3>
+	</msg>
+	<msg name = "生气" >
+		<txt1>讨厌死了！</txt1>
+		<txt2>你怎么这么坏！</txt2>
+		<txt3>别惹我！</txt3>
+		<txt4>以后别让我见到你！</txt4>
+	</msg>
+	<msg name = "告别" >
+		<txt1>拜拜！</txt1>
+		<txt2>下次再找你玩~</txt2>
+		<txt3>我要去写作业了~</txt3>
+		<txt4>我要睡觉了~</txt4>
+	</msg>
+	<msg name = "妖怪" >
+		<txt1>这妖怪哪里抓的？</txt1>
+		<txt2>这妖怪厉害吗？</txt2>
+		<txt3>我的妖怪才厉害~</txt3>
+		<txt4>你有多少只妖怪？</txt4>
+	</msg>
+	<msg name = "夸奖" >
+		<txt1>你好厉害呀！</txt1>
+		<txt2>你的衣服好漂亮！</txt2>
+		<txt3>你的衣服好帅！</txt3>
+	</msg>
+	<msg name = "小游戏" >
+		<txt1>这个游戏很好玩！</txt1>
+		<txt2>这个游戏怎么玩呀？</txt2>
+		<txt3>你玩到多少关？</txt3>
+		<txt4>我肯定赢你！</txt4>
+	</msg>
+	<msg name = "一起玩" >
+		<txt1>能加我为好友吗？</txt1>
+		<txt2>谁带我玩？</txt2>
+		<txt3>带你去抓妖怪~</txt3>
+		<txt4>我们来对战吧~</txt4>
+	</msg>
+	<msg name = "问候" >
+		<txt1>你好~</txt1>
+		<txt2>又见到你了~哈！</txt2>
+		<txt3>还记得我吗？</txt3>
+		<txt4>你最近好吗？</txt4>
+	</msg>
+</Message>

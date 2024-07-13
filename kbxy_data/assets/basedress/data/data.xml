@@ -1,0 +1,4296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+  <item id="800011" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>仙人掌盆栽</name>
+    <tips>仙人掌盆栽，可以在后花园或家园小屋里摆放。</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800001" style="2" scene="3" renew="0">
+    <sellPrice>900</sellPrice>
+    <name>红木茶几</name>
+    <tips>红木茶几，可以在后花园或家园小屋里摆放。</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800002" style="2" scene="3" renew="0">
+    <sellPrice>1100</sellPrice>
+    <name>红木八仙桌</name>
+    <tips>红木八仙桌，可以在后花园或家园小屋里摆放。</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800003" style="2" scene="3" renew="0">
+    <sellPrice>1000</sellPrice>
+    <name>红木椅</name>
+    <tips>红木椅，可以在后花园或家园小屋里摆放。</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800004" style="2" scene="3" renew="0">
+    <sellPrice>1200</sellPrice>
+    <name>山水屏风</name>
+    <tips>山水屏风，可以在后花园或家园小屋里摆放。</tips>
+    <max>10</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800005" style="3" scene="2" renew="0">
+    <sellPrice>600</sellPrice>
+    <name>金漆配剑</name>
+    <tips>金漆配剑，可以挂在家园小屋的墙壁上。</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800006" style="2" scene="3" renew="0">
+    <sellPrice>950</sellPrice>
+    <name>玻璃餐桌</name>
+    <tips>玻璃餐桌，可以在后花园或家园小屋里摆放。</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800007" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>粉贝沙发</name>
+    <tips>粉贝沙发，可以在后花园或家园小屋里摆放。</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800008" style="2" scene="3" renew="0">
+    <sellPrice>1250</sellPrice>
+    <name>青帘公主床</name>
+    <tips>青帘公主床，可以在后花园或家园小屋里摆放。</tips>
+    <max>10</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800009" style="2" scene="3" renew="0">
+    <sellPrice>600</sellPrice>
+    <name>冲霄抱枕</name>
+    <tips>冲销抱枕，可以在后花园或家园小屋里摆放。</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800010" style="2" scene="3" renew="0">
+    <sellPrice>800</sellPrice>
+    <name>大鱼缸</name>
+    <tips>大鱼缸，可以在后花园或家园小屋里摆放。</tips>
+    <max>10</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800012" style="2" scene="3" renew="0">
+    <sellPrice>1250</sellPrice>
+    <name>石沙发</name>
+    <tips>石沙发，可以在后花园或家园小屋里摆放。</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800013" style="2" scene="3" renew="0">
+    <sellPrice>1000</sellPrice>
+    <name>石桌</name>
+    <tips>石桌，可以在后花园或家园小屋里摆放。</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800014" style="3" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>石斧</name>
+    <tips>石斧，可以挂在家园小屋的墙壁上。</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800015" style="2" scene="3" renew="0">
+    <sellPrice>2250</sellPrice>
+    <name>恐龙骸骨</name>
+    <tips>恐龙骸骨，可以在后花园或家园小屋里摆放。</tips>
+    <max>10</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800016" style="2" scene="3" renew="0">
+    <sellPrice>1100</sellPrice>
+    <name>原始电视机</name>
+    <tips>原始电视机，可以在后花园或家园小屋里摆放。</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800017" style="3" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>饰品台</name>
+    <tips>饰品台，可以放置在家园小屋里的墙壁上。</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800018" style="4" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>后花园默认</name>
+    <tips>恢复到默认的后花园场景装扮。</tips>
+    <max>1</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800019" style="1" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>默认房型</name>
+    <tips>恢复到家园小屋的默认房型。</tips>
+    <max>1</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800020" style="1" scene="3" renew="0">
+    <sellPrice>4000</sellPrice>
+    <name>现代家居</name>
+    <tips>使用后小屋的外形和屋内将替换成现代家居屋型。</tips>
+    <max>1</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800021" style="1" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>中国风屋型</name>
+    <tips>使用后小屋的外形和屋内将替换成中国风屋型。</tips>
+    <max>1</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800022" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>红果树</name>
+    <tips>红果树，可以在后花园或家园小屋里摆放。</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800023" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>蘑菇秋千</name>
+    <tips>蘑菇秋千，可以在后花园或家园小屋里摆放。</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800024" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>木栅栏</name>
+    <tips>木栅栏，可以在后花园或家园小屋里摆放。</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800025" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>大耳小猪</name>
+    <tips>大耳小猪，可以在后花园或家园小屋里摆放。</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800026" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>藤藤草</name>
+    <tips>藤藤草，可以在后花园或家园小屋里摆放。</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800027" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>红蘑菇</name>
+    <tips>红蘑菇，可以在后花园或家园小屋里摆放。</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800028" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>牧草堆</name>
+    <tips>牧草堆，可以在后花园或家园小屋里摆放。</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800029" style="2" scene="3" renew="0">
+    <sellPrice>1300</sellPrice>
+    <name>蓝帝爵士鼓</name>
+    <tips>蓝帝爵士鼓，可以在后花园或家园小屋里摆放。</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800030" style="2" scene="3" renew="0">
+    <sellPrice>1600</sellPrice>
+    <name>钢琴</name>
+    <tips>钢琴，可以在后花园或家园小屋里摆放。</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800031" style="2" scene="3" renew="0">
+    <sellPrice>1250</sellPrice>
+    <name>天文望远镜</name>
+    <tips>天文望远镜，可以在后花园或家园小屋里摆放。</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800032" style="2" scene="3" renew="0">
+    <sellPrice>900</sellPrice>
+    <name>海蓝长沙发</name>
+    <tips>海蓝长沙发，可以在后花园或家园小屋里摆放。</tips>
+    <max>10</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800033" style="2" scene="3" renew="0">
+    <sellPrice>900</sellPrice>
+    <name>香草长沙发</name>
+    <tips>香草长沙发。可以在后花园或家园小屋里摆放。</tips>
+    <max>10</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800034" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>遮阳伞餐桌</name>
+    <tips>遮阳伞餐桌，可以在后花园或家园小屋里摆放。</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800035" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>水心水池</name>
+    <tips>水心水池，可以在后花园或家园小屋里摆放。</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800036" style="2" scene="3" renew="0">
+    <sellPrice>400</sellPrice>
+    <name>木秋千</name>
+    <tips>木秋千，可以在后花园或家园小屋里摆放。</tips>
+    <max>10</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800037" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>小榕树</name>
+    <tips>小榕树，可以在后花园或家园小屋里摆放。</tips>
+    <max>10</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800038" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>小型花卉</name>
+    <tips>小型花卉，可以在后花园或家园小屋里摆放。</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800039" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>大石块</name>
+    <tips>大石块，可以在后花园或家园小屋里摆放。</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800040" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>蘑菇邮箱</name>
+    <tips>蘑菇邮箱，可以在后花园或家园小屋里摆放。</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800041" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>向日葵盆栽</name>
+    <tips>向日葵盆栽，可以在后花园或家园小屋里摆放。</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800042" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>小粉菇</name>
+    <tips>小粉菇，可以在后花园或家园小屋里摆放。</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800043" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>蘑菇公告牌</name>
+    <tips>蘑菇公告牌，可以在后花园或家园小屋里摆放。</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800044" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>腾腾草幼苗</name>
+    <tips>藤藤草幼苗，可以在后花园或家园小屋里摆放。</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800045" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>蘑菇路灯</name>
+    <tips>蘑菇路灯，可以在后花园或家园小屋里摆放。</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800046" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>木材堆</name>
+    <tips>木材堆，可以在后花园或家园小屋里摆放。</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800047" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>小草丛</name>
+    <tips>小草丛，可以在后花园或家园小屋里摆放。</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800048" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>钓竿</name>
+    <tips>钓竿，可以在后花园或家园小屋里摆放。</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800049" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>碎石堆</name>
+    <tips>碎石堆，可以在后花园或家园小屋里摆放。</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800050" style="1" scene="3" renew="0">
+    <sellPrice>5000</sellPrice>
+    <name>石器时代屋型</name>
+    <tips>使用后小屋的外形和屋内将替换成石器时代屋型</tips>
+    <max>1</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800051" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>小石墩</name>
+    <tips>小石墩，可以在后花园或家园小屋里摆放。</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800052" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>小酒坛</name>
+    <tips>小酒坛，可以在后花园或家园小屋里摆放。</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800053" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>小鸡</name>
+    <tips>小鸡，可以在后花园或家园小屋里摆放。</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800054" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>吊吊椅</name>
+    <tips>吊吊椅，可以在后花园或家园小屋里摆放。</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800055" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>树桩凳</name>
+    <tips>树桩凳，可以在后花园或家园小屋里摆放。</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800056" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>红果藤藤草</name>
+    <tips>红果藤藤草，可以在后花园或家园小屋里摆放。</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800057" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>石拱门</name>
+    <tips>石拱门，可以在后花园或家园小屋里摆放。</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800058" style="3" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>猪国王壁挂</name>
+    <tips>猪国王壁挂，可以放置在家园小屋里的墙壁上。</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800059" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>棕毛羊驼</name>
+    <tips>棕毛羊驼，可以在后花园或家园小屋里摆放。</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800060" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>红嘟嘟氢气球</name>
+    <tips>红嘟嘟氢气球，可以在后花园或家园小屋里摆放。</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800066" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>簸箕架子</name>
+    <tips>簸箕架子，可以在后花园或家园小屋里摆放。</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800061" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>呆鸟</name>
+    <tips>呆鸟，可以在后花园或家园小屋里摆放。</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800062" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>铜艺秋千</name>
+    <tips>铜艺秋千，可以在后花园或家园小屋里摆放。</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800063" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>泥泞木栅栏</name>
+    <tips>泥泞木栅栏，可以在后花园或家园小屋里摆放。</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800064" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>青苔大石块</name>
+    <tips>青苔大石块，可以在后花园或家园小屋里摆放。</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800065" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>绿洋遮阴棚</name>
+    <tips>绿洋遮阴棚，可以在后花园或家园小屋里摆放。</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800067" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>水槽</name>
+    <tips>水槽，可以在后花园或家园小屋里摆放。</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800068" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>神符栅栏</name>
+    <tips>神符栅栏，可以在后花园或家园小屋里摆放。</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800069" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>红顶凉亭</name>
+    <tips>红顶凉亭，可以在后花园或家园小屋里摆放。</tips>
+    <max>10</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800070" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>翠绿小树</name>
+    <tips>翠绿小树，可以在后花园或家园小屋里摆放。</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800071" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>巨象坦克</name>
+    <tips>巨象坦克，可以在后花园或家园小屋里摆放。</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800072" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>飓风战机</name>
+    <tips>飓风战机，可以在后花园或家园小屋里摆放。</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800073" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>V-II防空炮</name>
+    <tips>V-II防空炮，可以在后花园或家园小屋里摆放。</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800074" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>反隐形雷达</name>
+    <tips>反隐形雷达，可以在后花园或家园小屋里摆放。</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800075" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>四齿钉耙</name>
+    <tips>四齿钉耙，可以在后花园或家园小屋里摆放。</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800076" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>尖头铁铲</name>
+    <tips>尖头铁铲，可以在后花园或家园小屋里摆放。</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800095" style="3" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>深海窗帘</name>
+    <tips>透过窗外看到的是海底的景象，这是一种多么美妙的享受啊！可以在家园小屋里摆放。</tips>
+    <max>1</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800096" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>海螺展柜</name>
+    <tips>将海螺天然的造型，打造成展柜，设计师真是独具匠心！可以在后花园或家园小屋里摆放。</tips>
+    <max>1</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800097" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>珊瑚吧台</name>
+    <tips>独特的造型，明朗的色彩，这样的吧台时尚感十足！可以在后花园或家园小屋里摆放。</tips>
+    <max>1</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800098" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>夜明珠盆景</name>
+    <tips>用千年珍珠打造的夜明珠盆栽，既精致又华丽至极！可以在后花园或家园小屋里摆放。</tips>
+    <max>1</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800100" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>典雅花瓶</name>
+    <tips>典雅花瓶，可以在后花园或家园小屋里摆放。</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800099" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>多塔蛋糕树</name>
+    <tips>多塔蛋糕树，可以在后花园或家园小屋里摆放。</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800101" style="3" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>雪糕球闪烁吊灯</name>
+    <tips>华丽的雪糕球型闪闪发光的吊灯，可以在后花园或家园小屋里摆放。</tips>
+    <max>1</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800201" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>欢乐椰树</name>
+    <tips>热带的椰树摆设，可以在后花园或家园小屋摆放</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800202" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>喵喵沙滩组合</name>
+    <tips>喵喵沙滩组合套件，在沙滩上晒太阳时使用。可以在后花园或家园小屋摆放</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800203" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>欢乐泳池</name>
+    <tips>欢乐泳池，可以在后花园或家园小屋摆放</tips>
+    <max>10</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800204" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>喵喵欢乐桌</name>
+    <tips>喵喵欢乐桌，可爱的桌椅套件。可以在后花园或家园小屋摆放
+</tips>
+    <max>30</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800205" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>木质宠物窝</name>
+    <tips>木质宠物窝，可以在后花园或家园小屋摆放
+</tips>
+    <max>30</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800206" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>欢乐烧烤架</name>
+    <tips>欢乐烧烤架，可以在后花园或家园小屋摆放
+</tips>
+    <max>30</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800207" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>鱼骨地灯</name>
+    <tips>鱼骨型的地灯，发出幽幽蓝光，非常漂亮。可以在后花园或家园小屋摆放
+</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800208" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>喵喵软床</name>
+    <tips>柔软的小床，可爱的喵喵外形。可以在后花园或家园小屋摆放
+</tips>
+    <max>10</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800209" style="3" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>喵喵珠帘</name>
+    <tips>喵喵珠帘家具，可在家园小屋摆放</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800210" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>喵喵小夜灯</name>
+    <tips>木头上的喵喵夜灯，可以在后花园或家园小屋摆放
+</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800211" style="1" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>欢乐喵喵屋</name>
+    <tips>可爱的欢乐喵喵屋房型
+</tips>
+    <max>1</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800212" style="1" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>梦幻天竺宫殿</name>
+    <tips>神秘的梦幻天竺城堡房型
+</tips>
+    <max>1</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800213" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>梦幻公主床</name>
+    <tips>梦幻的紫罗兰色公主床，可以在后花园或家园小屋摆放
+</tips>
+    <max>10</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800214" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>梦幻地毯</name>
+    <tips>梦幻地毯，可以在后花园或家园小屋摆放
+</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800215" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>梦幻地垫</name>
+    <tips>梦幻地垫，可以在后花园或家园小屋摆放
+</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800216" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>梦幻宫廷椅</name>
+    <tips>梦幻宫廷椅，可以在后花园或家园小屋摆放
+</tips>
+    <max>30</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800217" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>梦幻隔栏（左）</name>
+    <tips>梦幻隔栏（左），可以在后花园或家园小屋摆放
+</tips>
+    <max>30</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800218" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>梦幻隔栏（右）</name>
+    <tips>梦幻隔栏（右），可以在后花园或家园小屋摆放
+</tips>
+    <max>30</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800219" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>梦幻喷泉</name>
+    <tips>梦幻喷泉，可以在后花园或家园小屋摆放
+</tips>
+    <max>30</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800220" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>碎花草垫</name>
+    <tips>碎花草垫，可以在后花园或家园小屋摆放
+</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800221" style="1" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>仙境城堡</name>
+    <tips>爱丽丝仙境城堡房型
+</tips>
+    <max>1</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800222" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>仙境兰草</name>
+    <tips>仙境兰草，可以在后花园或家园小屋摆放
+</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800223" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>神奇古树秋千</name>
+    <tips>神奇古树秋千，可以在后花园或家园小屋摆放
+</tips>
+    <max>30</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800224" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>神奇古树茶具</name>
+    <tips>神奇古树茶具，可以在后花园或家园小屋摆放
+</tips>
+    <max>30</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800225" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>仙境之门</name>
+    <tips>仙境之门，可以在后花园或家园小屋摆放
+</tips>
+    <max>30</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800226" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>仙境蘑菇亭</name>
+    <tips>仙境蘑菇亭，可以在后花园或家园小屋摆放
+</tips>
+    <max>30</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800227" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>扑克围栏（左）</name>
+    <tips>扑克围栏（左），可以在后花园或家园小屋摆放
+</tips>
+    <max>30</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800228" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>扑克围栏（右）</name>
+    <tips>扑克围栏（右），可以在后花园或家园小屋摆放
+</tips>
+    <max>30</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800229" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>仙境蔷薇花</name>
+    <tips>仙境蔷薇花，可以在后花园或家园小屋摆放
+</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800230" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>仙境餐桌</name>
+    <tips>仙境餐桌，可以在后花园或家园小屋摆放
+</tips>
+    <max>30</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800231" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>仙境藤椅</name>
+    <tips>仙境藤椅，可以在后花园或家园小屋摆放
+</tips>
+    <max>30</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800232" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>仙境路牌</name>
+    <tips>仙境路牌，可以在后花园或家园小屋摆放
+</tips>
+    <max>30</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800233" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>仙境守卫</name>
+    <tips>仙境守卫，可以在后花园或家园小屋摆放
+</tips>
+    <max>30</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800234" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>仙境小草垛</name>
+    <tips>仙境小草垛，可以在后花园或家园小屋摆放
+</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800235" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>仙境兰草丛</name>
+    <tips>仙境兰草丛，可以在后花园或家园小屋摆放
+</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800236" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>仙境蔷薇丛</name>
+    <tips>仙境蔷薇丛，可以在后花园或家园小屋摆放
+</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800237" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>猫妖沙发组合</name>
+    <tips>猫妖沙发组合，可以在后花园或家园小屋摆放</tips>
+    <max>10</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800238" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>茶杯休闲沙发</name>
+    <tips>茶杯休闲沙发，可以在后花园或家园小屋摆放
+"
+</tips>
+    <max>10</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800239" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>蓝勺休闲椅</name>
+    <tips>"蓝勺休闲椅，可以在后花园或家园小屋摆放
+"
+</tips>
+    <max>10</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800240" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>棋盘衣橱</name>
+    <tips>"棋盘衣橱，可以在后花园或家园小屋摆放
+"
+</tips>
+    <max>10</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800241" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>蘑菇棋桌</name>
+    <tips>"蘑菇棋桌，可以在后花园或家园小屋摆放
+"
+</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800242" style="3" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>梅花水晶吊灯</name>
+    <tips>"梅花水晶吊灯，可以在家园小屋摆放
+"
+</tips>
+    <max>10</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800243" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>藤蔓烛台</name>
+    <tips>"藤蔓烛台，可以在后花园或家园小屋摆放
+"
+</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800244" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>神灯烛台</name>
+    <tips>"神灯烛台，可以在后花园或家园小屋摆放
+"
+</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800245" style="3" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>皇冠挂钟</name>
+    <tips>"皇冠挂钟，可以在家园小屋摆放
+"
+</tips>
+    <max>10</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800246" style="3" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>花木飘窗</name>
+    <tips>透过窗外可以看到美妙的风景！可以在家园小屋里摆放。</tips>
+    <max>10</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800247" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>原木花床</name>
+    <tips>舒适的原木花床，可以在后花园或家园小屋内摆放
+</tips>
+    <max>10</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800248" style="3" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>花藤吊灯</name>
+    <tips>花藤吊灯家具，可在家园小屋摆放</tips>
+    <max>10</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800249" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>幽兰花灯</name>
+    <tips>美丽的幽兰花灯，可以在家园小屋内摆放
+</tips>
+    <max>10</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800250" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>原木水井</name>
+    <tips>原木水井，可以在后花园摆放
+</tips>
+    <max>10</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800251" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>藤木栏杆</name>
+    <tips>藤木栏杆，可以在后花园摆放
+</tips>
+    <max>10</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800252" style="1" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>青藤花木屋</name>
+    <tips>青藤花木屋房型
+</tips>
+    <max>1</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800253" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>花木跷跷板</name>
+    <tips>有趣的花木跷跷板，可以在后花园摆放
+</tips>
+    <max>10</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800254" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>花木秋千</name>
+    <tips>花木秋千，可以在后花园摆放
+</tips>
+    <max>10</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800255" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>花木书架</name>
+    <tips>花木书架，可以在后花园或家园小屋内摆放
+</tips>
+    <max>10</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800256" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>花木书桌</name>
+    <tips>花木书桌，可以在后花园或家园小屋内摆放
+</tips>
+    <max>10</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800257" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>青藤玉树</name>
+    <tips>青藤玉树，可以在后花园摆放
+</tips>
+    <max>20</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800258" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>花藤树灯</name>
+    <tips>花藤树灯，可以在后花园摆放
+</tips>
+    <max>20</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800259" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>花藤信箱</name>
+    <tips>花藤信箱，可以在后花园摆放
+</tips>
+    <max>20</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800260" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>原木靠椅</name>
+    <tips>原木靠椅，可以在后花园或家园小屋内摆放
+</tips>
+    <max>20</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800261" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>藤木桌椅</name>
+    <tips>藤木桌椅，可以在后花园摆放
+</tips>
+    <max>10</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800262" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>藤木圆桌组合</name>
+    <tips>藤木圆桌组合，可以在后花园摆放
+</tips>
+    <max>10</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800266" style="1" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>海底宫殿</name>
+    <tips>海底宫殿，家园房型</tips>
+    <max>1</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800267" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>飞鱼落地灯</name>
+    <tips>飞鱼落地灯，可在家园和后花园摆放</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800268" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>黄金沙地毯</name>
+    <tips>黄金沙地毯，可在家园和后花园摆放</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800269" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>海底奇石</name>
+    <tips>海底奇石，可在家园和后花园摆放</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800270" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>炫彩珊瑚</name>
+    <tips>炫彩珊瑚，可在家园和后花园摆放</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800271" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>海螺摆件</name>
+    <tips>海螺摆件，可在家园和后花园摆放</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800272" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>珊瑚泳池</name>
+    <tips>珊瑚泳池，可在后花园摆放</tips>
+    <max>5</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800273" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>珊瑚凉亭</name>
+    <tips>珊瑚凉亭，可在后花园摆放</tips>
+    <max>5</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800275" style="1" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>粉粉草莓屋</name>
+    <tips>粉粉草莓屋,家园房型</tips>
+    <max>1</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800276" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>草莓留言板</name>
+    <tips>草莓留言板，可在后花园或家园小屋使用</tips>
+    <max>20</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800277" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>草莓泳池</name>
+    <tips>草莓泳池，可在后花园使用</tips>
+    <max>10</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800278" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>草莓桌椅套装</name>
+    <tips>草莓桌椅套装，可在后花园或家园小屋使用</tips>
+    <max>20</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800279" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>草莓青藤院门</name>
+    <tips>草莓青藤院门，可在后花园使用</tips>
+    <max>20</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800280" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>草莓电视柜</name>
+    <tips>草莓电视柜，可在后花园或家园小屋使用</tips>
+    <max>20</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800281" style="3" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>草莓吊灯</name>
+    <tips>草莓吊灯，可在家园小屋使用</tips>
+    <max>20</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800282" style="3" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>明黄墙架</name>
+    <tips>明黄墙架，可在家园小屋使用</tips>
+    <max>10</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800283" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>草莓躺椅</name>
+    <tips>草莓躺椅，可在后花园或家园小屋使用</tips>
+    <max>20</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800284" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>草莓茶座</name>
+    <tips>草莓茶座，可在后花园或家园小屋使用</tips>
+    <max>20</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800288" style="2" scene="3" renew="0">
+    <sellPrice>70</sellPrice>
+    <name>小木凳</name>
+    <tips>小木凳家具，可在后花园（家园小屋）摆放</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>1</forge>
+  </item>
+  <item id="800340" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>祭龙台</name>
+    <tips>蕴藏着强大而深邃的力量，是强者们梦寐以求的物品</tips>
+    <max>1</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800289" style="3" scene="2" renew="4">
+    <sellPrice>100</sellPrice>
+    <name>粗布窗帘</name>
+    <tips>粗布窗帘家具，可在家园小屋摆放</tips>
+    <max>99</max>
+    <remark>2</remark>
+    <dy>0</dy>
+    <forge>1</forge>
+  </item>
+  <item id="800290" style="2" scene="3" renew="0">
+    <sellPrice>150</sellPrice>
+    <name>文竹盆景</name>
+    <tips>文竹盆景家具，可在后花园（家园小屋）摆放</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>1</forge>
+  </item>
+  <item id="800291" style="2" scene="3" renew="0">
+    <sellPrice>190</sellPrice>
+    <name>君子兰盆景</name>
+    <tips>君子兰盆景家具，可在后花园（家园小屋）摆放</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>1</forge>
+  </item>
+  <item id="800292" style="2" scene="3" renew="0">
+    <sellPrice>220</sellPrice>
+    <name>蝴蝶兰盆景</name>
+    <tips>蝴蝶兰盆景家具，可在后花园（家园小屋）摆放</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>1</forge>
+  </item>
+  <item id="800293" style="2" scene="3" renew="6">
+    <sellPrice>170</sellPrice>
+    <name>桦木衣柜</name>
+    <tips>桦木衣柜家具，可在后花园（家园小屋）摆放</tips>
+    <max>99</max>
+    <remark>2</remark>
+    <dy>0</dy>
+    <forge>1</forge>
+  </item>
+  <item id="800294" style="2" scene="3" renew="0">
+    <sellPrice>250</sellPrice>
+    <name>水仙盆景</name>
+    <tips>水仙盆景家具，可在后花园（家园小屋）摆放</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>1</forge>
+  </item>
+  <item id="800295" style="2" scene="3" renew="6">
+    <sellPrice>170</sellPrice>
+    <name>蓝玉烛台</name>
+    <tips>蓝玉烛台家具，可在后花园（家园小屋）摆放</tips>
+    <max>99</max>
+    <remark>2</remark>
+    <dy>0</dy>
+    <forge>1</forge>
+  </item>
+  <item id="800296" style="2" scene="3" renew="0">
+    <sellPrice>140</sellPrice>
+    <name>桦木圆桌</name>
+    <tips>桦木圆桌家具，可在后花园（家园小屋）摆放</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>1</forge>
+  </item>
+  <item id="800297" style="3" scene="2" renew="6">
+    <sellPrice>170</sellPrice>
+    <name>绸缎绣花窗帘</name>
+    <tips>绸缎绣花窗帘家具，可在家园小屋摆放</tips>
+    <max>99</max>
+    <remark>2</remark>
+    <dy>0</dy>
+    <forge>1</forge>
+  </item>
+  <item id="800298" style="2" scene="3" renew="0">
+    <sellPrice>200</sellPrice>
+    <name>桦木小床</name>
+    <tips>桦木小床家具，可在后花园（家园小屋）摆放</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>1</forge>
+  </item>
+  <item id="800299" style="2" scene="3" renew="6">
+    <sellPrice>190</sellPrice>
+    <name>藤草地毯</name>
+    <tips>藤草地毯家具，可在后花园（家园小屋）摆放</tips>
+    <max>99</max>
+    <remark>2</remark>
+    <dy>0</dy>
+    <forge>1</forge>
+  </item>
+  <item id="800300" style="2" scene="3" renew="0">
+    <sellPrice>250</sellPrice>
+    <name>仙人掌盆景</name>
+    <tips>仙人掌盆景家具，可在后花园（家园小屋）摆放</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>1</forge>
+  </item>
+  <item id="800302" style="2" scene="3" renew="6">
+    <sellPrice>240</sellPrice>
+    <name>青花瓷</name>
+    <tips>青花瓷家具，可在后花园（家园小屋）摆放</tips>
+    <max>99</max>
+    <remark>2</remark>
+    <dy>0</dy>
+    <forge>1</forge>
+  </item>
+  <item id="800303" style="2" scene="3" renew="0">
+    <sellPrice>270</sellPrice>
+    <name>实木靠背椅</name>
+    <tips>实木靠背椅家具，可在后花园（家园小屋）摆放</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>1</forge>
+  </item>
+  <item id="800304" style="2" scene="3" renew="6">
+    <sellPrice>190</sellPrice>
+    <name>娃娃抱枕</name>
+    <tips>娃娃抱枕家具，可在后花园（家园小屋）摆放</tips>
+    <max>99</max>
+    <remark>2</remark>
+    <dy>0</dy>
+    <forge>1</forge>
+  </item>
+  <item id="800305" style="2" scene="3" renew="6">
+    <sellPrice>240</sellPrice>
+    <name>粉红沙发</name>
+    <tips>粉红沙发家具，可在后花园（家园小屋）摆放</tips>
+    <max>99</max>
+    <remark>2</remark>
+    <dy>0</dy>
+    <forge>1</forge>
+  </item>
+  <item id="800306" style="2" scene="3" renew="6">
+    <sellPrice>290</sellPrice>
+    <name>亚麻地毯</name>
+    <tips>亚麻地毯家具，可在后花园（家园小屋）摆放</tips>
+    <max>99</max>
+    <remark>2</remark>
+    <dy>0</dy>
+    <forge>1</forge>
+  </item>
+  <item id="800307" style="2" scene="3" renew="0">
+    <sellPrice>440</sellPrice>
+    <name>红木屏风</name>
+    <tips>红木屏风家具，可在后花园（家园小屋）摆放</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>1</forge>
+  </item>
+  <item id="800308" style="2" scene="3" renew="0">
+    <sellPrice>550</sellPrice>
+    <name>原木茶几</name>
+    <tips>原木茶几家具，可在后花园（家园小屋）摆放</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>1</forge>
+  </item>
+  <item id="800309" style="2" scene="3" renew="6">
+    <sellPrice>450</sellPrice>
+    <name>彩绘屏风</name>
+    <tips>彩绘屏风家具，可在后花园（家园小屋）摆放</tips>
+    <max>99</max>
+    <remark>2</remark>
+    <dy>0</dy>
+    <forge>1</forge>
+  </item>
+  <item id="800310" style="2" scene="3" renew="0">
+    <sellPrice>500</sellPrice>
+    <name>实木彩柜</name>
+    <tips>实木彩柜家具，可在后花园（家园小屋）摆放</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>1</forge>
+  </item>
+  <item id="800311" style="2" scene="3" renew="0">
+    <sellPrice>670</sellPrice>
+    <name>原木书架</name>
+    <tips>原木书架家具，可在后花园（家园小屋）摆放</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>1</forge>
+  </item>
+  <item id="800301" style="2" scene="3" renew="0">
+    <sellPrice>150</sellPrice>
+    <name>实木圆桌</name>
+    <tips>实木圆桌家具，可在后花园（家园小屋）摆放</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>1</forge>
+  </item>
+  <item id="800285" style="4" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>幽静森林背景</name>
+    <tips>幽静森林背景家具，可在后花园摆放</tips>
+    <max>1</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800286" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>菊花盆栽</name>
+    <tips>菊花盆栽家具，可在后花园（家园小屋）摆放</tips>
+    <max>30</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800287" style="4" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>阳光沙滩背景</name>
+    <tips>阳光沙滩背景家具，可在后花园摆放</tips>
+    <max>1</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800274" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>流光火炬</name>
+    <tips>流光火炬，可在后花园摆放</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800088" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>烈阳界碑</name>
+    <tips>烈阳界碑，可以在后花园摆放</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800089" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>暗影界碑</name>
+    <tips>暗影界碑，可以在后花园里摆放。</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800090" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>王座烛台</name>
+    <tips>王座烛台，在漆黑的夜晚里可以带来光明</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800091" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>烈阳王座</name>
+    <tips>烈阳王座，王座战争中烈阳军的宝物</tips>
+    <max>1</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800092" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>暗影王座</name>
+    <tips>暗影王座，王座战争中暗影军的宝物</tips>
+    <max>1</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800312" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>星藤紫木井</name>
+    <tips>星藤紫木井家具，可在后花园摆放</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800313" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>星藤古木屏风</name>
+    <tips>星藤古木屏风家具，可在后花园（家园小屋）摆放</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800314" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>星藤锦缎桌椅</name>
+    <tips>星藤锦缎桌椅家具，可在后花园（家园小屋）摆放</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800315" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>黄竹粉莲盆景</name>
+    <tips>黄竹粉莲盆景家具，可在后花园（家园小屋）摆放</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800316" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>翠玉青竹（大）</name>
+    <tips>翠玉青竹（大）家具，可在后花园摆放</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800317" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>翠玉青竹（小）</name>
+    <tips>翠玉青竹（小）家具，可在后花园（家园小屋）摆放</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800318" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>星藤绕月灯</name>
+    <tips>星藤绕月灯家具，可在后花园摆放</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800319" style="1" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>圆月紫竹房型</name>
+    <tips>圆月紫竹房型家具</tips>
+    <max>1</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800320" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>树木晾衣架</name>
+    <tips>树木晾衣架家具，可在后花园摆放</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800321" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>树条方桌</name>
+    <tips>树条方桌家具，可在后花园（家园小屋）摆放</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800322" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>树条长椅</name>
+    <tips>树条长椅家具，可在后花园（家园小屋）摆放</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800323" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>野营帐篷</name>
+    <tips>野营帐篷家具，可在后花园摆放</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800087" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>小海马</name>
+    <tips>小海马家具，可在后花园（家园小屋）摆放</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800102" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>火炬台</name>
+    <tips>火炬台，可在后花园（家园小屋）摆放</tips>
+    <max>30</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800077" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>石炉锅</name>
+    <tips>石炉锅家具，可在后花园（家园小屋）摆放</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800078" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>百花树盆栽</name>
+    <tips>百花树盆栽家具，可在后花园（家园小屋）摆放</tips>
+    <max>30</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800079" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>青草花香拱门</name>
+    <tips>青草花香拱门家具，可在后花园摆放</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800080" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>粉猪许愿灯</name>
+    <tips>粉猪许愿灯家具，可在后花园（家园小屋）摆放</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800081" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>精致小铃蜂摆件</name>
+    <tips>精致小铃蜂摆件家具，可在后花园（家园小屋）摆放</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800082" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>樱桃小护栏（右）</name>
+    <tips>樱桃小护栏（右）家具，可在后花园摆放</tips>
+    <max>10</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800083" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>樱桃小护栏（左）</name>
+    <tips>樱桃小护栏（左）家具，可在后花园摆放</tips>
+    <max>10</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800084" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>彩色珊瑚</name>
+    <tips>彩色珊瑚家具，可在后花园（家园小屋）摆放</tips>
+    <max>10</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800085" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>斑斓海草</name>
+    <tips>斑斓海草家具，可在后花园（家园小屋）摆放</tips>
+    <max>10</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800086" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>冰贝家具组合</name>
+    <tips>冰贝家具组合家具，可在后花园（家园小屋）摆放</tips>
+    <max>10</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800263" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>紫石落地灯</name>
+    <tips>紫石落地灯家具，可在后花园摆放</tips>
+    <max>10</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800264" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>海马戏珠案台</name>
+    <tips>海马戏珠案台家具，可在后花园摆放</tips>
+    <max>10</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800265" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>珊瑚墩</name>
+    <tips>珊瑚墩家具，可在后花园摆放</tips>
+    <max>10</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800324" style="3" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>灯笼</name>
+    <tips>灯笼家具，可在家园小屋摆放</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800325" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>棋桌</name>
+    <tips>棋桌家具，可在家园小屋摆放</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800326" style="3" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>圣诞壁炉</name>
+    <tips>圣诞壁炉家具，可在家园小屋摆放</tips>
+    <max>5</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800327" style="3" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>圣诞温馨挂饰</name>
+    <tips>圣诞温馨挂饰家具，可在家园小屋摆放</tips>
+    <max>5</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800328" style="3" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>圣诞铃铛花环</name>
+    <tips>圣诞铃铛花环家具，可在家园小屋摆放</tips>
+    <max>5</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800329" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>圣诞靠垫圆椅</name>
+    <tips>圣诞靠垫圆椅家具，可在后花园（家园小屋）摆放</tips>
+    <max>20</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800330" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>多彩圣诞树</name>
+    <tips>多彩圣诞树家具，可在后花园摆放</tips>
+    <max>30</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800331" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>礼帽雪人</name>
+    <tips>礼帽雪人家具，可在后花园摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800332" style="3" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>蛋形小窗</name>
+    <tips>蛋形小窗家具，可在家园小屋摆放</tips>
+    <max>10</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800333" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>双蛋软床</name>
+    <tips>双蛋软床家具，可在后花园（家园小屋）摆放</tips>
+    <max>20</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800334" style="3" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>青藤蛋壳吊灯</name>
+    <tips>青藤蛋壳吊灯家具，可在家园小屋摆放</tips>
+    <max>10</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800335" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>蛋蛋高脚灯</name>
+    <tips>蛋蛋高脚灯家具，可在后花园（家园小屋）摆放</tips>
+    <max>20</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800336" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>蔚蓝祈福树</name>
+    <tips>蔚蓝祈福树家具，可在后花园摆放</tips>
+    <max>20</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800337" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>蛋蛋小水池</name>
+    <tips>蛋蛋小水池家具，可在后花园摆放</tips>
+    <max>5</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800338" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>蛋蛋路牌</name>
+    <tips>蛋蛋路牌家具，可在后花园摆放</tips>
+    <max>30</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800339" style="1" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>圆圆蛋壳屋</name>
+    <tips>圆圆蛋壳屋家具，可在后花园（家园小屋）摆放</tips>
+    <max>1</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800341" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>皇室祭坛</name>
+    <tips>极尽奢华，造工精致，象征无上的荣耀</tips>
+    <max>1</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800342" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>派对舞池</name>
+    <tips>时尚的代名词，拥有它你就可以引领潮流</tips>
+    <max>1</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800343" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>降龙战鼓</name>
+    <tips>古朴典雅的造型，拥有沉稳的音色</tips>
+    <max>30</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800344" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>帝王战鼓</name>
+    <tips>他的鼓声可以振奋全军士气，令军士们奋勇作战</tips>
+    <max>30</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800345" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>摇滚太鼓</name>
+    <tips>派对上必不可少的装备，时尚达人的标志</tips>
+    <max>30</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800346" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>御龙圣杯</name>
+    <tips>传说巨龙的眼泪就放在此杯中</tips>
+    <max>30</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800347" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>帝王圣杯</name>
+    <tips>古代的君王用它来奖励军功显赫的将军</tips>
+    <max>30</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800348" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>幻彩射灯</name>
+    <tips>闪闪生辉的射灯，派对上必不可少的物品</tips>
+    <max>30</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800350" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>天帝神兵架</name>
+    <tips>上古的帝王将收集到的神兵利器都置于此架上</tips>
+    <max>1</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800351" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>高级吧台</name>
+    <tips>在派对中供人休息的地方</tips>
+    <max>1</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800352" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>伏龙座</name>
+    <tips>只有降伏巨龙的人，才有资格坐在这宝座上面</tips>
+    <max>10</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800353" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>帝王宝座</name>
+    <tips>坐在上面代表这无上的权力</tips>
+    <max>10</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800354" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>豪华沙发</name>
+    <tips>柔软舒适，潮流人士的选择</tips>
+    <max>10</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800355" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>斩龙兵器架</name>
+    <tips>传说中驱逐邪龙的武器就放在此架上</tips>
+    <max>1</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800356" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>火甲龙雕像</name>
+    <tips>火甲龙雕像，可在后花园摆放。</tips>
+    <max>30</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800357" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>兔兔雕像</name>
+    <tips>兔兔雕像，可在后花园摆放。</tips>
+    <max>30</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800358" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>封神雕像</name>
+    <tips>封神雕像，可在后花园摆放。</tips>
+    <max>30</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800359" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>莲花池</name>
+    <tips>莲花池，可在后花园摆放。</tips>
+    <max>30</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800360" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>爱心沙发</name>
+    <tips>爱心沙发家具，可在家园小屋摆放</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800361" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>兰格餐桌</name>
+    <tips>兰格餐桌家具，可在家园小屋摆放</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800362" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>翠花立柜</name>
+    <tips>翠花立柜家具，可在家园小屋摆放</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800363" style="3" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>火红鞭炮</name>
+    <tips>火红鞭炮家具，可在家园小屋摆放</tips>
+    <max>20</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800364" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>如意金桔盆景</name>
+    <tips>如意金桔盆景家具，可在后花园（家园小屋）摆放</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800365" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>缤纷烟火</name>
+    <tips>缤纷烟火家具，可在后花园摆放</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800366" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>招财进宝树</name>
+    <tips>招财进宝树家具，可在后花园摆放</tips>
+    <max>20</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800367" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>吉庆路灯</name>
+    <tips>吉庆路灯家具，可在后花园摆放</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800368" style="1" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>吉庆新春房型</name>
+    <tips>吉庆新春房型家具，可在后花园（家园小屋）摆放</tips>
+    <max>1</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800369" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>福财双进桌</name>
+    <tips>福财双进桌家具，可在后花园（家园小屋）摆放</tips>
+    <max>30</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800370" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>福娃送喜摆设</name>
+    <tips>福娃送喜摆设家具，可在后花园（家园小屋）摆放</tips>
+    <max>5</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800371" style="1" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>月兔奇幻屋</name>
+    <tips>月兔奇幻屋房型，可在后花园（家园小屋）摆放</tips>
+    <max>1</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800372" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>月兔路标</name>
+    <tips>月兔路标家具，可在后花园摆放</tips>
+    <max>20</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800373" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>月兔床</name>
+    <tips>月兔床家具，可在家园小屋摆放</tips>
+    <max>10</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800374" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>月兔钢琴</name>
+    <tips>月兔钢琴家具，可在后花园（家园小屋）摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800375" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>月兔喷泉</name>
+    <tips>月兔喷泉家具，可在后花园摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800376" style="3" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>月兔挂钟</name>
+    <tips>月兔挂钟家具，可在家园小屋摆放</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800377" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>月兔灯</name>
+    <tips>月兔灯家具，可在后花园（家园小屋）摆放</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800378" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>月兔沙发</name>
+    <tips>月兔沙发家具，可在后花园（家园小屋）摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800379" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>紫罗兰公主床</name>
+    <tips>紫罗兰公主床家具，可在家园小屋摆放</tips>
+    <max>10</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800380" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>梦幻立灯</name>
+    <tips>梦幻立灯家具，可在后花园（家园小屋）摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800381" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>紫罗兰花架</name>
+    <tips>紫罗兰花架家具，可在后花园（家园小屋）摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800382" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>紫罗兰书架</name>
+    <tips>紫罗兰书架家具，可在家园小屋摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800383" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>紫罗兰茶几</name>
+    <tips>紫罗兰茶几家具，可在后花园（家园小屋）摆放</tips>
+    <max>30</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800384" style="1" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>梦想音乐屋</name>
+    <tips>梦想音乐屋家具，可在后花园（家园小屋）摆放</tips>
+    <max>1</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800385" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>企鹅滑梯</name>
+    <tips>企鹅滑梯家具，可在后花园摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800386" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>星月床</name>
+    <tips>星月床家具，可在后花园（家园小屋）摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800387" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>三角钢琴</name>
+    <tips>三角钢琴家具，可在家园小屋摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800388" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>兔子喷泉</name>
+    <tips>兔子喷泉家具，可在后花园摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800389" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>休闲长椅</name>
+    <tips>休闲长椅家具，可在后花园摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800390" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>蓝色康乃馨</name>
+    <tips>蓝色康乃馨家具，可在后花园（家园小屋）摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800391" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>飞翼衣橱</name>
+    <tips>飞翼衣橱家具，可在家园小屋摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800392" style="1" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>梦境城堡</name>
+    <tips>梦境城堡家具，可在后花园（家园小屋）摆放</tips>
+    <max>1</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800393" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>梦境泳池</name>
+    <tips>梦境泳池家具，可在后花园摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800394" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>浪漫风车</name>
+    <tips>浪漫风车家具，可在后花园摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800395" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>时钟衣橱</name>
+    <tips>时钟衣橱家具，可在家园小屋摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800396" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>小猫摆件</name>
+    <tips>小猫摆件家具，可在后花园（家园小屋）摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800397" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>网球沙发</name>
+    <tips>网球沙发家具，可在后花园（家园小屋）摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800398" style="1" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>神秘魔法屋</name>
+    <tips>神秘魔法屋家具，可在后花园（家园小屋）摆放</tips>
+    <max>1</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800399" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>魔术师躺椅</name>
+    <tips>魔术师躺椅家具，可在后花园摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800400" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>魔法阳伞</name>
+    <tips>魔法阳伞家具，可在后花园摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800401" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>高雅茶具</name>
+    <tips>高雅茶具家具，可在后花园（家园小屋）摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800402" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>魔法沙发</name>
+    <tips>魔法沙发家具，可在后花园（家园小屋）摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800403" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>百变魔术箱</name>
+    <tips>百变魔术箱家具，可在后花园（家园小屋）摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800404" style="1" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>星月港湾</name>
+    <tips>星月港湾家具，可在后花园（家园小屋）摆放</tips>
+    <max>1</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800405" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>星月路标</name>
+    <tips>星月路标家具，可在后花园摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800406" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>魔法路灯</name>
+    <tips>魔法路灯家具，可在后花园摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800407" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>星月餐桌</name>
+    <tips>星月餐桌家具，可在后花园（家园小屋）摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800408" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>星月池塘</name>
+    <tips>星月池塘家具，可在后花园摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800409" style="3" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>蓝梦窗帘</name>
+    <tips>蓝梦窗帘家具，可在家园小屋摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800410" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>蓝梦双人床</name>
+    <tips>蓝梦双人床家具，可在家园小屋摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800411" style="3" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>星月吊灯</name>
+    <tips>星月吊灯家具，可在家园小屋摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800412" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>魔法书柜</name>
+    <tips>魔法书柜家具，可在家园小屋摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800413" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>云朵沙发</name>
+    <tips>云朵沙发家具，可在家园小屋摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800414" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>星月时钟</name>
+    <tips>星月时钟家具，可在家园小屋摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800415" style="1" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>薰衣草之恋</name>
+    <tips>薰衣草之恋家具，可在后花园（家园小屋）摆放</tips>
+    <max>1</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800416" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>薰衣草风车</name>
+    <tips>薰衣草风车家具，可在后花园摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800417" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>浪漫秋千</name>
+    <tips>浪漫秋千家具，可在后花园摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800418" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>舒适野炊毯</name>
+    <tips>舒适野炊毯家具，可在后花园摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800419" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>薰衣草路灯</name>
+    <tips>薰衣草路灯家具，可在后花园摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800420" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>梦幻餐桌</name>
+    <tips>梦幻餐桌家具，可在后花园（家园小屋）摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800421" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>紫梦双人床</name>
+    <tips>紫梦双人床家具，可在家园小屋摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800422" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>薰衣草电脑桌</name>
+    <tips>薰衣草电脑桌家具，可在家园小屋摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800423" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>薰衣草衣柜</name>
+    <tips>薰衣草衣柜家具，可在家园小屋摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800424" style="1" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>黑珍珠号</name>
+    <tips>黑珍珠号家具，可在后花园（家园小屋）摆放</tips>
+    <max>1</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800425" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>高雅钢琴</name>
+    <tips>高雅钢琴家具，可在家园小屋摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800426" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>海盗宝箱</name>
+    <tips>海盗宝箱家具，可在后花园（家园小屋）摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800427" style="3" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>海盗之刃</name>
+    <tips>海盗之刃家具，可在家园小屋摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800428" style="3" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>航海地图</name>
+    <tips>航海地图家具，可在家园小屋摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800429" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>古典地球仪</name>
+    <tips>古典地球仪家具，可在后花园（家园小屋）摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800430" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>海盗铁锚</name>
+    <tips>海盗铁锚家具，可在后花园（家园小屋）摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800431" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>海盗舵盘</name>
+    <tips>海盗舵盘家具，可在后花园（家园小屋）摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800432" style="1" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>密林小屋</name>
+    <tips>密林小屋家具，可在后花园（家园小屋）摆放</tips>
+    <max>1</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800433" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>南瓜灯</name>
+    <tips>南瓜灯家具，可在后花园（家园小屋）摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800434" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>创意盆栽</name>
+    <tips>创意盆栽家具，可在后花园（家园小屋）摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800435" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>果盘摆件</name>
+    <tips>果盘摆件家具，可在后花园（家园小屋）摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800436" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>萝卜椅子</name>
+    <tips>萝卜椅子家具，可在后花园（家园小屋）摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800437" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>侍者茶几</name>
+    <tips>侍者茶几家具，可在后花园（家园小屋）摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800438" style="3" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>水果吊灯</name>
+    <tips>水果吊灯家具，可在家园小屋摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800439" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>粉色羊驼</name>
+    <tips>粉色羊驼家具，可在家园小屋摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800440" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>浮世绘屏风</name>
+    <tips>浮世绘屏风家具，可在家园小屋摆放</tips>
+    <max>10</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800441" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>蝴蝶宫灯</name>
+    <tips>蝴蝶宫灯家具，可在家园小屋摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800442" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>液晶电视</name>
+    <tips>液晶电视家具，可在家园小屋摆放</tips>
+    <max>10</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800443" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>唐式灯笼</name>
+    <tips>唐式灯笼家具，可在家园小屋摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800444" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>小霸王游戏机</name>
+    <tips>小霸王游戏机家具，可在家园小屋摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800445" style="3" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>中国窗</name>
+    <tips>中国窗家具，可在家园小屋摆放</tips>
+    <max>10</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800446" style="1" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>蟠龙宫殿</name>
+    <tips>蟠龙宫殿家具，可在后花园（家园小屋）摆放</tips>
+    <max>1</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800447" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>幸福摩天轮</name>
+    <tips>幸福摩天轮家具，可在后花园摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800448" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>沙滩休闲桌</name>
+    <tips>沙滩休闲桌家具，可在后花园摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800449" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>华美路灯</name>
+    <tips>华美路灯家具，可在后花园摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800450" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>蟠龙雕像</name>
+    <tips>蟠龙雕像家具，可在后花园摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800451" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>双层花坛</name>
+    <tips>双层花坛家具，可在后花园摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800452" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>古典圆桌</name>
+    <tips>古典圆桌家具，可在后花园（家园小屋）摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800453" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>胖胖龙喷泉</name>
+    <tips>胖胖龙喷泉家具，可在后花园摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800454" style="1" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>花海幻城</name>
+    <tips>花海幻城家具，可在后花园（家园小屋）摆放</tips>
+    <max>1</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800455" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>英式时钟</name>
+    <tips>英式时钟家具，可在家园小屋摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800456" style="3" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>高贵吊灯</name>
+    <tips>高贵吊灯家具，可在家园小屋摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800457" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>精致梳妆台</name>
+    <tips>精致梳妆台家具，可在家园小屋摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800458" style="3" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>墙壁蜡烛</name>
+    <tips>墙壁蜡烛家具，可在家园小屋摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800459" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>蓝玫瑰花坛</name>
+    <tips>蓝玫瑰花坛家具，可在后花园摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800460" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>高级餐桌</name>
+    <tips>高级餐桌家具，可在家园小屋摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800461" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>优雅茶几</name>
+    <tips>优雅茶几家具，可在家园小屋摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800462" style="1" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>幻灵之城</name>
+    <tips>幻灵之城家具，可在后花园（家园小屋）摆放</tips>
+    <max>1</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800463" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>典雅茶几</name>
+    <tips>典雅茶几家具，可在家园小屋摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800464" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>古典沙发</name>
+    <tips>古典沙发家具，可在家园小屋摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800465" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>古典储物柜</name>
+    <tips>古典储物柜家具，可在家园小屋摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800466" style="3" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>华彩吊灯</name>
+    <tips>华彩吊灯家具，可在家园小屋摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800467" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>华彩双人床</name>
+    <tips>华彩双人床家具，可在家园小屋摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800468" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>典雅沙发套件</name>
+    <tips>典雅沙发套件家具，可在家园小屋摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800469" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>典雅四人茶座</name>
+    <tips>典雅四人茶座家具，可在家园小屋摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800470" style="1" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>皇宇宝殿</name>
+    <tips>皇宇宝殿家具，可在后花园（家园小屋）摆放</tips>
+    <max>1</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800471" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>皇室储物柜</name>
+    <tips>皇室储物柜家具，可在家园小屋摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800472" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>皇室卧榻</name>
+    <tips>皇室卧榻家具，可在家园小屋摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800473" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>皇室屏风</name>
+    <tips>皇室屏风家具，可在家园小屋摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800474" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>红木棋桌</name>
+    <tips>红木棋桌家具，可在家园小屋摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800475" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>皇室书案</name>
+    <tips>皇室书案家具，可在家园小屋摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800476" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>红木香案</name>
+    <tips>红木香案家具，可在家园小屋摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800477" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>红木茶座</name>
+    <tips>红木茶座家具，可在家园小屋摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800478" style="1" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>甜甜糖果屋</name>
+    <tips>甜甜糖果屋家具，可在后花园（家园小屋）摆放</tips>
+    <max>1</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800479" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>绿条纹小床</name>
+    <tips>绿条纹小床家具，可在家园小屋摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800480" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>五彩玫瑰</name>
+    <tips>五彩玫瑰家具，可在家园小屋摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800481" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>方形花架</name>
+    <tips>方形花架家具，可在家园小屋摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800482" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>糖果秋千</name>
+    <tips>糖果秋千家具，可在家园小屋摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800483" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>绿纹沙发</name>
+    <tips>绿纹沙发家具，可在家园小屋摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800484" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>茶色书柜</name>
+    <tips>茶色书柜家具，可在家园小屋摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800485" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>绿纹小椅子</name>
+    <tips>绿纹小椅子家具，可在家园小屋摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800486" style="1" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>摩登殿堂</name>
+    <tips>摩登殿堂家具，可在后花园（家园小屋）摆放</tips>
+    <max>1</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800487" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>蓝纹软床</name>
+    <tips>蓝纹软床家具，可在家园小屋摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800488" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>浅蓝储物柜</name>
+    <tips>浅蓝储物柜家具，可在家园小屋摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800489" style="3" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>蓝金吊灯</name>
+    <tips>蓝金吊灯家具，可在家园小屋摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800490" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>向日花瓶</name>
+    <tips>向日花瓶家具，可在家园小屋摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800491" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>软皮沙发</name>
+    <tips>软皮沙发家具，可在家园小屋摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800492" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>蓝纹立灯</name>
+    <tips>蓝纹立灯家具，可在家园小屋摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800493" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>银蓝衣柜</name>
+    <tips>银蓝衣柜家具，可在家园小屋摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800494" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>小星树</name>
+    <tips>小星树，可以在后花园里摆放。</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800495" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>星魂花架</name>
+    <tips>星魂花架，可以在后花园屋里摆放。</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800496" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>星魂祭坛</name>
+    <tips>星魂祭坛，可以在后花园屋里摆放。</tips>
+    <max>3</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800497" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>星魂图腾</name>
+    <tips>星魂图腾，可以在后花园屋里摆放。</tips>
+    <max>3</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800498" style="1" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>莲上古城</name>
+    <tips>莲上古城家具，可在后花园（家园小屋）摆放</tips>
+    <max>1</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800499" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>四柱红木床</name>
+    <tips>四柱红木床家具，可在家园小屋摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800500" style="3" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>天字卷轴</name>
+    <tips>天字卷轴家具，可在家园小屋摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800501" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>古风立镜</name>
+    <tips>古风立镜家具，可在家园小屋摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800502" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>实木梳洗架</name>
+    <tips>实木梳洗架家具，可在家园小屋摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800503" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>古风木衣柜</name>
+    <tips>古风木衣柜家具，可在家园小屋摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800504" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>红木橱柜</name>
+    <tips>红木橱柜家具，可在家园小屋摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800505" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>四抬红轿</name>
+    <tips>四抬红轿家具，可在后花园摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800506" style="1" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>鲜花别墅</name>
+    <tips>鲜花别墅家具，可在后花园（家园小屋）摆放</tips>
+    <max>1</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800507" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>锦绣大床</name>
+    <tips>锦绣大床家具，可在家园小屋摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800508" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>锦绣餐桌</name>
+    <tips>锦绣餐桌家具，可在家园小屋摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800509" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>灵藤路灯</name>
+    <tips>灵藤路灯家具，可在后花园摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800510" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>锦绣床头柜</name>
+    <tips>锦绣床头柜家具，可在家园小屋摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800511" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>锦绣衣柜</name>
+    <tips>锦绣衣柜家具，可在家园小屋摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800512" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>休闲乘凉桌</name>
+    <tips>休闲乘凉桌家具，可在后花园摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800513" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>鲜花护栏</name>
+    <tips>鲜花护栏家具，可在后花园摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800514" style="1" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>向日葵别墅</name>
+    <tips>向日葵别墅，可在后花园摆放</tips>
+    <max>1</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800515" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>向日葵池塘</name>
+    <tips>向日葵池塘，可在后花园摆放</tips>
+    <max>5</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800516" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>向日葵伞篷</name>
+    <tips>向日葵伞篷，可在后花园摆放</tips>
+    <max>30</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800517" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>向日葵床柜</name>
+    <tips>向日葵床柜家具，可在家园小屋摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800518" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>向日葵大床</name>
+    <tips>向日葵大床，可在家园小屋摆放</tips>
+    <max>1</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800519" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>向日葵桌子</name>
+    <tips>向日葵桌子家具，可在家园小屋摆放</tips>
+    <max>1</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800520" style="2" scene="3" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>向日葵灯座</name>
+    <tips>向日葵灯座家具，可在后花园（家园小屋）摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800521" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>向日葵地毯</name>
+    <tips>向日葵地毯家具，可在家园小屋摆放</tips>
+    <max>5</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800522" style="1" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>青竹别墅</name>
+    <tips>青竹别墅，可在后花园摆放</tips>
+    <max>1</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800523" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>青竹池塘</name>
+    <tips>青竹池塘，可在后花园摆放</tips>
+    <max>10</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800524" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>青竹桌椅</name>
+    <tips>青竹桌椅，可在后花园摆放</tips>
+    <max>10</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800525" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>青竹软床</name>
+    <tips>青竹软床家具，可在家园小屋摆放</tips>
+    <max>5</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800526" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>青竹梳妆台</name>
+    <tips>青竹梳妆台家具，可在家园小屋摆放</tips>
+    <max>5</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800528" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>青竹高凳</name>
+    <tips>青竹高凳家具，可在家园小屋摆放</tips>
+    <max>30</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800529" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>青竹长椅</name>
+    <tips>青竹长椅家具，可在家园小屋摆放</tips>
+    <max>10</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800530" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>青竹矮凳</name>
+    <tips>青竹矮凳家具，可在家园小屋摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800531" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>青竹衣柜</name>
+    <tips>青竹衣柜家具，可在家园小屋摆放</tips>
+    <max>30</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800532" style="1" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>庄园别墅</name>
+    <tips>庄园别墅，可在后花园摆放</tips>
+    <max>1</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800533" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>庄园池塘</name>
+    <tips>庄园池塘，可在后花园摆放</tips>
+    <max>5</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800534" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>庄园摇椅</name>
+    <tips>庄园摇椅，可在后花园摆放</tips>
+    <max>10</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800535" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>庄园软床</name>
+    <tips>庄园软床家具，可在家园小屋摆放</tips>
+    <max>10</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800536" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>庄园梳妆台</name>
+    <tips>庄园梳妆台家具，可在家园小屋摆放</tips>
+    <max>10</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800537" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>庄园茶几</name>
+    <tips>庄园茶几家具，可在家园小屋摆放</tips>
+    <max>5</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800538" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>庄园长椅</name>
+    <tips>庄园长椅家具，可在家园小屋摆放</tips>
+    <max>5</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800539" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>庄园衣柜</name>
+    <tips>庄园衣柜家具，可在家园小屋摆放</tips>
+    <max>10</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800540" style="1" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>爱琴海别墅</name>
+    <tips>爱琴海别墅家具，可在后花园摆放</tips>
+    <max>1</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800541" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>爱琴海沙滩</name>
+    <tips>爱琴海沙滩家具，可在后花园摆放</tips>
+    <max>5</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800542" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>爱琴海座椅</name>
+    <tips>爱琴海座椅，可在后花园摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800543" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>爱琴海灯塔</name>
+    <tips>爱琴海座椅，可在后花园摆放</tips>
+    <max>30</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800544" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>爱琴海木床</name>
+    <tips>爱琴海木床家具，可在家园小屋摆放</tips>
+    <max>5</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800545" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>爱琴海书桌</name>
+    <tips>爱琴海书桌家具，可在家园小屋摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800546" style="3" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>爱琴海时钟</name>
+    <tips>爱琴海时钟家具，可在家园小屋摆放</tips>
+    <max>10</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800547" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>爱琴海餐桌</name>
+    <tips>爱琴海餐桌家具，可在家园小屋摆放</tips>
+    <max>10</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800548" style="1" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>淡雅别墅</name>
+    <tips>淡雅别墅，可在后花园摆放</tips>
+    <max>1</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800549" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>淡雅水池</name>
+    <tips>淡雅水池，可在后花园摆放</tips>
+    <max>30</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800550" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>淡雅座椅</name>
+    <tips>淡雅座椅，可在后花园摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800551" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>淡雅钢琴</name>
+    <tips>淡雅钢琴家具，可在家园小屋摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800552" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>淡雅长椅</name>
+    <tips>淡雅长椅家具，可在家园小屋摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800553" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>淡雅木椅</name>
+    <tips>淡雅木椅家具，可在家园小屋摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800554" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>淡雅书桌</name>
+    <tips>淡雅书桌家具，可在家园小屋摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800555" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>淡雅茶几</name>
+    <tips>淡雅茶几家具，可在家园小屋摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800556" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>淡雅衣柜</name>
+    <tips>淡雅衣柜家具，可在家园小屋摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800557" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>淡雅软床</name>
+    <tips>淡雅软床家具，可在家园小屋摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800558" style="1" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>丛林别墅</name>
+    <tips>丛林别墅，可在后花园摆放</tips>
+    <max>1</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800559" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>丛林水池</name>
+    <tips>丛林水池，可在后花园摆放</tips>
+    <max>30</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800560" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>丛林摇椅</name>
+    <tips>丛林摇椅，可在后花园摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800561" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>丛林饭桌</name>
+    <tips>丛林饭桌家具，可在家园小屋摆放</tips>
+    <max>30</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800562" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>丛林书柜</name>
+    <tips>丛林书柜家具，可在家园小屋摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800563" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>丛林小桌</name>
+    <tips>丛林小桌家具，可在家园小屋摆放</tips>
+    <max>50</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800564" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>丛林大床</name>
+    <tips>丛林大床家具，可在家园小屋摆放</tips>
+    <max>30</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800568" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>浓情双人床</name>
+    <tips>浓情双人床家具，可在家园小屋摆放</tips>
+    <max>99</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800565" style="1" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>情趣小屋</name>
+    <tips>情趣小屋，可在后花园摆放</tips>
+    <max>1</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800566" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>浓情小餐桌</name>
+    <tips>浓情小餐桌家具，可在家园小屋摆放</tips>
+    <max>30</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800567" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>浓情沙发</name>
+    <tips>浓情沙发家具，可在家园小屋摆放</tips>
+    <max>30</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800569" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>浓情床头柜</name>
+    <tips>浓情床头柜家具，可在家园小屋摆放</tips>
+    <max>30</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800570" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>浓情衣柜</name>
+    <tips>浓情衣柜家具，可在家园小屋摆放</tips>
+    <max>30</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800571" style="2" scene="2" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>浓情双人桌</name>
+    <tips>浓情双人桌家具，可在家园小屋摆放</tips>
+    <max>30</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+  <item id="800572" style="2" scene="1" renew="0">
+    <sellPrice>0</sellPrice>
+    <name>小天使水池</name>
+    <tips>小天使水池家具，可在后花园摆放</tips>
+    <max>30</max>
+    <remark>0</remark>
+    <dy>0</dy>
+    <forge>0</forge>
+  </item>
+</data>

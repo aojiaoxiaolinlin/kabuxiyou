@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<main>
+	<!--num是前后端统一的序号，id是物品ID，name是显示在“积分奖励”界面上的名称-->
+	<!--score是显示在“积分奖励”界面上的“积分”，tips是鼠标经过图标时的提示，如果不填则从tips配置表里读-->
+	<!--westPath是图片的路径，以后可能有仙踪版的，所以以后可能有两个路径-->
+ 	<item num="1" id="" name="洗髓丹" score="300" tips="" westPath="assets/gamehall/icons/west/dan.png"/>
+</main>

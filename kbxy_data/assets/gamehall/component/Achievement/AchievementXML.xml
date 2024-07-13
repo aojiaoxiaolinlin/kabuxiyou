@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<main>
+	<gameType name="综合" index="-1" gameid="-1">
+		<item itemname="游戏爱好者" itemDes="在各游戏大厅中完成比赛100场" point="40" itemindex="0" visible="true">
+		</item>
+		<item itemname="游戏狂" itemDes="在各游戏大厅中完成比赛250场" point="50" itemindex="1" visible="true">
+		</item>
+		<item itemname="游戏王" itemDes="在各游戏大厅中完成比赛500场" point="60" itemindex="2" visible="true">
+		</item>
+		<item itemname="我又来了" itemDes="连续登录游戏乐园5天" point="30" itemindex="3" visible="true">
+		</item>
+		<item itemname="坚持不懈" itemDes="连续登录游戏乐园15天" point="40" itemindex="4" visible="true">
+		</item>
+		<item itemname="登录小王子" itemDes="连续登录游戏乐园30天" point="50" itemindex="5" visible="true">
+		</item>
+		<item itemname="积极分子" itemDes="游戏乐园累积在线时长达10小时" point="30" itemindex="6" visible="true">
+		</item>
+		<item itemname="我很活跃" itemDes="游戏乐园累积在线时长达50小时" point="40" itemindex="7" visible="true">
+		</item>
+		<item itemname="我一直都在" itemDes="游戏乐园累积在线时长达100小时" point="50" itemindex="8" visible="true">
+		</item>
+	</gameType>
+	<gameType name="你画我猜" index="1" gameid="2001">
+ 		<item itemname="你画我猜初学者" itemDes="完成你画我猜30场" point="30" itemindex="20" visible="true">
+		</item>
+		<item itemname="你画我猜修炼中" itemDes="完成你画我猜100场" point="40" itemindex="21" visible="true">
+		</item>
+		<item itemname="你画我猜精通" itemDes="完成你画我猜300场" point="50" itemindex="22" visible="true">
+		</item>
+		<item itemname="业余画家" itemDes="单局你画我猜分数达到20分" point="20" itemindex="23" visible="true">
+		</item>
+		<item itemname="专业画家" itemDes="单局你画我猜分数达到30分" point="30" itemindex="24" visible="true">
+		</item>
+	</gameType>
+	<gameType name="地盘争夺战" index="2" gameid="2002">
+ 		<item itemname="地盘争夺战初学者" itemDes="完成地盘争夺战30场" point="30" itemindex="30" visible="true">
+		</item>
+		<item itemname="地盘争夺战修炼中" itemDes="完成地盘争夺战100场" point="40" itemindex="31" visible="true">
+		</item>
+		<item itemname="地盘争夺战精通" itemDes="完成地盘争夺战300场" point="50" itemindex="32" visible="true">
+		</item>
+	</gameType>
+	<gameType name="炫彩拼图" index="3" gameid="2004">
+ 		<item itemname="炫彩拼图初学者" itemDes="完成炫彩拼图30场" point="30" itemindex="40" visible="true">
+		</item>
+		<item itemname="炫彩拼图修炼中" itemDes="完成炫彩拼图100场" point="40" itemindex="41" visible="true">
+		</item>
+		<item itemname="炫彩拼图精通" itemDes="完成炫彩拼图300场" point="50" itemindex="42" visible="true">
+		</item>
+	</gameType>
+	<gameType name="火眼金睛" index="4" gameid="2012">
+ 		<item itemname="火眼金睛初学者" itemDes="完成火眼金睛30场" point="30" itemindex="50" visible="true">
+		</item>
+		<item itemname="火眼金睛修炼中" itemDes="完成火眼金睛100场" point="40" itemindex="51" visible="true">
+		</item>
+		<item itemname="火眼金睛精通" itemDes="完成火眼金睛300场" point="50" itemindex="52" visible="true">
+		</item>
+	</gameType>
+	<gameType name="黄金矿工" index="5" gameid="2003">
+ 		<item itemname="黄金矿工初学者" itemDes="完成黄金矿工30场" point="30" itemindex="60" visible="true">
+		</item>
+		<item itemname="黄金矿工修炼中" itemDes="完成黄金矿工100场" point="40" itemindex="61" visible="true">
+		</item>
+		<item itemname="黄金矿工精通" itemDes="完成黄金矿工300场" point="50" itemindex="62" visible="true">
+		</item>
+		<item itemname="高级矿工" itemDes="单局黄金矿工分数达到8000" point="20" itemindex="63" visible="true">
+		</item>
+		<item itemname="掘金能手" itemDes="单局黄金矿工分数达到12000" point="30" itemindex="64" visible="true">
+		</item>
+	</gameType>
+	<gameType name="鼓鼓相争" index="6" gameid="2008">
+ 		<item itemname="鼓鼓相争初学者" itemDes="完成鼓鼓相争30场" point="30" itemindex="70" visible="true">
+		</item>
+		<item itemname="鼓鼓相争修炼中" itemDes="完成鼓鼓相争100场" point="40" itemindex="71" visible="true">
+		</item>
+		<item itemname="鼓鼓相争战精通" itemDes="完成鼓鼓相争300场" point="50" itemindex="72" visible="true">
+		</item>
+	</gameType>
+	<gameType name="宝箱堆叠赛" index="7" gameid="2010">
+ 		<item itemname="宝箱堆叠赛初学者" itemDes="完成宝箱堆叠赛30场" point="30" itemindex="80" visible="true">
+		</item>
+		<item itemname="宝箱堆叠赛修炼中" itemDes="完成宝箱堆叠赛100场" point="40" itemindex="81" visible="true">
+		</item>
+		<item itemname="宝箱堆叠赛精通" itemDes="完成宝箱堆叠赛300场" point="50" itemindex="82" visible="true">
+		</item>
+	</gameType>
+	<gameType name="生存大考验" index="8" gameid="2016">
+ 		<item itemname="生存大考验初学者" itemDes="完成生存大考验30场" point="30" itemindex="90" visible="true">
+		</item>
+		<item itemname="生存大考验修炼中" itemDes="完成生存大考验100场" point="40" itemindex="91" visible="true">
+		</item>
+		<item itemname="生存大考验精通" itemDes="完成生存大考验300场" point="50" itemindex="92" visible="true">
+		</item>
+		<item itemname="生存无忧" itemDes="4分钟内完成生存大考验" point="20" itemindex="93" visible="true">
+		</item>
+		<item itemname="生存强者" itemDes="3分钟内完成生存大考验" point="30" itemindex="94" visible="true">
+		</item>
+	</gameType>
+	<gameType name="急速蹦极" index="9" gameid="2006">
+ 		<item itemname="急速蹦极初学者" itemDes="完成急速蹦极30场" point="30" itemindex="100" visible="true">
+		</item>
+		<item itemname="急速蹦极修炼中" itemDes="完成急速蹦极100场" point="40" itemindex="101" visible="true">
+		</item>
+		<item itemname="急速蹦极精通" itemDes="完成急速蹦极300场" point="50" itemindex="102" visible="true"> 
+		</item>
+		<item itemname="蹦极高手" itemDes="急速蹦极到达100层" point="20" itemindex="103" visible="true">
+		</item>
+		<item itemname="玩得就是心跳" itemDes="急速蹦极到达200层" point="30" itemindex="104" visible="true"> 
+		</item>
+	</gameType>
+	<gameType name="神箭手特训" index="10" gameid="2014">
+ 		<item itemname="神箭手特训初学者" itemDes="完成神箭手特训30场" point="30" itemindex="110" visible="true">
+		</item>
+		<item itemname="神箭手特训修炼中" itemDes="完成神箭手特训100场" point="40" itemindex="111" visible="true">
+		</item>
+		<item itemname="神箭手特训精通" itemDes="完成神箭手特训300场" point="50" itemindex="112" visible="true">
+		</item>
+		<item itemname="准头不错" itemDes="单局神箭手射击10环次数达到60次" point="20" itemindex="113" visible="true">
+		</item>
+		<item itemname="百发百中" itemDes="单局神箭手射击10环次数达到70次" point="30" itemindex="114" visible="true">
+		</item>
+	</gameType>
+	<gameType name="泡泡大作战" index="11" gameid="2005">
+ 		<item itemname="泡泡大作战初学者" itemDes="完成泡泡大作战30场" point="30" itemindex="120" visible="true">
+		</item>
+		<item itemname="泡泡大作战修炼中" itemDes="完成泡泡大作战100场" point="40" itemindex="121" visible="true">
+		</item>
+		<item itemname="泡泡大作战精通" itemDes="完成泡泡大作战300场" point="50" itemindex="122" visible="true">
+		</item>
+	</gameType>
+	<gameType name="记忆卡片" index="12" gameid="2007">
+ 		<item itemname="记忆卡片初学者" itemDes="完成记忆卡片30场" point="30" itemindex="130" visible="true">
+		</item>
+		<item itemname="记忆卡片修炼中" itemDes="完成记忆卡片100场" point="40" itemindex="131" visible="true">
+		</item>
+		<item itemname="记忆卡片精通" itemDes="完成记忆卡片300场" point="50" itemindex="132" visible="true">
+		</item>
+	</gameType>
+	<gameType name="妖怪连连看" index="13" gameid="2009">
+ 		<item itemname="妖怪连连看初学者" itemDes="完成妖怪连连看30场" point="30" itemindex="140" visible="true">
+		</item>
+		<item itemname="妖怪连连看修炼中" itemDes="完成妖怪连连看100场" point="40" itemindex="141" visible="true">
+		</item>
+		<item itemname="妖怪连连看精通" itemDes="完成妖怪连连看300场" point="50" itemindex="142" visible="true">
+		</item>
+	</gameType>
+	
+	<gameType name="活动" index="2" gameid="-11">
+	<item itemname="我爱吃粽子" itemDes="端午节活动吃粽子101-150口" point="20" itemindex="147" visible="true">
+		</item>
+		<item itemname="吃粽子大王" itemDes="端午节活动吃粽子151口以上" point="30" itemindex="148" visible="true">
+		</item>
+	</gameType>
+
+	<gameType name="活动" index="2" gameid="-12">
+	<item itemname="父爱如山" itemDes="父亲节许愿累积达到16次" point="50" itemindex="149" visible="true">
+		</item>
+	</gameType>
+
+	<gameType name="球球争霸赛" index="14" gameid="2011">
+ 		<item itemname="球球争霸赛初学者" itemDes="完成球球争霸赛30场" point="30" itemindex="150" visible="true">
+		</item>
+		<item itemname="球球争霸赛修炼中" itemDes="完成球球争霸赛100场" point="40" itemindex="151" visible="true">
+		</item>
+		<item itemname="球球争霸赛精通" itemDes="完成球球争霸赛300场" point="50" itemindex="152" visible="true">
+		</item>
+	</gameType>
+	<gameType name="活动" index="2" gameid="-13">
+		
+ 		<item itemname="5.1除草参与者" itemDes="5.1除草活动中除草2棵" point="10" itemindex="157" visible="true">
+		</item>
+		<item itemname="5.1除草积极分子" itemDes="5.1除草活动中除草5棵" point="20" itemindex="158" visible="true">
+		</item>
+		<item itemname="5.1除草能手" itemDes="5.1除草活动中除草10棵" point="30" itemindex="159" visible="true">
+		</item>
+	</gameType>
+	<gameType name="妖怪对对碰" index="15" gameid="2013">
+ 		<item itemname="妖怪对对碰初学者" itemDes="完成妖怪对对碰30场" point="30" itemindex="160" visible="true">
+		</item>
+		<item itemname="妖怪对对碰修炼中" itemDes="完成妖怪对对碰100场" point="40" itemindex="161" visible="true">
+		</item>
+		<item itemname="妖怪对对碰精通" itemDes="完成妖怪对对碰300场" point="50" itemindex="162" visible="true">
+		</item>
+	</gameType>
+	<gameType name="活动" index="2" gameid="-10">
+		<item itemname="5.1除草专家" itemDes="5.1除草活动中除草25棵" point="40" itemindex="167" visible="true">
+		</item>
+		<item itemname="5.1除草终身成就" itemDes="5.1除草活动中除草51棵" point="50" itemindex="168" visible="true">
+		</item>
+	</gameType>
+	<gameType name="决战俄罗斯" index="16" gameid="2015">
+ 		<item itemname="决战俄罗斯初学者" itemDes="完成决战俄罗斯30场" point="30" itemindex="170" visible="true">
+		</item>
+		<item itemname="决战俄罗斯修炼中" itemDes="完成决战俄罗斯100场" point="40" itemindex="171" visible="true">
+		</item>
+		<item itemname="决战俄罗斯精通" itemDes="完成决战俄罗斯300场" point="50" itemindex="172" visible="true">
+		</item>
+	</gameType>
+	<gameType name="趣味足球" index="2" gameid="-21">
+		<item itemname="踢得不错" itemDes="趣味足球达到8次combo" point="20" itemindex="177" visible="true">
+		</item>
+		<item itemname="踢得精准" itemDes="趣味足球达到15次combo" point="30" itemindex="178" visible="true">
+		</item>
+	</gameType>
+	<gameType name="棋子消消乐" index="2" gameid="2017">
+ 		<item itemname="棋子消消乐初学者" itemDes="完成棋子消消乐30场" point="30" itemindex="180" visible="true">
+		</item>
+		<item itemname="棋子消消乐修炼中" itemDes="完成棋子消消乐100场" point="40" itemindex="181" visible="true">
+		</item>
+		<item itemname="棋子消消乐精通" itemDes="完成棋子消消乐300场" point="50" itemindex="182" visible="true">
+		</item>
+	</gameType>
+	<gameType name="趣味足球" index="2" gameid="-20">
+ 		<item itemname="足球小子" itemDes="完成趣味足球30场" point="30" itemindex="187" visible="true">
+		</item>
+		<item itemname="足球先生" itemDes="完成趣味足球100场" point="40" itemindex="188" visible="true">
+		</item>
+		<item itemname="足球大亨" itemDes="完成趣味足球300场" point="50" itemindex="189" visible="true">
+		</item>
+	</gameType>
+
+</main>

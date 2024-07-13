@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<question id="1" content="1.沙悟净因为犯了什么错而被贬人间？">
+		<answer id="1" content="A. 调戏嫦娥"/>
+		<answer id="2" content="B. 偷吃仙丹"/>
+		<answer id="3" content="C. 打破琉璃盏"/>
+		<answer id="4" content="D. 大闹天宫"/>
+	</question>
+	<question id="2" content="2.下列调味品中遇到碘会变蓝的是？">
+		<answer id="1" content="A. 盐"/>
+		<answer id="2" content="B. 白糖"/>
+		<answer id="3" content="C. 胡椒粉"/>
+		<answer id="4" content="D. 淀粉"/>
+	</question>	
+	<question id="3" content="3.被称为“雾都”的欧洲城市是？">
+		<answer id="1" content="A. 伦敦"/>
+		<answer id="2" content="B. 柏林"/>
+		<answer id="3" content="C. 巴黎"/>
+		<answer id="4" content="D. 罗马"/>
+	</question>
+	<question id="4" content="4.唐朝“贞观之治”出现在哪位皇帝执政期间？">
+		<answer id="1" content="A. 唐中宗"/>
+		<answer id="2" content="B. 唐玄宗"/>
+		<answer id="3" content="C. 唐睿宗"/>
+		<answer id="4" content="D. 唐太宗"/>
+	</question>
+	<question id="5" content="5.世界第一高峰是我国的什么山峰？">
+		<answer id="1" content="A. 贺兰山"/>
+		<answer id="2" content="B. 珠穆朗玛峰"/>
+		<answer id="3" content="C. 神农顶"/>
+		<answer id="4" content="D. 玉女峰"/>
+	</question>	
+</list>

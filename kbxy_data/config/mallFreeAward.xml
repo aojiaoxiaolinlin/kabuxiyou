@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mallFreeAward>
+	<award id ="1" lv ="1">
+		<cost>1</cost>
+		<item1>440440</item1>
+		<num1>2</num1>
+		<item2>103013</item2>
+		<num2>2</num2>
+		<item3>100607</item3>
+		<num3>2</num3>
+		<item4>103021</item4>
+		<num4>2</num4>
+	</award>
+	<award id ="2" lv ="2">
+		<cost>20</cost>
+		<item1>440440</item1>
+		<num1>2</num1>
+		<item2>103001</item2>
+		<num2>1</num2>
+		<item3>440438</item3>
+		<num3>20</num3>
+		<item4>102229</item4>
+		<num4>1</num4>
+	</award>
+	<award id ="3" lv ="3">
+		<cost>80</cost>
+		<item1>440440</item1>
+		<num1>4</num1>
+		<item2>100013</item2>
+		<num2>4</num2>
+		<item3>300029</item3>
+		<num3>4</num3>
+		<item4>551949</item4>
+		<num4>1</num4>
+	</award>
+	<award id ="4" lv ="4">
+		<cost>180</cost>
+		<item1>440440</item1>
+		<num1>4</num1>
+		<item2>103002</item2>
+		<num2>1</num2>
+		<item3>100037</item3>
+		<num3>4</num3>
+		<item4>551943</item4>
+		<num4>1</num4>
+	</award>
+	<award id ="5" lv ="5">
+		<cost>250</cost>
+		<item1>440440</item1>
+		<num1>5</num1>
+		<item2>103018</item2>
+		<num2>5</num2>
+		<item3>100035</item3>
+		<num3>5</num3>
+		<item4>551947</item4>
+		<num4>1</num4>
+	</award>
+	<award id ="6" lv ="6">
+		<cost>500</cost>
+		<item1>440440</item1>
+		<num1>5</num1>
+		<item2>103003</item2>
+		<num2>1</num2>
+		<item3>440438</item3>
+		<num3>50</num3>
+		<item4>551946</item4>
+		<num4>1</num4>
+	</award>
+	<award id ="7" lv ="7">
+		<cost>680</cost>
+		<item1>440440</item1>
+		<num1>5</num1>
+		<item2>440454</item2>
+		<num2>10</num2>
+		<item3>100013</item3>
+		<num3>10</num3>
+		<item4>551944</item4>
+		<num4>1</num4>
+	</award>
+	<award id ="8" lv ="8">
+		<cost>1280</cost>
+		<item1>440440</item1>
+		<num1>5</num1>
+		<item2>103009</item2>
+		<num2>20</num2>
+		<item3>100036</item3>
+		<num3>20</num3>
+		<item4>551945</item4>
+		<num4>1</num4>
+	</award>
+	<award id ="9" lv ="9">
+		<cost>2800</cost>
+		<item1>440426</item1>
+		<num1>5</num1>
+		<item2>440425</item2>
+		<num2>5</num2>
+		<item3>103004</item3>
+		<num3>1</num3>
+		<item4>551951</item4>
+		<num4>1</num4>
+	</award>
+	<award id ="10" lv ="10">
+		<cost>880</cost>
+		<item1>440441</item1>
+		<num1>1</num1>
+		<item2>103009</item2>
+		<num2>1</num2>
+		<item3>100004</item3>
+		<num3>1</num3>
+		<item4>100758</item4>
+		<num4>1</num4>
+	</award>
+</mallFreeAward>

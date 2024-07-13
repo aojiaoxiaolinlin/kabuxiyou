@@ -1,0 +1,1292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<node>
+  <question type="1">
+    <sid goal="1" id="1">
+      <content>床前明月光</content>
+      <answer id="1">疑是地上霜</answer>
+      <answer id="2">低头思故乡</answer>
+      <answer id="3">处处闻啼鸟</answer>
+      <answer id="4">花落知多少</answer>
+    </sid>
+    <sid goal="2" id="2">
+      <content>举头望明月</content>
+      <answer id="1">疑是地上霜</answer>
+      <answer id="2">低头思故乡</answer>
+      <answer id="3">处处闻啼鸟</answer>
+      <answer id="4">花落知多少</answer>
+    </sid>
+    <sid goal="3" id="3">
+      <content>春眠不觉晓</content>
+      <answer id="1">疑是地上霜</answer>
+      <answer id="2">低头思故乡</answer>
+      <answer id="3">处处闻啼鸟</answer>
+      <answer id="4">花落知多少</answer>
+    </sid>
+    <sid goal="1" id="4">
+      <content>夜来风雨声</content>
+      <answer id="1">花落知多少</answer>
+      <answer id="2">疑是地上霜</answer>
+      <answer id="3">处处闻啼鸟</answer>
+      <answer id="4">低头思故乡</answer>
+    </sid>
+    <sid goal="3" id="5">
+      <content>少壮不努力</content>
+      <answer id="1">她在丛中笑</answer>
+      <answer id="2">路有冻死骨</answer>
+      <answer id="3">老大徒伤悲</answer>
+      <answer id="4">低头思故乡</answer>
+    </sid>
+    <sid goal="1" id="6">
+      <content>生当做人杰</content>
+      <answer id="1">死亦为鬼雄</answer>
+      <answer id="2">不肯过江东</answer>
+      <answer id="3">一览众山小</answer>
+      <answer id="4">把酒问青天</answer>
+    </sid>
+    <sid goal="2" id="7">
+      <content>至今思项羽</content>
+      <answer id="1">死亦为鬼雄</answer>
+      <answer id="2">不肯过江东</answer>
+      <answer id="3">把酒问青天</answer>
+      <answer id="4">一览众山小</answer>
+    </sid>
+    <sid goal="3" id="8">
+      <content>好雨知时节</content>
+      <answer id="1">润物细无声</answer>
+      <answer id="2">花落知多少</answer>
+      <answer id="3">当春乃发生</answer>
+      <answer id="4">云深不知处</answer>
+    </sid>
+    <sid goal="1" id="9">
+      <content>随风潜入夜</content>
+      <answer id="1">润物细无声</answer>
+      <answer id="2">当春乃发生</answer>
+      <answer id="3">黄河入海流</answer>
+      <answer id="4">花落知多少</answer>
+    </sid>
+    <sid goal="3" id="10">
+      <content>白日依山尽</content>
+      <answer id="1">润物细无声</answer>
+      <answer id="2">万径人踪灭</answer>
+      <answer id="3">黄河入海流</answer>
+      <answer id="4">云深不知处</answer>
+    </sid>
+    <sid goal="1" id="11">
+      <content>欲穷千里目</content>
+      <answer id="1">更上一层楼</answer>
+      <answer id="2">一览众山小</answer>
+      <answer id="3">把酒问青天</answer>
+      <answer id="4">低头思故乡</answer>
+    </sid>
+    <sid goal="2" id="12">
+      <content>锄禾日当午</content>
+      <answer id="1">路有冻死骨</answer>
+      <answer id="2">汗滴禾下土</answer>
+      <answer id="3">粒粒皆辛苦</answer>
+      <answer id="4">但闻人语响</answer>
+    </sid>
+    <sid goal="3" id="13">
+      <content>谁知盘中餐</content>
+      <answer id="1">路有冻死骨</answer>
+      <answer id="2">汗滴禾下土</answer>
+      <answer id="3">粒粒皆辛苦</answer>
+      <answer id="4">把酒问青天</answer>
+    </sid>
+    <sid goal="1" id="14">
+      <content>会当凌绝顶</content>
+      <answer id="1">一览众山小</answer>
+      <answer id="2">把酒问青天</answer>
+      <answer id="3">更上一层楼</answer>
+      <answer id="4">云深不知处</answer>
+    </sid>
+    <sid goal="2" id="15">
+      <content>明月几时有</content>
+      <answer id="1">一览众山小</answer>
+      <answer id="2">把酒问青天</answer>
+      <answer id="3">润物细无声</answer>
+      <answer id="4">疑是地上霜</answer>
+    </sid>
+    <sid goal="3" id="16">
+      <content>读书破万卷</content>
+      <answer id="1">更上一层楼</answer>
+      <answer id="2">老大徒伤悲</answer>
+      <answer id="3">下笔如有神</answer>
+      <answer id="4">粒粒皆辛苦</answer>
+    </sid>
+    <sid goal="1" id="17">
+      <content>海内存知己</content>
+      <answer id="1">天涯若比邻</answer>
+      <answer id="2">把酒问青天</answer>
+      <answer id="3">低头思故乡</answer>
+      <answer id="4">一览众山小</answer>
+    </sid>
+    <sid goal="3" id="18">
+      <content>朱门酒肉臭</content>
+      <answer id="1">当春乃发生</answer>
+      <answer id="2">汗滴禾下土</answer>
+      <answer id="3">路有冻死骨</answer>
+      <answer id="4">粒粒皆辛苦</answer>
+    </sid>
+    <sid goal="1" id="19">
+      <content>空山不见人</content>
+      <answer id="1">但闻人语响</answer>
+      <answer id="2">润物细无声</answer>
+      <answer id="3">更上一层楼</answer>
+      <answer id="4">一览众山小</answer>
+    </sid>
+    <sid goal="1" id="20">
+      <content>深林人不知</content>
+      <answer id="1">明月来相照</answer>
+      <answer id="2">但闻人语响</answer>
+      <answer id="3">空山不见人</answer>
+      <answer id="4">一览众山小</answer>
+    </sid>
+    <sid goal="1" id="21">
+      <content>红豆生南国</content>
+      <answer id="1">春来发几枝</answer>
+      <answer id="2">云深不知处</answer>
+      <answer id="3">但闻人语响</answer>
+      <answer id="4">把酒问青天</answer>
+    </sid>
+    <sid goal="1" id="22">
+      <content>移舟泊烟渚</content>
+      <answer id="1">日暮客愁新</answer>
+      <answer id="2">黄河入海流</answer>
+      <answer id="3">云深不知处</answer>
+      <answer id="4">一览众山小</answer>
+    </sid>
+    <sid goal="1" id="23">
+      <content>千山鸟飞绝</content>
+      <answer id="1">万径人踪灭</answer>
+      <answer id="2">天涯若比邻</answer>
+      <answer id="3">云深不知处</answer>
+      <answer id="4">处处闻啼鸟</answer>
+    </sid>
+    <sid goal="1" id="24">
+      <content>夕阳无限好</content>
+      <answer id="1">只是近黄昏</answer>
+      <answer id="2">一览众山小</answer>
+      <answer id="3">处处闻啼鸟</answer>
+      <answer id="4">花落知多少</answer>
+    </sid>
+    <sid goal="1" id="25">
+      <content>只在此山中</content>
+      <answer id="1">云深不知处</answer>
+      <answer id="2">一览众山小</answer>
+      <answer id="3">花落知多少</answer>
+      <answer id="4">天涯若比邻</answer>
+    </sid>
+    <sid goal="1" id="26">
+      <content>近乡情更怯</content>
+      <answer id="1">不敢问来人</answer>
+      <answer id="2">云深不知处</answer>
+      <answer id="3">不肯过江东</answer>
+      <answer id="4">死亦为鬼雄</answer>
+    </sid>
+    <sid goal="1" id="27">
+      <content>海上生明月</content>
+      <answer id="1">天涯共此时</answer>
+      <answer id="2">云深不知处</answer>
+      <answer id="3">只是近黄昏</answer>
+      <answer id="4">把酒问青天</answer>
+    </sid>
+    <sid goal="1" id="28">
+      <content>潮平两岸阔</content>
+      <answer id="1">风正一帆悬</answer>
+      <answer id="2">云深不知处</answer>
+      <answer id="3">处处闻啼鸟</answer>
+      <answer id="4">花落知多少</answer>
+    </sid>
+    <sid goal="1" id="29">
+      <content>曲径通幽处</content>
+      <answer id="1">禅房花木深</answer>
+      <answer id="2">不敢问来人</answer>
+      <answer id="3">一览众山小</answer>
+      <answer id="4">把酒问青天</answer>
+    </sid>
+    <sid goal="1" id="30">
+      <content>山随平野尽</content>
+      <answer id="1">江入大荒流</answer>
+      <answer id="2">日暮客愁新</answer>
+      <answer id="3">黄河入海流</answer>
+      <answer id="4">更上一层楼</answer>
+    </sid>
+    <sid goal="1" id="31">
+      <content>国破山河在</content>
+      <answer id="1">城春草木深</answer>
+      <answer id="2">万径人踪灭</answer>
+      <answer id="3">路有冻死骨</answer>
+      <answer id="4">花落知多少</answer>
+    </sid>
+    <sid goal="1" id="32">
+      <content>星垂平野阔</content>
+      <answer id="1">月涌大江流</answer>
+      <answer id="2">风正一帆悬</answer>
+      <answer id="3">江入大荒流</answer>
+      <answer id="4">城春草木深</answer>
+    </sid>
+    <sid goal="1" id="33">
+      <content>明月松间照</content>
+      <answer id="1">清泉石上流</answer>
+      <answer id="2">江入大荒流</answer>
+      <answer id="3">老大徒伤悲</answer>
+      <answer id="4">春来发几枝</answer>
+    </sid>
+    <sid goal="1" id="34">
+      <content>气蒸云梦泽</content>
+      <answer id="1">波撼岳阳城</answer>
+      <answer id="2">星垂平野阔</answer>
+      <answer id="3">春眠不觉晓</answer>
+      <answer id="4">低头思故乡</answer>
+    </sid>
+    <sid goal="1" id="35">
+      <content>待到重阳日</content>
+      <answer id="1">还来就菊花</answer>
+      <answer id="2">风正一帆悬</answer>
+      <answer id="3">天涯共此时</answer>
+      <answer id="4">云深不知处</answer>
+    </sid>
+    <sid goal="1" id="36">
+      <content>野火烧不尽</content>
+      <answer id="1">春风吹又生</answer>
+      <answer id="2">清泉石上流</answer>
+      <answer id="3">把酒问青天</answer>
+      <answer id="4">更上一层楼</answer>
+    </sid>
+  </question>
+  <question type="2">
+    <sid goal="2" id="1">
+      <content>33＋66＝？</content>
+      <answer id="1">100</answer>
+      <answer id="2">99</answer>
+      <answer id="3">101</answer>
+      <answer id="4">98</answer>
+    </sid>
+    <sid goal="1" id="2">
+      <content>11×11＝?</content>
+      <answer id="1">121</answer>
+      <answer id="2">112</answer>
+      <answer id="3">111</answer>
+      <answer id="4">211</answer>
+    </sid>
+    <sid goal="3" id="3">
+      <content>12×7＋12×3＝?</content>
+      <answer id="1">110</answer>
+      <answer id="2">125</answer>
+      <answer id="3">120</answer>
+      <answer id="4">115</answer>
+    </sid>
+    <sid goal="3" id="4">
+      <content>500÷25＝?</content>
+      <answer id="1">75</answer>
+      <answer id="2">25</answer>
+      <answer id="3">20</answer>
+      <answer id="4">50</answer>
+    </sid>
+    <sid goal="1" id="5">
+      <content>169÷13＝?</content>
+      <answer id="1">13</answer>
+      <answer id="2">16</answer>
+      <answer id="3">19</answer>
+      <answer id="4">33</answer>
+    </sid>
+    <sid goal="1" id="6">
+      <content>1234＋9876＝？</content>
+      <answer id="1">11110</answer>
+      <answer id="2">11111</answer>
+      <answer id="3">100000</answer>
+      <answer id="4">111111</answer>
+    </sid>
+    <sid goal="2" id="7">
+      <content>35＋64－66＝?</content>
+      <answer id="1">35</answer>
+      <answer id="2">33</answer>
+      <answer id="3">34</answer>
+      <answer id="4">36</answer>
+    </sid>
+    <sid goal="3" id="8">
+      <content>55＋55－45＝?</content>
+      <answer id="1">55</answer>
+      <answer id="2">45</answer>
+      <answer id="3">65</answer>
+      <answer id="4">50</answer>
+    </sid>
+    <sid goal="1" id="9">
+      <content>32÷8×2＝?</content>
+      <answer id="1">8</answer>
+      <answer id="2">16</answer>
+      <answer id="3">2</answer>
+      <answer id="4">4</answer>
+    </sid>
+    <sid goal="1" id="10">
+      <content>81×2÷9＝?</content>
+      <answer id="1">18</answer>
+      <answer id="2">16</answer>
+      <answer id="3">21</answer>
+      <answer id="4">19</answer>
+    </sid>
+    <sid goal="2" id="11">
+      <content>96÷6÷2＝?</content>
+      <answer id="1">16</answer>
+      <answer id="2">8</answer>
+      <answer id="3">12</answer>
+      <answer id="4">10</answer>
+    </sid>
+    <sid goal="2" id="12">
+      <content>27＋33＝?</content>
+      <answer id="1">2</answer>
+      <answer id="2">60</answer>
+      <answer id="3">59</answer>
+      <answer id="4">50</answer>
+    </sid>
+    <sid goal="1" id="13">
+      <content>144÷12＋8＝?</content>
+      <answer id="1">20</answer>
+      <answer id="2">22</answer>
+      <answer id="3">18</answer>
+      <answer id="4">16</answer>
+    </sid>
+    <sid goal="2" id="14">
+      <content>72＋36＝?</content>
+      <answer id="1">106</answer>
+      <answer id="2">108</answer>
+      <answer id="3">104</answer>
+      <answer id="4">110</answer>
+    </sid>
+    <sid goal="2" id="15">
+      <content>56÷7－7＝?</content>
+      <answer id="1">8</answer>
+      <answer id="2">1</answer>
+      <answer id="3">7</answer>
+      <answer id="4">5</answer>
+    </sid>
+    <sid goal="1" id="16">
+      <content>34×23＋66×23＝?</content>
+      <answer id="1">2300</answer>
+      <answer id="2">3200</answer>
+      <answer id="3">3400</answer>
+      <answer id="4">3000</answer>
+    </sid>
+    <sid goal="3" id="17">
+      <content>156＋44－87＝?</content>
+      <answer id="1">123</answer>
+      <answer id="2">112</answer>
+      <answer id="3">113</answer>
+      <answer id="4">122</answer>
+    </sid>
+    <sid goal="3" id="18">
+      <content>34＋77－73＝? </content>
+      <answer id="1">36</answer>
+      <answer id="2">23</answer>
+      <answer id="3">38</answer>
+      <answer id="4">30</answer>
+    </sid>
+    <sid goal="3" id="19">
+      <content>7×7－6×6＝?</content>
+      <answer id="1">14</answer>
+      <answer id="2">16</answer>
+      <answer id="3">13</answer>
+      <answer id="4">15</answer>
+    </sid>
+    <sid goal="2" id="20">
+      <content>8×7－5×6＝?</content>
+      <answer id="1">24</answer>
+      <answer id="2">26</answer>
+      <answer id="3">30</answer>
+      <answer id="4">28</answer>
+    </sid>
+    <sid goal="2" id="21">
+      <content>(63－13)×10＝?</content>
+      <answer id="1">760</answer>
+      <answer id="2">500</answer>
+      <answer id="3">600</answer>
+      <answer id="4">700</answer>
+    </sid>
+    <sid goal="1" id="22">
+      <content>34＋82－18＝?</content>
+      <answer id="1">98</answer>
+      <answer id="2">88</answer>
+      <answer id="3">96</answer>
+      <answer id="4">86</answer>
+    </sid>
+    <sid goal="3" id="23">
+      <content>45÷9＋15＝?</content>
+      <answer id="1">24</answer>
+      <answer id="2">15</answer>
+      <answer id="3">20</answer>
+      <answer id="4">14</answer>
+    </sid>
+    <sid goal="1" id="24">
+      <content>200－169＝?</content>
+      <answer id="1">31</answer>
+      <answer id="2">42</answer>
+      <answer id="3">36</answer>
+      <answer id="4">40</answer>
+    </sid>
+    <sid goal="1" id="25">
+      <content>(84－44)÷5＝?</content>
+      <answer id="1">8</answer>
+      <answer id="2">10</answer>
+      <answer id="3">6</answer>
+      <answer id="4">12</answer>
+    </sid>
+    <sid goal="2" id="26">
+      <content>77÷11＋3＝?</content>
+      <answer id="1">11</answer>
+      <answer id="2">10</answer>
+      <answer id="3">13</answer>
+      <answer id="4">12</answer>
+    </sid>
+    <sid goal="3" id="27">
+      <content>45÷5＋9＝?</content>
+      <answer id="1">14</answer>
+      <answer id="2">19</answer>
+      <answer id="3">18</answer>
+      <answer id="4">15</answer>
+    </sid>
+    <sid goal="1" id="28">
+      <content>43×2＋16＝?</content>
+      <answer id="1">102</answer>
+      <answer id="2">104</answer>
+      <answer id="3">106</answer>
+      <answer id="4">108</answer>
+    </sid>
+    <sid goal="2" id="29">
+      <content>58＋32－34＝?</content>
+      <answer id="1">60</answer>
+      <answer id="2">56</answer>
+      <answer id="3">58</answer>
+      <answer id="4">62</answer>
+    </sid>
+    <sid goal="1" id="30">
+      <content>111＋222＝?</content>
+      <answer id="1">333</answer>
+      <answer id="2">323</answer>
+      <answer id="3">321</answer>
+      <answer id="4">320</answer>
+    </sid>
+  </question>
+  <question type="3">
+    <sid goal="1" id="1">
+      <content>I want to __ home.</content>
+      <answer id="1">go</answer>
+      <answer id="2">on</answer>
+      <answer id="3">in</answer>
+      <answer id="4">at</answer>
+    </sid>
+    <sid goal="3" id="2">
+      <content>winter</content>
+      <answer id="1">夏天</answer>
+      <answer id="2">秋天</answer>
+      <answer id="3">冬天</answer>
+      <answer id="4">春天</answer>
+    </sid>
+    <sid goal="1" id="3">
+      <content>Can you see __ dog over there? I can’t find it .</content>
+      <answer id="1">a</answer>
+      <answer id="2">the </answer>
+      <answer id="3">an </answer>
+      <answer id="4">that</answer>
+    </sid>
+    <sid goal="3" id="4">
+      <content>How old are you?</content>
+      <answer id="1">Thank you.</answer>
+      <answer id="2">I'm ok.</answer>
+      <answer id="3">I am ten year-old.</answer>
+      <answer id="4">You are welcome.</answer>
+    </sid>
+    <sid goal="2" id="5">
+      <content>Aren’t you American? -- __ ,I’m English.</content>
+      <answer id="1">Yes,I am.</answer>
+      <answer id="2">No,I'm not.</answer>
+      <answer id="3">No,I am.</answer>
+      <answer id="4">Yes,I'm not.</answer>
+    </sid>
+    <sid goal="3" id="6">
+      <content>Tom looks __ Jack.They’re twins.</content>
+      <answer id="1">at </answer>
+      <answer id="2">after</answer>
+      <answer id="3">like</answer>
+      <answer id="4">on</answer>
+    </sid>
+    <sid goal="1" id="7">
+      <content>There __ a clock and two books on my table.</content>
+      <answer id="1">is</answer>
+      <answer id="2">are</answer>
+      <answer id="3">be</answer>
+      <answer id="4">at</answer>
+    </sid>
+    <sid goal="1" id="8">
+      <content>Excuse me, could you tell me the way to the __ ? I want to send a letter .</content>
+      <answer id="1">post office</answer>
+      <answer id="2">bus stop</answer>
+      <answer id="3">shop</answer>
+      <answer id="4">school</answer>
+    </sid>
+    <sid goal="3" id="9">
+      <content>Lucy __ me with __ English.</content>
+      <answer id="1">help;I </answer>
+      <answer id="2">help;my</answer>
+      <answer id="3">helps;my</answer>
+      <answer id="4">helps;I</answer>
+    </sid>
+    <sid goal="1" id="10">
+      <content>I have __ pen.</content>
+      <answer id="1">a</answer>
+      <answer id="2">the </answer>
+      <answer id="3">an</answer>
+      <answer id="4">to</answer>
+    </sid>
+    <sid goal="1" id="11">
+      <content>__ you like basketball?</content>
+      <answer id="1">DO</answer>
+      <answer id="2">How</answer>
+      <answer id="3">What</answer>
+      <answer id="4">Where</answer>
+    </sid>
+    <sid goal="3" id="12">
+      <content>What is the time？</content>
+      <answer id="1">Yes,it is.</answer>
+      <answer id="2">Thank you.</answer>
+      <answer id="3">It's 8 o'clock.</answer>
+      <answer id="4">You are welcome.</answer>
+    </sid>
+    <sid goal="2" id="13">
+      <content>What do you like？</content>
+      <answer id="1">No,it isn't.</answer>
+      <answer id="2">I like T-shirts.</answer>
+      <answer id="3">Thank you.</answer>
+      <answer id="4">You are welcome.</answer>
+    </sid>
+    <sid goal="1" id="14">
+      <content>What do you usually __ on Sundays?</content>
+      <answer id="1">do</answer>
+      <answer id="2">doing</answer>
+      <answer id="3">does</answer>
+      <answer id="4">don't</answer>
+    </sid>
+    <sid goal="3" id="15">
+      <content>pencil</content>
+      <answer id="1">春天</answer>
+      <answer id="2">小提琴</answer>
+      <answer id="3">铅笔</answer>
+      <answer id="4">尺子</answer>
+    </sid>
+    <sid goal="3" id="16">
+      <content>plane</content>
+      <answer id="1">大象</answer>
+      <answer id="2">火车</answer>
+      <answer id="3">飞机</answer>
+      <answer id="4">高铁</answer>
+    </sid>
+    <sid goal="1" id="17">
+      <content>train</content>
+      <answer id="1">火车</answer>
+      <answer id="2">轮船</answer>
+      <answer id="3">花瓶</answer>
+      <answer id="4">飞机</answer>
+    </sid>
+    <sid goal="1" id="18">
+      <content>What's the __ of the modle plane?---10yuan.</content>
+      <answer id="1">price</answer>
+      <answer id="2">number</answer>
+      <answer id="3">age</answer>
+      <answer id="4">answer</answer>
+    </sid>
+    <sid goal="2" id="19">
+      <content>spring</content>
+      <answer id="1">电脑</answer>
+      <answer id="2">春天</answer>
+      <answer id="3">笔记本</answer>
+      <answer id="4">糖果</answer>
+    </sid>
+    <sid goal="3" id="20">
+      <content>The meal is very delicious,Help __ .</content>
+      <answer id="1">you </answer>
+      <answer id="2">yours</answer>
+      <answer id="3">yourself</answer>
+      <answer id="4">yourselfs</answer>
+    </sid>
+    <sid goal="1" id="21">
+      <content>苹果</content>
+      <answer id="1">apple</answer>
+      <answer id="2">banana</answer>
+      <answer id="3">pear</answer>
+      <answer id="4">tomatoes</answer>
+    </sid>
+    <sid goal="1" id="22">
+      <content>There is a dog. __ is running after a cat.</content>
+      <answer id="1">It</answer>
+      <answer id="2">He</answer>
+      <answer id="3">Its</answer>
+      <answer id="4">That</answer>
+    </sid>
+    <sid goal="2" id="23">
+      <content>I like playing with __ .</content>
+      <answer id="1">he</answer>
+      <answer id="2">them</answer>
+      <answer id="3">she</answer>
+      <answer id="4">her</answer>
+    </sid>
+    <sid goal="3" id="24">
+      <content>__ skirt is yours?</content>
+      <answer id="1">Whose</answer>
+      <answer id="2">What</answer>
+      <answer id="3">Which</answer>
+      <answer id="4">Where</answer>
+    </sid>
+    <sid goal="2" id="25">
+      <content>The girls' __ are Lily and Lucy.</content>
+      <answer id="1">name</answer>
+      <answer id="2">names</answer>
+      <answer id="3">names'</answer>
+      <answer id="4">name's</answer>
+    </sid>
+    <sid goal="1" id="26">
+      <content>Are you a __ ?</content>
+      <answer id="1">boy</answer>
+      <answer id="2">dog </answer>
+      <answer id="3">pen</answer>
+      <answer id="4">book</answer>
+    </sid>
+    <sid goal="1" id="27">
+      <content>This is a __ .</content>
+      <answer id="1">box</answer>
+      <answer id="2">bags</answer>
+      <answer id="3">boys</answer>
+      <answer id="4">money</answer>
+    </sid>
+    <sid goal="2" id="28">
+      <content>She is a good __ .</content>
+      <answer id="1">teachers</answer>
+      <answer id="2">teacher</answer>
+      <answer id="3">boy</answer>
+      <answer id="4">answer</answer>
+    </sid>
+    <sid goal="3" id="29">
+      <content>They are __ .</content>
+      <answer id="1">woman</answer>
+      <answer id="2">womans</answer>
+      <answer id="3">women</answer>
+      <answer id="4">womens</answer>
+    </sid>
+    <sid goal="3" id="30">
+      <content>She ＿＿thirteen.</content>
+      <answer id="1">are</answer>
+      <answer id="2">am</answer>
+      <answer id="3">is</answer>
+      <answer id="4">were</answer>
+    </sid>
+    <sid goal="1" id="31">
+      <content>英语书</content>
+      <answer id="1">English book</answer>
+      <answer id="2">Chinese book</answer>
+      <answer id="3">computer book</answer>
+      <answer id="4">history book</answer>
+    </sid>
+    <sid goal="1" id="32">
+      <content>电脑</content>
+      <answer id="1">computer</answer>
+      <answer id="2">light</answer>
+      <answer id="3">desk</answer>
+      <answer id="4">mouse</answer>
+    </sid>
+    <sid goal="1" id="33">
+      <content>水果</content>
+      <answer id="1">fruit</answer>
+      <answer id="2">vegetables</answer>
+      <answer id="3">wood</answer>
+      <answer id="4">apple</answer>
+    </sid>
+    <sid goal="2" id="34">
+      <content>I see __ old man on the road.</content>
+      <answer id="1">a</answer>
+      <answer id="2">an </answer>
+      <answer id="3">am</answer>
+      <answer id="4">were</answer>
+    </sid>
+    <sid goal="2" id="35">
+      <content>I'm sorry.--- __ .</content>
+      <answer id="1">Thank you.</answer>
+      <answer id="2">It doesn't matter.</answer>
+      <answer id="3">I'm fine.</answer>
+      <answer id="4">Yes you are.</answer>
+    </sid>
+    <sid goal="3" id="36">
+      <content>There is some __ .</content>
+      <answer id="1">breads</answer>
+      <answer id="2">a bread</answer>
+      <answer id="3">bread</answer>
+      <answer id="4">a breads</answer>
+    </sid>
+    <sid goal="2" id="37">
+      <content>There __ two beds in the room.</content>
+      <answer id="1">is</answer>
+      <answer id="2">are</answer>
+      <answer id="3">am</answer>
+      <answer id="4">was</answer>
+    </sid>
+    <sid goal="2" id="38">
+      <content>I have some __ in my hands.</content>
+      <answer id="1">book</answer>
+      <answer id="2">books</answer>
+      <answer id="3">a book</answer>
+      <answer id="4">a books</answer>
+    </sid>
+    <sid goal="1" id="39">
+      <content>It's cold. Put __ your coat.</content>
+      <answer id="1">on </answer>
+      <answer id="2">at</answer>
+      <answer id="3">in</answer>
+      <answer id="4">to</answer>
+    </sid>
+    <sid goal="3" id="40">
+      <content>__ do you live? I live in Ningbo.</content>
+      <answer id="1">Who</answer>
+      <answer id="2">What</answer>
+      <answer id="3">Where</answer>
+      <answer id="4">Which</answer>
+    </sid>
+    <sid goal="1" id="41">
+      <content>Miss Hu, __ is your book?</content>
+      <answer id="1">where</answer>
+      <answer id="2">what</answer>
+      <answer id="3">who</answer>
+      <answer id="4">May</answer>
+    </sid>
+    <sid goal="2" id="42">
+      <content>Look __ the window.</content>
+      <answer id="1">on</answer>
+      <answer id="2">at</answer>
+      <answer id="3">in</answer>
+      <answer id="4">to</answer>
+    </sid>
+    <sid goal="3" id="43">
+      <content>Come and play __ me.</content>
+      <answer id="1">and</answer>
+      <answer id="2">for</answer>
+      <answer id="3">with</answer>
+      <answer id="4">to</answer>
+    </sid>
+    <sid goal="2" id="44">
+      <content>__ light! Stop!</content>
+      <answer id="1">Green</answer>
+      <answer id="2">Red</answer>
+      <answer id="3">Yellow</answer>
+      <answer id="4">Blue</answer>
+    </sid>
+    <sid goal="2" id="45">
+      <content>tiger</content>
+      <answer id="1">狮子</answer>
+      <answer id="2">老虎</answer>
+      <answer id="3">狐狸</answer>
+      <answer id="4">公鸡</answer>
+    </sid>
+    <sid goal="1" id="46">
+      <content>狐狸</content>
+      <answer id="1">fox</answer>
+      <answer id="2">lion</answer>
+      <answer id="3">dog</answer>
+      <answer id="4">bird</answer>
+    </sid>
+    <sid goal="2" id="47">
+      <content>rule</content>
+      <answer id="1">铅笔</answer>
+      <answer id="2">尺子</answer>
+      <answer id="3">橡皮</answer>
+      <answer id="4">钢笔</answer>
+    </sid>
+    <sid goal="1" id="48">
+      <content>树</content>
+      <answer id="1">tree</answer>
+      <answer id="2">treen</answer>
+      <answer id="3">trean</answer>
+      <answer id="4">trees</answer>
+    </sid>
+    <sid goal="1" id="49">
+      <content>森林</content>
+      <answer id="1">forest</answer>
+      <answer id="2">treens</answer>
+      <answer id="3">foreast</answer>
+      <answer id="4">forests</answer>
+    </sid>
+    <sid goal="2" id="50">
+      <content>Earth</content>
+      <answer id="1">北方</answer>
+      <answer id="2">地球</answer>
+      <answer id="3">树木</answer>
+      <answer id="4">东方</answer>
+    </sid>
+    <sid goal="1" id="51">
+      <content>风</content>
+      <answer id="1">wind</answer>
+      <answer id="2">rain</answer>
+      <answer id="3">fire</answer>
+      <answer id="4">feng</answer>
+    </sid>
+    <sid goal="2" id="52">
+      <content>雨</content>
+      <answer id="1">wind</answer>
+      <answer id="2">rain</answer>
+      <answer id="3">fire</answer>
+      <answer id="4">yu</answer>
+    </sid>
+    <sid goal="3" id="53">
+      <content>火</content>
+      <answer id="1">wind</answer>
+      <answer id="2">rain</answer>
+      <answer id="3">fire</answer>
+      <answer id="4">huo</answer>
+    </sid>
+    <sid goal="3" id="54">
+      <content>声音</content>
+      <answer id="1">valuece</answer>
+      <answer id="2">boice</answer>
+      <answer id="3">sound</answer>
+      <answer id="4">music</answer>
+    </sid>
+    <sid goal="3" id="55">
+      <content>学校</content>
+      <answer id="1">place</answer>
+      <answer id="2">sahool</answer>
+      <answer id="3">school</answer>
+      <answer id="4">classroom</answer>
+    </sid>
+    <sid goal="3" id="56">
+      <content>football</content>
+      <answer id="1">篮球</answer>
+      <answer id="2">排球</answer>
+      <answer id="3">足球</answer>
+      <answer id="4">水球</answer>
+    </sid>
+    <sid goal="1" id="57">
+      <content>gray</content>
+      <answer id="1">灰色</answer>
+      <answer id="2">绿色</answer>
+      <answer id="3">蓝色</answer>
+      <answer id="4">黄色</answer>
+    </sid>
+  </question>
+  <question type="4">
+    <sid goal="1" id="60">
+      <content>__uiet（安静的；文静的）</content>
+      <answer id="1">q</answer>
+      <answer id="2"></answer>
+      <answer id="3"></answer>
+      <answer id="4"></answer>
+    </sid>
+    <sid goal="1" id="38">
+      <content>stu__ent(学生)</content>
+      <answer id="1">d</answer>
+      <answer id="2"></answer>
+      <answer id="3"></answer>
+      <answer id="4"></answer>
+    </sid>
+    <sid goal="1" id="39">
+      <content>frie__d(朋友)</content>
+      <answer id="1">n</answer>
+      <answer id="2"></answer>
+      <answer id="3"></answer>
+      <answer id="4"></answer>
+    </sid>
+    <sid goal="1" id="40">
+      <content>chai__(椅子)</content>
+      <answer id="1">r</answer>
+      <answer id="2"></answer>
+      <answer id="3"></answer>
+      <answer id="4"></answer>
+    </sid>
+    <sid goal="1" id="41">
+      <content>bee__(牛肉)</content>
+      <answer id="1">f</answer>
+      <answer id="2"></answer>
+      <answer id="3"></answer>
+      <answer id="4"></answer>
+    </sid>
+    <sid goal="1" id="42">
+      <content>b__other(兄弟)</content>
+      <answer id="1">r</answer>
+      <answer id="2"></answer>
+      <answer id="3"></answer>
+      <answer id="4"></answer>
+    </sid>
+    <sid goal="1" id="43">
+      <content>__urse(护士)</content>
+      <answer id="1">n</answer>
+      <answer id="2"></answer>
+      <answer id="3"></answer>
+      <answer id="4"></answer>
+    </sid>
+    <sid goal="1" id="33">
+      <content>walk__an（随身听）</content>
+      <answer id="1">m</answer>
+      <answer id="2"></answer>
+      <answer id="3"></answer>
+      <answer id="4"></answer>
+    </sid>
+    <sid goal="1" id="34">
+      <content>sma__l（小的）</content>
+      <answer id="1">l</answer>
+      <answer id="2"></answer>
+      <answer id="3"></answer>
+      <answer id="4"></answer>
+    </sid>
+    <sid goal="1" id="35">
+      <content>shor__（短的）</content>
+      <answer id="1">t</answer>
+      <answer id="2"></answer>
+      <answer id="3"></answer>
+      <answer id="4"></answer>
+    </sid>
+    <sid goal="1" id="36">
+      <content>__indow（窗户）</content>
+      <answer id="1">w</answer>
+      <answer id="2"></answer>
+      <answer id="3"></answer>
+      <answer id="4"></answer>
+    </sid>
+    <sid goal="1" id="37">
+      <content>com__uter(电脑)</content>
+      <answer id="1">p</answer>
+      <answer id="2"></answer>
+      <answer id="3"></answer>
+      <answer id="4"></answer>
+    </sid>
+    <sid goal="1" id="58">
+      <content>__oo（动物园）</content>
+      <answer id="1">z</answer>
+      <answer id="2"></answer>
+      <answer id="3"></answer>
+      <answer id="4"></answer>
+    </sid>
+    <sid goal="1" id="59">
+      <content>libra__y(图书馆)</content>
+      <answer id="1">r</answer>
+      <answer id="2"></answer>
+      <answer id="3"></answer>
+      <answer id="4"></answer>
+    </sid>
+    <sid goal="1" id="56">
+      <content>w__ich（哪一个） </content>
+      <answer id="1">h</answer>
+      <answer id="2"></answer>
+      <answer id="3"></answer>
+      <answer id="4"></answer>
+    </sid>
+    <sid goal="1" id="57">
+      <content>__ight（打架）</content>
+      <answer id="1">f</answer>
+      <answer id="2"></answer>
+      <answer id="3"></answer>
+      <answer id="4"></answer>
+    </sid>
+    <sid goal="1" id="54">
+      <content>clo__hes（衣服）</content>
+      <answer id="1">t</answer>
+      <answer id="2"></answer>
+      <answer id="3"></answer>
+      <answer id="4"></answer>
+    </sid>
+    <sid goal="1" id="55">
+      <content>bu__lding（建筑物）</content>
+      <answer id="1">i</answer>
+      <answer id="2"></answer>
+      <answer id="3"></answer>
+      <answer id="4"></answer>
+    </sid>
+    <sid goal="1" id="24">
+      <content>moth__r（母亲）</content>
+      <answer id="1">e</answer>
+      <answer id="2"></answer>
+      <answer id="3"></answer>
+      <answer id="4"></answer>
+    </sid>
+    <sid goal="1" id="25">
+      <content>si__ter（姐妹）</content>
+      <answer id="1">s</answer>
+      <answer id="2"></answer>
+      <answer id="3"></answer>
+      <answer id="4"></answer>
+    </sid>
+    <sid goal="1" id="26">
+      <content>reall__（真地）</content>
+      <answer id="1">y</answer>
+      <answer id="2"></answer>
+      <answer id="3"></answer>
+      <answer id="4"></answer>
+    </sid>
+    <sid goal="1" id="27">
+      <content>ele__en（十一）</content>
+      <answer id="1">v</answer>
+      <answer id="2"></answer>
+      <answer id="3"></answer>
+      <answer id="4"></answer>
+    </sid>
+    <sid goal="1" id="28">
+      <content>__each（桃）</content>
+      <answer id="1">p</answer>
+      <answer id="2"></answer>
+      <answer id="3"></answer>
+      <answer id="4"></answer>
+    </sid>
+    <sid goal="1" id="20">
+      <content>balloo__（气球）</content>
+      <answer id="1">n</answer>
+      <answer id="2"></answer>
+      <answer id="3"></answer>
+      <answer id="4"></answer>
+    </sid>
+    <sid goal="1" id="21">
+      <content>goodb__e（再见）</content>
+      <answer id="1">y</answer>
+      <answer id="2"></answer>
+      <answer id="3"></answer>
+      <answer id="4"></answer>
+    </sid>
+    <sid goal="1" id="22">
+      <content>m__et（遇见）</content>
+      <answer id="1">e</answer>
+      <answer id="2"></answer>
+      <answer id="3"></answer>
+      <answer id="4"></answer>
+    </sid>
+    <sid goal="1" id="23">
+      <content>f__ther（父亲）</content>
+      <answer id="1">a</answer>
+      <answer id="2"></answer>
+      <answer id="3"></answer>
+      <answer id="4"></answer>
+    </sid>
+    <sid goal="1" id="52">
+      <content>f__esh（新鲜的）</content>
+      <answer id="1">r</answer>
+      <answer id="2"></answer>
+      <answer id="3"></answer>
+      <answer id="4"></answer>
+    </sid>
+    <sid goal="1" id="53">
+      <content>mir__or（镜子）</content>
+      <answer id="1">r</answer>
+      <answer id="2"></answer>
+      <answer id="3"></answer>
+      <answer id="4"></answer>
+    </sid>
+    <sid goal="1" id="50">
+      <content>Tu__sday（星期二）</content>
+      <answer id="1">e</answer>
+      <answer id="2"></answer>
+      <answer id="3"></answer>
+      <answer id="4"></answer>
+    </sid>
+    <sid goal="1" id="51">
+      <content>fis__（鱼）</content>
+      <answer id="1">h</answer>
+      <answer id="2"></answer>
+      <answer id="3"></answer>
+      <answer id="4"></answer>
+    </sid>
+    <sid goal="1" id="48">
+      <content>or__nge(橙子)</content>
+      <answer id="1">a</answer>
+      <answer id="2"></answer>
+      <answer id="3"></answer>
+      <answer id="4"></answer>
+    </sid>
+    <sid goal="1" id="49">
+      <content>smar__（聪明的；巧妙的）</content>
+      <answer id="1">t</answer>
+      <answer id="2"></answer>
+      <answer id="3"></answer>
+      <answer id="4"></answer>
+    </sid>
+    <sid goal="1" id="46">
+      <content>colo__r(颜色)</content>
+      <answer id="1">u</answer>
+      <answer id="2"></answer>
+      <answer id="3"></answer>
+      <answer id="4"></answer>
+    </sid>
+    <sid goal="1" id="47">
+      <content>foot__all(足球)</content>
+      <answer id="1">b</answer>
+      <answer id="2"></answer>
+      <answer id="3"></answer>
+      <answer id="4"></answer>
+    </sid>
+    <sid goal="1" id="44">
+      <content>pictu__e(图画；照片)</content>
+      <answer id="1">r</answer>
+      <answer id="2"></answer>
+      <answer id="3"></answer>
+      <answer id="4"></answer>
+    </sid>
+    <sid goal="1" id="45">
+      <content>mus__c(音乐)</content>
+      <answer id="1">i</answer>
+      <answer id="2"></answer>
+      <answer id="3"></answer>
+      <answer id="4"></answer>
+    </sid>
+    <sid goal="1" id="29">
+      <content>o__ange（橙子）</content>
+      <answer id="1">r</answer>
+      <answer id="2"></answer>
+      <answer id="3"></answer>
+      <answer id="4"></answer>
+    </sid>
+    <sid goal="1" id="30">
+      <content>straw__erry（草莓）</content>
+      <answer id="1">b</answer>
+      <answer id="2"></answer>
+      <answer id="3"></answer>
+      <answer id="4"></answer>
+    </sid>
+    <sid goal="1" id="31">
+      <content>gra__e（葡萄）</content>
+      <answer id="1">p</answer>
+      <answer id="2"></answer>
+      <answer id="3"></answer>
+      <answer id="4"></answer>
+    </sid>
+    <sid goal="1" id="32">
+      <content>__ike（自行车）</content>
+      <answer id="1">b</answer>
+      <answer id="2"></answer>
+      <answer id="3"></answer>
+      <answer id="4"></answer>
+    </sid>
+    <sid goal="1" id="1">
+      <content>pen__il（铅笔）</content>
+      <answer id="1">c</answer>
+      <answer id="2"></answer>
+      <answer id="3"></answer>
+      <answer id="4"></answer>
+    </sid>
+    <sid goal="1" id="2">
+      <content>r__ler（尺子）</content>
+      <answer id="1">u</answer>
+      <answer id="2"></answer>
+      <answer id="3"></answer>
+      <answer id="4"></answer>
+    </sid>
+    <sid goal="1" id="3">
+      <content>__ook（书）</content>
+      <answer id="1">b</answer>
+      <answer id="2"></answer>
+      <answer id="3"></answer>
+      <answer id="4"></answer>
+    </sid>
+    <sid goal="1" id="4">
+      <content>sc__ool（学校）</content>
+      <answer id="1">h</answer>
+      <answer id="2"></answer>
+      <answer id="3"></answer>
+      <answer id="4"></answer>
+    </sid>
+    <sid goal="1" id="5">
+      <content>no__e（鼻子）</content>
+      <answer id="1">s</answer>
+      <answer id="2"></answer>
+      <answer id="3"></answer>
+      <answer id="4"></answer>
+    </sid>
+    <sid goal="1" id="6">
+      <content>fin__er（手指）</content>
+      <answer id="1">g</answer>
+      <answer id="2"></answer>
+      <answer id="3"></answer>
+      <answer id="4"></answer>
+    </sid>
+    <sid goal="1" id="7">
+      <content>a__m（胳膊）</content>
+      <answer id="1">r</answer>
+      <answer id="2"></answer>
+      <answer id="3"></answer>
+      <answer id="4"></answer>
+    </sid>
+    <sid goal="1" id="8">
+      <content>re__（红色）</content>
+      <answer id="1">d</answer>
+      <answer id="2"></answer>
+      <answer id="3"></answer>
+      <answer id="4"></answer>
+    </sid>
+    <sid goal="1" id="9">
+      <content>wh__te（白色）</content>
+      <answer id="1">i</answer>
+      <answer id="2"></answer>
+      <answer id="3"></answer>
+      <answer id="4"></answer>
+    </sid>
+    <sid goal="1" id="10">
+      <content>bro__n（棕色）</content>
+      <answer id="1">w</answer>
+      <answer id="2"></answer>
+      <answer id="3"></answer>
+      <answer id="4"></answer>
+    </sid>
+    <sid goal="1" id="11">
+      <content>monke__（猴子）</content>
+      <answer id="1">y</answer>
+      <answer id="2"></answer>
+      <answer id="3"></answer>
+      <answer id="4"></answer>
+    </sid>
+    <sid goal="1" id="12">
+      <content>rabbi__（兔子）</content>
+      <answer id="1">t</answer>
+      <answer id="2"></answer>
+      <answer id="3"></answer>
+      <answer id="4"></answer>
+    </sid>
+    <sid goal="1" id="13">
+      <content>el__phant（大象）</content>
+      <answer id="1">e</answer>
+      <answer id="2"></answer>
+      <answer id="3"></answer>
+      <answer id="4"></answer>
+    </sid>
+    <sid goal="1" id="14">
+      <content>__ouse（老鼠）</content>
+      <answer id="1">m</answer>
+      <answer id="2"></answer>
+      <answer id="3"></answer>
+      <answer id="4"></answer>
+    </sid>
+    <sid goal="1" id="15">
+      <content>ca__e(蛋糕)</content>
+      <answer id="1">k</answer>
+      <answer id="2"></answer>
+      <answer id="3"></answer>
+      <answer id="4"></answer>
+    </sid>
+    <sid goal="1" id="16">
+      <content>h__mburger（汉堡）</content>
+      <answer id="1">a</answer>
+      <answer id="2"></answer>
+      <answer id="3"></answer>
+      <answer id="4"></answer>
+    </sid>
+    <sid goal="1" id="17">
+      <content>__uice（果汁）</content>
+      <answer id="1">j</answer>
+      <answer id="2"></answer>
+      <answer id="3"></answer>
+      <answer id="4"></answer>
+    </sid>
+    <sid goal="1" id="18">
+      <content>cof__ee（咖啡）</content>
+      <answer id="1">f</answer>
+      <answer id="2"></answer>
+      <answer id="3"></answer>
+      <answer id="4"></answer>
+    </sid>
+    <sid goal="1" id="19">
+      <content>b__at（小船）</content>
+      <answer id="1">o</answer>
+      <answer id="2"></answer>
+      <answer id="3"></answer>
+      <answer id="4"></answer>
+    </sid>
+  </question>
+</node>

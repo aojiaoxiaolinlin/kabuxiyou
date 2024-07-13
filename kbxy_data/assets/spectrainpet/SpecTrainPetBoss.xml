@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spectrainpetboss>
+	<boss id ="2590">
+		<name>紫狱龙王</name>
+		<skill1>4406</skill1>
+		<skill2>4407</skill2>
+		<skill3>0</skill3>
+		<skill4>0</skill4>
+	</boss>
+	<boss id ="1829">
+		<name>地煞猴王</name>
+		<skill1>4432</skill1>
+		<skill2>4433</skill2>
+		<skill3>0</skill3>
+		<skill4>0</skill4>
+	</boss>
+	<boss id ="1826">
+		<name>霸刀螳螂</name>
+		<skill1>4475</skill1>
+		<skill2>4476</skill2>
+		<skill3>0</skill3>
+		<skill4>0</skill4>
+	</boss>
+	<boss id ="1825">
+		<name>九天战猫</name>
+		<skill1>4525</skill1>
+		<skill2>4526</skill2>
+		<skill3>0</skill3>
+		<skill4>0</skill4>
+	</boss>
+	<boss id ="1828">
+		<name>焚天血蟒</name>
+		<skill1>4550</skill1>
+		<skill2>4551</skill2>
+		<skill3>0</skill3>
+		<skill4>0</skill4>
+	</boss>
+	<boss id ="2762">
+		<name>烈焰破坏神</name>
+		<skill1>4646</skill1>
+		<skill2>4647</skill2>
+		<skill3>0</skill3>
+		<skill4>0</skill4>
+	</boss>
+	<boss id ="2793">
+		<name>圣殿炽烈凰</name>
+		<skill1>4697</skill1>
+		<skill2>4698</skill2>
+		<skill3>0</skill3>
+		<skill4>0</skill4>
+	</boss>
+</spectrainpetboss>

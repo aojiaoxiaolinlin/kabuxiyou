@@ -1,0 +1,15 @@
+﻿<node>
+	<game id="1" name="保卫长安城" gameid="1003" mapid=""></game>
+	<game id="2" name="时空隧道拯救队" gameid="2" mapid="1003" mapname="驾驶舱" maxscore="5000"></game>
+	<game id="3" name="猴子摘金" gameid="" mapid=""></game>
+	<game id="4" name="火焰山大冒险" gameid="4" mapid="8003" mapname="炎阳之地" maxscore="5500"></game>
+	<game id="5" name="孔雀鱼觅食记" gameid="1004" mapid="40001" mapname="傲来海岸" maxscore="6000"></game>
+	<game id="6" name="围堵水鹤" gameid="6" mapid="2103" mapname="高老庄" maxscore="2500"></game>
+	<game id="7" name="妖怪分辨测试" gameid="7" mapid="1005" mapname="宠物房" maxscore="4750"></game>
+	<game id="8" name="推宝箱" gameid="" mapid=""></game>
+	<game id="9" name="郊外写生" gameid="" mapid=""></game>
+	<game id="10" name="抢盐大作战" gameid="1002" mapid="2103" mapname="高老庄" maxscore="7500"></game>
+	<game id="11" name="傲来渔场" gameid="10" mapid="40005" mapname="龙宫" maxscore="5000"></game>
+	<game id="12" name="火焰山危机" gameid="11" mapid="8003" mapname="炎阳之地" maxscore="6000"></game>	
+	<game id="13" name="西游祖玛" gameid="5" mapid="3004" mapname="白骨山" maxscore="7000"></game>	
+</node>

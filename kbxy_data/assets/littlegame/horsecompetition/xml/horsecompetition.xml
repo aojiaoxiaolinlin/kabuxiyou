@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scoreexchange>
+  <item id="100033" name="活力豆">
+    <score>30</score>
+    <limit>20</limit>
+    <num>3</num>
+    <param>0</param>
+  </item>
+  <item id="100047" name="迅驰魔晶粉">
+    <score>20</score>
+    <limit>20</limit>
+    <num>1</num>
+    <param>0</param>
+  </item>
+  <item id="100048" name="斗战魔晶粉">
+    <score>20</score>
+    <limit>20</limit>
+    <num>1</num>
+    <param>0</param>
+  </item>
+  <item id="100314" name="金顶象外框">
+    <score>100</score>
+    <limit>10</limit>
+    <num>1</num>
+    <param>0</param>
+  </item>
+  <item id="102231" name="【怪角兽】精魄">
+    <score>320</score>
+    <limit>1</limit>
+    <num>1</num>
+    <param>5</param>
+  </item>
+  <item id="300030" name="神明果">
+    <score>5</score>
+    <limit>50</limit>
+    <num>10</num>
+    <param>0</param>
+  </item>
+  <item id="440454" name="灌缘幡">
+    <score>180</score>
+    <limit>1</limit>
+    <num>1</num>
+    <param>0</param>
+  </item>
+  <item id="550289" name="骑士头盔">
+    <score>350</score>
+    <limit>1</limit>
+    <num>1</num>
+    <param>1</param>
+  </item>
+  <item id="550290" name="骑士战甲">
+    <score>450</score>
+    <limit>1</limit>
+    <num>1</num>
+    <param>1</param>
+  </item>
+  <item id="550291" name="骑士靴子">
+    <score>300</score>
+    <limit>1</limit>
+    <num>1</num>
+    <param>1</param>
+  </item>
+  <item id="550292" name="骑士头盔">
+    <score>350</score>
+    <limit>1</limit>
+    <num>1</num>
+    <param>1</param>
+  </item>
+  <item id="550293" name="骑士战甲">
+    <score>450</score>
+    <limit>1</limit>
+    <num>1</num>
+    <param>1</param>
+  </item>
+  <item id="550294" name="骑士靴子">
+    <score>300</score>
+    <limit>1</limit>
+    <num>1</num>
+    <param>1</param>
+  </item>
+  <item id="550353" name="骑士战刃">
+    <score>550</score>
+    <limit>1</limit>
+    <num>1</num>
+    <param>1</param>
+  </item>
+  <item id="600013" name="疾风仙兽蛋">
+    <score>150</score>
+    <limit>5</limit>
+    <num>1</num>
+    <param>3</param>
+  </item>
+  <item id="600043" name="公输木鸾鸡">
+    <score>180</score>
+    <limit>5</limit>
+    <num>1</num>
+    <param>4</param>
+  </item>
+  <item id="600087" name="金顶仙兽蛋">
+    <score>150</score>
+    <limit>5</limit>
+    <num>1</num>
+    <param>3</param>
+  </item>
+  <item id="800356" name="火甲龙雕像">
+    <score>80</score>
+    <limit>10</limit>
+    <num>1</num>
+    <param>0</param>
+  </item>
+  <item id="800357" name="兔兔雕像">
+    <score>80</score>
+    <limit>10</limit>
+    <num>1</num>
+    <param>0</param>
+  </item>
+</scoreexchange>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<question id="1" content="“一再隐其身。”猜一人物：">
+		<answer id="1" content="选项1: 悟空"/>
+		<answer id="2" content="选项2: 八戒"/>
+		<answer id="3" content="选项3: 三藏"/>
+		<answer id="4" content="选项4: 沙僧"/>
+	</question>
+	<question id="2" content="“王母娘娘设蟠桃宴。”打一成语：">
+		<answer id="1" content="选项1: 垂涎三尺 "/>
+		<answer id="2" content="选项2: 各显神通"/>
+		<answer id="3" content="选项3: 世外桃源"/>
+		<answer id="4" content="选项4: 聚精会神"/>
+	</question>	
+	<question id="3" content="地藏王菩萨经案下伏着的神兽名叫？">
+		<answer id="1" content="选项1: 谛听"/>
+		<answer id="2" content="选项2: 青牛"/>
+		<answer id="3" content="选项3: 三足乌"/>
+		<answer id="4" content="选项4: 勾陈"/>
+	</question>
+</list>

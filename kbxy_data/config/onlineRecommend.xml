@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <msg>
+    <items id="59" type="1" content="19005" msg="史上超强Boss圣光天尊等你来挑战！"/>
+    <items id="60" type="1" content="19003" msg="探秘星魂洞穴，召唤星魂兽！"/>
+    <items id="61" type="1" content="6003" msg="挑战神秘双台谷，开启宝箱，快速升级！"/>
+    <items id="62" type="1" content="20001" msg="摆擂开战，快来擂台赛争做最强擂主！"/>
+    <items id="63" type="1" content="6001" msg="找车迟国王报名参加坐骑大赛，一展你的坐骑风采吧！"/>
+    <items id="64" type="1" content="1029" msg="享受PVP盛宴，来战场一决高下吧！"/>
+    <items id="65" type="1" content="19009" msg="木灵大王青辉武神重生来袭，等你来战！"/>
+  </msg> 
+  <img>
+    <item id="1" type="1" act_id="2" scene_id="1029"/>
+    <item id="2" type="1" act_id="4" scene_id="20001"/>
+    <item id="3" type="1" act_id="8" scene_id="1010"/>
+    <item id="4" type="1" act_id="9" scene_id="2001"/>
+    <item id="5" type="1" act_id="10" scene_id="20001"/>
+    <item id="6" type="1" act_id="5" scene_id="6001"/>
+    <item id="143" type="1" act_id="6" scene_id="1028"/>
+    <item id="145" type="1" act_id="1" scene_id="1029"/>
+    <item id="147" type="1" act_id="11" scene_id="21003"/>
+  </img>
+</root>

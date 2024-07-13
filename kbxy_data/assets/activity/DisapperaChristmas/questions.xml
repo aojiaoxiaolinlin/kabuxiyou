@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<question id="1" content="拉着圣诞老人骑的雪橇的是？">
+		<answer id="1" content="A. 驯鹿 "/>
+		<answer id="2" content="B. 大象"/>
+	</question>
+	<question id="2" content="圣诞节是几月几日？">
+		<answer id="1" content="A. 12月25日"/>
+		<answer id="2" content="B. 1月1日"/>
+	</question>	
+	<question id="3" content="在西方大人们会将圣诞节礼物放到哪里？">
+		<answer id="1" content="A. 帽子"/>
+		<answer id="2" content="B. 圣诞袜"/>
+	</question>
+	<question id="4" content="圣诞节用英文怎么拼？">
+		<answer id="1" content="A. Thanksgiving Day"/>
+		<answer id="2" content="B. Christmas"/>
+	</question>
+	<question id="5" content="传说中的圣诞老人座驾是？">
+		<answer id="1" content="A. 自行车"/>
+		<answer id="2" content="B. 雪橇"/>
+	</question>	
+	<question id="6" content="圣诞老人都是通过哪里进入大家房间送礼物？">
+		<answer id="1" content="A. 烟囱"/>
+		<answer id="2" content="B. 下水道"/>
+	</question>
+	<question id="7" content="在美国圣诞节一般会吃什么？">
+		<answer id="1" content="A. 火鸡 "/>
+		<answer id="2" content="B. 水饺"/>
+	</question>
+</list>

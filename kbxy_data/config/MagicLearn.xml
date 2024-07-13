@@ -1,0 +1,94 @@
+﻿<MagicLearn>
+	<stone>
+		<magic id = "100028" name = "幻法灵石" >
+			<tip>某些变身法术需要消耗幻法灵石才能使用。</tip>
+			<money>200</money>
+			<visible>buy</visible>
+		</magic>
+		<magic id = "100029" name = "聚法灵石" >
+			<tip>某些射击法术需要消耗聚法灵石才能使用。</tip>
+			<money>10</money>
+			<visible>buy</visible>
+		</magic>
+	</stone>
+	<magics>
+		<magic id = "2" name = "八戒幻咒" >
+			<tip>让目标玩家变成猪八戒的样子，消耗1颗幻法灵石。</tip>
+			<money>5000</money>
+			<present>赠送3颗幻法灵石。</present>
+			<visible>learn</visible>
+		</magic>
+		<magic id = "3" name = "炎火术" >
+			<tip>焚烧目标玩家，消耗1颗聚法灵石。</tip>
+			<money>1500</money>
+			<present>赠送3颗聚法灵石。</present>
+			<visible>learn</visible>
+		</magic>
+		<magic id = "4" name = "加我好友" >
+			<tip>加我好友吧！消耗1颗聚法灵石。</tip>
+			<money>1500</money>
+			<present>赠送2颗聚法灵石。</present>
+			<visible>learn</visible>
+		</magic>
+		<magic id = "5" name = "快来我的家族吧" >
+			<tip>快来我的家族吧！消耗1颗聚法灵石。</tip>
+			<money>1500</money>
+			<present>赠送2颗聚法灵石。</present>
+			<visible>learn</visible>
+		</magic>
+		<magic id = "6" name = "旋风咒" >
+			<tip>使用旋风袭击目标玩家，消耗一颗聚法灵石。</tip>
+			<money>1500</money>
+			<present>赠送2颗聚法灵石。</present>
+			<visible>learn</visible>
+		</magic>
+		<magic id = "7" name = "小强标签" >
+			<tip>给目标玩家贴上小强标签，消耗一颗聚法灵石。</tip>
+			<money>1500</money>
+			<present>赠送2颗聚法灵石。</present>
+			<visible>learn</visible>
+		</magic>
+		<magic id = "8" name = "伶俐虫之变" >
+			<tip>让目标玩家变成伶俐虫的样子，消耗1颗幻法灵石。</tip>
+			<money>3500</money>
+			<present>赠送2颗幻法灵石。</present>
+			<visible>learn</visible>
+		</magic>
+		<magic id = "9" name = "抱抱！" >
+			<tip>“抱抱！”，消耗1颗聚法灵石。</tip>
+			<money>1500</money>
+			<present>赠送2颗聚法灵石。</present>
+			<visible>learn</visible>
+		</magic>
+		<magic id = "10" name = "谢谢~" >
+			<tip>“谢谢”，消耗1颗聚法灵石。</tip>
+			<money>1500</money>
+			<present>赠送2颗聚法灵石。</present>
+			<visible>learn</visible>
+		</magic>
+		<magic id = "11" name = "禁锢术" >
+			<tip>禁锢目标玩家，消耗一颗幻法灵石。</tip>
+			<money>2000</money>
+			<present>赠送2颗幻法灵石。</present>
+			<visible>learn</visible>
+		</magic>
+		<magic id = "12" name = "精细鬼之变" >
+			<tip>让目标玩家变成精细鬼的样子，消耗1颗幻法灵石。</tip>
+			<money>3500</money>
+			<present>赠送2颗幻法灵石。</present>
+			<visible>learn</visible>
+		</magic>
+		<magic id = "13" name = "结晶术" >
+			<tip>让目标玩家结成晶块，消耗一颗聚法灵石。</tip>
+			<money>1500</money>
+			<present>赠送2颗聚法灵石。</present>
+			<visible>learn</visible>
+		</magic>
+		<magic id = "15" name = "彩弹术" >
+			<tip>投掷目标玩家。消耗1颗聚法灵石。</tip>
+			<money>2000</money>
+			<present>赠送2颗聚法灵石。</present>
+			<visible>learn</visible>
+		</magic>
+	</magics>
+</MagicLearn>

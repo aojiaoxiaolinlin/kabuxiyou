@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<level1>
+		<graph col="5" row="3" type="lostStar" />
+		<graph col="5" row="4" type="lostStar" />
+		<graph col="5" row="5" type="lostStar" />
+		<graph col="4" row="4" type="lostStar" />
+		<graph col="6" row="4" type="lostStar" />
+	</level1>
+	<level2>
+		<graph col="5" row="3" type="Star" />
+		<graph col="5" row="4" type="Star" />
+		<graph col="5" row="5" type="Star" />
+		<graph col="4" row="4" type="Star" />
+		<graph col="6" row="4" type="Star" />
+	</level2>
+	<level3>
+		<graph col="5" row="3" type="Star" />
+		<graph col="5" row="4" type="Star" />
+		<graph col="5" row="5" type="Star" />
+		<graph col="4" row="4" type="Star" />
+		<graph col="6" row="4" type="Star" />
+	</level3>
+</data>

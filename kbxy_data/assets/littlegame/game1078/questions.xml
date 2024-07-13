@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<question id="1" content="1.在朱紫国作威作福的“赛太岁金毛吼”是哪位神仙的坐骑？">
+		<answer id="1" content="A.太上老君"/>
+		<answer id="2" content="B.文殊菩萨"/>
+		<answer id="3" content="C.观音菩萨"/>
+		<answer id="4" content="D.老寿星"/>
+	</question>
+	<question id="2" content="2.唐僧师徒在取经路上遇见的“半截观音”是个什么妖怪？">
+		<answer id="1" content="A.玉面狐狸"/>
+		<answer id="2" content="B.多目怪"/>
+		<answer id="3" content="C.蜘蛛精" />
+		<answer id="4" content="D.金鼻白毛老鼠精"/>
+	</question>	
+</list>

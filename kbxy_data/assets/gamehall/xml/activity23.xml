@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity>
+		<rewardWest>
+		<item num = "1" tip1 = "兑换积分：获得相应值的积分"  blo1 = "false"/>
+		<item  num = "1" tip1 = "历练" blo1 = "false" />
+		<item  num = "2" tip1 = "兑换积分：获得相应值的积分"  blo1 = "false" id2 = "920102"  blo2 = "true"/>
+		<item  num = "2" tip1 = "历练"   blo1 = "false"  id2 = "920801" blo2 = "true"/>
+		<item  num = "3" id1 = "910101"  id2 = "920501"  id3 = "920901" blo1 = "true"blo2 = "true"blo3 = "true"/>
+		<item  num = "4" tip1 = "历练"  tip2 = "兑换积分：获得相应值的积分" id3 = "920701"  id4 = "920401" blo1 = "false"blo2 = "false"blo3 = "true"blo4 = "true"/>
+	</rewardWest>
+</activity>

@@ -1,0 +1,22 @@
+﻿<root>
+	<lvl id="1">
+		<point id="1" xCoord="58.6" yCoord="127.25">3,4</point>
+		<point id="2" xCoord="393.6" yCoord="107.1">3,4</point>
+		<point id="3" xCoord="335.55" yCoord="256.25">1,2,4</point>
+		<point id="4" xCoord="148.55" yCoord="258.25">1,2,3</point>
+	</lvl>
+	<lvl id="2">
+		<point id="1" xCoord="237.25" yCoord="49.45">2,3,4</point>
+		<point id="2" xCoord="359.25" yCoord="146.6">1,3,4</point>
+		<point id="3" xCoord="237.25" yCoord="313.6">1,2,4</point>
+		<point id="4" xCoord="116.3" yCoord="146.6">1,2,3</point>
+	</lvl>
+	<lvl id="3">
+		<point id="1" xCoord="243.9" yCoord="46.65">3,4,6</point>
+		<point id="2" xCoord="388.3" yCoord="150.3">4,5,6</point>
+		<point id="3" xCoord="342" yCoord="296.8">1,5,6</point>
+		<point id="4" xCoord="146.5" yCoord="296.8">1,2,6</point>
+		<point id="5" xCoord="89.5" yCoord="150.3">2,3,6</point>
+		<point id="6" xCoord="239.4" yCoord="190.8">1,2,3,4,5</point>
+	</lvl>
+</root>

@@ -1,0 +1,14 @@
+<fishs>
+	<!-- showTime是出现时间,count是数量,interval是刷新间隔-->
+	<fish type="1" name="大银鱼" showTime="0" count="1" interval="4"/>
+	<fish type="2" name="大海马" showTime="3" count="2" interval="8"/>
+	<fish type="3" name="大鲤鱼" showTime="8" count="2" interval="7"/>
+	<fish type="4" name="小龙虾" showTime="15" count="8" interval="32"/>
+	<fish type="5" name="金箭鱼" showTime="24" count="1" interval="11"/>
+	<fish type="6" name="小白姣" showTime="30" count="1" interval="18"/>
+	<fish type="7" name="小乌龟" showTime="3" count="1" interval="13"/>
+	<fish type="8" name="小章鱼" showTime="15" count="1" interval="22"/>
+	<fish type="9" name="小鲨鱼" showTime="30" count="1" interval="15"/>
+	<fish type="10" name="海胆刺" showTime="45" count="1" interval="23"/>
+	<fish type="11" name="小水母" showTime="15" count="1" interval="6"/>
+</fishs>

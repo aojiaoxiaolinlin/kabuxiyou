@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<reward>
+	<rewardWest>
+		<item item1="加速器*1"  item2 = "15000历练" item3 = "250积分"/>
+		<item item1="天马之翼*1"  item2 = "15000历练" item3 = "250积分"/>
+		<item item1="加时器*1"  item2 = "15000历练" item3 = "250积分"/>
+		<item item1="指南针*1"  item2 = "15000历练" item3 = "250积分"/>
+		<item item1="震天鼓*1"  item2 = "15000历练" item3 = "250积分"/>
+	</rewardWest>
+	<rewardOz>
+		<item item1="定身器*1"  item2 = "初等经验豆*2" item3 = "一百积分券*2"/>
+		<item item1="飞龙之翼*1"  item2 = "初等经验豆*2" item3 = "一百积分券*2"/>
+		<item item1="记忆卡片*1"  item2 = "初等经验豆*2" item3 = "一百积分券*2"/>
+		<item item1="指南针*1"  item2 = "初等经验豆*2" item3 = "一百积分券*2"/>
+		<item item1="加速器*1"  item2 = "初等经验豆*2" item3 = "一百积分券*2"/>
+	</rewardOz>
+	<gameTip tip1 = "可在单人类游戏中获得" tip2 ="可在敏捷类游戏中获得" tip3 = "可在益智类游戏中获得" tip4="可在消除类游戏中获得" tip5 ="可在体育类游戏中获得"></gameTip>
+	<awardList item1 = "910101"    item2 = "910102" item3 = "910103" item4 = "910201" item5 = "910202" item6 = "910502" item7 = "100013" item8 = "920102" item9 = "920301" item10 = "920101" item11 = "920701" item12 = "920801" item13 = "920901" item14 = "920201" item15 = "920501" item16 = "920401" item17 = "10000" item18 = "20000" item19 = "30000" item20 = "50000" item21 = "100640" item22 = "100" item23 = "200" item24= "500" item25 = "1000" ></awardList>
+	<awardName  item1 = "幸运符5场"    item2 = "幸运符10场" item3 = "幸运符20场" item4 = "半小时双倍积分卡" item5 = "1小时双倍积分卡" item6 = "中瓶体力补充剂" item7 = "洗髓丹" item8 = "加时器" item9 = "放大镜" item10 = "换词卡" item11 = "记忆卡片" item12 = "指南针" item13 = "天马之翼" item14 = "定身器" item15 = "加速器" item16 = "震天鼓" item17 = "10000历练" item18 = "20000历练" item19 = "30000历练" item20 = "50000历练" item21 = "圣诞袜外框" item22 = "100积分" item23 = "200积分" item24= "500积分" item25 = "1000积分" ></awardName>
+	<tips item1 = "圣诞袜外框"  item2 = "幸运符" item3 = "洗髓丹" item4 = "0" item5 = "历练" item6 = "体力补充剂" item7 = "0" item8 = "0" item9 = "0" item10 = "0" item11 = "0" item12 = "0" item13 = "0" item14 = "0" item15 = "0" item16 = "0" item17 = "兑换积分：获得相应值的积分" ></tips>
+	<tipsId item1 = "圣诞袜外框" item2 = "幸运符" item3 = "100013" item4 = "910202" item5 = "历练" item6 = "体力补充剂" item7 = "910201" item8 = "920102" item9 = "920301" item10 = "920101" item11 = "920701" item12 = "920801" item13 = "920901" item14 = "920201" item15 = "920501" item16 = "920401" item17 = "兑换积分"></tipsId>
+	<seeBeforePage frame1 = "1" frame2 = "40"  frame3 = "80" frame4 = "130"page1 = "7"  page2 = "3" page3 = "3" page4 = "4"></seeBeforePage>
+</reward>

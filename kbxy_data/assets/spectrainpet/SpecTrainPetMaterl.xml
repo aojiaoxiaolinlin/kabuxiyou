@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spectrainpetmaterl>
+	<skill id = "4406">
+		<name>霸空狂袭</name>
+		<bookid>440445</bookid>
+		<bookname>【霸空狂袭】秘籍</bookname>
+		<booknum>1</booknum>
+		<item1id>300037</item1id>
+		<item1name>日月琉璃</item1name>
+		<item1num>20</item1num>
+		<item2id>440444</item2id>
+		<item2num>25</item2num>
+		<exp>1500000</exp>
+		<onekey>0</onekey>
+	</skill>
+	<skill id = "4407">
+		<name>濒死战意</name>
+		<bookid>440446</bookid>
+		<bookname>【濒死战意】秘籍</bookname>
+		<booknum>1</booknum>
+		<item1id>300029</item1id>
+		<item1name>女娲石</item1name>
+		<item1num>25</item1num>
+		<item2id>440444</item2id>
+		<item2num>30</item2num>
+		<exp>2000000</exp>
+		<onekey>0</onekey>
+	</skill>
+	<skill id = "4432">
+		<name>煞神一拳</name>
+		<bookid>440448</bookid>
+		<bookname>【煞神一拳】秘籍</bookname>
+		<booknum>1</booknum>
+		<item1id>300024</item1id>
+		<item1name>茅山玉</item1name>
+		<item1num>50</item1num>
+		<item2id>440444</item2id>
+		<item2num>15</item2num>
+		<exp>1000000</exp>
+		<onekey>0</onekey>
+	</skill>
+	<skill id = "4433">
+		<name>真霸王破岳</name>
+		<bookid>440447</bookid>
+		<bookname>【霸王破岳】秘籍</bookname>
+		<booknum>1</booknum>
+		<item1id>300017</item1id>
+		<item1name>远古青松</item1name>
+		<item1num>40</item1num>
+		<item2id>440444</item2id>
+		<item2num>20</item2num>
+		<exp>1000000</exp>
+		<onekey>0</onekey>
+	</skill>
+	<skill id = "4475">
+		<name>木之护佑</name>
+		<bookid>440452</bookid>
+		<bookname>【木之护佑】秘籍</bookname>
+		<booknum>1</booknum>
+		<item1id>300029</item1id>
+		<item1name>女娲石</item1name>
+		<item1num>20</item1num>
+		<item2id>440444</item2id>
+		<item2num>25</item2num>
+		<exp>1500000</exp>
+		<onekey>0</onekey>
+	</skill>
+	<skill id = "4476">
+		<name>真疾风神力</name>
+		<bookid>440453</bookid>
+		<bookname>【疾风神力】秘籍</bookname>
+		<booknum>1</booknum>
+		<item1id>300026</item1id>
+		<item1name>朱砂石</item1name>
+		<item1num>50</item1num>
+		<item2id>440444</item2id>
+		<item2num>20</item2num>
+		<exp>1000000</exp>
+		<onekey>0</onekey>
+	</skill>
+	<skill id = "4525">
+		<name>浑厚之爪</name>
+		<bookid>440455</bookid>
+		<bookname>【浑厚之爪】秘籍</bookname>
+		<booknum>1</booknum>
+		<item1id>300029</item1id>
+		<item1name>女娲石</item1name>
+		<item1num>15</item1num>
+		<item2id>440444</item2id>
+		<item2num>35</item2num>
+		<exp>1500000</exp>
+		<onekey>0</onekey>
+	</skill>
+	<skill id = "4526">
+		<name>真爆炎血爪</name>
+		<bookid>440456</bookid>
+		<bookname>【爆炎血爪】秘籍</bookname>
+		<booknum>1</booknum>
+		<item1id>300027</item1id>
+		<item1name>青金石</item1name>
+		<item1num>50</item1num>
+		<item2id>440444</item2id>
+		<item2num>20</item2num>
+		<exp>1000000</exp>
+		<onekey>0</onekey>
+	</skill>
+	<skill id = "4550">
+		<name>傲阳体术</name>
+		<bookid>440451</bookid>
+		<bookname>【傲阳体术】秘籍</bookname>
+		<booknum>1</booknum>
+		<item1id>300029</item1id>
+		<item1name>女娲石</item1name>
+		<item1num>15</item1num>
+		<item2id>440444</item2id>
+		<item2num>30</item2num>
+		<exp>1500000</exp>
+		<onekey>0</onekey>
+	</skill>
+	<skill id = "4551">
+		<name>真血焰焚天</name>
+		<bookid>440450</bookid>
+		<bookname>【血焰焚天】秘籍</bookname>
+		<booknum>1</booknum>
+		<item1id>300019</item1id>
+		<item1name>火云岩</item1name>
+		<item1num>50</item1num>
+		<item2id>440444</item2id>
+		<item2num>25</item2num>
+		<exp>1000000</exp>
+		<onekey>0</onekey>
+	</skill>
+	<skill id = "4646">
+		<name>豪龙之火</name>
+		<bookid>500350</bookid>
+		<bookname>【豪龙之火】秘籍</bookname>
+		<booknum>1</booknum>
+		<item1id>300037</item1id>
+		<item1name>日月琉璃</item1name>
+		<item1num>20</item1num>
+		<item2id>440444</item2id>
+		<item2num>25</item2num>
+		<exp>1500000</exp>
+		<onekey>0</onekey>
+	</skill>
+	<skill id = "4647">
+		<name>迦楼罗</name>
+		<bookid>500351</bookid>
+		<bookname>【迦楼罗】秘籍</bookname>
+		<booknum>1</booknum>
+		<item1id>300029</item1id>
+		<item1name>女娲石</item1name>
+		<item1num>25</item1num>
+		<item2id>440444</item2id>
+		<item2num>30</item2num>
+		<exp>2000000</exp>
+		<onekey>0</onekey>
+	</skill>
+	<skill id = "4697">
+		<name>浴火重生</name>
+		<bookid>500354</bookid>
+		<bookname>【浴火重生】秘籍</bookname>
+		<booknum>1</booknum>
+		<item1id>300037</item1id>
+		<item1name>日月琉璃</item1name>
+		<item1num>25</item1num>
+		<item2id>440444</item2id>
+		<item2num>30</item2num>
+		<exp>1600000</exp>
+		<onekey>0</onekey>
+	</skill>
+	<skill id = "4698">
+		<name>圣辉万丈</name>
+		<bookid>500355</bookid>
+		<bookname>【圣辉万丈】秘籍</bookname>
+		<booknum>1</booknum>
+		<item1id>300029</item1id>
+		<item1name>女娲石</item1name>
+		<item1num>20</item1num>
+		<item2id>440444</item2id>
+		<item2num>30</item2num>
+		<exp>2000000</exp>
+		<onekey>0</onekey>
+	</skill>
+</spectrainpetmaterl>

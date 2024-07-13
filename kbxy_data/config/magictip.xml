@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<magics>
+  <magic id="1" useType="1">
+    <tip>粒子光线</tip>
+    <sortValue>1</sortValue>
+  </magic>
+  <magic id="2" useType="1">
+    <tip>魔晶射线</tip>
+    <sortValue>2</sortValue>
+  </magic>
+  <magic id="3" useType="1">
+    <tip>扫描电波</tip>
+    <sortValue>3</sortValue>
+  </magic>
+  <magic id="4" useType="1">
+    <tip>八爪金龙</tip>
+    <alert>这个法术必须先装备飞龙宝杖哦</alert>
+    <sortValue>4</sortValue>
+  </magic>
+  <magic id="5" useType="1">
+    <tip>水弹术</tip>
+    <alert>这个法术必须先装备清洁喷水器哦</alert>
+    <sortValue>7</sortValue>
+  </magic>
+  <magic id="6" useType="1">
+    <tip>焚烧目标玩家,消耗1颗聚法灵石</tip>
+    <alert>你的聚法灵石不够了哦，快去傲来海岸找古怪老人吧</alert>
+    <sortValue>16</sortValue>
+  </magic>
+  <magic id="7" useType="1">
+    <tip>加我好友吧！消耗1颗聚法灵石</tip>
+    <alert>你的聚法灵石不够了哦，快去傲来海岸找古怪老人吧</alert>
+    <sortValue>20</sortValue>
+  </magic>
+  <magic id="8" useType="1">
+    <tip>快来我的家族吧!消耗1颗聚法灵石</tip>
+    <alert>你的聚法灵石不够了哦，快去傲来海岸找古怪老人吧</alert>
+    <sortValue>21</sortValue>
+  </magic>
+  <magic id="9" useType="1">
+    <tip>使用旋风袭击目标玩家，消耗一颗聚法灵石</tip>
+    <alert>你的聚法灵石不够了哦，快去傲来海岸找古怪老人吧</alert>
+    <sortValue>18</sortValue>
+  </magic>
+  <magic id="10" useType="1">
+    <tip>给目标玩家贴上小强标签，消耗一颗聚法灵石</tip>
+    <alert>你的聚法灵石不够了哦，快去傲来海岸找古怪老人吧</alert>
+    <sortValue>22</sortValue>
+  </magic>
+  <magic id="12" useType="1">
+    <tip>[谢谢],消耗1颗聚法灵石</tip>
+    <alert>你的聚法灵石不够了哦，快去傲来海岸找古怪老人吧</alert>
+    <sortValue>23</sortValue>
+  </magic>
+  <magic id="11" useType="1">
+    <tip>[抱抱],消耗1颗聚法灵石</tip>
+    <alert>你的聚法灵石不够了哦，快去傲来海岸找古怪老人吧</alert>
+    <sortValue>24</sortValue>
+  </magic>
+  <magic id="13" useType="2">
+    <tip>[五彩烟花],消耗1个五彩烟花</tip>
+    <alert>你的五彩烟花不够了哦</alert>
+    <sortValue>8</sortValue>
+  </magic>
+  <magic id="14" useType="1">
+    <tip>禁锢目标玩家，消耗一颗幻法灵石</tip>
+    <alert>你的幻法灵石不够了哦，快去傲来海岸找古怪老人吧</alert>
+    <sortValue>15</sortValue>
+  </magic>
+  <magic id="15" useType="1">
+    <tip>让目标玩家结成晶块，消耗一颗聚法灵石。</tip>
+    <alert>你的聚法灵石不够了哦，快去傲来海岸找古怪老人吧</alert>
+    <sortValue>25</sortValue>
+  </magic>
+  <magic id="16" useType="1">
+    <tip>雪球，可以在法术栏里使用它！扔吧！</tip>
+    <alert>你的雪球不够了哦</alert>
+    <sortValue>14</sortValue>
+  </magic>
+  <magic id="17" useType="1">
+    <tip>雷击术，召唤闪电电击目标玩家。消耗一颗聚法灵石</tip>
+    <alert>你的聚法灵石不够了哦，快去傲来海岸找古怪老人吧</alert>
+    <sortValue>26</sortValue>
+  </magic>
+  <magic id="18" useType="1">
+    <tip>投掷目标玩家。消耗1颗聚法灵石</tip>
+    <alert>你的聚法灵石不够了哦，快去傲来海岸找古怪老人吧</alert>
+    <sortValue>17</sortValue>
+  </magic>
+  <magic id="19" useType="1">
+    <tip>投掷目标玩家。消耗1颗冰石</tip>
+    <alert>没有足够的冰石哦，去炼丹阁炼吧</alert>
+    <sortValue>19</sortValue>
+  </magic>
+  <magic id="20" useType="1">
+    <tip>地裂术，召唤一个巨大的脚印践踏目标，消耗一只撼地脚印</tip>
+    <alert>没有足够的撼地脚印哦</alert>
+    <sortValue>13</sortValue>
+  </magic>
+  <change id="1" useType="2">
+    <tip>化鱼术</tip>
+    <alert>化鱼术</alert>
+  </change>
+  <change id="2" useType="1">
+    <tip>让目标玩家变成猪八戒的样子,消耗1颗幻法灵石</tip>
+    <alert>你的幻法灵石不够了哦，快去傲来海岸找古怪老人吧</alert>
+    <sortValue>3</sortValue>
+  </change>
+  <change id="3" useType="1">
+    <tip>让目标玩家变成伶俐虫的样子,消耗1颗幻法灵石</tip>
+    <alert>你的幻法灵石不够了哦，快去傲来海岸找古怪老人吧</alert>
+    <sortValue>3</sortValue>
+  </change>
+  <change id="4" useType="1">
+    <tip>让目标玩家变成精细鬼的样子,消耗1颗幻法灵石。</tip>
+    <alert>你的幻法灵石不够了哦，快去傲来海岸找古怪老人吧</alert>
+    <sortValue>3</sortValue>
+  </change>
+  <change id="5" useType="2">
+    <tip>让自己变成孙悟空的样子，维持3分钟。</tip>
+    <alert>你的孙悟空变身器不够了哦</alert>
+    <sortValue>3</sortValue>
+  </change>
+  <change id="6" useType="1">
+    <tip>让玩家变成虎魔王的样子，维持3分钟。</tip>
+    <alert>你虎魔王变身器不够了哦，快去商城购买吧</alert>
+    <sortValue>3</sortValue>
+  </change>
+  <change id="7" useType="1">
+    <tip>让目标玩家变成紫霞仙子的样子，维持3分钟。</tip>
+    <alert>你紫霞仙子变身器不够了哦，快去商城购买吧</alert>
+    <sortValue>3</sortValue>
+  </change>
+  <change id="8" useType="1">
+    <tip>让目标玩家变成可爱的雪人，维持3分钟。</tip>
+    <alert>你雪人变身器不够了哦(⊙o⊙)</alert>
+    <sortValue>3</sortValue>
+  </change>
+  <change id="10" useType="1">
+    <tip>让目标玩家变成小白龙的样子，维持3分钟。</tip>
+    <alert>你小白龙变身器不够了哦，快去商城购买吧</alert>
+    <sortValue>3</sortValue>
+  </change>
+  <change id="11" useType="1">
+    <tip>让目标玩家变成红孩儿的样子，维持3分钟。</tip>
+    <alert>你红孩儿变身器不够了哦，快去商城购买吧</alert>
+    <sortValue>3</sortValue>
+  </change>
+  <change id="12" useType="1">
+    <tip>让目标玩家变成沙僧的样子，维持3分钟。</tip>
+    <alert>你沙僧变身器不够了哦，快去商城购买吧</alert>
+    <sortValue>3</sortValue>
+  </change>
+  <magic id="23" useType="2">
+    <tip>[夏祭烟花],消耗1个夏祭烟花</tip>
+    <alert>你的夏祭烟花不够了哦</alert>
+    <sortValue>10</sortValue>
+  </magic>
+  <magic id="24" useType="2">
+    <tip>[小蜜蜂烟花],消耗1个小蜜蜂烟花</tip>
+    <alert>你的小蜜蜂烟花不够了哦</alert>
+    <sortValue>11</sortValue>
+  </magic>
+  <change id="13" useType="1">
+    <tip>让目标玩家变成白骨夫人的样子，维持3分钟。</tip>
+    <alert>你白骨夫人变身器不够了哦</alert>
+    <sortValue>3</sortValue>
+  </change>
+  <change id="14" useType="1">
+    <tip>让目标玩家变成牛魔王的样子，维持3分钟。</tip>
+    <alert>你牛魔王变身器不够了哦</alert>
+    <sortValue>3</sortValue>
+  </change>
+  <change id="15" useType="1">
+    <tip>让目标玩家变成二郎神的样子，维持3分钟。</tip>
+    <alert>你二郎神变身器不够了哦</alert>
+    <sortValue>3</sortValue>
+  </change>
+  <change id="16" useType="1">
+    <tip>让目标玩家变成铁扇公主的样子，维持3分钟。</tip>
+    <alert>你铁扇公主变身器不够了哦</alert>
+    <sortValue>3</sortValue>
+  </change>
+  <magic id="25" useType="2">
+    <tip>[玫瑰香花],消耗1个玫瑰香花</tip>
+    <alert>你的玫瑰香花不够了哦</alert>
+    <sortValue>6</sortValue>
+  </magic>
+  <magic id="21" useType="1">
+    <tip>炮竹术,投掷目标玩家,消耗一颗炮竹</tip>
+    <alert>你的炮竹不够了哦</alert>
+    <sortValue>12</sortValue>
+  </magic>
+  <magic id="22" useType="2">
+    <tip>金蛇狂舞烟花,点击使用,消耗1个金蛇狂舞烟花</tip>
+    <alert>你的金蛇狂舞烟花不够了哦</alert>
+    <sortValue>9</sortValue>
+  </magic>
+  <change id="9" useType="2">
+    <tip>让自己变成圣诞老人的样子。维持3分钟。</tip>
+    <alert>你圣诞老人变身器不够了哦(⊙o⊙)</alert>
+    <sortValue>3</sortValue>
+  </change>
+  <magic id="26" useType="1">
+    <tip>催眠术，装备魔神冲霄套装可使用的法术</tip>
+    <alert>请检查你是否装备了完整的魔神冲霄套装。</alert>
+    <sortValue>5</sortValue>
+  </magic>
+  <change id="28" useType="1">
+    <tip>让目标玩家变成妖皇傲天的样子，维持3分钟。</tip>
+    <alert>你的妖皇傲天变身器不足了哦！</alert>
+    <sortValue>2</sortValue>
+  </change>
+  <change id="27" useType="1">
+    <tip>让目标玩家变成魔神冲霄的样子，维持3分钟。</tip>
+    <alert>你的魔神冲霄变身器不足了哦！</alert>
+    <sortValue>1</sortValue>
+  </change>
+</magics>

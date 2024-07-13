@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <item id="100005">
+    <toolname>蟠桃</toolname>
+    <type>1</type>
+    <value>150.00</value>
+  </item>
+  <item id="100031">
+    <toolname>活血散</toolname>
+    <type>1</type>
+    <value>150.00</value>
+  </item>
+  <item id="100006">
+    <toolname>大金创药</toolname>
+    <type>1</type>
+    <value>100.00</value>
+  </item>
+  <item id="100007">
+    <toolname>中金创药</toolname>
+    <type>1</type>
+    <value>50.00</value>
+  </item>
+  <item id="100008">
+    <toolname>小金创药</toolname>
+    <type>1</type>
+    <value>20.00</value>
+  </item>
+  <item id="100034">
+    <toolname>天香丸</toolname>
+    <type>1</type>
+    <value>170.00</value>
+  </item>
+  <item id="100523">
+    <toolname>藏宝活血散</toolname>
+    <type>1</type>
+    <value>160.00</value>
+  </item>
+  <item id="100009">
+    <toolname>天仙玉露</toolname>
+    <type>2</type>
+    <value>100.00</value>
+  </item>
+  <item id="100012">
+    <toolname>大型法力药剂</toolname>
+    <type>2</type>
+    <value>20.00</value>
+  </item>
+  <item id="100011">
+    <toolname>中型法力药剂</toolname>
+    <type>2</type>
+    <value>10.00</value>
+  </item>
+  <item id="100010">
+    <toolname>小型法力药剂</toolname>
+    <type>2</type>
+    <value>5.00</value>
+  </item>
+  <item id="100024">
+    <toolname>小历练丹</toolname>
+    <type>3</type>
+    <value>1000.00</value>
+  </item>
+  <item id="100023">
+    <toolname>大历练丹</toolname>
+    <type>3</type>
+    <value>2000.00</value>
+  </item>
+  <item id="100078">
+    <toolname>五灵历练丹</toolname>
+    <type>3</type>
+    <value>5000.00</value>
+  </item>
+  <item id="100522">
+    <toolname>藏宝小历练丹</toolname>
+    <type>3</type>
+    <value>1500.00</value>
+  </item>
+  <item id="100521">
+    <toolname>藏宝大历练丹</toolname>
+    <type>3</type>
+    <value>3000.00</value>
+  </item>
+  <item id="100520">
+    <toolname>藏宝强力历练丹</toolname>
+    <type>3</type>
+    <value>4000.00</value>
+  </item>
+  <item id="400415">
+    <toolname>训练师勋章</toolname>
+    <type>3</type>
+    <value>1000.00</value>
+  </item>
+  <item id="100567">
+    <toolname>黄金月饼</toolname>
+    <type>3</type>
+    <value>10000.00</value>
+  </item>
+  <item id="100419">
+    <toolname>普通历练果</toolname>
+    <type>3</type>
+    <value>500.00</value>
+  </item>
+  <item id="100420">
+    <toolname>优质历练果</toolname>
+    <type>3</type>
+    <value>1500.00</value>
+  </item>
+  <item id="100421">
+    <toolname>精品历练果</toolname>
+    <type>3</type>
+    <value>2500.00</value>
+  </item>
+  <item id="100422">
+    <toolname>神奇历练果</toolname>
+    <type>3</type>
+    <value>4500.00</value>
+  </item>
+  <item id="100423">
+    <toolname>传说历练果</toolname>
+    <type>3</type>
+    <value>7500.00</value>
+  </item>
+  <item id="100414">
+    <toolname>复活节彩蛋</toolname>
+    <type>3</type>
+    <value>20000.00</value>
+  </item>
+  <item id="100579">
+    <toolname>失效的超级月饼</toolname>
+    <type>3</type>
+    <value>10000.00</value>
+  </item>
+  <item id="100102">
+    <toolname>银莲冲级丹</toolname>
+    <type>4</type>
+    <value>5.00</value>
+  </item>
+  <item id="100103">
+    <toolname>金莲冲级丹</toolname>
+    <type>4</type>
+    <value>10.00</value>
+  </item>
+  <item id="100104">
+    <toolname>紫金冲级丹</toolname>
+    <type>4</type>
+    <value>15.00</value>
+  </item>
+  <item id="100501">
+    <toolname>藏宝小冲级丹</toolname>
+    <type>4</type>
+    <value>20.00</value>
+  </item>
+  <item id="100502">
+    <toolname>藏宝中冲级丹</toolname>
+    <type>4</type>
+    <value>30.00</value>
+  </item>
+  <item id="100503">
+    <toolname>藏宝大冲级丹</toolname>
+    <type>4</type>
+    <value>40.00</value>
+  </item>
+  <item id="100636">
+    <toolname>升级丹</toolname>
+    <type>5</type>
+    <value>1.00</value>
+  </item>
+  <item id="100758">
+    <toolname>培元金丹</toolname>
+    <type>1</type>
+    <value>200.00</value>
+  </item>
+</root>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- type=1</b>：通过派发事件打开界面（事件常量）url = ""用Event;如果url不为空，则用GameEvent；</br>
+		 * 2：打开游戏（gameId:游戏ID）MessageEvent；</br>
+			3：ApplicationFacade打开模块 url需要赋值；</br>
+			 * 4：调查问卷 
+			 打开主游戏商城
+			 <news index = "1" id = "16"   type = "3" open="bobstateclick" url = "assets/mall/MallUI.swf"  moduleId = "0" done = "0" event = "open_little_game"/> 
+			 -->
+<news>
+	<ozNews>
+		<news index = "1" id = "10" type = "1" open="open_activity_view_event" url = "21" />
+		<news index = "2" id = "11" type = "2" open="OPEN_GAME_PANEL" gameId = "2004" /> 
+		<news index = "3" id = "12" type = "1" open="OPEN_MINA_REWARD_VIEW" url = ""  /> 
+		<news index = "4" id = "13" type = "1" open="open_model" url = "component/VitalityBoard.swf"  /> 
+		<news index = "5" id = "14" type = "1" open="open_model" url = "component/SignIn.swf"  /> 
+		<news index = "6" id = "15" type = "1" open="SHOW_RECOMMEND_VIEW" url = "" />
+		<news index = "7" id = "16" type = "1" open="openCollegeMainUI" url = ""/> 
+	</ozNews>
+		<westNews>
+		<news index = "7"  id = "10" type = "1" open="open_activity_view_event" url = "24" />
+		<news index = "2"  id = "11" type = "1" open="SHOW_ARENA_VIEW" url = ""  /> 
+		<news index = "3"  id = "12" type = "2" open="OPEN_GAME_PANEL" gameId = "2020" /> 
+		<news index = "13"  id = "13" type = "1" open="SHOW_EXCHANGE_PANEL" url = ""/> 
+		<news index = "4"  id = "14" type = "1" open="SHOW_DOUBLE_SCORE" url = ""/> 
+		<news index = "5"  id = "15" type = "1" open="OPEN_MINA_REWARD_VIEW" url = "" /> 
+		<news index = "6"  id = "16" type = "1" open="SHOW_RECOMMEND_VIEW" url = "" /> 
+		<news index = "8" id = "17" type = "4" />
+		<news index = "9" id = "18" type = "4" />
+	</westNews>
+</news>

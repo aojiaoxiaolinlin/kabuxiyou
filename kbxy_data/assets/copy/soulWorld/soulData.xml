@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+	<item type="1" id="100078" name="五灵历练丹">
+		<desc>100078$1</desc>
+	</item>
+	<item type="2" id="100402" name="初级礼包">
+		<desc>100078$1,100034$1</desc>
+	</item>
+	<item type="2" id="100403" name="中级礼包">
+		<desc>100078$1,100003$1</desc>
+	</item>
+	<item type="2" id="100404" name="高级礼包">
+		<desc>100013$1,100222$1,1$30000</desc>
+	</item>
+	<item type="2" id="100405" name="特级礼包">
+		<desc>100036$1,100223$1,1$50000</desc>
+	</item>
+	<item type="2" id="100406" name="超级礼包">
+		<desc>103009$1,100224$1,1$80000</desc>
+	</item>
+	<item type="3" id="1704">
+	</item>
+</items>

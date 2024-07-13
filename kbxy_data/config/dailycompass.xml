@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <vitality>
+    <item id="1" name="在线时长" total="1" vitality="10" target="0" sid="1">
+      <condition>累计在线30分钟</condition>
+      <content>登陆游戏后累计在线时间达到30分钟。</content>
+    </item>
+    <item id="2" name="满级妖怪" total="1" vitality="10" target="0" sid="2">
+      <condition>将一只妖怪练至满级。</condition>
+      <content>卡布们快帮你的妖怪伙伴们提升等级吧！</content>
+    </item>
+    <item id="3" name="探索万妖洞" total="1" vitality="10" target="30005" sid="14">
+      <condition>通过万妖洞20层</condition>
+      <content>万妖洞里有各种各样凶猛无比的妖怪，作为一名勇敢的小卡布，让我们去探索一番吧！</content>
+    </item>
+    <item id="4" name="八卦灵盘" total="8" vitality="10" target="2001" sid="6">
+      <condition>前往长安城找墨乾完成八卦灵盘任务</condition>
+      <content>墨氏八兄弟有一个八卦灵盘，需要人来帮他们开启，快去帮助他们开启八卦灵盘吧！该任务详细介绍可以通过任务档案进行查看。</content>
+    </item>
+    <item id="5" name="擂台称雄" total="5" vitality="10" target="20001" sid="9">
+      <condition>获得5场单妖怪或者多妖怪擂台赛的胜利</condition>
+      <content>这里是证明你实力的最佳场所，到演武场的单妖怪擂台上赢得5场战斗的胜利吧！</content>
+    </item>
+    <item id="6" name="欢乐大乱斗" total="5" vitality="10" target="20001" sid="4">
+      <condition>参加5场大乱斗</condition>
+      <content>随机配对，欢乐乱斗。小卡布们快带上你们的宠物，去演武场参加趣味无比的大乱斗吧。</content>
+    </item>
+    <item id="7" name="洛特的考验" total="1" vitality="10" target="1009" sid="10">
+      <condition>完成司令员洛特的考验</condition>
+      <content>前往军事厅，接受司令员洛特的考验，完成考验可获得翻奖券，翻奖券在洛特处可抽取奖励。</content>
+    </item>
+    <item id="8" name="知识小天地" total="1" vitality="10" target="1017" sid="11">
+      <condition>成功参与知识闯关或者智慧比拼</condition>
+      <content>前往卡布教室，参与知识闯关或者智慧比拼！</content>
+    </item>
+    <item id="9" name="游戏乐园" total="1" vitality="10" target="1012" sid="7">
+      <condition>参与游戏乐园的联机大比拼</condition>
+      <content>前往娱乐城的游戏乐园，参与小游戏大比拼！</content>
+    </item>
+    <item id="10" name="皇榜任务" total="5" vitality="10" target="2001" sid="12">
+      <condition>到长安城找尉迟恭完成5次皇榜任务</condition>
+      <content>前往长安城完成尉迟恭的委托。</content>
+    </item>
+    <item id="11" name="坐骑大赛" total="1" vitality="10" target="6001" sid="13">
+      <condition>到车迟国国都找车迟国国王参与一局坐骑大赛</condition>
+      <content>前往车迟国国都在车迟国国王处报名参加坐骑大赛。</content>
+    </item>
+    <item id="12" name="天降福瑞" total="10" vitality="10" target="0" sid="3">
+      <condition>开启十个福瑞宝箱。</condition>
+      <content>西游世界天降福瑞，有缘的卡布们快去各国场景寻找福瑞宝箱吧！</content>
+    </item>
+    <item id="13" name="跳舞大赛" total="1" vitality="10" target="1028" sid="15">
+      <condition>到炫舞厅参与一局跳舞大赛</condition>
+      <content>一起跳舞，召唤出能量源球并不断点击能量源球，给它注入能量，领取奖励吧！</content>
+    </item>
+    <item id="14" name="疯狂档案室" total="1" vitality="10" target="1010" sid="16">
+      <condition>到档案室找贝拉参加疯狂档案室活动</condition>
+      <content>你想要成为万人敬仰的智慧小卡布，赢取超丰富的奖励吗？那就快来月光号的档案室找贝拉参加疯狂档案室的智慧大比拼吧！</content>
+    </item>
+    <item id="15" name="卡牌大作战" total="10" vitality="10" target="1031" sid="17">
+      <condition>从卡牌使者身上获得10张卡牌</condition>
+      <content>击败场景中的卡牌使者可以获得卡牌。收集卡牌还可以兑换大量奖励，还等什么，一起来卡牌大作战吧！</content>
+    </item>
+    <item id="16" name="障碍赛跑" total="1" vitality="10" target="1010" sid="18">
+      <condition>到档案室的伊尔处完成一局障碍赛跑活动</condition>
+      <content>卡布运动会之障碍赛跑开赛！谁会成为跑的最快的小卡布呢？赶快前往档案室找伊尔报名参加吧！</content>
+    </item>
+    <item id="17" name="封魔录" total="1" vitality="10" target="20001" sid="5">
+      <condition>成功通过封魔录任意一个关卡</condition>
+      <content>成功通过封魔录任意一个关卡</content>
+    </item>
+    <item id="18" name="龙腾盛会" total="1" vitality="10" target="21003" sid="8">
+      <condition>进行一次战斗</condition>
+      <content>进行一次战斗</content>
+    </item>
+    <item id="19" name="勿删！否则跟服务端对不上" total="1" vitality="10" target="0" sid="19">
+      <condition>勿删！否则跟服务端对不上</condition>
+      <content>勿删！否则跟服务端对不上</content>
+    </item>
+    <item id="20" name="捐献半月碧" total="1" vitality="10" target="2" sid="20">
+      <condition>到家族基地贡献公告栏，捐献一次半月碧</condition>
+      <content>到家族基地贡献公告栏，捐献一次半月碧</content>
+    </item>
+    <item id="21" name="家族战场" total="1" vitality="10" target="1029" sid="21">
+      <condition>完成一次家族战，并获得团结勋章。</condition>
+      <content>参加一次家族战场</content>
+    </item>
+    <vitalityAward id="1" vitality="20">
+      <content>日活跃20</content>
+      <tips>随机获得历练2000、小型法力药剂*2、铜钱*300中的一种</tips>
+      <url>assets/dailycompass/award0001.png</url>
+    </vitalityAward>
+    <vitalityAward id="2" vitality="50">
+      <content>日活跃50</content>
+      <tips>随机获得历练5000、中型法力药剂*3、青铜葫芦*2中的一种</tips>
+      <url>assets/dailycompass/award0002.png</url>
+    </vitalityAward>
+    <vitalityAward id="3" vitality="120">
+      <content>日活跃120</content>
+      <tips>随机获得历练10000、活血散*2、铜钱*1000中的一种</tips>
+      <url>assets/dailycompass/award0003.png</url>
+    </vitalityAward>
+    <vitalityAward id="4" vitality="180">
+      <content>日活跃180</content>
+      <tips>随机获得四级灵玉精华、三级灵玉精华、洗炼石、天地灵气*5、2000铜钱中的一种</tips>
+      <url>assets/dailycompass/award0004.png</url>
+    </vitalityAward>
+    <vitalityAward id="5" vitality="300">
+      <content>周活跃300</content>
+      <tips>随机获得灵心石*1、女娲石*1、铜钱*1500中的一种</tips>
+      <url>assets/dailycompass/award0005.png</url>
+    </vitalityAward>
+    <vitalityAward id="6" vitality="500">
+      <content>周活跃500</content>
+      <tips>随机获得日月琉璃*1、女娲石*1、铜钱*2000中的一种</tips>
+      <url>assets/dailycompass/award0006.png</url>
+    </vitalityAward>
+    <vitalityAward id="7" vitality="800">
+      <content>周活跃800</content>
+      <tips>随机获得随机星石*1、日月琉璃*1、苍羽幻石*1中的一种</tips>
+      <url>assets/dailycompass/award0007.png</url>
+    </vitalityAward>
+    <vitalityAward id="8" vitality="1200">
+      <content>周活跃1200</content>
+      <tips>随机获得随机星石*1、寻宝罗盘*2、一级灵玉*1中的一种。 </tips>
+      <url>assets/dailycompass/award0008.png</url>
+    </vitalityAward>
+  </vitality>
+  <copy>
+    <item id="1" name="新手的试炼" type="单人副本" target="1009" specialCopy="0" bossCount="0">
+      <content>在西游的世界里，你必须学会如何才能更好地使用你的妖怪，来这里锻炼锻炼身手怎么样？试炼的同时还能获得一些不错的奖励哦！</content>
+      <nonBoss>该副本为新手副本无BOSS镇守。</nonBoss>
+      <url>assets/dailycompass/fb0001.png</url>
+      <sortValue>21</sortValue>
+    </item>
+    <item id="2" name="地魂界" type="单人副本" target="80001" specialCopy="0" bossCount="0">
+      <content>炼狱判官•钟馗以一己之力将群魔压制与地魂界之中，但随着他的离去，封印中的法力渐渐被镇压的邪气所侵蚀，值此危难之际，需要你挺身而出。</content>
+      <nonBoss>该副本为特殊副本无BOSS镇守。</nonBoss>
+      <url>assets/dailycompass/fb0015.png</url>
+      <sortValue>10</sortValue>
+    </item>
+    <item id="3" name="封魔录" type="单人副本" target="20001" specialCopy="0" bossCount="14">
+      <content>西游世界中的各个大王都云集在封魔录中，等待勇者们的挑战。成为霸主后可以获得极为丰厚的奖励，一起来争夺这无上的荣光吧。</content>
+      <boss id="111" level="1" bossName="木之挑战"/>
+      <boss id="18" level="2" bossName="金狮长啸"/>
+      <boss id="117" level="3" bossName="傲视天地"/>
+      <boss id="42" level="4" bossName="冲破云霄"/>
+      <boss id="60" level="5" bossName="绝命冥图"/>
+      <boss id="240" level="6" bossName="飓风飞蝠"/>
+      <boss id="96" level="7" bossName="神龙啸海"/>
+      <boss id="1142" level="8" bossName="万毒深渊"/>
+      <boss id="33" level="9" bossName="赤焰焚天"/>
+      <boss id="147" level="10" bossName="暗夜流星"/>
+      <boss id="1026" level="11" bossName="天之黑鸟"/>
+      <boss id="1192" level="12" bossName="天雷劈空"/>
+      <boss id="1304" level="13" bossName="冷幻之咒"/>
+      <boss id="1516" level="14" bossName="冰极之战"/>
+      <url>assets/dailycompass/fb0014.png</url>
+      <sortValue>16</sortValue>
+    </item>
+    <item id="4" name="万妖洞" type="单人副本" target="30005" specialCopy="0" bossCount="4">
+      <content>万妖洞里有各种各样凶猛无比的妖怪，当然，如果你打败了它们，将会获得丰厚的奖励和各种各样的惊喜奖品。</content>
+      <boss id="18" level="30"/>
+      <boss id="240" level="35"/>
+      <boss id="1142" level="45"/>
+      <boss id="1192" level="60"/>
+      <url>assets/dailycompass/fb0002.png</url>
+      <sortValue>15</sortValue>
+    </item>
+    <item id="5" name="双台谷" type="单人副本" target="6003" specialCopy="0" bossCount="2">
+      <content>双台谷内妖怪成群结队，勇猛无比，没有一点实力是不可能过关的，你已经觉得自己够强悍了吗？那就来吧，打败他们，来获得这里深藏的宝物吧</content>
+      <boss id="1026" level="20"/>
+      <boss id="1145" level="30"/>
+      <url>assets/dailycompass/fb0003.png</url>
+      <sortValue>14</sortValue>
+    </item>
+    <item id="6" name="千回岛" type="单人副本" target="5003" specialCopy="0" bossCount="1">
+      <content>千回岛，一个危险的地方，一个神秘的地方……岛上会随机出现千回石，找到3颗后可以挑战千回长者，挑战胜利后有机会霸天逆云龙！</content>
+      <boss id="1185" level="0"/>
+      <url>assets/dailycompass/fb0004.png</url>
+      <sortValue>13</sortValue>
+    </item>
+    <item id="7" name="白骨洞" type="单人副本" target="3006" specialCopy="0" bossCount="2">
+      <content>传说中，白骨墓穴中藏了各种各样的妖怪，不同的选择有不同的惊喜或挑战，门的背后等待你的是什么呢？命运就掌握在你的手中！准备迎接各种挑战吧！</content>
+      <boss id="1304" level="10"/>
+      <boss id="1371" level="20"/>
+      <url>assets/dailycompass/fb0005.png</url>
+      <sortValue>12</sortValue>
+    </item>
+    <item id="8" name="天神界" type="单人副本" target="80001" specialCopy="0" bossCount="0">
+      <content>天神界由强大天神镇守，喜欢挑战的你怎能错过，赶快带上50级以上的妖怪来这谜一般的蕴含着天宇精华的太古神境吧！</content>
+      <nonBoss>该副本由天界众神驻守。</nonBoss>
+      <url>assets/dailycompass/fb0006.png</url>
+      <sortValue>9</sortValue>
+    </item>
+    <item id="9" name="锁妖塔" type="单人副本" target="80001" specialCopy="0" bossCount="1">
+      <content>传说此乃天界托塔天王李靖用来镇压妖魔鬼怪的宝塔，塔内的妖怪经过长时间的修炼已经凶恶无比，如果没有一定的实力不要轻易进入哦！</content>
+      <boss id="1416" level="20"/>
+      <url>assets/dailycompass/fb0007.png</url>
+      <sortValue>7</sortValue>
+    </item>
+    <item id="10" name="火炬神殿" type="单人副本" target="11004" specialCopy="0" bossCount="2">
+      <content>强大的妖怪流星双子——霸云星、逆空流被太白金星封印，想要它们成为你的强力伙伴吗？赶快前来挑战，就可用阅历值跟后洞的神秘商人兑换火星子、水星子。</content>
+      <boss id="1446" level="4"/>
+      <boss id="1449" level="4"/>
+      <url>assets/dailycompass/fb0008.png</url>
+      <sortValue>11</sortValue>
+    </item>
+    <item id="11" name="盘丝洞" type="组队副本" target="10002" specialCopy="0" bossCount="0">
+      <content>盘丝洞副本为组队副本，由队长带领进发吧！不组队可是进不去的哦~打开宝箱获得的经验可以队员共享，还有双系洗髓丹等丰富奖励等你拿，快来挑战吧。~</content>
+      <nonBoss>该副本为特殊副本无BOSS镇守。</nonBoss>
+      <url>assets/dailycompass/fb0009.png</url>
+      <sortValue>8</sortValue>
+    </item>
+    <item id="12" name="七绝密林" type="组队副本" target="9004" specialCopy="0" bossCount="1">
+      <content>由繁茂的丛林组成的七绝密林副本，处处充满了凶险，小卡布们赶紧召集自己的伙伴前去挑战吧，队员越多奖励越丰富。</content>
+      <boss id="10296" level="3"/>
+      <url>assets/dailycompass/fb0010.png</url>
+      <sortValue>6</sortValue>
+    </item>
+    <item id="13" name="帝江之门" type="VIP副本" target="7004" specialCopy="1" bossCount="1">
+      <content>VIP副本伏魔殿——帝江之门已开启！用玄铁解开帝江之锁的锁环，每开一次，都会得到丰厚的奖励或者挑战厉害的BOSS！你想获得给力伙伴吗？赶快来挑战吧！</content>
+      <boss id="1347" level="0"/>
+      <url>assets/dailycompass/fb0011.png</url>
+      <sortValue>3</sortValue>
+    </item>
+    <item id="14" name="白泽之门" type="VIP副本" target="7004" specialCopy="1" bossCount="1">
+      <content>VIP副本伏魔殿——白泽之门已开启！激活符文石柱和中央石雕，召唤出妖怪，挑战胜利可获得大量的历练，VIP小卡布们，快去挑战吧！</content>
+      <boss id="10444" level="0"/>
+      <url>assets/dailycompass/fb0012.png</url>
+      <sortValue>2</sortValue>
+    </item>
+    <item id="15" name="刑天之门" type="VIP副本" target="7004" specialCopy="1" bossCount="1">
+      <content>VIP玩家可以从伏魔殿进入刑天之门，解开封印兽石柱，击败封印兽可获得武魂。把武魂投入轮回井，有机会获得刑天套装还有几率召唤出远古的魔王挑战！</content>
+      <boss id="1264" level="0"/>
+      <url>assets/dailycompass/fb0013.png</url>
+      <sortValue>1</sortValue>
+    </item>
+    <item id="16" name="伏龙窟" type="单人副本" target="80001" specialCopy="0" bossCount="5">
+      <content>远古的恶龙隐藏在此，勇者们正整装待发，准备讨伐</content>
+      <boss id="2047" level="0"/>
+      <boss id="2049" level="0"/>
+      <boss id="2051" level="0"/>
+      <boss id="2053" level="0"/>
+      <boss id="2055" level="0"/>
+      <url>assets/dailycompass/fb0016.png</url>
+      <sortValue>17</sortValue>
+    </item>
+    <item id="17" name="斩月之门" type="VIP副本" target="7004" specialCopy="1" bossCount="3">
+      <content>传说中这里隐藏着神秘的月神之力，到底隐藏着什么，需要勇敢的小卡布来一探究竟</content>
+      <boss id="10465" level="0"/>
+      <boss id="10466" level="0"/>
+      <boss id="10467" level="0"/>
+      <url>assets/dailycompass/fb0017.png</url>
+      <sortValue>4</sortValue>
+    </item>
+    <item id="18" name="敬佛堂" type="单人副本" target="80001" specialCopy="0" bossCount="3">
+      <content>如来座下三大将镇守在敬佛堂内，卡布们还等什么，赶快前去挑战吧！</content>
+      <boss id="10475" level="0"/>
+      <boss id="10476" level="0"/>
+      <boss id="10477" level="0"/>
+      <url>assets/dailycompass/fb0018.png</url>
+      <sortValue>18</sortValue>
+    </item>
+    <item id="19" name="星魂洞穴" type="单人副本" target="19003" specialCopy="0" bossCount="3">
+      <content>星魂兽正在寻找进化的力量，卡布们快来帮帮TA吧！</content>
+      <boss id="10493" level="0"/>
+      <boss id="10494" level="0"/>
+      <boss id="10495" level="0"/>
+      <url>assets/dailycompass/fb0019.png</url>
+      <sortValue>19</sortValue>
+    </item>
+    <item id="20" name="庆典之门" type="VIP副本" target="7004" specialCopy="1" bossCount="1">
+      <content>音符之力充满其中，让我们一起来摇滚吧！</content>
+      <boss id="10516" level="0"/>
+      <url>assets/dailycompass/fb0020.png</url>
+      <sortValue>5</sortValue>
+    </item>
+    <item id="22" name="龙腾盛会" type="单人副本" target="21003" specialCopy="0" bossCount="2">
+      <content>黑白双煞举办的格斗大会，参赛者需要运用随机获得的妖怪来获得最终的胜利！</content>
+      <boss id="2464" level="0"/>
+      <boss id="2466" level="0"/>
+      <url>assets/dailycompass/fb00021.png</url>
+      <sortValue>20</sortValue>
+    </item>
+  </copy>
+  <battlefield>
+    <item id="1" name="苍炼战场" target="1029" openTimes="1" awardCount="2">
+      <content>小卡布们通过战略配合以及个人实力在15分钟内消灭对方所有战场首领就能获得胜利。无论输赢皆可获得丰厚的奖励。</content>
+      <award>100059,100076</award>
+      <openTimes>全天</openTimes>
+    </item>
+    <item id="2" name="藏龙渊战场" target="1029" openTimes="1" awardCount="2">
+      <content>首先小卡布要选择阵营，然后进入藏龙渊战场中占领龙魄祭坛，取得胜利可以获得大量的龙魄勋章，小卡布们赶快行动啊！</content>
+      <award>100147,100076</award>
+      <openTimes>全天</openTimes>
+    </item>
+    <item id="3" name="家族战场" target="1029" openTimes="2" awardCount="2">
+      <content>每个家族的族长可以报名家族战场，家族成员可以跟随前去战场拼杀，不论输赢家族实力值都会得到增长，参加战场的成员会获得团结勋章。</content>
+      <award>100066,100076</award>
+      <openTimes>12点-14点、16点-18点、19点-21点</openTimes>
+      <openTimes>周五 - 周日全天开放</openTimes>
+    </item>
+    <item id="4" name="王座战场" target="1029" openTimes="1" awardCount="1">
+      <content>加入战场，选定你的战场坐骑，在有限的时间内摧毁对方的战争王座取得胜利，获取王者勋章，快到指挥中心挑战王座战争吧！</content>
+      <award>100162</award>
+      <openTimes>全天</openTimes>
+    </item>
+  </battlefield>
+  <task>
+    <item id="1" name="修为任务" npcName="伊尔" total="1" target="1010" isvip="0">
+      <content>档案室的伊尔根据对各种资料的分析，发现了提升妖怪修为的方法，完成伊尔交给你的任务会获得不同的修为。</content>
+      <award>大量修为</award>
+      <sortValue>0</sortValue>
+    </item>
+    <item id="2" name="洛特的考验" npcName="洛特" total="1" target="1009" isvip="0">
+      <content>前往军事厅，接受司令员洛特的考验，完成考验可获得翻奖券，翻奖券在洛特处可抽取奖励。</content>
+      <award>兑奖券（使用兑奖券抽奖有几率获得玄铠飞马、造化丹、灵玉等）</award>
+      <sortValue>0</sortValue>
+    </item>
+    <item id="3" name="日行一善" npcName="六道" total="1" target="1" isvip="0">
+      <content>日行一善，功德无量，集齐7个功德丹，可于星期天到平顶山跟太白金星换取随机奖励一次。</content>
+      <award>功德丹、大量历练、白银葫芦、天地灵气、天香丸等</award>
+      <sortValue>0</sortValue>
+    </item>
+    <item id="4" name="八卦灵盘" npcName="墨乾" total="8" target="2001" isvip="0">
+      <content>墨氏八兄弟有一个八卦灵盘，需要人来帮他们开启，快去帮助他们开启八卦灵盘吧！该任务详细介绍可以通过任务档案进行查看。</content>
+      <award>大量历练</award>
+      <sortValue>0</sortValue>
+    </item>
+    <item id="5" name="皇榜任务" npcName="尉迟恭" total="10" target="2001" isvip="0">
+      <content>西游世界上妖魔横行，大唐颁发皇榜任务，希望勇武之士能够除妖驱魔，保卫人民。勇猛的小卡布们，赶快带上50级以上的妖怪到大唐尉迟恭处接取吧！</content>
+      <award>洗髓丹、还灵丹、落尘果、白银葫芦、活血散、大量历练、大量修为</award>
+      <sortValue>0</sortValue>
+    </item>
+    <item id="6" name="家族考勤" npcName="家族考勤" total="1" target="2" isvip="0">
+      <content>进入自己家族的家族大厅，到家族考勤处完成报到吧！</content>
+      <award>历练、洗髓丹、天地灵气、白银葫芦、幻法灵石、家族实力值</award>
+      <sortValue>0</sortValue>
+    </item>
+    <item id="7" name="家族任务" npcName="荣誉之石" total="1" target="2" isvip="0">
+      <content>共建家族繁盛，需要你们的努力和贡献。到家族基地的荣誉之石处接受任务吧。</content>
+      <award>大量历练、家族实力</award>
+      <sortValue>0</sortValue>
+    </item>
+    <item id="8" name="家族试炼" npcName="家族档案" total="1" target="2" isvip="0">
+      <content>打开家族档案，接取家族试炼任务，完成后可以增加家族实力值。还可以帮助其它成员刷新任务等级哦！~</content>
+      <award>个人家族贡献值、大量历练、历练丹、铜钱、点券、法术材料、营养化肥、神明果、娱乐币等</award>
+      <sortValue>0</sortValue>
+    </item>
+    <item id="9" name="神奇荆棘" npcName="千惠" total="1" target="9003" isvip="1">
+      <content>在荆棘岭的山坡上生长着一种神奇的荆棘，叮叮博士很感兴趣，希望拥有飞行坐骑的小卡布们帮忙采集并交与千惠。</content>
+      <award>历练</award>
+      <sortValue>0</sortValue>
+    </item>
+    <item id="10" name="虚弱的玉镜仕女" npcName="玉镜仕女" total="1" target="3005" isvip="1">
+      <content>骊山的玉镜仕女身体日渐衰弱，赶快过去帮帮她吧。</content>
+      <award>历练</award>
+      <sortValue>0</sortValue>
+    </item>
+  </task>
+  <activity>
+    <item id="1" name="疯狂档案室" target="1010">
+      <content>你想要成为万人敬仰的智慧小卡布，赢取超丰富的奖励吗？那就快来月光号的档案室参加疯狂档案室的智慧大比拼吧！</content>
+      <award>摇奖券（摇奖券可以到娱乐城点击摇奖机使用）</award>
+      <openTimes>每天12：30、16：30、19：30</openTimes>
+      <sortValue>55</sortValue>
+    </item>
+    <item id="2" name="单妖怪擂台" target="20001">
+      <content>谁是妖怪之王？谁能称霸西游世界？赶快来演武场看看吧！看看你的实力有多少！</content>
+      <award>单妖怪擂台积分（积分可以兑换奖励）</award>
+      <openTimes>全天</openTimes>
+      <sortValue>0</sortValue>
+    </item>
+    <item id="3" name="多妖怪擂台" target="20001">
+      <content>妖怪之间有属性相克的规则，战术+实力的挑战，赶快来演武场的多妖怪擂台比试一下吧！</content>
+      <award>多妖怪擂台积分（积分可以兑换奖励）</award>
+      <openTimes>全天</openTimes>
+      <sortValue>0</sortValue>
+    </item>
+    <item id="4" name="妖怪大乱斗" target="20001">
+      <content>每个小卡布身上至少带有3只妖怪才能参加对战，对战前系统会将对战双方的所有妖怪随机分配，然后用分配到的妖怪进行对战。</content>
+      <award>大量历练</award>
+      <openTimes>全天</openTimes>
+      <sortValue>0</sortValue>
+    </item>
+    <item id="5" name="卡牌大作战" target="1031">
+      <content>击败场景中的卡牌使者可以获得卡牌，还可以通过换卡和变卡得到自己需要的卡牌。大量的奖励在等着你，还等什么，一起来卡牌大作战吧！~</content>
+      <award>时装、绝版妖怪、铜钱、历练、天香丸、天地灵气</award>
+      <openTimes>每天11点~22点</openTimes>
+      <sortValue>0</sortValue>
+    </item>
+    <item id="6" name="障碍赛跑" target="1010">
+      <content>卡布运动会之障碍赛跑开赛！谁会成为跑的最快的小卡布呢？赶快前往档案室找伊尔报名参加吧！</content>
+      <award>历练、时装、双系洗髓丹、修为、铜钱、天地灵气等</award>
+      <openTimes>全天</openTimes>
+      <sortValue>0</sortValue>
+    </item>
+    <item id="7" name="坐骑大赛" target="6001">
+      <content>到底哪位小卡布的坐骑最厉害呢？谁才是天下最强的骑手呢？车迟国国王决定举办一场坐骑大赛！快来一决高下吧！</content>
+      <award>骑乘点数（可以用来兑换绝版坐骑等）</award>
+      <openTimes>全天</openTimes>
+      <sortValue>0</sortValue>
+    </item>
+    <item id="8" name="跳舞大赛" target="1028">
+      <content>月光号的舞蹈大赛正式开启，谁能跳出真正的卡布style？每天前三局完成比赛还可以获得抽奖机会，每周得分榜前100名还有丰盛大奖等你拿，赶快参加吧！</content>
+      <award>寻宝罗盘、造化丹、双系洗髓丹、洗髓丹、铜钱、历练、时装、绝版妖怪</award>
+      <openTimes>全天</openTimes>
+      <sortValue>0</sortValue>
+    </item>
+  </activity>
+  <leisure>
+    <item id="1" name="游戏乐园" target="1012">
+      <content>包含各种趣味互动小游戏</content>
+      <sortValue>66</sortValue>
+      <detail name="0">游戏乐园可从娱乐城进入，每次进入会扣除一枚娱乐币，娱乐币可以在游戏乐园门口兑换。游戏乐园中包含各种趣味互动小游戏，玩游戏，赚积分，还有各种奖励让你得！~</detail>
+    </item>
+    <item id="2" name="家园" target="3">
+      <content>可以在家园训练妖怪、使用衣柜、发布活动等</content>
+      <sortValue>0</sortValue>
+      <detail name="训练妖怪">你可以为自己的妖怪选择不同的训练时长以及课程，无需出门，就能轻松的让妖怪们在家园获得历练和修为！</detail>
+      <detail name="我的衣柜">是不是会为自己背包里的服装越来越多而烦恼？不要紧，回到自己的家园可以将一些衣服放入衣柜。</detail>
+      <detail name="活动公告仪">小卡布们可以在家园的活动公告仪发布自己的活动让大家一起参加，时间、地点均由你自己设定！</detail>
+      <detail name="藏宝箱">西游世界里面有很多很多的宝藏，每收集一组宝藏都可以在家园里兑换丰富的奖励。</detail>
+      <detail name="妖怪仓库">可以用来储存小卡布捕捉到的妖怪。</detail>
+      <detail name="活动日历">为小卡布们推荐每周更新的精彩内容，每日签到的积分还可以兑换丰富奖励。</detail>
+    </item>
+    <item id="3" name="后花园" target="3">
+      <content>装扮属于自己的乐园，可用来接待好友</content>
+      <sortValue>0</sortValue>
+      <detail name="0">通过家园可以进入后花园，在后花园玩家可以按照自己的想法设计出自己的乐园，还可以叫自己的好朋友前来参观！</detail>
+    </item>
+    <item id="4" name="神兽园" target="4">
+      <content>可以在神兽园孵化神兽蛋、饲养神兽、转化坐骑</content>
+      <sortValue>0</sortValue>
+      <detail name="孵化神兽蛋">在西游世界获得的神兽蛋可以拿到自己的神兽园进行孵化。</detail>
+      <detail name="饲养神兽">神兽蛋孵化出的幼崽有几率成长为神兽或者仙兽，神兽可以转化为坐骑。</detail>
+      <detail name="转化坐骑">神兽蛋孵化出的神兽，可以通过使用魔晶粉将它转化成坐骑。</detail>
+      <detail name="神明果">仙兽宝宝最爱吃神明果，若没有及时补充神明果仙兽宝宝将会停止生长，小卡布可以使用采集手套到双叉岭、金兜山和傲来海岸采集神明果。</detail>
+      <detail name="魔晶粉">魔晶粉可以将神兽转化为坐骑，使用粒子光线射击出现在自己或者好友神兽园的捣蛋妖有几率获得魔晶粉。</detail>
+    </item>
+    <item id="5" name="庄园" target="4">
+      <content>可以种植农作物、饲养宠物、为摇钱树浇水。</content>
+      <sortValue>0</sortValue>
+      <detail name="0">可以通过神兽园进入庄园，在庄园里小卡布们可以种植农作物、喂养宠物，还可以为自己和好友的摇钱树浇水。</detail>
+      <detail name="种植农作物">使用种子可以在自己的庄园种植对应的农作物，收获后可以换取大量铜钱。</detail>
+      <detail name="饲养宠物">可爱的宠物们需要主人的关怀和照料，要定期的喂食，还可以训练不同的技能，在庄园里陪伴着主人，给主人解闷，心动了吧~赶快成为宠物的主人吧~！</detail>
+      <detail name="摇钱树">每位小卡布的庄园里都有一棵摇钱树，每天可以为自己的摇钱树或者好友的摇钱树浇水，收获摇钱树可以领取大量点券。</detail>
+    </item>
+    <item id="6" name="碧水洞天" target="30007">
+      <content>可以使用特殊钓竿，钓出稀有妖怪</content>
+      <sortValue>0</sortValue>
+      <detail name="0">完成“摘椰子的老猴子”任务可以从水帘洞进入碧水洞天，在碧水洞天里可以使用特殊钓竿钓出各种稀有妖怪。</detail>
+      <detail name="玄木钓竿">进入碧水洞天与小猴子对话可以获得，玄木钓竿可以钓出所有系别的妖怪。~</detail>
+      <detail name="五邪玄木钓竿">五邪玄木钓竿可在商城购买，装备后可以在碧水洞天随机钓出妖、魔、毒、怪、翼五种系别妖怪。</detail>
+      <detail name="五行玄木钓竿">五行玄木钓竿可在商城购买，装备后可以在碧水洞天随机钓出金、木、水、火、土五种系别妖怪。</detail>
+    </item>
+  </leisure>
+</root>

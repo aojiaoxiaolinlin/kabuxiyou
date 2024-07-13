@@ -1,0 +1,60 @@
+﻿<Torch>
+	<tax id="1" name="第一关" x="" y="">
+		<item id="" type="1" typename="场景机关" name="火炬" x="382.4" y="424.4"></item>
+		<item id="" type="1" typename="场景机关" name="火炬" x="822.3" y="428.4"></item>
+		<item id="" type="1" typename="场景机关" name="火炬" x="212.3" y="614.4"></item>
+		<item id="" type="1" typename="场景机关" name="火炬" x="603.3" y="590.4"></item>
+		<item id="" type="1" typename="场景机关" name="火炬" x="997.3" y="614.4"></item>			
+
+		<item id="" type="2" typename="洞穴守卫" name="" x="603.3" y="463.4"></item>	
+		
+		<item id="" type="3" typename="关键妖怪" name="" x="334.4" y="498.4"></item>	
+		<item id="" type="3" typename="关键妖怪" name="" x="603.3" y="526.5"></item>	
+		<item id="" type="3" typename="关键妖怪" name="" x="855.3" y="504.4"></item>	
+			
+	</tax>
+	<tax id="2" name="第二关" x="" y="">
+		<item id="" type="1" typename="场景机关" name="火炬" x="395.4" y="413.4"></item>
+		<item id="" type="1" typename="场景机关" name="火炬" x="802.3" y="408.4"></item>
+		<item id="" type="1" typename="场景机关" name="火炬" x="162.3" y="586.9"></item>
+		<item id="" type="1" typename="场景机关" name="火炬" x="1028.3" y="588.4"></item>	
+		
+		
+		<item id="" type="2" typename="洞穴守卫" name="" x="318.4" y="519.4"></item>
+		<item id="" type="2" typename="洞穴守卫" name="" x="887.3" y="521.4"></item>
+		
+		
+		<item id="" type="3" typename="关键妖怪" name="" x="517.4" y="460.4"></item>	
+		<item id="" type="3" typename="关键妖怪" name="" x="680.3" y="458.4"></item>	
+		<item id="" type="3" typename="关键妖怪" name="" x="397.4" y="610.4"></item>	
+		<item id="" type="3" typename="关键妖怪" name="" x="807.3" y="609.4"></item>	
+		
+	</tax>
+	<tax id="3" name="第三关" x="" y="">
+		<item id="" type="1" typename="场景机关" name="火炬" x="267.4" y="414.4"></item>
+		<item id="" type="1" typename="场景机关" name="火炬" x="486.4" y="384.4"></item>
+		<item id="" type="1" typename="场景机关" name="火炬" x="713.3" y="384.4"></item>
+		<item id="" type="1" typename="场景机关" name="火炬" x="936.3" y="412.4"></item>
+		<item id="" type="1" typename="场景机关" name="火炬" x="129.3" y="658.9"></item>
+		<item id="" type="1" typename="场景机关" name="火炬" x="1072.3" y="663.4"></item>
+
+		<item id="" type="2" typename="洞穴守卫" name="" x="433.4" y="451.4"></item>
+		<item id="" type="2" typename="洞穴守卫" name="" x="767.3" y="448.4"></item>
+		<item id="" type="2" typename="洞穴守卫" name="" x="230.3" y="555.4"></item>		
+		<item id="" type="2" typename="洞穴守卫" name="" x="986.3" y="555.4"></item>
+			
+		
+		<item id="" type="3" typename="关键妖怪" name="" x="529.4" y="512.4"></item>	
+		<item id="" type="3" typename="关键妖怪" name="" x="695.3" y="512.4"></item>	
+		<item id="" type="3" typename="关键妖怪" name="" x="394.4" y="629.9"></item>	
+		<item id="" type="3" typename="关键妖怪" name="" x="848.3" y="634.4"></item>	
+		
+	</tax>
+	<tax id="4" name="第四关" x="" y="">
+		<item id="" type="1" typename="场景机关" name="火炬" x="598.3" y="400.4"></item>
+		<item id="" type="1" typename="场景机关" name="火炬" x="488.3" y="496.4"></item>
+		<item id="" type="1" typename="场景机关" name="火炬" x="715.3" y="497.4"></item>		
+
+		<item id="" type="4" typename="百炼壶" name="" x="598.3" y="159.3"></item>	
+	</tax>
+</Torch>

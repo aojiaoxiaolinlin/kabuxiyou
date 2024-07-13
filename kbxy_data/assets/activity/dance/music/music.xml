@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<musics>
+	<music id="1">
+		<name>娱乐至上</name>
+		<url>music1</url>
+		<isNew>0</isNew>
+		<level>1</level>
+	</music>
+	<music id="2">
+		<name>最终的决战</name>
+		<url>music3</url>
+		<isNew>0</isNew>
+		<level>2</level>
+	</music>
+	<music id="3">
+		<name>逍遥神仙</name>
+		<url>music4</url>
+		<isNew>0</isNew>
+		<level>3</level>
+	</music>
+	<music id="4">
+		<name>封神之战</name>
+		<url>music5</url>
+		<isNew>0</isNew>
+		<level>4</level>
+	</music>
+	<music id="5">
+		<name>江南style</name>
+		<url>music6</url>
+		<isNew>0</isNew>
+		<level>4</level>
+		<cloth>550233,550232</cloth>
+		<buy>2030,2029</buy>
+		<showMsg>骑马舞套装</showMsg>
+	</music>
+	<music id="6">
+		<name>敢问路在何方</name>
+		<isNew>1</isNew>
+		<level>2</level>
+		<url>music9</url>
+	</music>
+	<music id="7">
+		<name>猴哥</name>
+		<isNew>1</isNew>
+		<level>3</level>
+		<url>music10</url>
+	</music>
+	<music id="8">
+		<name>葫芦娃</name>
+		<isNew>1</isNew>
+		<level>3</level>
+		<url>music11</url>
+	</music>
+	<music id="9">
+		<name>一个师傅仨徒弟</name>
+		<isNew>1</isNew>
+		<level>3</level>
+		<url>music12</url>
+	</music>
+	<music id="10">
+		<name>别看我只是一只羊</name>
+		<isNew>1</isNew>
+		<level>3</level>
+		<url>music13</url>
+	</music>
+	<music id="11">
+		<name>黑猫警长</name>
+		<isNew>1</isNew>
+		<level>4</level>
+		<url>music14</url>
+	</music>
+	<music id="12">
+		<name>哆啦A梦</name>
+		<isNew>1</isNew>
+		<level>4</level>
+		<url>music15</url>
+	</music>
+	<music id="13">
+		<name>羊羊顶呱呱</name>
+		<isNew>1</isNew>
+		<level>4</level>
+		<url>music16</url>
+	</music>
+	<music id="14">
+		<name>樱桃小丸子</name>
+		<isNew>1</isNew>
+		<level>5</level>
+		<url>music17</url>
+	</music>
+	<music id="15">
+		<name>勇者无畏</name>
+		<isNew>1</isNew>
+		<level>5</level>
+		<url>music7</url>
+	</music>
+	<music id="16">
+		<name>战斗吧！小卡布</name>
+		<isNew>1</isNew>
+		<level>5</level>
+		<url>music8</url>
+	</music>
+</musics>

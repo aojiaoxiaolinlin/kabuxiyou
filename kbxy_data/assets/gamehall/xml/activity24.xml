@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- sex:0：女，1：男 2：男女均可-->
+<activity>
+		<rewardWest>
+		<item index = "1" id = "900000" num = "100" name = "100积分" tip = "兑换积分：获得相应值的积分"  sex = "2" />
+		<item index = "2" id = "900000" num = "300" name = "300积分" tip = "兑换积分：获得相应值的积分" sex = "2" />
+		<item index = "3" id = "910101" num = "1" name = "幸运符(5场)" sex = "2"  />
+		<item index = "4" id = "920901" num = "2"  name="天马之翼" sex = "2" />
+		<item index = "5" id = "920501" num = "2"  name="加速器" sex = "2" />
+		<item index = "6" id = "900000" num = "5000"  name="5000积分" tip = "兑换积分：获得相应值的积分" sex = "2" />
+		<item index = "7" id = "900000" num = "2000"  name="2000积分" tip = "兑换积分：获得相应值的积分" sex = "2" />
+		<item index = "8" id = "910401" num = "1"  name="补签印章" sex = "2"  />
+		<item index = "9" id = "910202" num = "1"  name="1小时双倍积分卡" sex = "2" />
+		<item index = "10" id = "100013" num = "1"  name="洗髓丹"  tip ="洗髓丹" sex = "2" />
+		<item index = "11" id = "2174" num = "1"  name="小龙鱼"  sex = "2" />
+		<item index = "12" id = "551139" num = "1"  name="元宝鞋"  sex = "1" />
+		<item index = "13" id = "551140" num = "1"  name="祥瑞通宝手持" sex = "2" />
+		<item index = "14" id = "551137" num = "1"  name="吉祥暖帽" sex = "1" />
+		<item index = "15" id = "551138" num = "1"  name="吉祥长袍" sex = "1" />
+		<item index = "16" id = "551143" num = "1"  name="团花锦鞋" sex = "0" />
+		<item index = "17" id = "551141" num = "1"  name="如意团花鬓" sex = "0" />
+		<item index = "18" id = "551142" num = "1"  name="如意锦裙" sex = "0" />
+	</rewardWest>
+		<rewardOz>
+		<item index = "1" id = "900000" num = "100" name = "100积分" tip = "兑换积分：获得相应值的积分"  sex = "2" />
+		<item index = "2" id = "900000" num = "300" name = "300积分"  tip = "兑换积分：获得相应值的积分" sex = "2" />
+		<item index = "3" id = "910101" num = "1" name = "幸运符(5场)" sex = "2"  />
+		<item index = "4" id = "920901" num = "1"  name="飞龙之翼" sex = "2" />
+		<item index = "5" id = "920501" num = "1"  name="加速器" sex = "2" />
+		<item index = "6" id = "900000" num = "3000"  name="3000积分" tip = "兑换积分：获得相应值的积分" sex = "2" />
+		<item index = "7" id = "900000" num = "1000"  name="1000积分" tip = "兑换积分：获得相应值的积分" sex = "2" />
+		<item index = "8" id = "910401" num = "1"  name="补签印章" sex = "2"  />
+		<item index = "9" id = "910202" num = "1"  name="1小时双倍积分卡" sex = "2" />
+		<item index = "10" id = "910102" num = "1" name = "幸运符(10场)" sex = "2"  />
+		<item index = "11" id = "100351" num = "1" name = "褐色深色短发" sex = "2"  />
+		<item index = "12" id = "100352" num = "1" name = "潮流绅士衣" sex = "2"  />
+		<item index = "13" id = "100353" num = "1" name = "闪亮绅士靴" sex = "2"  />
+		</rewardOz>
+</activity>

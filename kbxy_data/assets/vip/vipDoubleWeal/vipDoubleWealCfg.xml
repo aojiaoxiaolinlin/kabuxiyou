@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<vipDoubleWeal>
+	<weal id ="300023" type = "0" name ="冰晶砂" num ="1"></weal>
+	<weal id ="300024" type = "0" name ="茅山玉" num ="1"></weal>
+	<weal id ="300035" type = "0" name ="染料" num ="1"></weal>
+	<weal id ="100713" type = "1" name ="厄运宫精魄礼包" num ="1"></weal>
+	<weal id ="100266" type = "1" name ="霸云星外框" num ="1"></weal>
+	<weal id ="100036" type = "1" name ="造化丹" num ="10"></weal>
+	<weal id ="100207" type = "1" name ="三倍历练丹" num ="8"></weal>
+</vipDoubleWeal>

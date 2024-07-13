@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<node>
+	<item id="16" lvl="4">
+		<good>100031</good>
+		<price>5000</price>
+	</item>
+	<item id="18" lvl="3">
+		<good>620002</good>
+		<price>3000</price>
+	</item>
+	<item id="19" lvl="4">
+		<good>620004</good>
+		<price>5000</price>
+	</item>
+	<item id="25" lvl="2">
+		<good>101005</good>
+		<price>1500</price>
+	</item>
+	<item id="26" lvl="2">
+		<good>101006</good>
+		<price>1500</price>
+	</item>
+	<item id="27" lvl="2">
+		<good>101007</good>
+		<price>1500</price>
+	</item>
+	<item id="28" lvl="2">
+		<good>101008</good>
+		<price>1500</price>
+	</item>
+	<item id="29" lvl="2">
+		<good>101009</good>
+		<price>1500</price>
+	</item>
+	<item id="30" lvl="3">
+		<good>101010</good>
+		<price>3000</price>
+	</item>
+	<item id="31" lvl="3">
+		<good>101011</good>
+		<price>3000</price>
+	</item>
+	<item id="34" lvl="3">
+		<good>101012</good>
+		<price>3000</price>
+	</item>
+	<item id="35" lvl="3">
+		<good>100999</good>
+		<price>3000</price>
+	</item>
+	<item id="36" lvl="3">
+		<good>101014</good>
+		<price>3000</price>
+	</item>
+</node>

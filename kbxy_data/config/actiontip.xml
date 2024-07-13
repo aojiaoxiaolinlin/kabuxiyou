@@ -1,0 +1,16 @@
+﻿<actions>
+	<type id="1">
+	   <action id="1">
+		 <tip>打招呼</tip>
+	   </action>
+	   <action id="2">
+		 <tip>欢呼</tip>
+	   </action>
+	   <action id="3">
+		 <tip>跳舞</tip>
+	   </action>
+	   <action id="4">
+		 <tip>休息</tip>
+	   </action>
+	</type>
+</actions>

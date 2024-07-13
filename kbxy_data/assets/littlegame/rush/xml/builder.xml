@@ -1,0 +1,7 @@
+﻿<rule>
+  <builder id="1" btype="1" blevel="1" name="初级速射塔" >
+    <bitmapres id="bodyBitmapRes" name="bmp_rush_actor_right_bottom_move_1" rowCount="1"  colCount="8"  stopIndex="8" frequency="1" stepSize="0" />
+    <bitmapres id="bulletBitmapRes" name="bmp_rush_actor_right_top_move_1"  rowCount="1"  colCount="8"  stopIndex="8" frequency="1" stepSize="0" />
+    <bitmapres id="effectBitmapRes" name="bmp_rush_actor_right_bottom_down_1" rowCount="1"  colCount="8"  stopIndex="8" frequency="1" stepSize="0" />
+  </builder>
+</rule>

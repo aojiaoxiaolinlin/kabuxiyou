@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<main>
+	<server>
+		<socket ip1="119.147.164.22" port="5001" ip2="119.147.164.22" />
+	</server>
+	<tips>跟游戏乐园失去联系\n╮(╯▽╰)╭</tips>	
+	<loadingTips>提示：体力为0时，您在各类游戏大厅将不再获得收益</loadingTips>
+	<gamelist>
+ 		<item id="2001" name="你画我猜" maxPerson="300" type = "3" path="assets/gamehall/games/DrawGuess.swf" defname="DrawGuess" ip="119.147.164.22" port="5000" tabletype="6" newgame="false">
+ 		</item>
+		<item id="2002" name="地盘争夺战" maxPerson="100" type = "3" path="assets/gamehall/games/Tileturner.swf" defname="Tileturner" ip="119.147.164.22" port="5001" tabletype="2" newgame="false">
+		</item>
+		<item id="2004" name="炫彩拼图" maxPerson="200" type = "3" path="assets/gamehall/games/ColorfulPuzzle.swf" defname="" ip="119.147.164.22" port="5004" tabletype="4" newgame="false">
+		</item>
+		<item id="2003" name="黄金矿工" maxPerson="150" type = "2" path="assets/gamehall/games/goldminer.swf" defname="" ip="119.147.164.22" port="5003" tabletype="3" newgame="false">
+		</item>
+		<item id="2005" name="泡泡大作战" maxPerson="300" type = "1" path="assets/gamehall/games/BubbleDragon.swf" defname="" ip="119.147.164.22" port="5005" tabletype="6" newgame="false">
+		</item>		
+		<item id="2007" name="记忆卡片" maxPerson="200" type = "3" path="assets/gamehall/games/Memory.swf" defname="" ip="119.147.164.22" port="5007" tabletype="4" newgame="false">
+		</item>
+		<item id="2008" name="鼓鼓相争" maxPerson="200" type = "4" path="assets/gamehall/games/DrumGame.swf" defname="DrumGame" ip="119.147.164.22" port="5008" tabletype="4" newgame="false">
+ 		</item> 		
+		<item id="2009" name="妖怪连连看" maxPerson="300" type = "1" path="assets/gamehall/games/AsqareGame.swf" defname="" ip="119.147.164.22" port="5009" tabletype="6" newgame="false">
+		</item>
+		<item id="2010" name="宝箱堆叠赛" maxPerson="100" type = "2" path="assets/gamehall/games/BoxGame.swf" defname="" ip="119.147.164.22" port="5010" tabletype="2" newgame="false">
+		</item>
+		<item id="2006" name="急速蹦极" maxPerson="200" type = "4" path="assets/gamehall/games/Bungee.swf" defname="" ip="119.147.164.22" port="5006" tabletype="4" newgame="false">
+		</item>
+		<item id="2011" name="球球争霸赛" maxPerson="200" type = "2" path="assets/gamehall/games/BallRocGame.swf" defname="" ip="119.147.164.22" port="5011" tabletype="4" newgame="false">
+		</item>
+		<item id="2013" name="妖怪对对碰" maxPerson="200" type = "1" path="assets/gamehall/games/MonBuster.swf" defname="" ip="119.147.164.22" port="5013" tabletype="4" newgame="false">
+		</item>
+		<item id="2012" name="火眼金睛" maxPerson="200" type = "3" path="assets/gamehall/games/TellDif.swf" defname="" ip="119.147.164.22" port="5012" tabletype="4" newgame="false">
+		</item>
+		<item id="2014" name="神箭手特训" maxPerson="200" type = "4" path="assets/gamehall/games/Crossbows.swf" defname="" ip="119.147.164.22" port="5015" tabletype="4" newgame="false">
+		</item>
+		<item id="2015" name="决战俄罗斯" maxPerson="300" type = "1" path="assets/gamehall/games/Game2015.swf" defname="" ip="119.147.164.22" port="5016" tabletype="6" newgame="false">
+		</item>
+		<item id="2016" name="生存大考验" maxPerson="200" type = "2" path="assets/gamehall/games/Game2016.swf" defname="" ip="119.147.164.22" port="5017" tabletype="4" newgame="true">
+		</item>
+		<item id="2017" name="棋子消消乐" maxPerson="300" type = "1" path="assets/gamehall/games/Game2017.swf" defname="" ip="119.147.164.22" port="5018" tabletype="6" newgame="true">
+		</item>
+		<item id="2018" name="趣味足球" maxPerson="150" type = "4" path="assets/gamehall/games/FootBallGame.swf" defname="" ip="121.14.36.253" port="5020" tabletype="3" newgame="true">
+		</item>
+		<item id="2019" name="天马行空" maxPerson="150" type = "2" path="assets/gamehall/games/Jumper.swf" defname="" ip="121.14.36.253" port="5021" tabletype="3" newgame="true">
+		</item>
+		<item id="2020" name="极品台球" maxPerson="100" type = "4" path="assets/gamehall/games/Pool.swf" defname="" ip="121.14.36.253" port="5022" tabletype="2" newgame="true">
+		</item>
+	</gamelist>
+	<!--radomNameList>地盘争夺战</radomNameList-->
+	<radomNameList>天马行空,急速蹦极,地盘争夺战,你画我猜,黄金矿工,宝箱堆叠赛,泡泡大作战,极品台球</radomNameList>
+	<!--房间比较满的百分比（达到此百分比，将寻找其他更少人的房间）-->
+	<maxPercent>80</maxPercent>
+	<otherlist>
+		<item id="2102" name="坐骑大赛" />
+	</otherlist>
+	<scenelist>
+	<scene 	name="100,80;150,80;260,80;510,80;690,80;100,135;100,195;410,195;620,195;690,195;900,195;100,245;150,245;210,245;635,245;900,245;100,300;635,300;900,300;100,350;300,350;	360,350;	600,350;	840,350;100,400;335,400;	375,400;840,400;370,450;	655,450;710,450;915,450;0,220;50,220;0,270;50,270;0,420;	50,420	"/>
+	</scenelist>
+</main>

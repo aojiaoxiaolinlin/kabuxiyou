@@ -1,0 +1,80 @@
+﻿<node>
+	<DELAY>50</DELAY>								
+<!-- 时间片毫秒-->
+	<NORMAL>10</NORMAL>								
+<!-- 正常倍数-->
+	<FORTH>3</FORTH>									
+<!-- 4倍速-->
+	<HALF>20</HALF>									
+<!-- 半速-->
+	<TEN>200</TEN>									
+<!-- 计时10s-->
+	<SIX>120</SIX>									
+<!-- 计时6s-->
+	<THREE>60</THREE>									
+<!-- 计时3s-->
+	<TESHUQIUDEFEN>2</TESHUQIUDEFEN>							
+<!-- 50分		特殊球-->
+	<JINGSHUDEFEN>20</JINGSHUDEFEN>							
+<!-- 200分		经书-->
+	<PUTONGQIUDEFEN>5</PUTONGQIUDEFEN>						
+<!-- 10分		普通球-->
+	<COMBODEFEN>3</COMBODEFEN>							
+<!-- 100分		combo-->
+	<JULIDEFEN>2</JULIDEFEN>								
+<!-- 50分		距离分-->
+	<JINGSHUJIAMING>10</JINGSHUJIAMING>						
+<!-- 10个		经书数-->
+	<JINGSHUMANFEN>2000</JINGSHUMANFEN>						
+<!-- 3000分	10个经书-->
+	<JINGSHUCISHU>15</JINGSHUCISHU>							
+<!-- 单关经书出现次数-->
+	<SIXTYONE>61</SIXTYONE>								
+<!-- 61%-->
+	<FIFTY>50</FIFTY>									
+<!-- 50%-->
+	<FORTY>40</FORTY>									
+<!-- 40%	-->	
+	<LEASTNUM>100</LEASTNUM>								
+<!-- 100个球-->
+	<LITTLENUM>120</LITTLENUM>							
+<!-- 120个球-->
+	<MIDDLENUM>150</MIDDLENUM>							
+<!-- 150个球-->
+	<MORENUM>180</MORENUM>								
+<!-- 180个球-->
+	<MOSTNUM>200</MOSTNUM>								
+<!-- 200个球-->
+	<FRONTNUM>20</FRONTNUM>
+<!-- 前20个球-->
+	<PRESETCOLOR>3</PRESETCOLOR>
+<!-- 预设颜色数-->
+	<FIRSTLEVELIN>60</FIRSTLEVELIN>
+<!-- 第一关变化概率1-->
+	<SECONDLEVELIN>50</SECONDLEVELIN>
+<!-- 第二关变化概率1-->
+	<THIRDLEVELIN>50</THIRDLEVELIN>
+<!-- 第三关变化概率1-->
+	<FORTHLEVELIN>50</FORTHLEVELIN>
+<!-- 第四关变化概率1-->
+	<FIFTHLEVELIN>50</FIFTHLEVELIN>
+<!-- 第五关变化概率1-->
+	<SIXTHLEVELIN>40</SIXTHLEVELIN>
+<!-- 第六关变化概率1-->
+	<FIRSTLEVELOUT>45</FIRSTLEVELOUT>
+<!-- 第一关变化概率2-->
+	<SECONDLEVELOUT>40</SECONDLEVELOUT>
+<!-- 第二关变化概率2-->
+	<THIRDLEVELOUT>38</THIRDLEVELOUT>
+<!-- 第三关变化概率2-->
+	<FORTHLEVELOUT>35</FORTHLEVELOUT>
+<!-- 第四关变化概率2-->
+	<FIFTHLEVELOUT>25</FIFTHLEVELOUT>
+<!-- 第五关变化概率2-->
+	<SIXTHLEVELOUT>40</SIXTHLEVELOUT>
+<!-- 第六关变化概率2-->
+	<ROLLINNUM>20</ROLLINNUM>
+<!-- 滚入球数 -->
+	<LIFEDEFEN>2000</LIFEDEFEN>
+<!-- 生命加分 -->
+</node>

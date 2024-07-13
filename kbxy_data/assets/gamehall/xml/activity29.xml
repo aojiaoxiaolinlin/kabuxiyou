@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity>
+		<seeReward>
+		<item index = "1" id = "920501" num = "1"  name="加速器" type = "4"  kind = "3"  />
+		<item index = "2" id = "900000" num = "100" name = "兑换积分" type = "3" kind = "2"  />
+		<item index = "3" id = "0" num = "15000"  name="历练" type = "5" kind = "1"  />
+		<item index = "4" id = "920102" num = "1"  name="加时器" type = "2"  kind = "3"  />
+		<item index = "5" id = "910101" num = "1" name = "幸运符(5场)"  type = "6"  kind = "3" />
+		<item index = "6" id = "900000" num = "200" name = "兑换积分" type = "3" kind = "2"  />
+		<item index = "7" id = "920901" num = "2"  name="天马之翼" type = "4"  kind = "3"  />
+		<item index = "8" id = "0" num = "30000"  name="历练" type = "5" kind = "1"  />
+		<item index = "9" id = "900000" num = "500" name = "兑换积分" type = "3" kind = "2"  />
+		<item index = "10" id = "920801" num = "2"  name="指南针"  type = "4" kind = "3" />
+		<item index = "11" id = "920701" num = "2"  name="记忆卡片" type = "2" kind = "3" />
+		</seeReward>
+</activity>
